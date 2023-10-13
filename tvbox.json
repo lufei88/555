@@ -1,8 +1,8 @@
 {
   "sites": [
-    {
+{
       "key": "豆瓣",
-      "name": "影视精选",
+      "name": "🐼┃豆瓣┃新微信公众号：肥猫宝贝",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -33,7 +33,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://alist.xn--z7x900a.love:63/alist.json"
+      "ext":"http://alist.xn--z7x900a.love:63/alist.json"
     },
     {
       "key": "荐片",
@@ -56,19 +56,19 @@
       "filterable": 1
     },
     {
-      "key": "素白",
-      "name": "🦢┃素白┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://我不是.肥猫.love:63/json/素白白.json"
+    "key": "素白",
+    "name": "🦢┃素白┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "http://我不是.肥猫.love:63/json/素白白.json"
     },
     {
-      "key": "虎虎",
-      "name": "🐯┃虎虎┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
-    },
+    "key": "虎虎",
+    "name": "🐯┃虎虎┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
+    },  
     {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
@@ -99,10 +99,10 @@
       "filterable": 0
     },
     {
-      "key": "爱看Bot",
-      "name": "🏇┃爱看┃Bot",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/Bot.js"
+        "key":"爱看Bot",
+        "name":"🏇┃爱看┃Bot",
+        "type":3,
+        "api":"http://alist.xn--z7x900a.love:63/Bot.js"
     },
     {
       "key": "厂长",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://wogg.xyz/"
     },
     {
       "key": "csp_AppMr",
@@ -166,15 +166,15 @@
       "filterable": 1
     },
     {
-      "key": "影探",
-      "name": "🚄┃影探┃影视",
-      "type": 3,
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
-    },
+        "key": "飞速",
+        "name": "🚄┃影探┃影视",
+        "type": 3,
+        "api": "csp_YTVIP",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
+    },  
     {
       "key": "辣辣",
       "name": "🌶️┃辣辣┃影视",
@@ -184,7 +184,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/",
-      "jar": "http://我不是.肥猫.love:63/Jar/5.jar;md5;c570b052645834a1109b54421c1552f9"
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/5.jar"
     },
     {
       "key": "蘑菇",
@@ -307,7 +307,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_search_PanSearch",
@@ -317,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_search_Yisou",
@@ -328,7 +328,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_search_Zhaozy",
@@ -339,7 +339,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$feimao$$$123456"
     },
     {
       "key": "csp_search_Upyunso",
@@ -350,7 +350,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_search_Alips",
@@ -361,7 +361,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
     },
     {
       "key": "csp_BBB",
@@ -546,14 +546,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "ext_live_protocol",
-      "name": "关注公众号“FX11990”",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/协议.js",
-      "ext": "clan://proxy?sourcekey=ext_live_protocol"
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
     }
   ],
   "lives": [
@@ -630,49 +623,16 @@
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
     },
     {
-      "name": "夜曲解析",
-      "type": 1,
-      "url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "CL4K",
-          "renrenmi",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua",
-          "nongmin",
-          "CL4K",
-          "xfyun",
-          "ffm3u8",
-          "lzm3u8",
-          "netease",
-          "pgyer",
-          "TD",
-          "qzone",
-          "FY",
-          "ppayun",
-          "Feiyun",
-          "zhibo"
-        ],
-        "header": {
-          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"
-        }
-      }
-    }
+"name": "夜曲解析",
+"type": 1,
+"url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
+"ext": {
+"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua", "nongmin", "CL4K", "xfyun", "ffm3u8", "lzm3u8", "netease", "pgyer","TD", "qzone", "FY", "ppayun", "Feiyun", "zhibo"],
+"header": {
+"User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"
+
+}
+}}
   ],
   "rules": [
     {
@@ -954,5 +914,5 @@
   ],
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "warningText": "接口完全免费，切勿付费购买。",
-  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"
+  "spider": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/pandaQ230823.jar"
 }
