@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/",
-      "jar": "./jar/YT.jar"
+      "jar": "https://jihulab.com/ss3234741/sj/-/blob/main/jar/YT.jar"
     },
 
 
@@ -45,9 +45,9 @@
       "changeable": 0,
       "ext": {
         "token": "172a239f803f46a48a24101bd8f1c6a6",
-        "filter": "./json/wogg.json"
+        "filter": "https://jihulab.com/ss3234741/sj/-/blob/main/json/wogg.json"
       },
-      "jar": "./jar/wogg.jar"
+      "jar": "https://jihulab.com/ss3234741/sj/-/blob/main/jar/wogg.jar"
     },
 
     {
@@ -56,7 +56,7 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://aidiapp.xyz/xgapp.php/v2/",
-      "jar": "./jar/xyq.jar"
+      "jar": "https://jihulab.com/ss3234741/sj/-/blob/main/jar/xyq.jar"
     },
 
 
@@ -94,7 +94,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "./json/新视觉.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/新视觉.json"
     },
     {
       "key": "csp_达龟",
@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/达达龟.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/达达龟.json"
     },
 
 
@@ -121,7 +121,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/乐猪.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/乐猪.json"
     },
 
 
@@ -133,7 +133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/好戏.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/好戏.json"
     },
     {
       "key": "csp_Voflix",
@@ -143,7 +143,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/voflix.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/voflix.json"
     },
 
     {
@@ -151,7 +151,7 @@
       "name": "🐼天招蓝光┃速度中",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/熊猫.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/熊猫.json"
     },
 
 
@@ -161,8 +161,8 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": "1",
-      "ext": "./json/电影港.json",
-      "jar": "./jar/xyq.jar"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/电影港.json",
+      "jar": "https://jihulab.com/ss3234741/sj/-/blob/main/jar/xyq.jar"
     },
 
 
@@ -171,7 +171,7 @@
       "name": "🐯天招蓝光┃速度中",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/虎虎.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/虎虎.json"
     },
 
     {
@@ -182,7 +182,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/freeok.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/freeok.json"
     },
 
 
@@ -218,7 +218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/淘剧.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/淘剧.json"
     },
 
 
@@ -230,7 +230,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/奇优.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/奇优.json"
     },
 
 
@@ -242,7 +242,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/花猫.json"
+      "ext": "https://jihulab.com/ss3234741/sj/-/blob/main/json/花猫.json"
     },
 
 
@@ -437,7 +437,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
+  "spider": "https://jihulab.com/ss3234741/sj/-/blob/main/jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
