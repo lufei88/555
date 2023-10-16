@@ -201,8 +201,9 @@
       "name": "🔪天招蓝光┃速度中",
       "type": 3,
       "playerType": 1,
-      "api": "./lib/drpy2.min.js",
+      "api": "http://xn--yet226clhctt4b.fun:66/lib/drpy2.min.js",
       "ext": "http://xn--yet226clhctt4b.fun:66/js/荐片.js"
+      
     },
 
 
@@ -261,7 +262,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      "ext": "http://xn--yet226clhctt4b.fun:66/tvbox/tok.txt+4k|fhd|auto"
     },
 
     {
@@ -273,7 +274,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      "ext": "http://xn--yet226clhctt4b.fun:66/tvbox/tok.txt+4k|fhd|auto"
     },
     {
       "key": "PanSou",
@@ -283,7 +284,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "http://xn--yet226clhctt4b.fun:66/tvbox/tok.txt+4k|auto|fhd"
     },
     {
       "key": "UpYun",
@@ -293,7 +294,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "http://xn--yet226clhctt4b.fun:66/tvbox/tok.txt+4k|auto|fhd"
     }
   ],
   "parses": [
