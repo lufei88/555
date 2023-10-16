@@ -34,7 +34,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "http://xn--yet226clhctt4b.fun:66/tvbox/tok.txt+4k|auto|fhd"
     },
     {
       "key": "酷玩",
@@ -84,16 +84,6 @@
 
 
 
-    {
-      "key": "大鹏",
-      "name": "🦇天招蓝光┃速度快",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.jialiangos.com:88/api.php/app/"
-    },
 
     {
       "key": "xsj",
