@@ -247,7 +247,7 @@
       "key": "js_影探",
       "name": "影探4K",
       "type": 3,
-      "api": "./lib/apiv53drpy2.min.js",
+      "api": "https://jihulab.com/box4220338/xy/-/raw/main/lib/apiv53drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -267,7 +267,7 @@
       "key": "LIBVIO影视",
       "name": "LIBVIO影视",
       "type": 3,
-      "api": "./lib/apiv53drpy2.min.js",
+      "api": "https://jihulab.com/box4220338/xy/-/raw/main/lib/apiv53drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -408,7 +408,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/新视觉影视.js"
+      "ext": "https://jihulab.com/ss3234741/sj/-/raw/main/lib/新视觉影视.js"
     },
     {
       "key": "360影视",
