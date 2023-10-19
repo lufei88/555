@@ -4,7 +4,7 @@
 
     {
       "key": "xml_玩偶",
-      "name": "🧙天招4K超清1┃线路一",
+      "name": "🧙天招4K超清1┃速度快",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=172a239f803f46a48a24101bd8f1c6a6",
       "searchable": 1,
@@ -12,23 +12,13 @@
       "filterable": 1
     },
 
-    {
-      "key": "ytvip",
-      "name": "🕵天招4K超清2┃线路二",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/",
-      "jar": "https://jihulab.com/ss3234741/sj/-/raw/main/jar/YT.jar"
-    },
+
 
 
 
     {
       "key": "csp_WoGG",
-      "name": "👽天招4K超清3┃线路三",
+      "name": "👽天招4K超清2┃速度快",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -38,7 +28,7 @@
     },
     {
       "key": "酷玩",
-      "name": "🎯天招4K超清4┃线路四",
+      "name": "🎯天招4K超清3┃速度快",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -52,7 +42,7 @@
 
     {
       "key": "爱迪",
-      "name": "💡天招4K外剧5┃速度快",
+      "name": "💡天招4K外剧4┃速度快",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://aidiapp.xyz/xgapp.php/v2/",
