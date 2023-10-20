@@ -3,22 +3,13 @@
 
 
   
-	{
-      "key": "影探VIP",
-      "name": "🚀天招4K超清1┃线路一",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
-    },
+
 	
 	
 	
 	{
       "key": "csp_FanYY",
-      "name": "🚀天招4K超清2┃线路二",
+      "name": "🚀天招4K超清1┃超级快",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -31,7 +22,7 @@
 	
 	{
       "key": "虎虎",
-      "name": "🚀天招4K超清3┃线路三",
+      "name": "🚀天招4K超清2┃超级快",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
@@ -40,7 +31,7 @@
 	
 	{
       "key": "爱迪",
-      "name": "🚀天招4K超清4┃线路四",
+      "name": "🚀天招4K超清3┃速度中",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -52,7 +43,7 @@
 	
 	    {
       "key": "drpy_js_4K视界",
-      "name": "🚀天招4K超清5┃线路五",
+      "name": "🚀天招4K超清4┃速度中",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -66,7 +57,7 @@
 	
 	{
       "key": "索尼资源",
-      "name": "🚀天招4K超清6┃线路六",
+      "name": "🚀天招4K超清5┃速度中",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
