@@ -14,31 +14,23 @@
 
 
 
-
-
-    {
-      "key": "csp_WoGG",
+{
+      "key": "t4_wo",
       "name": "👽天招4K超清2┃速度快",
-      "type": 3,
-      "api": "csp_WoGG",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=9910767f1e019ea4d58d901160b74e37",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://xn--yet226clhctt4b.fun:66/tvbox/tok.txt+4k|auto|fhd"
+      "filterable": 1
     },
-    {
-      "key": "酷玩",
-      "name": "🎯天招4K超清3┃速度快",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "156d05f037714c78a6914335153cc907",
-        "filter": "https://jihulab.com/ss3234741/sj/-/raw/main/json/wogg.json"
-      },
-      "jar": "https://jihulab.com/ss3234741/sj/-/raw/main/jar/wogg.jar"
-    },
+
+
+
+
+
+
+
+
 
     {
       "key": "爱迪",
