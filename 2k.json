@@ -119,16 +119,7 @@
     },
 
 
-    {
-      "key": "csp_XBPQ_好戏",
-      "name": "👹天招蓝光┃速度中",   //好戏┃TV
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/好戏.json"
-    },
+
     {
       "key": "csp_Voflix",
       "name": "🧶天招蓝光┃速度中",    //VS|影视
