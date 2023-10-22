@@ -2,9 +2,46 @@
   "warningText": "感谢您使用天招全能影视盒子",
   "sites": [
 
+    
+    
+    
+    {
+      "key": "csp_WoGG",
+      "name": "👽天招4K超清1┃速度快",       //玩偶云盘
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+    },
+    
+    
+    
+        {
+      "key": "酷玩",
+      "name": "🎯天招4K超清2┃速度快",       //酷玩┃云盘
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "941cb1a6b4814e2793f7a56b5ef8a096",
+        "filter": "./json/wogg.json"
+      },
+       "jar": "./jar/wogg.jar"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
     {
       "key": "xml_玩偶",
-      "name": "🧙天招4K超清1┃超级快",
+      "name": "🧙天招4K超清3┃超级快",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=941cb1a6b4814e2793f7a56b5ef8a096",
       
@@ -17,32 +54,10 @@
 
 
 
-    {
-      "key": "csp_WoGG",
-      "name": "👽天招4K超清2┃速度快",       //玩偶云盘
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
-    },
 	
 	
 	
-    {
-      "key": "酷玩",
-      "name": "🎯天招4K超清3┃速度快",       //酷玩┃云盘
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "941cb1a6b4814e2793f7a56b5ef8a096",
-        "filter": "./json/wogg.json"
-      },
-       "jar": "./jar/wogg.jar"
-    },
+
 
     {
       "key": "爱迪",
