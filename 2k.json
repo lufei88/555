@@ -6,7 +6,7 @@
       "key": "xml_玩偶",
       "name": "🧙天招4K超清1┃超级快",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=a328811afe6b46fa830da056609092a2",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=941cb1a6b4814e2793f7a56b5ef8a096",
       
       "searchable": 1,
       "quickSearch": 1,
@@ -35,7 +35,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "172a239f803f46a48a24101bd8f1c6a6",
+        "token": "941cb1a6b4814e2793f7a56b5ef8a096",
         "filter": "https://jihulab.com/ss3234741/sj/-/raw/main/json/wogg.json"
       },
       "jar": "https://jihulab.com/ss3234741/sj/-/raw/main/jar/wogg.jar"
