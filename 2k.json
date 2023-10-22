@@ -76,15 +76,7 @@
 
 
 
-   {
-      "key": "荐片",
-      "name": "🔪天招推荐┃速度快",    //荐片┃磁力
-      "type": 3,
-      "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/荐片.js"
-      
-    },
+ 
 
 
     {
@@ -190,7 +182,15 @@
       "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
     },
 
-
+  {
+      "key": "荐片",
+      "name": "🔪天招推荐┃速度快",    //荐片┃磁力
+      "type": 3,
+      "playerType": 1,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://xn--yet226clhctt4b.fun:66/js/荐片.js"
+      
+    },
 
 
 
