@@ -39,16 +39,7 @@
     
     
     
-    {
-      "key": "xml_玩偶",
-      "name": "🧙天招4K超清3┃超级快",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=941cb1a6b4814e2793f7a56b5ef8a096",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 
   
 
