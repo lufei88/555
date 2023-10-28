@@ -1,4 +1,4 @@
-🐼丨央视　,#genre#
+🇨🇳丨央视　,#genre#
 CCTV-1 综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
 CCTV-2 财经,https://cntv.sbs/tv?auth=2310201855&id=cctv2
 CCTV-3 综艺,https://cntv.sbs/tv?auth=2310201855&id=cctv3
@@ -21,7 +21,7 @@ CCTV-4K 超高清,https://cntv.sbs/tv?auth=2310201855&id=cctv4k
 CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 
 
-🐼丨港澳台　,#genre#
+🇭🇰丨港澳台　,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰中文[1280*720],http://r.jdshipin.com/cCCzW
@@ -64,7 +64,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 寰宇新闻台,https://cntv.sbs/sbt?id=litv-longturn14
 半岛新闻[1920*1080],https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-🐼丨国际台　,#genre#
+🌍丨国际台　,#genre#
 
 CGTN,https://cntv.sbs/tv?auth=2310201855&id=cgtn
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
@@ -87,7 +87,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 
-🐼丨数字IPTV　,#genre#
+🚀丨数字IPTV　,#genre#
 北京纪实科教,https://cntv.sbs/tv?auth=2310201855&id=bjjskj
 纪实人文,https://cntv.sbs/tv?auth=2310201855&id=shjsrw
 动漫秀场,https://cntv.sbs/tv?auth=2310201855&id=dmxc
@@ -120,7 +120,7 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
 
 
-🐼丨百视直播　,#genre#
+🚵🏿‍♀️丨百视直播　,#genre#
 
 
 
