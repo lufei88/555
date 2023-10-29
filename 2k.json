@@ -293,9 +293,9 @@
       "name": "🌊┃戏曲┃专场",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./ma/戏曲.json"
     },
     {
@@ -303,9 +303,9 @@
       "name": "🐨┃演唱会┃音乐",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./ma/ych.json"
     },
     {
@@ -313,9 +313,9 @@
       "name": "👴┃短视频┃聚合",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./ma/短视频.json"
     },
    
@@ -324,9 +324,9 @@
       "name": "📚┃少儿┃教育",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./ma/少儿教育.json"
     },
     {
@@ -334,9 +334,9 @@
       "name": "📚┃小学┃课堂",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./ma/小学课堂.json"
     },
     {
@@ -344,9 +344,9 @@
       "name": "📚┃初中┃课堂",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./ma/初中课堂.json"
     },
     {
@@ -354,9 +354,9 @@
       "name": "📚┃高中┃课堂",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./ma/高中课堂.json"
     }
 
