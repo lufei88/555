@@ -414,7 +414,7 @@
     },
 
 
-    {
+     {
       "key": "csp_短剧",
       "name": "📺短剧┃TV",
       "type": 3,
@@ -422,9 +422,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/短剧.json",
-      "jar": "./jar/jiaoyu.jar"
-    }
+      "ext": "./lib/短剧.json",
+      "jar": "./lib/jiaoyu.jar"
+    },
 
 
 
