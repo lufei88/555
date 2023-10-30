@@ -38,11 +38,9 @@ TVB翡翠,http://r.jdshipin.com/n90gt
 无线财经体育,http://r.jdshipin.com/jUx8K
 无线财经体育,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 无线财经体育,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
-J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TVB翡翠,http://r.jdshipin.com/n90gt
-ViuTV,http://r.jdshipin.com/vSJvl
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=2310201855
 澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
@@ -53,15 +51,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-民视第一台,https://cntv.sbs/sbt?id=4gtv-4gtv003
-民视,https://cntv.sbs/sbt?id=4gtv-4gtv002
-中视,https://cntv.sbs/sbt?id=4gtv-4gtv040
-民视台湾台,https://cntv.sbs/sbt?id=4gtv-4gtv001
-华视新闻,https://cntv.sbs/sbt?id=4gtv-4gtv052
-民视新闻台,https://cntv.sbs/sbt?id=litv-ftv13
-中视新闻台,https://cntv.sbs/sbt?id=4gtv-4gtv074
-中天新闻台,https://cntv.sbs/sbt?id=4gtv-4gtv009
-寰宇新闻台,https://cntv.sbs/sbt?id=litv-longturn14
 半岛新闻[1920*1080],https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 🌍丨国际台　,#genre#
