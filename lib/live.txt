@@ -22,13 +22,10 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 
 
 🇭🇰丨港澳台　,#genre#
-凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://php.17186.eu.org:80/phtv/fhzw.m3u8
 凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰中文[1280*720],http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯,http://hz752.live:63/vvs/hk.php?id=fhzx
-凤凰资讯,http://hz752.live:63/vvs/hkif.php?id=fhzx
+凤凰资讯,http://php.17186.eu.org:80/phtv/fhzx.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
 TVB翡翠,http://r.jdshipin.com/n90gt
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
