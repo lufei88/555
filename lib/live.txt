@@ -27,6 +27,7 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 凤凰资讯,http://php.17186.eu.org:80/phtv/fhzx.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
 TVB翡翠,http://r.jdshipin.com/n90gt
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
 明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
