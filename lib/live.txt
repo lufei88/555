@@ -1,4 +1,4 @@
-🇨🇳丨央视　,#genre#
+🇨🇳丨央视频道　,#genre#
 CCTV-1 综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
 CCTV-2 财经,https://cntv.sbs/tv?auth=2310201855&id=cctv2
 CCTV-3 综艺,https://cntv.sbs/tv?auth=2310201855&id=cctv3
@@ -130,9 +130,49 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 百视通体育4,https://cntv.sbs/tv?auth=2310201855&id=sport4
 
 
+🇨🇳丨卫视频道　,#genre#
+北京卫视,https://cntv.sbs/tv?auth=2310201855&id=bjws
+东方卫视,https://cntv.sbs/tv?auth=2310201855&id=dfws
+天津卫视,https://cntv.sbs/tv?auth=2310201855&id=tjws
+重庆卫视,https://cntv.sbs/tv?auth=2310201855&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=2310201855&id=hljws
+吉林卫视,https://cntv.sbs/tv?auth=2310201855&id=jlws
+辽宁卫视,https://cntv.sbs/tv?auth=2310201855&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=2310201855&id=nmws
+宁夏卫视,https://cntv.sbs/tv?auth=2310201855&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=2310201855&id=gsws
+青海卫视,https://cntv.sbs/tv?auth=2310201855&id=qhws
+陕西卫视,https://cntv.sbs/tv?auth=2310201855&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=2310201855&id=hbws
+山西卫视,https://cntv.sbs/tv?auth=2310201855&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=2310201855&id=sdws
+安徽卫视,https://cntv.sbs/tv?auth=2310201855&id=ahws
+河南卫视,https://cntv.sbs/tv?auth=2310201855&id=hnws
+湖北卫视,https://cntv.sbs/tv?auth=2310201855&id=hubws
+湖南卫视,https://cntv.sbs/tv?auth=2310201855&id=hunws
+江西卫视,https://cntv.sbs/tv?auth=2310201855&id=jxws
+江苏卫视,https://cntv.sbs/tv?auth=2310201855&id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=2310201855&id=zjws
+东南卫视,https://cntv.sbs/tv?auth=2310201855&id=dnws
+海峡卫视,https://cntv.sbs/tv?auth=2310201855&id=hxws
+厦门卫视,https://cntv.sbs/tv?auth=2310201855&id=xmws
+广东卫视,https://cntv.sbs/tv?auth=2310201855&id=gdws
+深圳卫视,https://cntv.sbs/tv?auth=2310201855&id=szws
+广西卫视,https://cntv.sbs/tv?auth=2310201855&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=2310201855&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=2310201855&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=2310201855&id=scws
+康巴卫视,https://cntv.sbs/tv?auth=2310201855&id=kbws
+海南卫视,https://cntv.sbs/tv?auth=2310201855&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=2310201855&id=ssws
+新疆卫视,https://cntv.sbs/tv?auth=2310201855&id=xjws
+兵团卫视,https://cntv.sbs/tv?auth=2310201855&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=2310201855&id=xzws
 
-
-
+西藏藏语卫视,https://cntv.sbs/tv?auth=2310201855&id=xzzyws
+CETV1,https://cntv.sbs/tv?auth=2310201855&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=2310201855&id=cetv2
+CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 
 
 
