@@ -175,7 +175,49 @@ CETV2,https://cntv.sbs/tv?auth=2310201855&id=cetv2
 CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 
 
+IPV6,#genre#
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-
-
+台湾,#genre#
+民视,mitv://generationnexxxt.com:19806/c283dae9b9c54001874b6fbd69cf362b
+台视,mitv://generationnexxxt.com:19806/d2879f0e519d4d4ca5f0c2c735a08f8e
+大爱,mitv://generationnexxxt.com:19806/71cbf744bb734a33af8138eb1f6e4c8d
+中视,mitv://generationnexxxt.com:19806/f776be7674ee4abf9d084c6b558f5312
+霹雳台湾台,mitv://generationnexxxt.com:19806/6e0b4076ae7f44b2ba3b9edd7f4139bc
+华视,mitv://generationnexxxt.com:19806/09f400f819c444b2b7053d5b49b68c0f
+公视,mitv://generationnexxxt.com:19806/91200cd3d8fa473199c2f0fcb8c38f1c
+好消息,mitv://generationnexxxt.com:19806/3a5cba2bc49e4a66836b783edaaa23ec
+原住民电视台,mitv://generationnexxxt.com:19806/283ececd2202432cbfff34d5d5a1a8a9
+客家电视台,mitv://generationnexxxt.com:19806/3a6904b157c04552a29ddf1ec70e3e3d
+国家地理频道,mitv://generationnexxxt.com:19806/13f7024335834ef2b1de52c3c2690536
+探索频道,mitv://generationnexxxt.com:19806/e2679be7527649c0b104d244ef796b87
+TLC旅游生活,mitv://generationnexxxt.com:19806/3edb21ac438841a1a0be78d27245cf25
+动物星球,mitv://generationnexxxt.com:19806/3aac2fef9adf4a87ad93de25599eed4d
+CN卡通频道,mitv://generationnexxxt.com:19806/06a53f94ff20417e9b3852e5d847ea09
+MOMO亲子台,mitv://generationnexxxt.com:19806/1116eb545e9a4da8847b0fcbc6f14725
+东森幼幼台,mitv://generationnexxxt.com:19806/1926d6d1d819495799bc7e68c4e7c190
+纬来综合台,mitv://generationnexxxt.com:19806/ef3342ef25254fb48e7c05869be518ba
+八大第一台,mitv://generationnexxxt.com:19806/51b4243767e548509199de97c75cf9e1
+八大综合台,mitv://generationnexxxt.com:19806/3b68728f72044a2c90068135cf028086
+三立台湾台,mitv://generationnexxxt.com:19806/f909a9cc31784b4fb7ce0a65e8499591
+三立都会台,mitv://generationnexxxt.com:19806/c22d6319e8c642ca9061c9c30b0e8403
+东森综合台,mitv://generationnexxxt.com:19806/4465139f99744d419d14798792ad98f5
+超视,mitv://generationnexxxt.com:19806/f3751c1eed5f4b2aae2f7989335098f7
+中天综合台,mitv://generationnexxxt.com:19806/667bd9d230a3492fb513b0bc2b87d5bd
+中天娱乐台,mitv://generationnexxxt.com:19806/d10b339172c94e1689fb24faa14402fb
+东森戏剧台,mitv://generationnexxxt.com:19806/65bbd4b09f814782b1415bb508a6d241
+八大戏剧台,mitv://generationnexxxt.com:19806/d8fa0d94fee54fb7884a63c759537bba
+TVBS欢乐台,mitv://generationnexxxt.com:19806/3d88c83fe55b47329256dd96badd94a3
+纬来戏剧台,mitv://generationnexxxt.com:19806/66440e2ac82f4e0283596f82c9ee1f4d
+高点综合台,mitv://generationnexxxt.com:19806/f7d6264226524566aa33e2edaeb47ab4
+BBC World News,mitv://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
+CNBC,mitv://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
