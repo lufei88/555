@@ -546,188 +546,36 @@ Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
 SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
 JTBC GOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
  
-泰国,#genre#
-Channel 5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
-NBT,mitv://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
-TNN 16,mitv://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
-JKN 18,mitv://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
-Voice TV,mitv://generationnexxxt.com:19806/565ee6db091d4f5eb249d8cfd88ff392
-Nation TV,mitv://generationnexxxt.com:19806/9006192061234d3abc002c9df98617a3
-Workpoint TV,mitv://generationnexxxt.com:19806/e3dcbf98790f47a6ae10aa0e6b92d3a3
-true4U,mitv://generationnexxxt.com:19806/70d07d9bf1594d1aafa109803f097fd5
-GMM 25,mitv://generationnexxxt.com:19806/7202eeef804f4338bcd118210a39a66b
-Channel 8,mitv://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
-Mono 29,mitv://generationnexxxt.com:19806/a8da70ef841f4aa29be21f4123b1e0a6
-MCOT,mitv://generationnexxxt.com:19806/84419b9f1d144bd687913e3739c10011
-ONE,mitv://generationnexxxt.com:19806/bbed53ec33024bafae4696ba4d589e2c
-Thairath TV,mitv://generationnexxxt.com:19806/c1db5ee1e01048bc9f7319cda9a530c6
-Channel 3,mitv://generationnexxxt.com:19806/9f2ed619044e4208b64ba52f7a8c0a80
-Amarin TV,mitv://generationnexxxt.com:19806/74f013c77d3b43bf875702f7177dba68
-Channel 7,mitv://generationnexxxt.com:19806/377bbd391f744a86a07d3d46e28db730
-PPTV,mitv://generationnexxxt.com:19806/46ff90c62cbb4bdfbccd3033a9268dcb
-Boomerang,mitv://generationnexxxt.com:19806/98ded4efebe2480fa7538e6bec832b7a
-Thai Parliament TV,mitv://generationnexxxt.com:19806/139a4607a0d24095a17ff2745cb2141d
-Thai PBS,mitv://generationnexxxt.com:19806/aeb8c0b2981e4f0fb69383eea64f5deb
-News 1,mitv://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
-Channel 4050,mitv://generationnexxxt.com:19806/03f62b6c560745a69e3580aaa3a32294
-TVB Thai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
-Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
-Top News,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
-北美,#genre#
-CNBC,mitv://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
-600TV,mitv://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
-CBSN,mitv://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
-Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-新时代1(西部),mitv://generationnexxxt.com:19806/a3d06a9ecf30410582ad64ed15cdf6fd
-新时代2,mitv://generationnexxxt.com:19806/65013e4c0002afeaeeb07d8a59ff6121
-新时代1(东部),mitv://generationnexxxt.com:19806/28d014f7982c4041ab7197218b9c1284
-城市电视,mitv://generationnexxxt.com:19806/a18fbea7eddd4079b3e2e684d19df5c4
-Fox News,mitv://generationnexxxt.com:19806/5cdbb62f542843da8d140520a0a966bc
-BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
-CNN USA,mitv://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-CBC News,mitv://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
-MSNBC,mitv://generationnexxxt.com:19806/27c4d56058c44a4e9c41a98a99a7bc13
-CTV News,mitv://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
-Business News Network,mitv://generationnexxxt.com:19806/dc5be6cec9ba4284900e5670cbcae0bb
-CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
-The Weather Network,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
-The Weather Channel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
-KOMO 4 TV,mitv://generationnexxxt.com:19806/fab26bb6a6f942f2bf0b415dd9970c67
-广东频道,#genre#
+体育频道,#genre#
 
-深圳公共,http://gmxw.7766.org:808/hls/156/index.m3u8
-深圳都市,http://gmxw.7766.org:808/hls/140/index.m3u8
-深圳财经,http://gmxw.7766.org:808/hls/151/index.m3u8
-深圳娱乐,http://gmxw.7766.org:808/hls/155/index.m3u8
-深圳电视剧,http://gmxw.7766.org:808/hls/141/index.m3u8
-深圳少儿,http://gmxw.7766.org:808/hls/157/index.m3u8
-深圳体育,http://gmxw.7766.org:808/hls/158/index.m3u8
-深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
-深圳卫视ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.3:5146
-深圳卫视ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.148:5146
-深圳卫视ᴴᴰ,http://58.61.148.28:8088/udp/239.77.0.92:5146
-深圳卫视ᴴᴰ,http://58.61.148.28:8088/udp/239.77.0.130:5146
-深圳都市ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.176:5146
-深圳都市ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.124:5146
-深圳电视剧ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.177:5146
-深圳电视剧ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.125:5146
-深圳财经生活ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.242:5146
-深圳娱乐ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.243:5146
-深圳体育健康ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.128:5146
-深圳体育健康ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.140:5146
-深圳少儿ᴴᴰ,http://58.61.148.28:8088/udp/239.77.1.244:5146
-大湾区卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8
-广东卫视,https://php.17186.eu.org/gdtv/web/gdws.m3u8
-广东新闻,https://php.17186.eu.org/gdtv/web/gdxw.m3u8
-广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8
-广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
-广东民生,https://php.17186.eu.org/gdtv/web/gdgg.m3u8
-广东国际,https://php.17186.eu.org/gdtv/web/gdgj.m3u8
-广东经济科教,https://php.17186.eu.org/gdtv/web/jjkj.m3u8
-广东4K超高清,https://php.17186.eu.org/gdtv/web/gdzy.m3u8
-广东影视,https://php.17186.eu.org/gdtv/web/gdys.m3u8
-广东少儿,https://php.17186.eu.org/gdtv/web/gdse.m3u8
-嘉佳卡通,https://php.17186.eu.org/gdtv/web/jjkt.m3u8
-东莞新闻综合,http://live.qiyuevod.com/yrotv/dwtv.php?id=xwzh
-东莞生活资讯,http://live.qiyuevod.com/yrotv/dwtv.php?id=shzx
-深圳卫视,http://88888.55555.io:2345/udp/239.77.1.21:5146
-深圳都市,http://88888.55555.io:2345/udp/239.77.1.34:5146
-深圳电视剧,http://88888.55555.io:2345/udp/239.77.1.7:5146
-体育健康,http://88888.55555.io:2345/udp/239.77.1.8:5146
-深圳公共,http://88888.55555.io:2345/udp/239.77.1.9:5146
-财经生活,http://88888.55555.io:2345/udp/239.77.1.22:5146
-深圳娱乐,http://88888.55555.io:2345/udp/239.77.1.36:5146
-深圳少儿,http://88888.55555.io:2345/udp/239.77.1.38:5146
-深圳公共ᴴᴰ,http://88888.55555.io:2345/udp/239.77.1.178:5146
-深圳公共ᴴᴰ,http://88888.55555.io:2345/udp/239.77.1.126:5146
-深圳宝安ᴴᴰ,http://88888.55555.io:2345/udp/239.77.1.67:5146
-深圳龙岗ᴴᴰ,http://88888.55555.io:2345/udp/239.77.1.223:5146
-深圳东部ᴴᴰ,http://88888.55555.io:2345/udp/239.77.1.224:5146
-深圳众创TVᴴᴰ,http://88888.55555.io:2345/udp/239.77.1.247:5146
-大湾区卫视,http://88888.55555.io:2345/udp/239.77.1.12:5146
-广东综艺4K,http://60.208.16.27:1505/gudou.php?id=364&id=GDZYHD4K_38000
-翡翠台,http://60.208.16.27:1505/gudou.php?id=364&id=1350_4500
-明珠台,http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
-凤凰中文.标清,http://60.208.16.27:1505/gudou.php?id=364&id=fhzw_1500
-星空卫视.标清,http://60.208.16.27:1505/gudou.php?id=364&id=xingkong_1500
-澳亚卫视.标清,http://60.208.16.27:1505/gudou.php?id=364&id=aoya_1500
-乐游频道,http://60.208.16.27:1505/gudou.php?id=364&id=quanjishiHD_7000
-求索纪录,http://60.208.16.27:1505/gudou.php?id=364&id=QSJLHD_7000
-求索科学,http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
-求索动物,http://60.208.16.27:1505/gudou.php?id=364&id=QSDWHD_7000
-求索生活,http://60.208.16.27:1505/gudou.php?id=364&id=QSSHHD_7000
-魅力足球,http://60.208.16.27:1505/gudou.php?id=364&id=meiliyinyueHD_7000
-劲爆体育,http://60.208.16.27:1505/gudou.php?id=364&id=jinbaotiyuHD_7000
-大湾区卫视,http://60.208.16.27:1505/gudou.php?id=364&id=1456
-广东新闻,http://60.208.16.27:1505/gudou.php?id=364&id=1454
-广东珠江,http://60.208.16.27:1505/gudou.php?id=364&id=gdzhujiangHD_7500
-广东体育,http://60.208.16.27:1505/gudou.php?id=364&id=1413
-广东民生,http://60.208.16.27:1505/gudou.php?id=364&id=1455
-广东经济科教,http://60.208.16.27:1505/gudou.php?id=364&id=GDjingjikejiaoHD_7000
-广东影视,http://60.208.16.27:1505/gudou.php?id=364&id=1458
-广东少儿,http://60.208.16.27:1505/gudou.php?id=364&id=1457
-广州综合,http://60.208.16.27:1505/gudou.php?id=364&id=gzhounewsHD
-广州新闻,http://60.208.16.27:1505/gudou.php?id=364&id=gzhouzongheHD
-嘉佳卡通,http://60.208.16.27:1505/gudou.php?id=364&id=1459
-岭南戏曲,http://60.208.16.27:1505/gudou.php?id=364&id=1460
-汕头综合,http://60.208.16.27:1505/gudou.php?id=364&id=shantouyitaogaoqing_4500
-汕头经济生活,http://60.208.16.27:1505/gudou.php?id=364&id=shantouertaogaoqing_4500
-汕头文旅体育,http://60.208.16.27:1505/gudou.php?id=364&id=2508_4500
-潮州综合,http://60.208.16.27:1505/gudou.php?id=364&id=3131
-潮州民生,http://60.208.16.27:1505/gudou.php?id=364&id=3132
-中山综合,http://60.208.16.27:1505/gudou.php?id=364&id=3665
-中山香山文化,http://60.208.16.27:1505/gudou.php?id=364&id=3663
-中山教育,http://60.208.16.27:1505/gudou.php?id=364&id=3664
-鹤山综合,http://60.208.16.27:1505/gudou.php?id=364&id=3709
-梅州一套,http://60.208.16.27:1505/gudou.php?id=364&id=meizhou1HD_4500
-梅州二套,http://60.208.16.27:1505/gudou.php?id=364&id=meizhou2HD_4500
-增城电视台,http://60.208.16.27:1505/gudou.php?id=364&id=2079
-东莞新闻综合,http://60.208.16.27:1505/gudou.php?id=364&id=2121
-东莞生活资讯,http://60.208.16.27:1505/gudou.php?id=364&id=2122
-佛山综合,http://60.208.16.27:1505/gudou.php?id=364&id=foshanzongheHD_4500
-佛山公共,http://60.208.16.27:1505/gudou.php?id=364&id=foshangonggongHD_4500
-佛山影视,http://60.208.16.27:1505/gudou.php?id=364&id=foshanyingshiHD_4500
-南海综合,http://60.208.16.27:1505/gudou.php?id=364&id=nanhaiHD_4500
-顺德综合,http://60.208.16.27:1505/gudou.php?id=364&id=shundeHD_4500
-珠海一套,http://60.208.16.27:1505/gudou.php?id=364&id=zhuhaiHD1_4500
-珠海二套,http://60.208.16.27:1505/gudou.php?id=364&id=zhuhaiHD2_4500
-斗门融媒,http://60.208.16.27:1505/gudou.php?id=364&id=2207
-惠州一套,http://60.208.16.27:1505/gudou.php?id=364&id=2314
-惠州二套,http://60.208.16.27:1505/gudou.php?id=364&id=2316
-博罗综合,http://60.208.16.27:1505/gudou.php?id=364&id=2305
-廉江综合,http://60.208.16.27:1505/gudou.php?id=364&id=3209
-廉江综合,http://60.208.16.27:1505/gudou.php?id=364&id=3210
-广州综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=guangzhou_1500
-广州新闻.标清,http://60.208.16.27:1505/gudou.php?id=364&id=gznews_1500
-广州法治.标清,http://60.208.16.27:1505/gudou.php?id=364&id=gzeconomic_1500
-广州竞赛.标清,http://60.208.16.27:1505/gudou.php?id=364&id=gzcompetition_1500
-广州影视.标清,http://60.208.16.27:1505/gudou.php?id=364&id=gzfilms_1500
-湛江综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=zhanjiangzonghe_1500
-湛江公共.标清,http://60.208.16.27:1505/gudou.php?id=364&id=zhanjianggonggong_1500
-韶关新闻综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=shaoguanzonghe_1500
-韶关绿色生活.标清,http://60.208.16.27:1505/gudou.php?id=364&id=shaoguangonggong_1500
-始兴综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=2641
-江门综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=3712_1500
-江门侨乡生活.标清,http://60.208.16.27:1505/gudou.php?id=364&id=jiangmenyitao_1500
-新会综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=xinhui_1500
-佛冈.标清,http://60.208.16.27:1505/gudou.php?id=364&id=2405
-怀集综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=2805
-云浮综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=yunfuyitao_1500
-云浮文旅.标清,http://60.208.16.27:1505/gudou.php?id=364&id=yunfuertao_1500
-珠海一套.标清,http://60.208.16.27:1505/gudou.php?id=364&id=zhuhaiyitao_1500
-珠海二套.标清,http://60.208.16.27:1505/gudou.php?id=364&id=zhuhaiertao_1500
-河源综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=heyuanyitao_1500
-河源公共.标清,http://60.208.16.27:1505/gudou.php?id=364&id=heyuanertao_1500
-肇庆综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=zhaoqingyitao_1500
-肇庆生活服务.标清,http://60.208.16.27:1505/gudou.php?id=364&id=zhaoqingertao_1500
-揭阳综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=jieyangyitao_1500
-揭阳生活.标清,http://60.208.16.27:1505/gudou.php?id=364&id=jieyangertao_1500
-清远新闻综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=qingyuanzonghe_1500
-清远文旅生活.标清,http://60.208.16.27:1505/gudou.php?id=364&id=qingyuangongong_1500
-汕尾新闻综合.标清,http://60.208.16.27:1505/gudou.php?id=364&id=shanweiyitao_1500
-汕尾文化生活.标清,http://60.208.16.27:1505/gudou.php?id=364&id=shanweiertao_1500
+IMPACT! Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+24小时体育台,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=24
+博斯网球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+ELEVEN3,rtmp://119.81.124.89/sat/md031
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+五星体育,http://107.151.203.111:2209/135/ws.php?id=51
+魅力足球,http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+魅力足球,http://dl.ye23.win/iptv/cbnbntv.php?id=mlzqHD
+高尔-夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+快乐垂钓,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=218
+重庆/汽摩,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=168
+先锋乒羽,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=329
+四海-钓鱼,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=shdy
+ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+CCTV5-,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
+BRTV体育休闲,http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+辽宁-体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
+迪拜体育2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+天空体育 新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+天空体育 板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
