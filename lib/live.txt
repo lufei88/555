@@ -387,7 +387,7 @@ Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
 HOY资讯台,mitv://generationnexxxt.com:19806/f123e0afc9164a3b85208bd3020e7ad6
 黄金翡翠台,mitv://generationnexxxt.com:19806/fdaec93475b945138bcda01606e6d8bc
  
-马来,#genre#
+马来西亚,#genre#
 TV1,mitv://generationnexxxt.com:19806/9e0eceaf93854a4eb3d9ae2dcf60141c
 TV2,mitv://generationnexxxt.com:19806/a3f71a80564c4deda0a57a4ba6ed2175
 TV3,mitv://generationnexxxt.com:19806/71eab7f7f53d4d86aad166f9abfb07aa
@@ -452,7 +452,7 @@ HITS Movies,mitv://generationnexxxt.com:19806/3378871c64764b95b54499b6bc7f618d
 beIN Sports 2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
 Golf Channel,mitv://generationnexxxt.com:19806/64c9fed20006029d16e0744a41d351cd
  
-新加,#genre#
+新加坡,#genre#
 天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
 中天亚洲台,mitv://generationnexxxt.com:19806/32caa156f6c34c7f96095f49def81bfe
 TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
@@ -547,35 +547,43 @@ SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
 JTBC GOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
  
 体育频道,#genre#
-
-IMPACT! Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-24小时体育台,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=24
-博斯网球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-ELEVEN3,rtmp://119.81.124.89/sat/md031
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-五星体育,http://107.151.203.111:2209/135/ws.php?id=51
 魅力足球,http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
-足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-魅力足球,http://dl.ye23.win/iptv/cbnbntv.php?id=mlzqHD
-高尔-夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-快乐垂钓,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=218
-重庆/汽摩,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=168
-先锋乒羽,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=329
-四海-钓鱼,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=shdy
-ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 CCTV5-,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
-BRTV体育休闲,http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-辽宁-体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+广东体育,http://r.jdshipin.com/LiYdg
+咪咕体育-1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
+咪咕体育-2,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226140/1/index.m3u8?fmt=ts2hls
+咪咕体育-3,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
+咪咕体育-4,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226143/1/index.m3u8?fmt=ts2hls
+咪咕体育-5,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226146/1/index.m3u8?fmt=ts2hls
+咪咕体育-6,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226149/1/index.m3u8?fmt=ts2hls
+咪咕体育-7,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226152/1/index.m3u8?fmt=ts2hls
+咪咕体育-8,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226151/1/index.m3u8?fmt=ts2hls
+咪咕体育-9,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226157/1/index.m3u8?fmt=ts2hls
+咪咕体育-10,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226154/1/index.m3u8?fmt=ts2hls
+咪咕体育-11,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226177/1/index.m3u8?fmt=ts2hls
+咪咕体育-12,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226183/1/index.m3u8?fmt=ts2hls
+咪咕体育-13,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226186/1/index.m3u8?fmt=ts2hls
+咪咕体育-14,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226223/1/index.m3u8?fmt=ts2hls
+咪咕体育-15,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226226/1/index.m3u8?fmt=ts2hls
+咪咕体育-16,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226227/1/index.m3u8?fmt=ts2hls
+咪咕体育-17,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226229/1/index.m3u8?fmt=ts2hls
+咪咕体育-18,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226230/1/index.m3u8?fmt=ts2hls
+咪咕体育-19,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226233/1/index.m3u8?fmt=ts2hls
+咪咕体育-20,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226236/1/index.m3u8?fmt=ts2hls
+咪咕体育-21,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226255/1/index.m3u8?fmt=ts2hls
+咪咕体育-22,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226258/1/index.m3u8?fmt=ts2hls
+咪咕体育-23,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226261/1/index.m3u8?fmt=ts2hls
+咪咕体育-24,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226264/1/index.m3u8?fmt=ts2hls
+北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
+纬来育乐台,mitv://generationnexxxt.com:19806/4bf119caeb0647adb1784c2b2dcac0b3
+纬来体育台,mitv://generationnexxxt.com:19806/10f1c4edf602483e9c39fd88e79275e6
 欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
 极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
 俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
 迪拜体育2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 天空体育 新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
 天空体育 板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
