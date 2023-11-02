@@ -2,17 +2,22 @@
   "warningText": "感谢您使用天招全能影视盒子",
   "sites": [
 
-        {
-      "key": "csp_woggcli",
-      "name": "✨4K最新大片┃速度快",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+
+
+
+
+
+
+
+   {
+      "key": "豆瓣",
+      "name": "🎯最新大片丨热剧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/douban.js"
     },
-    
-    
+
+
     {
       "key": "csp_WoGG",
       "name": "👽天招4K超清1┃速度快",       //玩偶云盘
@@ -23,12 +28,30 @@
       "changeable": 0,
       "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
+
+
+
+
+
+
+        {
+      "key": "csp_woggcli",
+      "name": "✨天招4K超清2┃速度快",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    
+
     
     
     
         {
       "key": "酷玩",
-      "name": "🎯天招4K超清2┃速度快",       //酷玩┃云盘
+      "name": "🎯天招4K超清3┃速度快",       //酷玩┃云盘
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
