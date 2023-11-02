@@ -40,9 +40,6 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
-无线财经体育,http://r.jdshipin.com/jUx8K
-无线财经体育,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-无线财经体育,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 J2,http://r.jdshipin.com/ndGgS
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
