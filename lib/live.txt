@@ -33,13 +33,10 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 翡翠台,http://r.jdshipin.com/62WM7
-
 明珠台,http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻,http://awei.beimua.com/yes.php?id=13
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://r.jdshipin.com/CkuBd
-无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 J2,http://r.jdshipin.com/ndGgS
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -170,7 +167,6 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 新疆卫视,https://cntv.sbs/tv?auth=2310201855&id=xjws
 兵团卫视,https://cntv.sbs/tv?auth=2310201855&id=btws
 西藏卫视,https://cntv.sbs/tv?auth=2310201855&id=xzws
-
 西藏藏语卫视,https://cntv.sbs/tv?auth=2310201855&id=xzzyws
 CETV1,https://cntv.sbs/tv?auth=2310201855&id=cetv1
 CETV2,https://cntv.sbs/tv?auth=2310201855&id=cetv2
