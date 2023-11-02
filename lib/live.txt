@@ -22,14 +22,22 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 
 
 🇭🇰丨港澳台　,#genre#
+凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 凤凰资讯,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 凤凰资讯,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
+翡翠台,http://r.jdshipin.com/62WM7
+
+明珠台,http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,http://awei.beimua.com/yes.php?id=13
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
 无线财经体育,http://r.jdshipin.com/jUx8K
@@ -37,10 +45,8 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 无线财经体育,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 J2,http://r.jdshipin.com/ndGgS
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-TVB翡翠,http://r.jdshipin.com/n90gt
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=2310201855
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://hz752.live:63/vvs/lotus.php
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
