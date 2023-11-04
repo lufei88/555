@@ -155,27 +155,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 🚀丨数字IPTV　,#genre#
-北京纪实科教,https://cntv.sbs/tv?auth=2310201855&id=bjjskj
-纪实人文,https://cntv.sbs/tv?auth=2310201855&id=shjsrw
-动漫秀场,https://cntv.sbs/tv?auth=2310201855&id=dmxc
-哈哈炫动,https://cntv.sbs/tv?auth=2310201855&id=hhxd
-欢笑剧场,https://cntv.sbs/tv?auth=2310201855&id=hxjc
-欢笑剧场 4K,https://cntv.sbs/tv?auth=2310201855&id=hxjc4k
-都市剧场,https://cntv.sbs/tv?auth=2310201855&id=dsjc
-五星体育,https://cntv.sbs/tv?auth=2310201855&id=wxty
-劲爆体育,https://cntv.sbs/tv?auth=2310201855&id=jbty
-新视觉,https://cntv.sbs/tv?auth=2310201855&id=xsj
-游戏风云,https://cntv.sbs/tv?auth=2310201855&id=yxfy
-生活时尚,https://cntv.sbs/tv?auth=2310201855&id=shss
-金色学堂,https://cntv.sbs/tv?auth=2310201855&id=jspd
-乐游,https://cntv.sbs/tv?auth=2310201855&id=qjs
-魅力足球,https://cntv.sbs/tv?auth=2310201855&id=mlzq
-茶频道,https://cntv.sbs/tv?auth=2310201855&id=cpd
-快乐垂钓,https://cntv.sbs/tv?auth=2310201855&id=klcd
-金鹰纪实,https://cntv.sbs/tv?auth=2310201855&id=jyjs
-金鹰卡通,https://cntv.sbs/tv?auth=2310201855&id=jykt
-嘉佳卡通,https://cntv.sbs/tv?auth=2310201855&id=jjkt
-财富天下,https://cntv.sbs/tv?auth=2310201855&id=cftx
+
 CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
@@ -187,27 +167,7 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
 
 
-💝丨百视直播　,#genre#
 
-
-
-看天下精选,https://cntv.sbs/tv?auth=2310201855&id=ktxjx
-华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=2310201855&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=2310201855&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=2310201855&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=2310201855&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=2310201855&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=2310201855&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=2310201855&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=2310201855&id=xqjx
-健康养生,https://cntv.sbs/tv?auth=2310201855&id=jkys
-百变课堂,https,://cntv.sbs/tv?auth=2310201855&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=2310201855&id=bbdh
-百视通体育1,https://cntv.sbs/tv?auth=2310201855&id=sport1
-百视通体育2,https://cntv.sbs/tv?auth=2310201855&id=sport2
-百视通体育3,https://cntv.sbs/tv?auth=2310201855&id=sport3
-百视通体育4,https://cntv.sbs/tv?auth=2310201855&id=sport4
 
 
 🇨🇳丨卫视频道　,#genre#
@@ -294,6 +254,8 @@ CCTV-高尔夫网球,rtsp://115.153.233.154/PLTV/88888888/224/3221226967/8612898
 CCTV-高尔夫网球,rtsp://115.153.233.154/PLTV/88888888/224/3221227036/86502103.smil
 CCTV-高尔夫网球,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 CCTV-高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
+风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
 广东体育,http://angtv.cc/jd/gdlz.php?id=dgty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://angtv.cc/jd/gdlz.php?id=dgty
@@ -310,7 +272,7 @@ CCTV-高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m
 咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
-⛹️‍♂️丨电影频道,#genre#
+💝丨电影直播,#genre#
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226992/86128817.smil
@@ -482,7 +444,7 @@ IASHttpSessionId=OTT1961020221014135801297426&channel-id=wasusyt&Contentid=60000
 爱院线,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226652/index.m3u8?servicetype=1
 
 
-4K8K,#genre#
+💝丨4K测试,#genre#
 
 CCTV16-4K25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 
