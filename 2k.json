@@ -139,6 +139,28 @@
     },
 
 
+    {
+      "key": "快影",
+      "name": "🦄️天招高清┃速度飞",        //快影
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
+    },
+
+
+
+
+
+
+
+
+
+
+
 
 
     {
