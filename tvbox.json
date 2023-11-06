@@ -9,15 +9,32 @@
       "ext": "./lib/douban.js"
     },
     {
+      "key": "csp_woggcli",
+      "name": "✨玩偶┃T4T4K",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/0004/0/-/raw/main/tk.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+
+    {
       "key": "csp_WoGG",
-      "name": "👽玩偶┃云盘",
+      "name": "🎈玩偶┃4K(弹幕)",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
+
+
+
+
+
+
     {
       "key": "6v",
       "name": "🤘6V┃磁力",
