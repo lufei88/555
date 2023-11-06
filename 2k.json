@@ -121,7 +121,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": "2",
+      "playerType": "1",
       "jar": "./lib/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
       "ext": {
