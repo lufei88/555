@@ -104,7 +104,7 @@
 
     {
       "key": "速度",
-      "name": "🚙天招蓝光┃速度飞",
+      "name": "🚙天招蓝光┃速度飞",      //速度
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -394,7 +394,16 @@
     },
 
 
-
+  {
+      "key": "橘子",
+      "name": "🍊天招高清┃速度快",              //速度快但只是标清
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+    },
 
 
 
@@ -403,7 +412,7 @@
 
     {
       "key": "csp_淘剧",
-      "name": "天招高清┃速度快",   //淘剧┃影院
+      "name": "🍊天招高清┃速度快",   //淘剧┃影院
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
