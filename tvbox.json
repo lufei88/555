@@ -36,13 +36,13 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "🎈玩偶┃4K(弹幕)",
+      "name": "👽玩偶┃云盘",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
       "key": "世界",
