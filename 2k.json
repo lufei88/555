@@ -148,7 +148,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
+      "ext": "http://iosa.xn--654a.cc/api.php/app/",
+       "jar": "./xiaomi.jar"
     },
 
 
