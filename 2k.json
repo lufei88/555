@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd",
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
         "jar": "./xiaomi.jar"
       
     },
@@ -113,13 +113,7 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
 
-    {
-      "key": "腾讯",
-      "name": "⭕天招蓝光┃速度飞",        //腾讯  
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/tengxun.js"
-    },
+   
 
 
 
