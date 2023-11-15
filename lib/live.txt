@@ -113,7 +113,7 @@ CTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-
+无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 香港国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8
 澳门体育,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
