@@ -108,7 +108,7 @@ CTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/
 明珠台, http://www.namewee.xyz/gudou.php?id=1351
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
