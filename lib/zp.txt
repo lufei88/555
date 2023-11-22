@@ -148,27 +148,27 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 港澳台,#genre#
-凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
+凤凰香港,https://epg.pw/stream/d004872b834b5b726d43c1dc539903068b7a75321cd8528ae65fc02dda2a7c89.m3u8
 凤凰香港,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
-凤凰香港,https://epg.pw/stream/b22976296a71b1a2a7fd440ea009e5501378f1e8193bcc7edaa6ad5a31a3e5e6.m3u8
-凤凰香港,[geo-blocked],https://epg.pw/stream/d004872b834b5b726d43c1dc539903068b7a75321cd8528ae65fc02dda2a7c89.m3u8
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
 
-凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
-
-
+凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
+凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
+凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
+凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰中文,http://113.117.74.12:8081/hls/37/index.m3u8
 
-凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
-
 凤凰资讯,http://php.17186.eu.org:80/phtv/fhzx.m3u8
-凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
-凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+
+
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
-凤凰资讯,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-凤凰资讯,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+
+凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
+
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 
 
 
@@ -176,22 +176,26 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 香港卫视,https://epg.pw/stream/492e9c1ee871dfd72e301ac5f40de1a895ebed0c45c488b72b91d8874ba370a6.ctv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+
+香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 香港卫视文旅,https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8
 
 
 翡翠台,http://r.jdshipin.com/n90gt
 
-
+明珠台,mitv://generationnexxxt.com:19806/c5f11f27251e4a9e839e5cea739eb213
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-明珠台, http://www.namewee.xyz/gudou.php?id=1351
 
 
 
+无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻台,mitv://generationnexxxt.com:19806/ae343d41c7764bc6aac0e0d66a7b7733
 
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
 无线新闻,http://r.jdshipin.com/CkuBd
+无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 
 无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 财经体育资讯台,http://r.jdshipin.com/Nr5jq
@@ -318,7 +322,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 数字IPTV,#genre#
 CHC高清电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
 CHC高清电影,https://epg.pw/stream/1a4cd3bde6c89a72947617eacade8b1d5846f1888177726480dd75d83caea7cb.m3u8
-CHC高清,https://epg.pw/stream/4d4f0ded35dbcdccb466941af1b829780227a37bfa07947448e6f50f112ae0a1.m3u8
+CHC高清电影,https://epg.pw/stream/4d4f0ded35dbcdccb466941af1b829780227a37bfa07947448e6f50f112ae0a1.m3u8
 CHC家庭影院,https://epg.pw/stream/a1c62411cca761eb5dbe982fd942c2d233f1a37a61f8ac1e4fb7c7f5b17200c5.m3u8
 CHC家庭影院,https://epg.pw/stream/813b902c76009baec09d0d0a2b8300ff7ad473e7e88af74870ec04eee46694b0.m3u8
 CHC动作电影,https://epg.pw/stream/02a582fc67bfff3762422afd2afafd15a346db899ab08ec26b328ce146665b2e.m3u8
@@ -329,7 +333,10 @@ CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+风云剧场,http://113.117.74.28:8081/hls/120/index.m3u8
+风云剧场,http://223.87.160.11:55555/udp/239.10.0.203:5140
 风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+风云音乐,http://113.117.74.28:8081/hls/117/index.m3u8
 风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
@@ -343,11 +350,24 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 
 
 广东省内,#genre#
-
+广东新闻,http://gxdl-lhs.8866.org:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://gxdl-lhs.8866.org:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
+广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
+广东珠江,http://gxdl-lhs.8866.org:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东大湾区,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a&咪咕
+广东体育,http://r.jdshipin.com/LiYdg
+广东网络广播电视台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://angtv.cc/jd/gdlz.php?id=dgty
+广东体育,http://r.jdshipin.com/LiYdg
+广东网络广播电视台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+
+广州台,http://gxdl-lhs.8866.org:85/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+
 深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
