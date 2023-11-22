@@ -187,11 +187,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 
 
-
-无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻台,mitv://generationnexxxt.com:19806/ae343d41c7764bc6aac0e0d66a7b7733
-
+无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
 无线新闻,http://r.jdshipin.com/CkuBd
