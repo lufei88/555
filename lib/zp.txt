@@ -148,7 +148,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 港澳台,#genre#
-凤凰香港,https://epg.pw/stream/d004872b834b5b726d43c1dc539903068b7a75321cd8528ae65fc02dda2a7c89.m3u8
+
 凤凰香港,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
 凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
 
