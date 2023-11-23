@@ -353,13 +353,12 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 广东珠江,http://gxdl-lhs.8866.org:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东大湾区,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a&咪咕
-广东体育,http://r.jdshipin.com/LiYdg
+
 广东网络广播电视台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://angtv.cc/jd/gdlz.php?id=dgty
-广东体育,http://r.jdshipin.com/LiYdg
+广东体育,mitv://generationnexxxt.com:19806/99a6d27c4aff4490aaf7cdeb53af3382
 广东网络广播电视台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 
@@ -492,7 +491,7 @@ CCTV-高尔夫网球,http://202.182.127.76:9870/go11.php?name=%E9%AB%98%E5%B0%94
 魅力足球,http://111.13.111.242/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3&HlsProfileId=
 魅力足球,http://202.182.127.76:9870/go11.php?name=%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://angtv.cc/jd/gdlz.php?id=dgty
+广东体育,mitv://generationnexxxt.com:19806/99a6d27c4aff4490aaf7cdeb53af3382
 山东体育,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2
 北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?世界杯WorldCup
