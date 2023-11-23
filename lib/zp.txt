@@ -358,7 +358,7 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,mitv://generationnexxxt.com:19806/99a6d27c4aff4490aaf7cdeb53af3382
+
 广东网络广播电视台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 
@@ -450,9 +450,51 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 
 溧水新闻综合,http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
 溧水影院娱乐,http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
+山东地方,#genre#
+山东齐鲁,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E9%BD%90%E9%B2%81
+山东体育,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2
+山东新闻,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E6%96%B0%E9%97%BB
+山东少儿,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E5%B0%91%E5%84%BF
+山东综艺,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA
+山东文旅,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85
+山东生活,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E7%94%9F%E6%B4%BB
+青岛城阳,http://202.182.127.76:9870/go11.php?name=%E9%9D%92%E5%B2%9B%E5%9F%8E%E9%98%B3
+日照新闻综合,http://202.182.127.76:9870/go11.php?name=%E6%97%A5%E7%85%A7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+日照公共,http://202.182.127.76:9870/go11.php?name=%E6%97%A5%E7%85%A7%E5%85%AC%E5%85%B1
+日照科教,http://202.182.127.76:9870/go11.php?name=%E6%97%A5%E7%85%A7%E7%A7%91%E6%95%99
+烟台新闻综合,http://202.182.127.76:9870/go11.php?name=%E7%83%9F%E5%8F%B0%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+烟台公共,http://202.182.127.76:9870/go11.php?name=%E7%83%9F%E5%8F%B0%E5%85%AC%E5%85%B1
+烟台经济科技,http://202.182.127.76:9870/go11.php?name=%E7%83%9F%E5%8F%B0%E7%BB%8F%E6%B5%8E%E7%A7%91%E6%8A%80
+烟台影视,http://202.182.127.76:9870/go11.php?name=%E7%83%9F%E5%8F%B0%E5%BD%B1%E8%A7%86
+菏泽新闻综合,http://202.182.127.76:9870/go11.php?name=%E8%8F%8F%E6%B3%BD%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+菏泽经济生活,http://202.182.127.76:9870/go11.php?name=%E8%8F%8F%E6%B3%BD%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB
+枣庄新闻综合,http://202.182.127.76:9870/go11.php?name=%E6%9E%A3%E5%BA%84%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+枣庄教育,http://202.182.127.76:9870/go11.php?name=%E6%9E%A3%E5%BA%84%E6%95%99%E8%82%B2
+枣庄公共,http://202.182.127.76:9870/go11.php?name=%E6%9E%A3%E5%BA%84%E5%85%AC%E5%85%B1
+东营综合,http://202.182.127.76:9870/go11.php?name=%E4%B8%9C%E8%90%A5%E7%BB%BC%E5%90%88
+东营公共,http://202.182.127.76:9870/go11.php?name=%E4%B8%9C%E8%90%A5%E5%85%AC%E5%85%B1
+东营科教,http://202.182.127.76:9870/go11.php?name=%E4%B8%9C%E8%90%A5%E7%A7%91%E6%95%99
+青州综合,http://202.182.127.76:9870/go11.php?name=%E9%9D%92%E5%B7%9E%E7%BB%BC%E5%90%88
+
+湖南地方,#genre#
+金鹰纪实,http://202.182.127.76:9870/go11.php?name=%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E
+金鹰卡通,http://202.182.127.76:9870/go11.php?name=%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A
+湖南经视,http://202.182.127.76:9870/go11.php?name=%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86
+湖南爱晚,http://202.182.127.76:9870/go11.php?name=%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A
+湖南都市,http://202.182.127.76:9870/go11.php?name=%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82
+湖南电视剧,http://202.182.127.76:9870/go11.php?name=%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7
 
 
-
+福建地方,#genre#
+东南卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
+东南卫视,http://live.aishang.ctlcdn.com/00000110240588_1/encoder/0/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+东南卫视,http://39.135.8.199/wh7f454c46tw1297408810_1400771734/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/01.m3u8?fmt=ts2hls,23,01.m3u8,0,8268,0,0&
+厦门卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225761/1/index.m3u8?fmt=ts2hls
+厦门卫视,http://39.135.8.81/wh7f454c46tw1451823177_-1116837529/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225761/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1700645292&from=1&ocs=2_39.135.8.80_80&hms_devid=263&vqe=3
+厦门广电,http://pull-flv-f26.douyincdn.com/media/stream-690589243424375468_hd.flv
+福建旅游,http://live3.fjtv.net/dspd/hd/live.m3u8?_upt=31eb03161700655731
+福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 
 
 
@@ -483,7 +525,6 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 CCTV-高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 CCTV-高尔夫网球,http://jltpc.x3322.net:9901/tsfile/live/1037_1.m3u8?key=txiptv
 CCTV-高尔夫网球,http://202.182.127.76:9870/go11.php?name=%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83
-
 风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83
 央视台球,http://202.182.127.76:9870/go11.php?name=%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83
@@ -491,7 +532,6 @@ CCTV-高尔夫网球,http://202.182.127.76:9870/go11.php?name=%E9%AB%98%E5%B0%94
 魅力足球,http://111.13.111.242/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3&HlsProfileId=
 魅力足球,http://202.182.127.76:9870/go11.php?name=%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,mitv://generationnexxxt.com:19806/99a6d27c4aff4490aaf7cdeb53af3382
 山东体育,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2
 北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?世界杯WorldCup
