@@ -473,38 +473,52 @@ CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 CCTV-央视台球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
 CCTV-央视台球,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-央视台球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-CCTV-央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
-CCTV-央视台球,rtsp://115.153.233.154/PLTV/88888888/224/3221226955/86106661.smil
-CCTV-央视台球,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-CCTV-央视台球,http://117.148.179.147/PLTV/88888888/224/3221231616/index.m3u8
-CCTV-央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
+央视台球,http://202.182.127.76:9870/go11.php?name=%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83
+央视台球,http://218.17.216.102:9901/tsfile/live/1066_1.m3u8
+
+
+
 CCTV-高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 CCTV-高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV-高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
-CCTV-高尔夫网球,rtsp://115.153.233.154/PLTV/88888888/224/3221226967/86128985.smil
-CCTV-高尔夫网球,rtsp://115.153.233.154/PLTV/88888888/224/3221227036/86502103.smil
-CCTV-高尔夫网球,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV-高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
-风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
+CCTV-高尔夫网球,http://jltpc.x3322.net:9901/tsfile/live/1037_1.m3u8?key=txiptv
+CCTV-高尔夫网球,http://202.182.127.76:9870/go11.php?name=%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83
 
+风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
+风云足球,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83
+央视台球,http://202.182.127.76:9870/go11.php?name=%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83
+央视台球,http://218.17.216.102:9901/tsfile/live/1066_1.m3u8
+魅力足球,http://111.13.111.242/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3&HlsProfileId=
+魅力足球,http://202.182.127.76:9870/go11.php?name=%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://angtv.cc/jd/gdlz.php?id=dgty
-咪咕体育,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226140/1/index.m3u8?fmt=ts2hls
+山东体育,http://202.182.127.76:9870/go11.php?name=%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2
 北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?世界杯WorldCup
+杭州青少体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+山东体育休闲,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+
+
+
+劲爆体育,http://202.182.127.76:9870/go11.php?name=%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2
+咪咕体育,http://223.87.160.11:55555/udp/239.11.0.122:5140
+五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+NewTV精品体育,http://39.134.67.4/PLTV/88888888/224/3221225526/index.m3u8
+NewTV超级体育,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=4
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+
+
+
 百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
 欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+
 俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
 迪拜体育2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 天空体育 新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
 天空体育 板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+中国功夫,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
 
 
 
