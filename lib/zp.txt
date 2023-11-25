@@ -300,42 +300,89 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 
 
 广东省内,#genre#
+广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
+大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+广东公共,http://9.zhxinda.xyz/gdtv.php?pk=1185
+广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
+广东新闻,http://9.zhxinda.xyz/gdtv.php?pk=1186
 广东新闻,http://gxdl-lhs.8866.org:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://gxdl-lhs.8866.org:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 广东珠江,http://gxdl-lhs.8866.org:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东大湾区,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a&咪咕
+广东经济科教,http://9.zhxinda.xyz/gdtv.php?pk=1196
+广东综艺,http://9.zhxinda.xyz/gdtv.php?pk=1198
+广东少儿,http://9.zhxinda.xyz/gdtv.php?pk=1200
 
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+广东生活HD,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8?zguangd
 广东网络广播电视台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 
 广东网络广播电视台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
+
 
 广州台,http://gxdl-lhs.8866.org:85/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+广州新闻,https://justsometime.gztv.com/sec/jingsai.m3u8
+广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
+广东影视,http://lu1.cc/c/tv/sjtv/p/migu.php?id=gdys
+广州南国都市,http://9.zhxinda.xyz/gz.php?id=shenghuo
+广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+广州法治,http://9.zhxinda.xyz/gz.php?id=fazhi
+广州法治,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
+广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
 
+深圳电视剧,http://218.17.216.102:9901/tsfile/live/1057_1.m3u8
 深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
+
 珠海1套,http://219.128.140.118:3334/tsfile/live/1003_1.m3u8
+
+
+
+揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=bf98b2873ad5403290a37d16569d7a06&t=639de420
+揭阳公共,rtmp://rtmp-stjy.sobeylive.com/stjy2020/ggpd?sign=b9881a0d588081b1979769c128a5e08c&t=639de420
 梅州综合,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州二套,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
+
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
+河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
+河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
+阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
-阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8
+
+阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
+阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8?zguangd
+
 阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
 阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
 阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8
+
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
-南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
+
+
+
+清新综合,http://hls.wiseqx.com/live/qxzh.m3u8
+清新公共,http://hls.wiseqx.com/live/qxgg.m3u8
+
+
+清新综合,http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
+
 
 
 江苏省内,#genre#
