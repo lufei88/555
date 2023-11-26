@@ -685,7 +685,7 @@
       "name": "live",
       "type": 0,
       "url": "./lib/live.txt",
-      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://diyp1.112114.xyz",
       "logo": "https://diyp1.112114.xyz/logo/{name}.png"
     }
   ],
