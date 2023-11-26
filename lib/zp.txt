@@ -1,4 +1,95 @@
-央视频道,#genre#
+央视超清,#genre#
+
+CCTV1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv1
+CCTV2,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv2
+CCTV3,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv3
+CCTV4,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv4
+CCTV5,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv5
+CCTV-5+,http://cfss.cc/api/ysp/cctv5p.m3u8
+CCTV-5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+CCTV-5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+CCTV-5+,http://202.182.127.76:9870/go11.php?name=cctv51&t=1
+CCTV6,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv6
+CCTV7,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv7
+CCTV8,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv8
+CCTV9,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv9
+CCTV10,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv10
+CCTV-11,http://cfss.cc/api/ysp/cctv11.m3u8
+CCTV-11,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv11
+CCTV-11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+CCTV-11,http://61.160.247.140:2356/77.php?id=cctv11
+CCTV12,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv12
+CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv13
+CCTV-13,http://cfss.cc/api/ysp/cctv13.m3u8
+CCTV-13,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/0af5e4ebbf-0-0-73acd2813c45f8d650460bda2f73cdf0/index.m3u8
+CCTV-13,http://61.160.247.140:2356/77.php?id=cctv13
+CCTV14,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv14
+CCTV-15,http://cfss.cc/api/ysp/cctv15.m3u8
+CCTV-15,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv15
+CCTV-15,https://iptv.luas.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/aefabb5259-0-0-65038e86b205c58b18c0c661afd99fae/index.m3u8
+CCTV-15,http://202.182.127.76:9870/go11.php?name=cctv15&t=1
+CCTV-16,http://cfss.cc/api/ysp/cctv16.m3u8
+CCTV-16,http://202.182.127.76:9870/go11.php?name=cctv16&t=1
+CCTV17,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv17
+CCTV世界地理 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=sjdl
+CCTV兵器科技 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=bqkj
+CCTV卫生健康 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=wsjk
+CCTV央视台球 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=ystq
+CCTV女性时尚 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=nxss
+CCTV怀旧剧场 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=hjjc
+CCTV文化精品 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=whjp
+CCTV第一剧场 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=dyjc
+CCTV风云剧场 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=fyjc
+CCTV风云足球 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=fyzq
+CCTV风云音乐 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=fyyy
+CCTV高尔夫网球 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=gefwq
+中国教育1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=zgjy1
+SiTV游戏风云,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=yxfy
+SiTV生活时尚,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=shss
+SiTV都市剧场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=dsjchd
+SiTV金色频道,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=hqly
+SiTV魅力足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=mlylhd
+
+
+卫视超清,#genre#
+
+东南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=dnws
+东方卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=dfws
+北京卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=bjws
+吉林卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=jlws
+四川卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=scws
+安徽卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=ahws
+山东卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=sdws
+广东卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=gdws
+江苏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=jsws
+江西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=jxws
+浙江卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=zjws
+深圳卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=szws
+湖南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=hunws
+贵州卫视 12M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=gzws
+辽宁卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=lnws
+重庆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cqws
+广西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=gxws
+黑龙江卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=hljws
+云南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=ynws
+内蒙古卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=nmgws
+天津卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=tjws
+宁夏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=nxws
+新疆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=xjws
+河南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=hnws
+海南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=lyws
+澳亚卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=ayws
+甘肃卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=gsws
+西藏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=xcws
+贵州卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=szsh
+陕西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=sxws
+青海卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=qhws
+
+
+
+
+央视频道(移动),#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -29,7 +120,7 @@ CTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/
 
 
 
-卫视频道,#genre#
+卫视频道(移动),#genre#
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
