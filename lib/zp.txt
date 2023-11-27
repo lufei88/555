@@ -221,56 +221,26 @@ CHC家庭影院,http://202.182.127.76:9870/go11.php?name=CHC%E5%AE%B6%E5%BA%AD%E
 
 央视超清,#genre#
 
-CCTV1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv1
-CCTV2,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv2
-CCTV3,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv3
-CCTV4,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv4
-CCTV5,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv5
-CCTV-5+,http://cfss.cc/api/ysp/cctv5p.m3u8
-CCTV-5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
-CCTV-5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
-CCTV-5+,http://202.182.127.76:9870/go11.php?name=cctv51&t=1
-CCTV6,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv6
-CCTV7,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv7
-CCTV8,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv8
-CCTV9,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv9
-CCTV10,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv10
-CCTV-11,http://cfss.cc/api/ysp/cctv11.m3u8
-CCTV-11,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv11
-CCTV-11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
-CCTV-11,http://61.160.247.140:2356/77.php?id=cctv11
-CCTV12,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv12
-CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV-13,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv13
-CCTV-13,http://cfss.cc/api/ysp/cctv13.m3u8
-CCTV-13,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/0af5e4ebbf-0-0-73acd2813c45f8d650460bda2f73cdf0/index.m3u8
-CCTV-13,http://61.160.247.140:2356/77.php?id=cctv13
-CCTV14,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv14
-CCTV-15,http://cfss.cc/api/ysp/cctv15.m3u8
-CCTV-15,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv15
-CCTV-15,https://iptv.luas.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/aefabb5259-0-0-65038e86b205c58b18c0c661afd99fae/index.m3u8
-CCTV-15,http://202.182.127.76:9870/go11.php?name=cctv15&t=1
-CCTV-16,http://cfss.cc/api/ysp/cctv16.m3u8
-CCTV-16,http://202.182.127.76:9870/go11.php?name=cctv16&t=1
-CCTV17,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv17
-CCTV世界地理 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=sjdl
-CCTV兵器科技 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=bqkj
-CCTV卫生健康 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=wsjk
-CCTV央视台球 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=ystq
-CCTV女性时尚 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=nxss
-CCTV怀旧剧场 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=hjjc
-CCTV文化精品 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=whjp
-CCTV第一剧场 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=dyjc
-CCTV风云剧场 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=fyjc
-CCTV风云足球 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=fyzq
-CCTV风云音乐 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=fyyy
-CCTV高尔夫网球 6M1080,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=gefwq
-中国教育1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=zgjy1
-SiTV游戏风云,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=yxfy
-SiTV生活时尚,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=shss
-SiTV都市剧场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=dsjchd
-SiTV金色频道,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=hqly
-SiTV魅力足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=mlylhd
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
+CCTV2,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000014161/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
+CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
+CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
+CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+CCTV6,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000004574/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3
+CCTV7,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000009055/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
+CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
+CCTV9,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
+CCTV10,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000031506/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=3
+CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
+CCTV12,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000022586/index.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
+CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
+CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228292/index.m3u8
+CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228404/index.m3u8
+CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
+CGTN英语,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225747/2/index.m3u8
+CGTN记录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225645/2/index.m3u8
 
 
 卫视超清,#genre#
