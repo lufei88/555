@@ -1,75 +1,68 @@
 央视频道,#genre#
-CCTV3 综艺,http://111.20.40.166/PLTV/88888893/224/3221226397/index.m3u8
-CCTV-1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv1
+
 CCTV-1,http://cfss.cc/api/ysp/cctv1.m3u8
-CCTV-1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv1
-CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV-1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 
-CCTV-2,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv2
+
+
 CCTV-2,http://cfss.cc/api/ysp/cctv2.m3u8
-CCTV-2,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv2
-CCTV-2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 
-CCTV-3,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv3
+
+
 CCTV-3,http://cfss.cc/api/ysp/cctv3.m3u8
-CCTV-3,http://111.20.40.166/PLTV/88888893/224/3221226397/index.m3u8
-CCTV-3,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv3
-CCTV-3,http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
 
-CCTV-4,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv4
+
+
 CCTV-4,http://cfss.cc/api/ysp/cctv4.m3u8
-CCTV-4,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv4
+
 
 CCTV-5,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv5
 CCTV-5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-5,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv5
 
 CCTV-5+,http://cfss.cc/api/ysp/cctv5p.m3u8
-CCTV-5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV-5+,http://39.165.35.152:9901/tsfile/live/0016_1.m3u8?key=txiptv
 
-CCTV-6,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv6
+
+
+
+
 CCTV-6,http://cfss.cc/api/ysp/cctv6.m3u8
-CCTV-6,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
-CCTV-6,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41141/index.m3u8
 
-CCTV-7,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv7
+
+
+
 CCTV-7,http://cfss.cc/api/ysp/cctv7.m3u8
-CCTV-7,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv7
-CCTV-7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 
-CCTV-8,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv8
-CCTV-8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-CCTV-8,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv8
-CCTV-8,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
-CCTV-8,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41142/index.m3u8
+
+
+
+
 CCTV-8,http://cfss.cc/api/ysp/cctv8.m3u8
 
-CCTV-9,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv9
-CCTV-9,http://cfss.cc/api/ysp/cctv9.m3u8
-CCTV-9,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv9
-CCTV-9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV-9,http://202.182.127.76:9870/go11.php?name=cctv9&t=1
 
-CCTV-10,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv10
+CCTV-9,http://cfss.cc/api/ysp/cctv9.m3u8
+
+
+
+
 CCTV-10,http://cfss.cc/api/ysp/cctv10.m3u8
-CCTV-10,http://39.165.35.152:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV-10,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv10
-CCTV-10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+
+
 
 CCTV-11,http://cfss.cc/api/ysp/cctv11.m3u8
-CCTV-11,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv11
 
-CCTV-12,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv12
+
+
+
+
 CCTV-12,http://cfss.cc/api/ysp/cctv12.m3u8
-CCTV-12,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv12
-CCTV-12,https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/e2d8885f42-0-0-6e1f55986652ba786606a116c5cc0775/index.m3u8
 
-CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV-13,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv13
+
+
+
+
 CCTV-13,http://cfss.cc/api/ysp/cctv13.m3u8
-CCTV-13,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/0af5e4ebbf-0-0-73acd2813c45f8d650460bda2f73cdf0/index.m3u8
+
+
 
 CCTV-14,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv14
 CCTV-14,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/0ef01acfdb-0-0-3c10e95bcde07ba14f0f93a8d831b684/index.m3u8
@@ -78,17 +71,70 @@ CCTV-14,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv14
 CCTV-14,http://202.182.127.76:9870/go11.php?name=cctv14&t=1
 
 CCTV-15,http://cfss.cc/api/ysp/cctv15.m3u8
-CCTV-15,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv15
-CCTV-15,http://39.165.35.152:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV-15,http://202.182.127.76:9870/go11.php?name=cctv15&t=1
+
+
 
 CCTV-16,http://cfss.cc/api/ysp/cctv16.m3u8
 
-CCTV-17,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv17
-CCTV-17,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gzyd.php?id=cctv17
+CCTV-17,http://cfss.cc/api/ysp/cctv17.m3u8
 
 CCTV-4K,http://cfss.cc/api/ysp/cctv4k.m3u8
-CCTV-4K,http://202.182.127.76:9870/go11.php?name=cctv4k&t=1
+
+CCTV-1,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV-1,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+CCTV-2,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+CCTV-2,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+CCTV-3,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+CCTV-3,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
+CCTV-4,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
+CCTV-5,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
+CCTV-5+,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
+CCTV-6,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
+CCTV-6,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+CCTV-7,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
+CCTV-7,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
+CCTV-8,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3
+CCTV-8,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
+CCTV-9,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3
+CCTV-9,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
+CCTV-10,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
+CCTV-11,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
+CCTV-12,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
+CCTV-13,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+CCTV-14,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
+CCTV-15,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
+CCTV-17,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
+纯享4K,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+
+CCTV-1,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV-1,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+CCTV-2,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+CCTV-2,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+CCTV-3,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+CCTV-3,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
+CCTV-4,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
+CCTV-5,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
+CCTV-5+,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
+CCTV-6,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
+CCTV-6,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+CCTV-7,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
+CCTV-7,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
+CCTV-8,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3
+CCTV-8,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
+CCTV-9,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3
+CCTV-9,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
+CCTV-10,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
+CCTV-11,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
+CCTV-12,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
+CCTV-13,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+CCTV-14,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
+CCTV-15,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
+CCTV-17,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
+纯享4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+
+
+
+CCTV欧洲,http://cfss.cc/api/ysp/CCTV欧洲.m3u8
 
 CCTV欧洲,http://202.182.127.76:9870/go11.php?name=cctvoz&t=1
 CCTV美洲,http://202.182.127.76:9870/go11.php?name=cctvmz&t=1
