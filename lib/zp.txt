@@ -727,12 +727,16 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 凤凰香港,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
 凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
 
+
+凤凰中文,http://171.217.35.32:8000/udp/239.93.0.118:2191
 凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰中文,http://113.117.74.12:8081/hls/37/index.m3u8
+
+凤凰资讯,http://171.217.35.32:8000/udp/239.93.0.162:2192
 凤凰资讯,http://php.17186.eu.org:80/phtv/fhzx.m3u8
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
@@ -1508,4 +1512,64 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 香港|耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 香港|有线18,http://ddi.yj011.net:8080/sat/hk021.flv
 
+台湾视界,#genre#
 
+翡翠台,http://103.45.68.47:666/gy/gy830/xsj.php?id=feicui
+无线新闻,http://103.45.68.47:666/gy/gy830/xsj.php?id=tvb-news
+TVB星河,http://103.45.68.47:666/gy/gy830/xsj.php?id=tvb-xinghe
+TVB娱乐新闻,http://103.45.68.47:666/gy/gy830/xsj.php?id=TVB ylxw
+TVB千禧经典,http://103.45.68.47:666/gy/gy830/xsj.php?id=tvb-classic
+无线财经,http://103.45.68.47:666/gy/gy830/xsj.php?id=tvb-finance
+TVB亚洲剧,http://103.45.68.47:666/gy/gy830/xsj.php?id=tvb-asia-drama
+TVB华语剧,http://103.45.68.47:666/gy/gy830/xsj.php?id=tvb-drama
+凤凰资讯,http://103.45.68.47:666/gy/gy830/xsj.php?id=phtv-info
+凤凰卫视,http://103.45.68.47:666/gy/gy830/xsj.php?id=phtv-cn
+TVB J2,http://103.45.68.47:666/gy/gy830/xsj.php?id=j2
+ViuTv,http://103.45.68.47:666/gy/gy830/xsj.php?id=viutv
+ViuTv6,http://103.45.68.47:666/gy/gy830/xsj.php?id=viutv6
+HoyTv,http://103.45.68.47:666/gy/gy830/xsj.php?id=hoytv
+HoyTv资讯,http://103.45.68.47:666/gy/gy830/xsj.php?id=hoy-info
+莲花卫视,http://103.45.68.47:666/gy/gy830/xsj.php?id=lotustv
+港台31台,http://103.45.68.47:666/gy/gy830/xsj.php?id=rthk31
+港台32台,http://103.45.68.47:666/gy/gy830/xsj.php?id=rthk32
+纬来日本,http://103.45.68.47:666/gy/gy830/xsj.php?id=videoland-japan
+东森综合,http://103.45.68.47:666/gy/gy830/xsj.php?id=ebc-ettv
+台视HD,http://103.45.68.47:666/gy/gy830/xsj.php?id=ttv
+星卫娱乐,http://103.45.68.47:666/gy/gy830/xsj.php?id=star-entetainment
+中视HD,http://103.45.68.47:666/gy/gy830/xsj.php?id=ctv
+华视HD,http://103.45.68.47:666/gy/gy830/xsj.php?id=cts
+TVBS欢乐台,http://103.45.68.47:666/gy/gy830/xsj.php?id=tvbs-huanle
+客家电视,http://103.45.68.47:666/gy/gy830/xsj.php?id=hakkatv
+纬来电影,http://103.45.68.47:666/gy/gy830/xsj.php?id=videoland-movie
+东森电影,http://103.45.68.47:666/gy/gy830/xsj.php?id=ebc-movie
+卫视电影台,http://103.45.68.47:666/gy/gy830/xsj.php?id=star-chinese-movies
+龙华电影,http://103.45.68.47:666/gy/gy830/xsj.php?id=ltv-movies
+龙翔电影,http://103.45.68.47:666/gy/gy830/xsj.php?id=lstime
+MTV台湾,http://103.45.68.47:666/gy/gy830/xsj.php?id=mtv
+靖天电影,http://103.45.68.47:666/gy/gy830/xsj.php?id=jtdy
+中天新闻,http://103.45.68.47:666/gy/gy830/xsj.php?id=cti-news
+TVBS HD,http://103.45.68.47:666/gy/gy830/xsj.php?id=tvbs-hd
+TVBS新闻,http://103.45.68.47:666/gy/gy830/xsj.php?id=tvbs-news
+东森新闻,http://103.45.68.47:666/gy/gy830/xsj.php?id=ebc-news
+东森财经,http://103.45.68.47:666/gy/gy830/xsj.php?id=ebc-finance
+壹电视新闻台,http://103.45.68.47:666/gy/gy830/xsj.php?id=nexttv
+中视新闻,http://103.45.68.47:666/gy/gy830/xsj.php?id=ctv-news
+寰宇新闻,http://103.45.68.47:666/gy/gy830/xsj.php?id=global-news
+台视新闻,http://103.45.68.47:666/gy/gy830/xsj.php?id=ttv-news
+HBO电影,http://103.45.68.47:666/gy/gy830/xsj.php?id=hbo-hd
+NBA🏀,http://103.45.68.47:666/gy/gy830/xsj.php?id=nba
+纬来体育,http://103.45.68.47:666/gy/gy830/xsj.php?id=videoland-sport
+爱尔达体育1台,http://103.45.68.47:666/gy/gy830/xsj.php?id=elta-sport1
+爱尔达体育2台,http://103.45.68.47:666/gy/gy830/xsj.php?id=elta-sport2
+爱尔达体育3台,http://103.45.68.47:666/gy/gy830/xsj.php?id=elta-sport3
+ELEVEN体育-1,http://103.45.68.47:666/gy/gy830/xsj.php?id=eleven-sport1
+靖天卡通,http://103.45.68.47:666/gy/gy830/xsj.php?id=jtkt
+迪斯尼台湾,http://103.45.68.47:666/gy/gy830/xsj.php?id=disney
+东森幼幼,http://103.45.68.47:666/gy/gy830/xsj.php?id=ebc-yoyo
+MPMO亲子台,http://103.45.68.47:666/gy/gy830/xsj.php?id=momo-kids
+尼克动画台湾,http://103.45.68.47:666/gy/gy830/xsj.php?id=nickelodeon
+Animax动画台湾,http://103.45.68.47:666/gy/gy830/xsj.php?id=animax-cartoon
+国家地理野生,http://103.45.68.47:666/gy/gy830/xsj.php?id=natgeo-wild
+探索科学,http://103.45.68.47:666/gy/gy830/xsj.php?id=discovery-sci
+动物星球,http://103.45.68.47:666/gy/gy830/xsj.php?id=animal-planet
+亚洲旅游台,http://103.45.68.47:666/gy/gy830/xsj.php?id=asia-travel
