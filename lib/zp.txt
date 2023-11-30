@@ -1,16 +1,15 @@
 央视频道,#genre#
-CCTV-1,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
-CCTV-1,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
 CCTV-1,http://61.160.247.140:2356/77.php?id=cctv1
-CCTV-1,http://cfss.cc/api/ysp/cctv1.m3u8
+CCTV-1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+CCTV-1,http://39.165.35.152:9901/tsfile/live/1001_1.m3u8?key=txiptv
+CCTV-1,http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8?icpid=651&from=38&hms_devid=2232&online=1687246054&vqe=3
 
-
-CCTV-2,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
-CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-2,http://61.160.247.140:2356/77.php?id=cctv2
-
-
-
+CCTV-2,http://cfss.cc/api/ysp/cctv2.m3u8
+CCTV-2,http://39.165.35.152:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV-2,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
+CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV-2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 
 CCTV-3,http://61.160.247.140:2356/77.php?id=cctv3
 CCTV-3,http://cfss.cc/api/ysp/cctv3.m3u8
@@ -127,10 +126,10 @@ CHC家庭影院,http://202.182.127.76:9870/go11.php?name=CHC%E5%AE%B6%E5%BA%AD%E
 
 
 
-
-
-
-
+CCTV-1,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV-1,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+CCTV-2,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+CCTV-2,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
 CCTV-3,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
 CCTV-3,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
 CCTV-4,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
@@ -153,8 +152,8 @@ CCTV-15,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=yste
 CCTV-17,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
 纯享4K,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 
-
-
+CCTV-1,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV-1,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 CCTV-2,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
 CCTV-2,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
 CCTV-3,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
@@ -178,7 +177,7 @@ CCTV-14,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenl
 CCTV-15,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
 CCTV-17,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
 纯享4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-
+CCTV-1,http://cfss.cc/api/ysp/cctv1.m3u8
 CCTV-2,http://cfss.cc/api/ysp/cctv2.m3u8
 CCTV-3,http://cfss.cc/api/ysp/cctv3.m3u8
 CCTV-4,http://cfss.cc/api/ysp/cctv4.m3u8
@@ -198,6 +197,7 @@ CCTV-15,http://cfss.cc/api/ysp/cctv15.m3u8
 CCTV-16,http://cfss.cc/api/ysp/cctv16.m3u8
 CCTV-17,http://cfss.cc/api/ysp/cctv17.m3u8
 CCTV-4K,http://cfss.cc/api/ysp/cctv4k.m3u8
+
 
 
 卫视频道,#genre#
