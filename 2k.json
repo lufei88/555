@@ -466,7 +466,7 @@
       "filterable": 1,
       "ext": "./lib/短剧.json",
       "jar": "./lib/jiaoyu.jar"
-    }
+    },
 
 
 
@@ -488,7 +488,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": "./lib/戏曲.json"
-    },
+    }
 
 
 
