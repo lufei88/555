@@ -80,8 +80,8 @@
       "key": "赞赞",
       "name": "➕天招蓝光┃速度飞",     //新添加的
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/zanzan.js",
+      "api": "./ext/js/drpy2.min.js",
+      "ext": "./ext/js/zanzan.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
