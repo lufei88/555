@@ -415,6 +415,27 @@
     },
 
 
+
+
+    {
+      "key": "csp_qiumi",
+      "name": "⚽ Jrs┃球迷",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://fanty.run.goorm.site/ext/jrk.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+
+
+
+
+
+
+
+
+
      {
       "key": "csp_短剧",
       "name": "📺短剧┃TV",
