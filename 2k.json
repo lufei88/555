@@ -478,7 +478,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "./lib/xsxp.json"
+      "ext": "./lib/xsxp.json",
       "jar": "./xiaomi.jar"
     },
     {
@@ -488,7 +488,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "./lib/戏曲.json"
+      "ext": "./lib/戏曲.json",
       "jar": "./xiaomi.jar"
     }
 
