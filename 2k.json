@@ -497,7 +497,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://fanty.run.goorm.site/ext/企鹅直播.json"
+      "jar": "./xiaomi.jar"
     },
 
 
@@ -538,7 +538,7 @@
         "type": "rect",
         "ratio": 3.8
       },
-      "ext": "https://fanty.run.goorm.site/ext/企鹅直播.json"
+      "jar": "./xiaomi.jar"
     }
 
 
