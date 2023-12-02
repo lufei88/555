@@ -32,24 +32,6 @@
     },
 
 
-
-
-
-
-        {
-      "key": "csp_woggcli",
-      "name": "✨天招4K超清2┃速度快",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e107a67dbcf4592996f40cf30dab7d7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-    
-
-    
-    
     
         {
       "key": "酷玩",
