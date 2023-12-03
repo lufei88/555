@@ -178,22 +178,7 @@ CCTV欧洲,http://202.182.127.76:9870/go11.php?name=cctvoz&t=1
 
 CCTV美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=1
 CCTV美洲,http://202.182.127.76:9870/go11.php?name=cctvmz&t=1
-CCTV-8K+,http://202.182.127.76:9870/go11.php?name=cctv8k&t=1
 
-
-
-风云剧场,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA
-
-风云足球,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83
-央视台球,http://202.182.127.76:9870/go11.php?name=%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83
-怀旧剧场,http://202.182.127.76:9870/go11.php?name=%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA
-
-高尔夫网球,http://202.182.127.76:9870/go11.php?name=%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83
-文化精品,http://202.182.127.76:9870/go11.php?name=%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81
-兵器科技,http://202.182.127.76:9870/go11.php?name=%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80
-CHC高清电影,http://202.182.127.76:9870/go11.php?name=CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1
-CHC动作电影,http://202.182.127.76:9870/go11.php?name=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
-CHC家庭影院,http://202.182.127.76:9870/go11.php?name=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
 
 
 
