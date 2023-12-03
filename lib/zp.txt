@@ -644,19 +644,22 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 数字IPTV,#genre#
-CHC高清电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
-CHC高清电影,https://epg.pw/stream/1a4cd3bde6c89a72947617eacade8b1d5846f1888177726480dd75d83caea7cb.m3u8
-CHC高清电影,https://epg.pw/stream/4d4f0ded35dbcdccb466941af1b829780227a37bfa07947448e6f50f112ae0a1.m3u8
-CHC家庭影院,https://epg.pw/stream/a1c62411cca761eb5dbe982fd942c2d233f1a37a61f8ac1e4fb7c7f5b17200c5.m3u8
-CHC家庭影院,https://epg.pw/stream/813b902c76009baec09d0d0a2b8300ff7ad473e7e88af74870ec04eee46694b0.m3u8
-CHC动作电影,https://epg.pw/stream/02a582fc67bfff3762422afd2afafd15a346db899ab08ec26b328ce146665b2e.m3u8
-CHC动作电影,https://epg.pw/stream/0d70b4ab6d8810e6cc621382b2970d1312b24247b1ad9ab01d14b6cf01ebbafa.m3u8
-CHC动作电影,http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
-CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
-CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC动作电影,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC动作电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226992/86128817.smil
+CHC动作电影,rtsp://115.153.245.70/PLTV/88888888/224/3221226992/86128817.smil
+CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC高清电影,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.245.70/PLTV/88888888/224/3221226990/86128784.smil
+
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC家庭影院,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smil
+CHC家庭影院,rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
+CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 风云剧场,http://113.117.74.28:8081/hls/120/index.m3u8
 风云剧场,http://223.87.160.11:55555/udp/239.10.0.203:5140
 风云剧场,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA
