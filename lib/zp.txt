@@ -556,10 +556,11 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 香港国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8
 澳门体育,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
-
+港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
 港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 香港電台(RTHK 34),https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
 耀才財經台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
