@@ -907,7 +907,21 @@ NewTV超级体育,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?chann
 NewTV武搏世界,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=4
 
 
+CONBRTE拳击,http://51.83.238.223:16417/
+CONBRTE拳击,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/122
+CONBRTE拳击,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/123
 
+武搏世界,http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
+武搏世界,http://111.40.196.31:443/PLTV/88888888/224/3221225664/1.m3u8
+武搏世界,http://39.135.238.76/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
+武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+武搏世界,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=4
+武搏世界,http://39.134.65.208/PLTV/88888888/224/3221225547/index.m3u8
+武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+
+武术世界,http://angtv.cc/jd/gdlz.php?id=wssj
+武术世界,http://42.176.185.28:9901/tsfile/live/1032_1.m3u8
+武术世界,http://xuweihome.vip:2222/udp/239.253.248.140:8000
 
 
 
