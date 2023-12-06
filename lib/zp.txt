@@ -516,12 +516,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
-无线财经体育,http://live.cooltv.top/tv/tvb.php?id=2&hq
-无线财经体育,http://bziyunshao.synology.me:8890/bysid/85
-无线财经体育,https://s2.pub/Y-19
-无线财经体育,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8
 
-HOY财经76,http://bziyunshao.synology.me:8891/bysid/76
 
 财经体育资讯台,http://r.jdshipin.com/Nr5jq
 
@@ -567,24 +562,6 @@ VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-
-
-
-
-东森电影,http://116.11.140.52:8181/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
-东森戏剧,http://116.11.140.52:8181/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
-ELEVEN1,http://116.11.140.52:8181/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥时代,http://116.11.140.52:8181/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
-TV星河,http://116.11.140.52:8181/tsfile/live/1206_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://116.11.140.52:8181/tsfile/live/1208_1.m3u8?key=txiptv&playlive=1&authid=0
-Z频道,http://116.11.140.52:8181/tsfile/live/1209_1.m3u8?key=txiptv&playlive=1&authid=0
-私人影院,http://116.11.140.52:8181/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
-天映经典,http://116.11.140.52:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
-卡通频道,http://116.11.140.52:8181/tsfile/live/1212_1.m3u8?key=txiptv&playlive=1&authid=0
-澳门莲花,http://116.11.140.52:8181/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
-ELEVEN2,http://116.11.140.52:8181/tsfile/live/1216_1.m3u8?key=txiptv&playlive=1&authid=0
-AXN,http://116.11.140.52:8181/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
-
 
 
 
