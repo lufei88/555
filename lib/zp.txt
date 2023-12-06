@@ -835,7 +835,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
  
 体育频道,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-
 超级体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
 超级体育,http://39.135.238.76/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
@@ -843,12 +842,9 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 超级体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=4
 超级体育,http://39.134.65.208/PLTV/88888888/224/3221225635/index.m3u8
 超级体育,http://39.135.238.76/000000001000PLTV/88888888/224/3221248116/1.m3u8?HlsProfileId=
-
 咪咕足球,http://39.134.66.66/PLTV/88888888/224/3221225895/index.m3u8
 咪咕足球,http://39.134.65.149/PLTV/88888888/224/3221225895/index.m3u8
-
 咪咕赛事,http://39.134.66.66/PLTV/88888888/224/3221225897/index.m3u8
-
 咪咕籃球,http://39.134.65.149/PLTV/88888888/224/3221225897/index.m3u8
 
 
@@ -884,6 +880,20 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 风云足球,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83
 
 
+
+哒啵赛事,http://111.13.111.242/000000001000PLTV/88888888/224/3221235768/1.m3u8?HlsProfileId=
+哒啵赛事,http://111.13.111.242/000000001000PLTV/88888888/224/3221235939/1.m3u8?HlsProfileId=
+哒啵赛事,http://111.40.196.31:443/PLTV/88888888/224/3221225606/index.m3u8
+哒啵赛事,http://39.135.238.76/000000001000PLTV/88888888/224/3221235768/1.m3u8?HlsProfileId=
+哒啵赛事,http://39.135.238.76/000000001000PLTV/88888888/224/3221235939/1.m3u8?HlsProfileId=
+哒啵赛事,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+哒啵赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8
+
+
+
+
+
+
 广东体育,http://r.jdshipin.com/LiYdg
 北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?世界杯WorldCup
@@ -907,9 +917,8 @@ NewTV超级体育,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?chann
 NewTV武搏世界,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=4
 
 
-CONBRTE拳击,http://51.83.238.223:16417/
-CONBRTE拳击,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/122
-CONBRTE拳击,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/123
+
+
 
 武搏世界,http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
 武搏世界,http://111.40.196.31:443/PLTV/88888888/224/3221225664/1.m3u8
@@ -919,9 +928,8 @@ CONBRTE拳击,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/1
 武搏世界,http://39.134.65.208/PLTV/88888888/224/3221225547/index.m3u8
 武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 
-武术世界,http://angtv.cc/jd/gdlz.php?id=wssj
-武术世界,http://42.176.185.28:9901/tsfile/live/1032_1.m3u8
-武术世界,http://xuweihome.vip:2222/udp/239.253.248.140:8000
+CONBRTE拳击,http://51.83.238.223:16417/
+
 
 
 
@@ -1319,4 +1327,98 @@ X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizu
 司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
 星球大战9,https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
 MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
+
+
+环球体育,#genre#
+
+NBA,http://146.59.80.96:10120/play/a009
+12TVParma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+FoxSports2,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/140
+
+FoxSports,http://pinkpanther.uk:8080/SCvB7Em9mMTU/8WsfEGgzs45V/43739
+
+EuroSport,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/138
+
+SportTV3,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/169
+SportV,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/178
+SportV,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/183
+SportV2,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/172
+SportV3,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/175
+SportV4,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/170
+
+ESPNstar,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/826
+FIFA,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/829
+
+ESPN,http://51.83.238.223:16515/
+ESPN,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/130
+ESPN,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/131
+
+ESPN2,http://pinkpanther.uk:8080/SCvB7Em9mMTU/8WsfEGgzs45V/43747
+ESPN2,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/129
+ESPN2,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/135
+
+ESPN3,http://pinkpanther.uk:8080/SCvB7Em9mMTU/8WsfEGgzs45V/43748
+ESPN3,http://51.83.238.223:16555/
+ESPN3,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/127
+
+ESPN4,http://7go.xyz:8080/yhr62q5i/g4yalvy7/275370
+ESPN4,http://208.115.225.174:14510
+ESPN4,http://51.83.238.223:16575/
+ESPN4,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/143
+ESPN4,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/142
+
+ESPNEXTRA,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/133
+
+PREmiere体育,http://51.83.238.223:16725/
+Premiere体育,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/148
+Premiere体育,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/164
+Premiere体育,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/165
+
+运动,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/901
+beinSports4,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/902
+beinSports5,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/905
+beinSports6,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/906
+beinSports7,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/907
+AovivoSports赛车,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/120
+AovivoSports赛车,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/121
+
+deportv,https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+足球⚽,http://51.83.238.223:16437/
+
+Recor news,http://51.83.238.223:16600/
+Dric足球,http://livetv.ktv.zone/23/play.m3u8
+
+红牛运动,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
+红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+OneGolf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+OneGolf,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+
+AOvivo,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/938
+AOvivo,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/939
+glaboNews,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/968
+AOvivonews,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/983
+
+欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
+
+EdgeSport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+曼联MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+DubaiRacing2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+DubaiRacing3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
