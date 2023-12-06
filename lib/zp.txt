@@ -878,16 +878,6 @@ IASHttpSessionId=OTT1961020221014135801297426&channel-id=wasusyt&Contentid=60000
 爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 爱院线,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226652/index.m3u8?servicetype=1
 
-IPTV热播剧场,http://223.87.160.11:55555/udp/239.10.0.121:5140
-IPTV经典电影,http://223.87.160.11:55555/udp/239.10.0.122:5140
-IPTV谍战剧场,http://223.87.160.11:55555/udp/239.10.0.123:5140
-IPTV城市剧场,http://223.87.160.11:55555/udp/239.10.0.124:5140
-IPTV军旅剧场,http://223.87.160.11:55555/udp/239.10.0.125:5140
-IPTV古装剧场,http://223.87.160.11:55555/udp/239.10.0.126:5140
-IPTV家庭影院,http://223.87.160.11:55555/udp/239.10.0.127:5140
-IPTV喜剧影院,http://223.87.160.11:55555/udp/239.10.0.132:5140
-IPTV武侠剧场,http://223.87.160.11:55555/udp/239.10.0.133:5140
-
 NewTV爱情喜剧,http://39.134.68.155:6610/PLTV/88888888/224/3221225669/index.m3u8?
 NewTV动作电影,http://gslbserv.itv.cmvideo.cn:80/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 NewTV军旅剧场,http://39.134.65.80:80/wh7f454c46tw1933127363_696277505/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=124
