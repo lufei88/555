@@ -651,17 +651,23 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83
 
-
-
-哒啵赛事,http://111.13.111.242/000000001000PLTV/88888888/224/3221235768/1.m3u8?HlsProfileId=
-哒啵赛事,http://111.13.111.242/000000001000PLTV/88888888/224/3221235939/1.m3u8?HlsProfileId=
-哒啵赛事,http://111.40.196.31:443/PLTV/88888888/224/3221225606/index.m3u8
-哒啵赛事,http://39.135.238.76/000000001000PLTV/88888888/224/3221235768/1.m3u8?HlsProfileId=
-哒啵赛事,http://39.135.238.76/000000001000PLTV/88888888/224/3221235939/1.m3u8?HlsProfileId=
 哒啵赛事,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
-哒啵赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8
 
+广东体育,http://r.jdshipin.com/LiYdg
+北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?世界杯WorldCup
 
+山东体育休闲,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+
+劲爆体育,http://202.182.127.76:9870/go11.php?name=%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2
+
+五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+NewTV精品体育,http://39.134.67.4/PLTV/88888888/224/3221225526/index.m3u8
+NewTV超级体育,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=4
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
+迪拜体育,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 12TVParma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 FoxSports2,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/140
 EuroSport,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/138
@@ -695,32 +701,13 @@ F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 Recor news,http://51.83.238.223:16600/
 Dric足球,http://livetv.ktv.zone/23/play.m3u8
-
 OneGolf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 OneGolf,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-
 欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-
 曼联MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
 ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-广东体育,http://r.jdshipin.com/LiYdg
-北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?世界杯WorldCup
 
-山东体育休闲,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
-五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-
-劲爆体育,http://202.182.127.76:9870/go11.php?name=%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2
-
-五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-NewTV精品体育,http://39.134.67.4/PLTV/88888888/224/3221225526/index.m3u8
-NewTV超级体育,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=4
-纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-
-俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-迪拜体育,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 天空体育 板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
 中国功夫,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
