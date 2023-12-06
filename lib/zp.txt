@@ -485,8 +485,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,https://epg.pw/stream/492e9c1ee871dfd72e301ac5f40de1a895ebed0c45c488b72b91d8874ba370a6.ctv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-
+香港卫视,https://epg.pw/stream/0eab6241cf13ac3d52485869be7750cdf3d4366792dd4ac805449d6c39a4990a.m3u8
 
 
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
@@ -508,31 +507,33 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83
-无线新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻,http://172.96.250.37:83/hk.php?id=0 
+无线新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
 
-无线新闻,http://r.jdshipin.com/CkuBd
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
-无线新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
+无线新闻,http://172.96.250.37:83/hk.php?id=0 
+无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ct
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 
 
 无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+无线财经体育,http://live.cooltv.top/tv/tvb.php?id=2&hq
+无线财经体育,http://bziyunshao.synology.me:8890/bysid/85
+无线财经体育,https://s2.pub/Y-19
+无线财经体育,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8
 
-
-
+HOY财经76,http://bziyunshao.synology.me:8891/bysid/76
 
 财经体育资讯台,http://r.jdshipin.com/Nr5jq
 
-香港国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8
+
 澳门体育,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
 港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+港台电视34,https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
+港台电视34,https://epg.pw/stream/8dc8b380861cc994bb3d9bb64f415d0d313eef5c60b5efbec01551f461837c92.m3u8
 港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 香港電台(RTHK 34),https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -555,12 +556,10 @@ CGNTV,http://live.cgtn.com/1000/prog_index.m3u8
 CGNTV,http://livear.cgtn.com/1000a/prog_index.m3u8
 VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
-RTHK34,https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
-RTHK34,https://epg.pw/stream/8dc8b380861cc994bb3d9bb64f415d0d313eef5c60b5efbec01551f461837c92.m3u8
-hks,https://epg.pw/stream/0eab6241cf13ac3d52485869be7750cdf3d4366792dd4ac805449d6c39a4990a.m3u8
 
-RTHK34,https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
-RTHK34,https://epg.pw/stream/8dc8b380861cc994bb3d9bb64f415d0d313eef5c60b5efbec01551f461837c92.m3u8
+
+
+
 香港开电视,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 香港开电视,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 香港开电视2,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
@@ -569,8 +568,9 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
-东森财经新闻,http://116.11.140.52:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
-东森财经新闻,http://116.11.140.52:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
 东森电影,http://116.11.140.52:8181/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
 东森戏剧,http://116.11.140.52:8181/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
 ELEVEN1,http://116.11.140.52:8181/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
