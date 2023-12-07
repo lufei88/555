@@ -629,6 +629,13 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83
 
+
+魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+魅力足球,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
+
+
+
 哒啵赛事,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 
 
@@ -639,8 +646,8 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
 
-
-
+广东体育,http://ci.emdoor.tech:8080/touchtv.php?pk=1184
+广东体育,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 北京体育,http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
 北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
