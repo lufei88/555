@@ -531,9 +531,6 @@ CGNTV,http://livear.cgtn.com/1000a/prog_index.m3u8
 VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 
-
-
-
 香港开电视,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 香港开电视,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 香港开电视2,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
@@ -645,8 +642,14 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 
 
 广东体育,http://r.jdshipin.com/LiYdg
+北京体育,http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
 北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?世界杯WorldCup
+
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+
+辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+
 
 山东体育休闲,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
 
