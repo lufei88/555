@@ -626,6 +626,11 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 劲爆体育,http://202.182.127.76:9870/go11.php?name=%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2
 
 
+魅力足球,http://www.namewee.xyz/gudou.php?id=364&id=meiliyinyueHD_7000
+劲爆体育,http://www.namewee.xyz/gudou.php?id=364&id=jinbaotiyuHD_7000
+
+
+
 CCTV5-,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV-央视台球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -655,18 +660,22 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
 
+
+广东体育,http://171.110.10.10:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://119.131.240.119:8089/hls/5/index.m3u8
+广东体育,http://www.namewee.xyz/gudou.php?id=364&id=1413
+广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://ci.emdoor.tech:8080/touchtv.php?pk=1184
 广东体育,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-广东体育,http://r.jdshipin.com/LiYdg
+
+
+
 北京体育,http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
+北京体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226658/1.m3u8
 北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?世界杯WorldCup
 
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
-
-辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-
-
 山东体育休闲,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
 
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
@@ -739,7 +748,9 @@ CONBRTE拳击,http://51.83.238.223:16417/
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-
+CHC动作电影,http://171.110.10.10:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC高清电影,http://171.110.10.10:8181/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://171.110.10.10:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=0&authid=0
 
 爱谍战,http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960720221014141442306403&channel-id=wasusyt&Contentid=6000000006000070630
 爱谍战,http://111.11.123.28:6610/000000001000/6000000006000070630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221015131152299181&channel-id=wasusyt&Contentid=6000000006000070630
@@ -1043,18 +1054,37 @@ key=0b292c335e5837e947f9409c59228f3e6
 广东省内,#genre#
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+大湾区卫视,http://171.110.10.10:8181/tsfile/live/1002_1.m3u8
+
 广东公共,http://9.zhxinda.xyz/gdtv.php?pk=1185
 广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
+
+
+广东新闻,http://171.110.10.10:8181/tsfile/live/1004_1.m3u8
 广东新闻,http://gxdl-lhs.8866.org:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
+广东民生,http://171.110.10.10:8181/tsfile/live/1007_1.m3u8
 广东民生,http://gxdl-lhs.8866.org:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+
+广东影视,http://171.110.10.10:8181/tsfile/live/1008_1.m3u8
 广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
+
+广东珠江,http://171.110.10.10:8181/tsfile/live/1000_1.m3u8
 广东珠江,http://gxdl-lhs.8866.org:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
 广东大湾区,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a&咪咕
+
+
+
+
 广东经济科教,http://9.zhxinda.xyz/gdtv.php?pk=1196
 广东综艺,http://9.zhxinda.xyz/gdtv.php?pk=1198
+岭南戏曲,http://171.110.10.10:8181/tsfile/live/1005_1.m3u8
+嘉佳卡通,http://171.110.10.10:8181/tsfile/live/1006_1.m3u8
+广东少儿,http://171.110.10.10:8181/tsfile/live/1009_1.m3u8
 广东少儿,http://9.zhxinda.xyz/gdtv.php?pk=1200
 
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
