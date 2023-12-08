@@ -553,6 +553,14 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://epg.pw/stream/0eab6241cf13ac3d52485869be7750cdf3d4366792dd4ac805449d6c39a4990a.m3u8
 
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
+无线新闻,http://172.96.250.37:83/hk.php?id=0 
+无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ct
+无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+
+无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 
@@ -569,14 +577,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 
 
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
-无线新闻,http://172.96.250.37:83/hk.php?id=0 
-无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ct
-无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
-无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 
-无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
 
 
