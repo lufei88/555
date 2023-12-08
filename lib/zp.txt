@@ -657,9 +657,10 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
 
+
+广东体育,http://ci.emdoor.tech:8080/touchtv.php?pk=1184
 广东体育,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/xsjtv.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://ci.emdoor.tech:8080/touchtv.php?pk=1184
 广东体育,http://171.110.10.10:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -1093,7 +1094,8 @@ key=0b292c335e5837e947f9409c59228f3e6
 
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
-广东体育,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/xsjtv.php?id=gdty
+广东体育,http://ci.emdoor.tech:8080/touchtv.php?pk=1184
+
 广东体育,http://r.jdshipin.com/LiYdg
 
 广东网络广播电视台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
