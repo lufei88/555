@@ -657,12 +657,10 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
 
-
-广东体育,http://171.110.10.10:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://119.131.240.119:8089/hls/5/index.m3u8
+广东体育,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/xsjtv.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://ci.emdoor.tech:8080/touchtv.php?pk=1184
-广东体育,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+广东体育,http://171.110.10.10:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -972,6 +970,8 @@ NewTV金牌综艺,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?chann
 爱玩具,http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
 爱玩具,http://111.11.123.28:6610/000000001000/6000000006000220630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014133340294427&channel-id=wasusyt&Contentid=6000000006000220630
 
+
+金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -983,7 +983,7 @@ NewTV金牌综艺,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?chann
 
 
 哈哈炫动,http://111.20.35.103:6610/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=00
-嘉佳卡通,http://111.20.35.103:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=00
+嘉佳卡通,http://171.110.10.10:8181/tsfile/live/1006_1.m3u8
 
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
@@ -995,7 +995,7 @@ NewTV金牌综艺,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?chann
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 
 
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+
 
 
 
@@ -1051,6 +1051,8 @@ key=0b292c335e5837e947f9409c59228f3e6
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 大湾区卫视,http://171.110.10.10:8181/tsfile/live/1002_1.m3u8
+广东大湾区,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a&咪咕
+
 
 广东公共,http://9.zhxinda.xyz/gdtv.php?pk=1185
 广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
@@ -1071,7 +1073,7 @@ key=0b292c335e5837e947f9409c59228f3e6
 
 
 
-广东大湾区,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a&咪咕
+
 
 
 
@@ -1090,6 +1092,8 @@ key=0b292c335e5837e947f9409c59228f3e6
 
 
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+
+广东体育,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/xsjtv.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
 
 广东网络广播电视台,https://glive.grtn.cn/live/wenhua_test0203.m3u8
