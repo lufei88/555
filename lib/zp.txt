@@ -870,6 +870,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 港澳台,#genre#
 凤凰香港,http://113.117.74.27:8081/hls/38/index.m3u8
+凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 
 
