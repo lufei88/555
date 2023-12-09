@@ -358,7 +358,6 @@ HZTV-2,rtp://239.77.1.233:5146
 
 央视频道,#genre#
 
-
 CCTV-1,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
 CCTV-1,http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8?icpid=651&from=38&hms_devid=2232&online=1687246054&vqe=3
 CCTV-1,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
@@ -462,7 +461,6 @@ CCTV美洲,http://202.182.127.76:9870/go11.php?name=cctvmz&t=1
 
 
 卫视频道2,#genre#
-
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
@@ -922,15 +920,14 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
-香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+香港卫视文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 翡翠台,http://cdn.jdshipin.com:8880/gdfc406.php
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
-
+明珠台,http://www.namewee.xyz/gudou.php?id=1351
 
 
 娱乐新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
