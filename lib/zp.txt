@@ -248,7 +248,6 @@ IPTV5+,rtp://239.77.0.176:5146
 
 
 北京卫视,http://117.141.149.101:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://113.117.74.18:8081/hls/48/index.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京卫视,rtp://239.77.1.4:5146
 北京卫视,rtp://239.77.1.151:5146
@@ -267,8 +266,9 @@ IPTV5+,rtp://239.77.0.176:5146
 
 
 
-山东卫视HD,http://113.117.74.18:8081/hls/75/index.m3u8
-山东卫视HD,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1591381721_-1603694084/wd_r4/yg/shandongwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261825&timezone=UTC&mtv_session=af16f8bbf042e18571b0c4dd8335d42c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fb1405a16fc8244a94df4ac18675a58f
+
+山东卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1591381721_-1603694084/wd_r4/yg/shandongwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261825&timezone=UTC&mtv_session=af16f8bbf042e18571b0c4dd8335d42c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fb1405a16fc8244a94df4ac18675a58f
+山东卫视,http://113.117.74.18:8081/hls/75/index.m3u8
 山东卫视,rtp://239.77.1.142:5146
 山东卫视,rtp://239.77.1.153:5146
 山东卫视,rtp://239.77.0.94:5146
@@ -278,9 +278,8 @@ IPTV5+,rtp://239.77.0.176:5146
 江西卫视,rtp://239.77.1.219:5146
 江西卫视,rtp://239.77.0.149:5146
 
-湖北卫视HD,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1591694976_-107212910/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261978&timezone=UTC&mtv_session=437fc6e8d29c853ca88935e2fd49acea&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d50581461bffa6a3d876b8cc8a1ebce
+湖北卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1591694976_-107212910/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261978&timezone=UTC&mtv_session=437fc6e8d29c853ca88935e2fd49acea&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d50581461bffa6a3d876b8cc8a1ebce
 湖北卫视,http://117.141.149.101:9901/tsfile/live/0132_1.m3u8
-
 湖北卫视,rtp://239.77.1.93:5146
 湖北卫视,rtp://239.77.1.174:5146
 湖北卫视,rtp://239.77.0.95:5146
@@ -324,7 +323,7 @@ IPTV5+,rtp://239.77.0.176:5146
 云南卫视,rtp://239.253.43.37:5146
 云南卫视,rtp://239.253.43.100:5146
 
-重庆卫视,http://113.117.74.18:8081/hls/76/index.m3u8
+
 重庆卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1589064099_-704327727/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262033&timezone=UTC&mtv_session=90df447b59006f4434fec2d4695f28a7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8bbc2e41f5b3f80d0b069addb6f1df46
 重庆卫视,rtp://239.77.1.162:5146
 重庆卫视,rtp://239.77.1.210:5146
@@ -351,8 +350,9 @@ IPTV5+,rtp://239.77.0.176:5146
 广西卫视,rtp://239.77.0.139:5146
 
 
-吉林卫视,http://117.141.149.101:9901/tsfile/live/0116_1.m3u8
+
 吉林卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1589344314_453295178/envivo_v/2018/SD/jilin/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262154&timezone=UTC&mtv_session=a8fd605fabf2ca0814b5a56aee04bc2d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ec7257d80b3cd8e4a5590413a5e9cb93
+吉林卫视,http://117.141.149.101:9901/tsfile/live/0116_1.m3u8
 吉林卫视,rtp://239.77.1.111:5146
 吉林卫视,rtp://239.77.0.150:5146
 
@@ -388,9 +388,9 @@ IPTV5+,rtp://239.77.0.176:5146
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 
 
-新疆卫视,http://113.117.74.18:8081/hls/82/index.m3u8
-新疆卫视,http://hms2844nc1972666628.live.aikan.miguvideo.com/wh7f454c46tw1593800523_-1493781639/wd-xinjiangwssd-600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=531262095&timezone=UTC&mtv_session=864a45b4901ac5ef45e66eda73f46964&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2ecb1cbf330584c821ad5f41b74ff983
 
+新疆卫视,http://hms2844nc1972666628.live.aikan.miguvideo.com/wh7f454c46tw1593800523_-1493781639/wd-xinjiangwssd-600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=531262095&timezone=UTC&mtv_session=864a45b4901ac5ef45e66eda73f46964&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2ecb1cbf330584c821ad5f41b74ff983
+新疆卫视,http://113.117.74.18:8081/hls/82/index.m3u8
 
 
 西藏卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1594087791_1409479634/envivo_x/2018/SD/xizang/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=524854265&timezone=UTC&mtv_session=5640f857e31349921ba36207946fa904&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=df71711e34a615ea23f680ef139afb1d
