@@ -206,7 +206,7 @@ IPTV5+,rtp://239.77.0.176:5146
 广东卫视,http://113.117.74.18:8081/hls/145/index.m3u8
 广东卫视,http://113.117.74.18:8081/hls/140/index.m3u8
 
-大湾区卫视,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a
+
 
 
 深圳卫视,http://117.141.149.101:9901/tsfile/live/0126_1.m3u8
