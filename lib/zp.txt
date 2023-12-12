@@ -1,4 +1,4 @@
-央视电信,#genre#
+央视频道,#genre#
 
 CCTV-1,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266
 CCTV-1,http://61.160.247.140:2356/77.php?id=cctv1
@@ -143,15 +143,11 @@ cnc家庭电影,http://113.117.74.18:8081/hls/61/index.m3u8
 
 
 
-卫视电信,#genre#
-
-
-
+卫视频道,#genre#
 广东卫视,http://hms2924nc1972666636.live.aikan.miguvideo.com/wh7f454c46tw1592898240_-1957872936/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=263541274&timezone=UTC&mtv_session=d190c97b4980b8b8fc8fe749d33c4b53&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d7d16b4dab836849b2d69de0c71c0881
 广东卫视,http://hms2924nc1972666635.live.aikan.miguvideo.com/wh7f454c46tw1593177896_517539519/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=263541274&timezone=UTC&mtv_session=4d4e96518e2e6558846eec1f7e8cb4c1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cbba4b3db62cb6fb348d495ad003a2c8
 广东卫视,http://61.160.247.140:2356/77.php?id=gdws
 广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-
 广东卫视,http://113.117.74.18:8081/hls/145/index.m3u8
 广东卫视,http://113.117.74.18:8081/hls/140/index.m3u8
 
@@ -185,7 +181,7 @@ cnc家庭电影,http://113.117.74.18:8081/hls/61/index.m3u8
 
 安徽卫视,http://117.141.149.101:9901/tsfile/live/0130_1.m3u8
 
-北京卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
+
 北京卫视,http://117.141.149.101:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 
@@ -206,7 +202,7 @@ cnc家庭电影,http://113.117.74.18:8081/hls/61/index.m3u8
 
 
 
-江西卫视,http://hms2844nc1972666627.live.aikan.miguvideo.com/wh7f454c46tw1592308998_-1889199081/migu/kailu/jxwshd/57/20190820/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=531262091&timezone=UTC&mtv_session=de50cbe717aa7f99a96fffd956d81e51&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f8930b959a901748e45e2615bac60f75
+
 江西卫视,http://113.195.162.70:9901/tsfile/live/1039_1.m3u8
 
 
@@ -215,8 +211,9 @@ cnc家庭电影,http://113.117.74.18:8081/hls/61/index.m3u8
 
 
 
-辽宁卫视,http://61.160.247.140:2356/77.php?id=lnws
+
 辽宁卫视,http://hms2924nc1972666635.live.aikan.miguvideo.com/wh7f454c46tw1589644797_1577190639/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=265669068&timezone=UTC&mtv_session=4adbe497fcc87ddaaa343726a3a14c13&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b336009b46cc80be11d75c763cb6fe70
+辽宁卫视,http://61.160.247.140:2356/77.php?id=lnws
 辽宁卫视,http://117.141.149.101:9901/tsfile/live/0121_1.m3u8
 
 
@@ -239,7 +236,7 @@ cnc家庭电影,http://113.117.74.18:8081/hls/61/index.m3u8
 
 
 云南卫视,http://117.141.149.101:9901/tsfile/live/0119_1.m3u8
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+
 
 
 重庆卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1589064099_-704327727/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262033&timezone=UTC&mtv_session=90df447b59006f4434fec2d4695f28a7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8bbc2e41f5b3f80d0b069addb6f1df46
@@ -295,7 +292,7 @@ cnc家庭电影,http://113.117.74.18:8081/hls/61/index.m3u8
 
 
 
-宁夏卫视,http://hms2844nc1972666628.live.aikan.miguvideo.com/wh7f454c46tw1590245808_-2084121214/envivo_x/2018/SD/ningxia/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531261057&timezone=UTC&mtv_session=83a38128827a852ce1724296852f857e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=17f4b89974b2ed1e654453d44f9968b1
+
 宁夏卫视,http://113.117.74.18:8081/hls/73/index.m3u8
 宁夏卫视,http://117.141.149.101:9901/tsfile/live/0112_1.m3u8
 
@@ -317,7 +314,6 @@ cnc家庭电影,http://113.117.74.18:8081/hls/61/index.m3u8
 
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
-大湾区卫视,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a
 
 地方电信,#genre#
 广州综合,http://rihou.cc:61/qiepian/gdgz.php?id=zhonghe
