@@ -624,50 +624,46 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
  
 体育频道,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+
+超级体育,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3&HlsProfileId=
 超级体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
-超级体育,http://39.135.238.76/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
-超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-超级体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=4
-超级体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=4
-超级体育,http://39.134.65.208/PLTV/88888888/224/3221225635/index.m3u8
-超级体育,http://39.135.238.76/000000001000PLTV/88888888/224/3221248116/1.m3u8?HlsProfileId=
-咪咕足球,http://39.134.66.66/PLTV/88888888/224/3221225895/index.m3u8
-咪咕足球,http://39.134.65.149/PLTV/88888888/224/3221225895/index.m3u8
-咪咕赛事,http://39.134.66.66/PLTV/88888888/224/3221225897/index.m3u8
-咪咕籃球,http://39.134.65.149/PLTV/88888888/224/3221225897/index.m3u8
+
+精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
+超级体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
+
+
+
+
 
 精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
 精品体育,http://111.40.196.30:443/PLTV/88888888/224/3221225608/1.m3u8
-精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
-精品体育,http://39.135.238.76/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
-精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-精品体育,http://111.40.196.37:443/PLTV/88888888/224/3221225608/1.m3u8
-精品体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=4
 
-劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+
+
+
 劲爆体育,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
-劲爆体育,http://202.182.127.76:9870/go11.php?name=%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2
+
 
 
 
 
 CCTV5-,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV-央视台球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV-央视台球,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+
+
+
+
+
+
 
 风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83
 
 
-魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-魅力足球,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
+
 
 
 
@@ -682,11 +678,9 @@ CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/32212269
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
 
 
-
-广东体育,http://angtv.cc/jd/gdlz.php?id=dgty
-广东体育,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/xsjtv.php?id=gdty
+广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://171.110.10.10:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
