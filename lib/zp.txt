@@ -1,4 +1,4 @@
-央视电信,#genre#
+央视电信专线,#genre#
 
 
 
@@ -136,7 +136,7 @@ cnc家庭电影,http://113.117.74.18:8081/hls/61/index.m3u8
 
 
 
-卫视电信,#genre#
+卫视电信专线,#genre#
 
 北京卫视,http://live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR 
 北京卫视,http://117.141.149.101:9901/tsfile/live/0122_1.m3u8
@@ -290,7 +290,7 @@ cnc家庭电影,http://113.117.74.18:8081/hls/61/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 
-地方电信,#genre#
+地方电信专线,#genre#
 
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 
@@ -321,7 +321,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 
 
 
-央视移动,#genre#
+央视移动专线,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -455,7 +455,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 
-港澳台,#genre#
+港●澳●台,#genre#
 凤凰香港,http://113.117.74.27:8081/hls/38/index.m3u8
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
