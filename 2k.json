@@ -64,16 +64,24 @@
        "jar": "./jar/wogg.jar"
     },
     
+  
+
+
     {
-      "key": "csp_WoGG2",
-      "name": "👽天招4K超清4┃速度快",       //玩偶云盘
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "👲┃玩偶┃影视",
+      "api": "csp_Panda",
       "type": 3,
-      "api": "csp_WoGG",
       "searchable": 1,
-      "quickSearch": 1,
+      "playerType": 2,
+      "timeout": 30,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "http://dt.xn--yety82d.love/玩偶表哥.json"
     },
+
+
+
+
 
 
 
