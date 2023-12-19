@@ -2097,52 +2097,111 @@ cctv1,http://39.135.238.96:80/wh7f454c46tw2328790258_-626908037/000000001000PLTV
 cctv1,http://43.138.170.29/tv/migu.php?id=cctv1
 
 
-cctv1,http://39.135.238.96:80/wh7f454c46tw2328790258_-626908037/000000001000PLTV/88888888/224/3221236219/1702970237-1-1698266946.hls.ts?cmcc_cid=PLTV%2F88888888%2F224%2F3221236219&HlsSubType=2&HlsProfileId=0
-
-
-
 cctv2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-
 
 cctv2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?fbl=$QWDX%E8%B6%85%E6%B8%85
 
 cctv2,http://39.135.238.69/wh7f454c46tw4242191078_-1456811023/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=&icpid=123&RTS=1702430494&from=6&popid=6&hms_devid=3776&prioritypopid=6&vqe=3
-
-cctv2,http://39.135.238.61:80/wh7f454c46tw71505688_-782180619/000000001000PLTV/88888888/224/3221235743/1702963158-1-1698266238.hls.ts?cmcc_cid=PLTV%2F88888888%2F224%2F3221235743&HlsSubType=2&HlsProfileId=0`
-
 cctv2,http://39.135.238.61:80/wh7f454c46tw71505688_-782180619/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=&icpid=123&RTS=1702963194&from=6&popid=6&hms_devid=3780&prioritypopid=6&vqe=3
-
-
-cctv3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/1702699610-1-1702511328.hls.ts
-
-cctv4,http://39.135.238.59:80/wh7f454c46tw571018779_-2107114331/000000001000PLTV/88888888/224/3221236202/1702963656-1-1698266293.hls.ts?cmcc_cid=PLTV%2F88888888%2F224%2F3221236202&HlsSubType=2&HlsProfileId=0
-
-
-cctv4,http://39.135.238.59:80/wh7f454c46tw571018779_-2107114331/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=&icpid=123&RTS=1702963693&from=6&popid=6&hms_devid=3781&prioritypopid=6&vqe=3
+cctv2,http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
 
 
 
-cctv4,http://h5.live.miguvideo.com/wd_r2/cctv/cctv4hd/600/20231202001818-01-151634.ts?msisdn=2023121913314180ca9d8b1d2046f9bc1e704fb5961dbc&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20231219133141&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=58.216.25.31&SecurityKey=20231219133141&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-6.12.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&mtv_session=e28eb2e79e7f9a9ee1038bce898734a4&encrypt=197d7e5c902b8ea295a92525364378b5&HlsProfileId=1&HlsSubType=2
+cctv3,http://39.134.24.166//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 
 
-cctv4,http://60.255.241.171:20010/live/8ne5i_sccn,CCTV-4H265_hls_pull_4000K/283/827/340.ts?vhost=live2.rxip.sc96655.com
+cctv4,http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
 
-cctv4,http://39.135.238.59/wh7f454c46tw1586202730_-207485748/000000001000PLTV/88888888/224/3221236202/1702964532-1-1698266380.hls.ts?cmcc_cid=PLTV%2F88888888%2F224%2F3221236202&HlsSubType=2&HlsProfileId=0
+cctv4,http://43.138.170.29/tv/migu.php?id=cctv4
 
-cctv4,http://39.134.134.89:80/wh7f454c46tw1906892849_29340850/000000001000PLTV/88888888/224/3221236202/1702965004-1-1698266427.hls.ts?cmcc_cid=PLTV%2F88888888%2F224%2F3221236202&HlsSubType=2&HlsProfileId=0
+cctv4,http://api.wemtime.com/sxgv4.php?id=CCTV-4H265_4000
+
+cctv4,http://39.135.238.59/wh7f454c46tw1586202730_-207485748/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=&icpid=123&RTS=1702380593&from=6&popid=6&hms_devid=3781&prioritypopid=6&vqe=3
 
 
-
-cctv5,http://hlslive-hs-cdn.ysp.cctv.cn/8034149BF3C0298E97DF780E5EB93FEDD09D1A174AC52292B2C9B9F8D617F52801E2AAA1789014A269118DC82CC6E4D817114EB51C3961727FA5608343153A3AC83DB706E8D96849B803B52B03326F46238CFB8D682F0DB877D9792932122FA3/2000205103-1702718020.ts
+cctv5,http://jh.d7g.cn/v/ysptv.php?id=cctv5
+cctv5,http://hls.ye23.vip/dl/migu2209.php?id=cctv5
 cctv5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+cctv5,http://112.91.153.50:9901/tsfile/live/0005_1.m3u8
+
+
+cctv6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+cctv6,http://hls.ye23.vip/dl/migu2209.php?id=cctv6
+cctv6,http://mgsp-tx.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv6hd/2000/01.m3u8?msisdn=2023121911533862b6979a3d624577b0ba68e626b2e03f&mdspid=&spid=699004&netType=4&sid=5500212872&pid=2028597139&timestamp=20231219115338&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=183.17.58.166&SecurityKey=20231219115338&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-6.12.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&mtv_session=eb7fe1a2b62a3743a5618c666241d8dd&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e43bf26e7ceef2a2ed3cec6a8a1d8818
+
+
+cctv7,http://111.13.111.242/000000001000PLTV/88888888/224/3221235759/1.m3u8?HlsProfileId=
+
+cctv7,http://39.134.134.84/wh7f454c46tw2804288513_-1969648138/000000001000PLTV/88888888/224/3221235759/1.m3u8?HlsProfileId=&icpid=123&RTS=1702781243&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3
+
+
+cctv8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+cctv8,http://hls.ye23.vip/dl/migu2209.php?id=cctv8
+
+
+cctv9,http://39.134.134.87/wh7f454c46tw3963116022_-868165488/000000001000PLTV/88888888/224/3221235767/1.m3u8?HlsProfileId=&icpid=123&RTS=1702696502&from=6&popid=6&hms_devid=3728&prioritypopid=6&vqe=3
+
+cctv9,http://111.13.111.242/000000001000PLTV/88888888/224/3221235767/1.m3u8?HlsProfileId=
+cctv9,http://hls.ye23.vip/dl/migu2209.php?id=cctv9
+
+
+cctv10,http://jh.d7g.cn/v/ysptv.php?id=cctv10
+cctv10,http://43.138.170.29/tv/migu.php?id=cctv10
+cctv10,http://hls.ye23.vip/dl/migu2209.php?id=cctv10
+cctv10,http://jh.d7g.cn/v/ysptv.php?id=cctv10
+
+
+cctv11,http://111.13.111.242/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
+cctv11,http://43.138.170.29/tv/migu.php?id=cctv11
+
+cctv11,http://39.134.135.81/wh7f454c46tw961846798_-49079992/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=&icpid=123&RTS=1702525997&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3
+
+
+cctv12,http://111.13.111.242/000000001000PLTV/88888888/224/3221235735/1.m3u8?HlsProfileId=
+cctv12,http://jh.d7g.cn/v/ysptv.php?id=cctv12
+
+
+cctv13,http://111.13.111.242/000000001000PLTV/88888888/224/3221236187/1.m3u8?HlsProfileId=
+cctv13,http://39.134.134.47/wh7f454c46tw4291951280_1285335872/000000001000PLTV/88888888/224/3221236187/1.m3u8?HlsProfileId=&icpid=123&RTS=1702533623&from=6&popid=6&hms_devid=3773&prioritypopid=6&vqe=3
+
+cctv13,http://43.138.170.29/tv/migu.php?id=cctv13
+
+
+cctv14,http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
+
+cctv14,http://39.135.238.49/wh7f454c46tw2642166139_-185013558/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=&icpid=123&RTS=1702385944&from=6&popid=6&hms_devid=3733&prioritypopid=6&vqe=3
+
+
+cctv14,http://43.138.170.29/tv/migu.php?id=cctv14
 
 
 
+cctv15,http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
+
+cctv15,http://43.138.170.29/tv/migu.php?id=cctv15
 
 
+cctv15,http://39.134.134.88/wh7f454c46tw2334245894_758635724/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=&icpid=123&RTS=1702535960&from=6&popid=6&hms_devid=3727&prioritypopid=6&vqe=3
+
+cctv15,http://hls.ye23.vip/dl/migu2209.php?id=cctv15
 
 
+cctv5+,http://api.wemtime.com/sxgv4.php?id=CCTV-5plusH265_4000
 
+cctv5+,http://jh.d7g.cn/v/ysptv.php?id=cctv5p
+
+cctv5+,http://hls.ye23.vip/dl/migu2209.php?id=cctv5p
+
+cctv5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+
+
+cctv17,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=
+
+cctv17,http://hls.ye23.vip/dl/migu2209.php?id=cctv17
+
+cctv17,http://39.135.238.101/wh7f454c46tw3690546760_1397247751/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=&icpid=123&RTS=1702537316&from=6&popid=6&hms_devid=3778&prioritypopid=6&vqe=3
+
+央视精选,http://ha.wheel.duolebo.com/live.m3u8?p=0ee1f21e-9122-49a0-bb4a-bf4a9832ac12&c=1599701720&m3u8=true
 卡酷少儿,http://live.aishang.ctlcdn.com/00000110240051_1/playlist.m3u8?CONTENTID=00000110240051_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 新动漫,http://live.aishang.ctlcdn.com/00000110240321_1/playlist.m3u8?CONTENTID=00000110240321_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 网络棋牌,http://live.aishang.ctlcdn.com/00000110240319_1/playlist.m3u8?CONTENTID=00000110240319_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
