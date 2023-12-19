@@ -39,7 +39,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/tvbox/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹",
       "jar": "./xiaomi2.jar"
       
 
