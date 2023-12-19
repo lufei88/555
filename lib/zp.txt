@@ -62,10 +62,12 @@ CCTV-7,http://39.134.134.84/wh7f454c46tw2804288513_-1969648138/000000001000PLTV/
 CCTV-7,http://hls.ye23.vip/dl/migu2209.php?id=cctv7
 
 
-CCTV-7,http://api.wemtime.com/sxgv4.php?id=CCTV-7H265_4000
-CCTV-8,http://jh.d7g.cn/v/ysptv.php?id=cctv8
+
+CCTV-8,http://api.wemtime.com/sxgv4.php?id=CCTV-8H265_4000
 CCTV-8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8,http://hls.ye23.vip/dl/migu2209.php?id=cctv8
+CCTV-8,http://jh.d7g.cn/v/ysptv.php?id=cctv8
+
 
 
 CCTV-9,http://api.wemtime.com/sxgv4.php?id=CCTV-9H265_4000
