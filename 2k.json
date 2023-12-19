@@ -31,6 +31,25 @@
       
     },
 
+    {
+      "key": "csp_WoGG",
+      "name": "👽天招4K超清2┃速度快",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./tvbox/tok.txt+4k|auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+      "jar": "./xiaomi2.jar"
+      
+
+    },
+
+
+
+
+
+
 
     
         {
