@@ -69,19 +69,14 @@
 
     {
       "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃天招4K超清4┃速度快",
+      "name": "👲┃玩偶┃影视",
       "api": "csp_Panda",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
-     
-
-      "ext": {
-        "token": "1ae65bad78b44ad38c884f4a27dfe26f",
-        "filter": "./lib/玩偶表哥.json"
-      },
+      "ext": "./lib/玩偶表哥.json",
        "jar": "./jar/PandaQ231205.jar"
 
 
