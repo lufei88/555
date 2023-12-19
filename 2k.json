@@ -31,7 +31,18 @@
       
     },
 
- 
+     {
+      "key": "csp_WoGG1",
+      "name": "🎈天招4K超清2┃速度快",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+
+      "jar": "./xiaomi2.jar"
+    },
 
 
 
