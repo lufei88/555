@@ -69,14 +69,14 @@
 
     {
       "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃影视",
+      "name": "👲┃天招4K超清3┃速度快",
       "api": "csp_Panda",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
-      "ext": "./lib/玩偶表哥.json",
+      "ext": "./lib/玩偶表哥.json",   //要去修改该文件里面的KEY,记得
        "jar": "./jar/PandaQ231205.jar"
 
 
