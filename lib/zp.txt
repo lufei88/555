@@ -2101,7 +2101,8 @@ cctv1,http://39.135.238.96:80/wh7f454c46tw2328790258_-626908037/000000001000PLTV
 
 
 
-cctv2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/1702950248.ts?wsApp=HLS
+cctv2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+
 
 cctv2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?fbl=$QWDX%E8%B6%85%E6%B8%85
 
