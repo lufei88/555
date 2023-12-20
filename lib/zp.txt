@@ -1,18 +1,20 @@
 央视卫视,#genre#
-CCTV-1,http://111.13.111.242/000000001000PLTV/88888888/224/3221248112/1.m3u8?HlsProfileId=
-CCTV-1,http://jh.d7g.cn/v/ysptv.php?id=cctv1
+
+
 CCTV-1,http://api.wemtime.com/sxgv4.php?id=CCTV-1H265_4000
-CCTV-1,http://39.135.238.96:80/wh7f454c46tw2328790258_-626908037/000000001000PLTV/88888888/224/3221236219/1.m3u8?HlsProfileId=&icpid=123&RTS=1702647624&from=6&popid=6&hms_devid=3777&prioritypopid=6&vqe=3
+CCTV-1,http://jh.d7g.cn/v/ysptv.php?id=cctv1
 CCTV-1,http://hls.ye23.vip/dl/migu2209.php?id=cctv1
 CCTV-1,http://43.138.170.29/tv/migu.php?id=cctv1
+CCTV-1,http://111.13.111.242/000000001000PLTV/88888888/224/3221248112/1.m3u8?HlsProfileId=
+
+
+
 
 CCTV-2,http://api.wemtime.com/sxgv4.php?id=CCTV-2H265_4000
 CCTV-2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV-2,http://jh.d7g.cn/v/ysptv.php?id=cctv2
 CCTV-2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?fbl=$QWDX%E8%B6%85%E6%B8%85
-CCTV-2,http://39.135.238.69/wh7f454c46tw4242191078_-1456811023/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=&icpid=123&RTS=1702430494&from=6&popid=6&hms_devid=3776&prioritypopid=6&vqe=3
 CCTV-2,http://39.135.238.61:80/wh7f454c46tw71505688_-782180619/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=&icpid=123&RTS=1702963194&from=6&popid=6&hms_devid=3780&prioritypopid=6&vqe=3
-CCTV-2,http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
 CCTV-2,http://hls.ye23.vip/dl/migu2209.php?id=cctv2
 
 
@@ -20,17 +22,17 @@ CCTV-3,http://api.wemtime.com/sxgv4.php?id=CCTV-3H265_4000
 CCTV-3,http://jh.d7g.cn/v/ysptv.php?id=cctv3
 CCTV-3,http://39.134.24.166//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV-3,http://hls.ye23.vip/dl/migu2209.php?id=cctv3
+CCTV-3,http://43.138.170.29/tv/migu.php?id=cctv3
 
 
 
 
-CCTV-4,http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
-CCTV-4,http://43.138.170.29/tv/migu.php?id=cctv4
 CCTV-4,http://api.wemtime.com/sxgv4.php?id=CCTV-4H265_4000
+CCTV-4,http://43.138.170.29/tv/migu.php?id=cctv4
 CCTV-4,http://39.135.238.59/wh7f454c46tw1586202730_-207485748/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=&icpid=123&RTS=1702380593&from=6&popid=6&hms_devid=3781&prioritypopid=6&vqe=3
 CCTV-4,http://hls.ye23.vip/dl/migu2209.php?id=cctv4
 CCTV-4,http://jh.d7g.cn/v/ysptv.php?id=cctv4
-
+CCTV-4,http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
 
 
 
@@ -85,14 +87,14 @@ CCTV-10,http://jh.d7g.cn/v/ysptv.php?id=cctv10
 
 
 
-
-CCTV-11,http://111.13.111.242/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
 CCTV-11,http://43.138.170.29/tv/migu.php?id=cctv11
+CCTV-11,http://111.13.111.242/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
 CCTV-11,http://39.134.135.81/wh7f454c46tw961846798_-49079992/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=&icpid=123&RTS=1702525997&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3
 CCTV-11,http://hls.ye23.vip/dl/migu2209.php?id=cctv11
 
 
 CCTV-12,http://api.wemtime.com/sxgv4.php?id=CCTV-12H265_4000
+CCTV-12,http://43.138.170.29/tv/migu.php?id=cctv12
 CCTV-12,http://111.13.111.242/000000001000PLTV/88888888/224/3221235735/1.m3u8?HlsProfileId=
 CCTV-12,http://jh.d7g.cn/v/ysptv.php?id=cctv12
 CCTV-12,http://hls.ye23.vip/dl/migu2209.php?id=cctv12
@@ -100,42 +102,39 @@ CCTV-12,http://hls.ye23.vip/dl/migu2209.php?id=cctv12
 
 
 
-
+CCTV-13,http://jh.d7g.cn/v/ysptv.php?id=cctv13
+CCTV-13,http://43.138.170.29/tv/migu.php?id=cctv13
+CCTV-13,http://hls.ye23.vip/dl/migu2209.php?id=cctv13
 CCTV-13,http://111.13.111.242/000000001000PLTV/88888888/224/3221236187/1.m3u8?HlsProfileId=
 
 CCTV-13,http://39.134.134.47/wh7f454c46tw4291951280_1285335872/000000001000PLTV/88888888/224/3221236187/1.m3u8?HlsProfileId=&icpid=123&RTS=1702533623&from=6&popid=6&hms_devid=3773&prioritypopid=6&vqe=3
-CCTV-13,http://43.138.170.29/tv/migu.php?id=cctv13
-CCTV-13,http://hls.ye23.vip/dl/migu2209.php?id=cctv13
-CCTV-13,http://jh.d7g.cn/v/ysptv.php?id=cctv13
 
 
 
 
 CCTV-14,http://api.wemtime.com/sxgv4.php?id=CCTV-14H265_4000
-CCTV-14,http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
-CCTV-14,http://39.135.238.49/wh7f454c46tw2642166139_-185013558/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=&icpid=123&RTS=1702385944&from=6&popid=6&hms_devid=3733&prioritypopid=6&vqe=3
 CCTV-14,http://43.138.170.29/tv/migu.php?id=cctv14
 CCTV-14,http://hls.ye23.vip/dl/migu2209.php?id=cctv14
 CCTV-14,http://jh.d7g.cn/v/ysptv.php?id=cctv14
+CCTV-14,http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
+CCTV-14,http://39.135.238.49/wh7f454c46tw2642166139_-185013558/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=&icpid=123&RTS=1702385944&from=6&popid=6&hms_devid=3733&prioritypopid=6&vqe=3
 
 
 
 
-CCTV-15,http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
-CCTV-15,http://43.138.170.29/tv/migu.php?id=cctv15
-CCTV-15,http://39.134.134.88/wh7f454c46tw2334245894_758635724/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=&icpid=123&RTS=1702535960&from=6&popid=6&hms_devid=3727&prioritypopid=6&vqe=3
-CCTV-15,http://hls.ye23.vip/dl/migu2209.php?id=cctv15
 CCTV-15,http://jh.d7g.cn/v/ysptv.php?id=cctv15
+CCTV-15,http://43.138.170.29/tv/migu.php?id=cctv15
+CCTV-15,http://hls.ye23.vip/dl/migu2209.php?id=cctv15
+CCTV-15,http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
+CCTV-15,http://39.134.134.88/wh7f454c46tw2334245894_758635724/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=&icpid=123&RTS=1702535960&from=6&popid=6&hms_devid=3727&prioritypopid=6&vqe=3
 
 
 
-
-CCTV-17,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=
+CCTV-17,http://jh.d7g.cn/v/ysptv.php?id=cctv17
+CCTV-17,http://43.138.170.29/tv/migu.php?id=cctv17
 CCTV-17,http://hls.ye23.vip/dl/migu2209.php?id=cctv17
 CCTV-17,http://39.135.238.101/wh7f454c46tw3690546760_1397247751/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=&icpid=123&RTS=1702537316&from=6&popid=6&hms_devid=3778&prioritypopid=6&vqe=3
-CCTV-17,http://hls.ye23.vip/dl/migu2209.php?id=cctv17
-CCTV-17,http://jh.d7g.cn/v/ysptv.php?id=cctv17
-
+CCTV-17,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=
 
 
 
