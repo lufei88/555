@@ -1,6 +1,5 @@
 央视卫视,#genre#
 
-
 cctv1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&authCode=3a&stbId=004903FF000248000004A8BD3A9D31A0
 
 cctv1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=120.239.55.178&timestamp=20231221124041&encrypt=72c5f59a058c168a710ad12beebb9459&ContentId=265183188&timezone=UTC
@@ -10,7 +9,9 @@ cctv1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=
 cctv1,http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2023122120454809353c67ca9847f2b1be7a7e2c6c4b16&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20231221204548&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=120.239.55.178&SecurityKey=20231221204548&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-6.12.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=7bec4ddab4c245646e9074e21532f56c
 
 
-cctv1,gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20231221204554a12928e803c640c5b47fb5453487ab13&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20231221204554&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=120.239.55.178&SecurityKey=20231221204554&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-6.12.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=cabf09f0efa4d4db6a025fceb0ea48e2
+cctv1,http://cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&authCode=3a&stbId=381001000000004000001A2B3C4D5E6F&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1772761703163373315&AuthInfo=iLXPSBa%2BDR34rZ0yMNNDDc4pGTJZc1VCPpfsNdYPlFJ758y2Mr3aPAuph7ipZ%2BbwmJm6SYYi3DJ0xDHNo3FxeWtcK%2BNnVzhrA9MgVfsinV2Y%2F6%2BQPKYQ6WNzX6iYn%2B80
+
+cctv1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&authCode=3a&stbId=381001000000004000001A2B3C4D5E6F
 
 CCTV-1,http://jh.d7g.cn/v/ysptv.php?id=cctv1
 CCTV-1,http://hls.ye23.vip/dl/migu2209.php?id=cctv1
