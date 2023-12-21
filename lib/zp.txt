@@ -1,6 +1,7 @@
 央视卫视,#genre#
 
 
+cctv1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=7780104586873900361&livemode=1&authCode=3a&stbId=004303000001101017077868F7D02298
 
 CCTV-1,http://jh.d7g.cn/v/ysptv.php?id=cctv1
 CCTV-1,http://hls.ye23.vip/dl/migu2209.php?id=cctv1
