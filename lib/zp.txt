@@ -13,6 +13,33 @@ cctv1,http://cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000021
 
 cctv1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&authCode=3a&stbId=381001000000004000001A2B3C4D5E6F
 
+
+
+
+
+cctv2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+
+cctv2,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&authCode=3a&stbId=004501FF0001061001B154C57A2FE047
+
+cctv2,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=120.239.55.178&timestamp=20231221132253&encrypt=969eaa3b5827f03edfcd6f8e91c8760d&ContentId=265667329&timezone=UTC
+
+cctv2,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw4282580683_2035730646/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=120.239.55.178&timestamp=20231221132253&encrypt=7eb3d063ec4f14fc05fa2aef59992438&ContentId=265667329&timezone=UTC&mtv_session=969eaa3b5827f03edfcd6f8e91c8760d&icpid=88888888&RTS=1703164973&from=12&hms_devid=2944&online=1703164973
+
+
+cctv2,http://play.miguvideo.com/playurl/v1/play/playurl?audio=false&contId=631780532&dolby=true&drm=true&mgdbId=&nt=4&os=10.0.2&ott=false&rateType=4&salt=75085875&serialId=false&serialNo=true&sign=1dd07cb0ef55054ced70eb619c1ee593&startPlay=true&timestamp=1703165184482&ua=iPhone7%2C2&vr=true&xavs2=true&xh265=true
+
+
+cctv2,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&authCode=3a&stbId=003703FF00196800160588947E9AB501
+
+cctv2,http://cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&authCode=3a&stbId=003703FF00196800160588947E9AB501&version=1.0&owaccmark=1000000001000023315&owchid=ystenlive&owsid=2264271703165314436&AuthInfo=Jkr7n7fbBx59e2IKDftaSsisbxGLU%2Bk0fkO%2B1nARhXN758y2Mr3aPAuph7ipZ%2Bbwmp7GIYiiN%2Byd3VgIkyCHlgnyYz4ouvjbEPRHDXevJt%2B%2BIJNPKoCS6%2BFZoFbvvsEO
+
+
+
+
+
+
+
+
 CCTV-1,http://jh.d7g.cn/v/ysptv.php?id=cctv1
 CCTV-1,http://hls.ye23.vip/dl/migu2209.php?id=cctv1
 CCTV-1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
