@@ -1151,8 +1151,8 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 精品体育,http://111.40.196.30:443/PLTV/88888888/224/3221225608/1.m3u8
 
 
-
-
+劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+劲爆体育,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 
@@ -1165,8 +1165,8 @@ CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 
 
 
-风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://202.182.127.76:9870/go11.php?name=%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83
+风云足球,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
+风云足球,http://58.19.13.92:9901/tsfile/live/1034_1.m3u8
 
 
 
@@ -1176,12 +1176,7 @@ CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 
 足球频道,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000066&livemode=1&stbId=3&HlsProfileId=
 
-咪咕体育1,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=3&HlsProfileId=
-咪咕体育2,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=3&HlsProfileId=
-咪咕体育3,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=3&HlsProfileId=
-咪咕体育5,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000063&livemode=1&stbId=3&HlsProfileId=
-咪咕体育6,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=3&HlsProfileId=
-咪咕视体育7,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=3&HlsProfileId=
+
 
 
 
@@ -1197,8 +1192,7 @@ CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958720221014133348301959&channel-id=wasusyt&Contentid=6000000006000230630
 爱电竞,http://111.11.123.28:6610/000000001000/6000000006000230630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961420221014133349297209&channel-id=wasusyt&Contentid=6000000006000230630
 
-
-广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
+广东体育,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 
 
