@@ -2560,7 +2560,7 @@ CCTV15-音乐,http://39.162.16.88:9901/tsfile/live/0015_1.m3u8
 重庆卫视,http://39.162.16.88:9901/tsfile/live/0142_1.m3u8
 
 
-测试磊磊,#genre#
+测2222,#genre#
 Star World,http://47.242.38.45:9999/twjd678-2.php?id=1
 人間衛視,http://47.242.38.45:9999/twjd678-2.php?id=2
 八大第一HD,http://47.242.38.45:9999/twjd678-2.php?id=3
