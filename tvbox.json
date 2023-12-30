@@ -111,13 +111,6 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
 
-    {
-      "key": "腾讯",
-      "name": "⭕天招蓝光┃速度飞",        //腾讯  
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/tengxun.js"
-    },
 
 
 
@@ -138,16 +131,7 @@
    
    
    
-    {
-      "key": "csp_lol",
-      "name": "🍡天招蓝光┃速度快",     //lol
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/lol.json"
-    },
+ 
    
    
    
@@ -319,16 +303,6 @@
     },
 
 
-    {
-      "key": "A8影视",
-      "name": "🎱天招蓝光┃速度中",     //A8┃影视
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
-    },
 
 
     {
@@ -344,7 +318,7 @@
 
     {
       "key": "csp_苹果",
-      "name": "🍏天招蓝光┃速度中",          //苹果追剧        
+      "name": "🍏天招蓝光77777┃速度中",          //苹果追剧        
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
