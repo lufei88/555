@@ -113,6 +113,20 @@
       "changeable": 0
     },
 
+    {
+      "key": "加速",
+      "name": "🐰天招蓝光┃速度飞",    //加速AAP
+      "type": 3,
+      "jar": "./lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://103.42.31.123:5820/api.php/app/"
+    },
+
+
+
+
 
     {
       "key": "feiyun",
@@ -421,14 +435,14 @@
 
 
 
-    {
+
+
+{
       "key": "种子短剧",
       "name": "💮┃短剧┃视频",
       "type": 1,
       "api": "http://zzdj.cc/api.php/provide/vod"
     },
-
-
 
 
 
