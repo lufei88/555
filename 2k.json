@@ -99,14 +99,6 @@
 
     
 
-    {
-      "key": "爱迪",
-      "name": "💡天招4K外剧┃速度快",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/",
-      "jar": "./jar/xyq.jar"
-    },
 
 
 
@@ -132,6 +124,20 @@
       "quickSearch": 1,
       "changeable": 0
     },
+
+    {
+      "key": "csp_Bdys",
+      "name": "💡天招蓝光┃速度飞",   //考虑
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/jiaoyu.jar"
+    },
+
+
+
 
 
 
@@ -196,59 +202,6 @@
       "ext": "./json/新视觉.json"
     },
 
-
-
-    {
-      "key": "csp_Voflix",
-      "name": "🧶天招蓝光┃速度快",    //VS|影视
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/voflix.json"
-    },
-
-
-
-
-
-
-
-
-
-
-
-
-    {
-      "key": "csp_Bdys",
-      "name": "💡天招蓝光┃速度快",   //考虑
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/jiaoyu.jar"
-    },
-
-   
-   
-   
-    {
-      "key": "csp_lol",
-      "name": "🍡天招蓝光┃速度快",     //lol
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/lol.json"
-    },
-   
-   
-   
-   
-   
    
    
    
@@ -269,22 +222,6 @@
    
    
     
-   
-   
-   
-   
-     {
-      "key": "csp_小苹果",
-      "name": "🍎天招蓝光┃速度快",     //小苹果
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/小苹果.json"
-    },
-
-
 
     {
       "key": "虎虎",
@@ -312,24 +249,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-    {
-      "key": "熊猫",
-      "name": "🐼天招蓝光┃速度中",     //熊猫┃追剧
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/熊猫.json"
-    },
-
-
     {
       "key": "电影港",
       "name": "💫天招蓝光┃速度中",      //电影港  有下载的，考虑
@@ -354,16 +273,7 @@
     },
 
 
-    {
-      "key": "A8影视",
-      "name": "🎱天招蓝光┃速度中",     //A8┃影视
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
-    },
+
 
 
     {
@@ -400,20 +310,7 @@
 
 
  
-  {
-      "key": "橘子",
-      "name": "🍊天招高清┃速度快",              //橘子     考虑留不留
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=",
-     "jar": "./xiaomi.jar"
-    
-    
-    
-    },
+  
 
 
 
