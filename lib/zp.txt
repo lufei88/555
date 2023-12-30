@@ -1081,51 +1081,7 @@ CHC家庭影院,http://171.110.10.10:8181/tsfile/live/1056_1.m3u8?key=txiptv&pla
 
 
 
-华数电影4K,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3&HlsProfileId=
-精彩影视,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3&HlsProfileId=
-超级电影,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3&HlsProfileId=
-超级体育,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3&HlsProfileId=
-求索科学,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3&HlsProfileId=
-求索纪录,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3&HlsProfileId=
-求索生活,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3&HlsProfileId=
-求索动物,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3&HlsProfileId=
-爱院线,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3&HlsProfileId=
-爱科幻,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3&HlsProfileId=
-爱喜剧,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3&HlsProfileId=
-爱都市,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3&HlsProfileId=
-爱家庭,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3&HlsProfileId=
-爱青春,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3&HlsProfileId=
-爱江湖,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3&HlsProfileId=
-爱浪漫,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3&HlsProfileId=
-爱悬疑,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3&HlsProfileId=
-爱玩具,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3&HlsProfileId=
-爱电竞,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3&HlsProfileId=
-爱赛车,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3&HlsProfileId=
-爱旅行,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3&HlsProfileId=
-爱怀旧,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3&HlsProfileId=
-爱奇谈,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3&HlsProfileId=
-爱动漫,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3&HlsProfileId=
-爱体育,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3&HlsProfileId=
-爱探索,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3&HlsProfileId=
-爱经典,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3&HlsProfileId=
-爱谍战,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3&HlsProfileId=
-爱美食,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3&HlsProfileId=
-爱娱乐,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3&HlsProfileId=
-爱时尚,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3&HlsProfileId=
-爱历史,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3&HlsProfileId=
-爱科学,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3&HlsProfileId=
-爱军武,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3&HlsProfileId=
-爱幼教,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3&HlsProfileId=
-爱猎奇,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3&HlsProfileId=
-爱解密,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3&HlsProfileId=
-爱世界,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3&HlsProfileId=
-足球频道,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000066&livemode=1&stbId=3&HlsProfileId=
-咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=3&HlsProfileId=
-咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=3&HlsProfileId=
-咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=3&HlsProfileId=
-咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000063&livemode=1&stbId=3&HlsProfileId=
-咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=3&HlsProfileId=
-咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=3&HlsProfileId=
+
 
 
 
@@ -1426,11 +1382,7 @@ NewTV金牌综艺,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?chann
 
 山东教育卫视,http://live.aishang.ctlcdn.com/00000110240304_1/playlist.m3u8?CONTENTID=00000110240304_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 
 
 
@@ -1443,15 +1395,6 @@ NewTV金牌综艺,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?chann
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
-【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
-【海绵宝宝】黄方块的爆笑生活~,https://epg.112114.xyz/huya/11352919
-【猫和老鼠】汤姆和杰瑞的故事,https://epg.112114.xyz/huya/11352879
-
-网球王子·费德勒看了想打人,https://epg.112114.xyz/huya/11352882
-
-
-【中华小当家】看的我口水直流～,https://epg.112114.xyz/huya/11342413
-冲啊！四驱兄弟嘴控大战,https://epg.112114.xyz/huya/11352922
 
 
 
@@ -1467,7 +1410,7 @@ NewTV金牌综艺,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?chann
 
 
 
-哈哈炫动,http://111.20.35.103:6610/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=00
+
 
 
 
