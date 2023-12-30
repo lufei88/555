@@ -122,6 +122,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://103.42.31.123:5820/api.php/app/"
+       "jar": "./xiaomi3.jar"
     },
 
 
