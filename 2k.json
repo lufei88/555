@@ -116,9 +116,9 @@
     {
       "key": "加速",
       "name": "🐰加速┃APP",
-      "type": 3,
-       "jar": "./xiaomi3.jar",
+      "type": 3,     
       "jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+        "jar": "./xiaomi3.jar",
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
