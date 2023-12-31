@@ -2097,23 +2097,11 @@ skynews,http://154.204.178.30/大街.php?id=150
 非凡新闻,http://154.204.178.30/大街.php?id=154
 
 
-
-
-DWTV,http://154.204.178.30/大街.php?id=160
-CNN,http://154.204.178.30/大街.php?id=161
-CNBC,http://154.204.178.30/大街.php?id=162
-BBCWorldNews,http://154.204.178.30/大街.php?id=163
-Bloomberg,http://154.204.178.30/大街.php?id=164
-CGTN,http://154.204.178.30/大街.php?id=165
-AlJazeera,http://154.204.178.30/大街.php?id=166
-RT,http://154.204.178.30/大街.php?id=167
-NHKWorld,http://154.204.178.30/大街.php?id=168
-FOXNEWS,http://154.204.178.30/大街.php?id=169
-新唐人亚太台,http://154.204.178.30/大街.php?id=170
-华藏卫视,http://154.204.178.30/大街.php?id=171
-
-
-
+年代新闻,http://154.204.178.30/大街.php?id=155
+ABCNEWS,http://154.204.178.30/大街.php?id=156
+CBSNews,http://154.204.178.30/大街.php?id=157
+环宇新闻台湾台,http://154.204.178.30/大街.php?id=158
+France24,http://154.204.178.30/大街.php?id=159
 
 
 
