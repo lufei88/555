@@ -467,6 +467,30 @@
 
 
 
+
+  {
+      "key": "js_baby",
+      "name": "👶┃宝宝┃合集",
+      "type": 3,
+      "api": "./lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/baby.js"
+    },
+    {
+      "key": "js_童趣",
+      "name": "🧗‍┃童趣┃搜视",
+      "type": 3,
+      "api": "./lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/tongqu.js"
+    },
+
+
+
     {
       "key": "相声小品",
       "name": "😍┃相声┃小品",
