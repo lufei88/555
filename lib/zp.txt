@@ -2368,9 +2368,7 @@ TVBmagic,http://154.204.178.30/大街.php?id=202
 壹电影,http://154.204.178.30/大街.php?id=230
 
 
-
-
 密码获取,#genre#
 获取方法,https://mpimg.cn/down.php/b050f886c0376b2ed63129b0ffd87aac.mp4
-?会员频道_666,#genre#
-随机电影,http://lzo.37.gay/daili/sx.php
+会员频道_666,#genre#
+
