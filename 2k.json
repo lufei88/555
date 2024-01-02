@@ -79,7 +79,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "e59c8487eda144a59c101e1febe3b473",
+        "token": "01c8d56463574dc3883c695ee370e30d",
         "filter": "./json/wogg.json"
       },
        "jar": "./jar/wogg.jar"
