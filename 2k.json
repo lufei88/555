@@ -150,8 +150,7 @@
       "key": "南瓜",
       "name": "🎃天招蓝光┃速度飞",  //新添加的   来自小米
       "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
+      "api": "csp_NanGua",     
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
