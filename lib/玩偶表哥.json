@@ -8,5 +8,5 @@
         "简介": "剧情：&&</div>",
 */        "搜索url": "http://win11.asuscomm.com:56708/index.php/vod/search/wd/{wd}.html",
         "分类url": "http://win11.asuscomm.com:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html;;阿里",
-       "阿里token": "e59c8487eda144a59c101e1febe3b473",
+       "阿里token": "01c8d56463574dc3883c695ee370e30d",
         "分类": "自营电影$1#自营剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"}
