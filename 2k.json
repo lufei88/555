@@ -90,7 +90,7 @@
 
 {
       "key": "996",
-      "name": "🥃┃九六┃影视",
+      "name": "🥃天招蓝光┃速度飞",   //可以作主页　　　左左影院
       "type": 3,
       "filterable": 1,
       "api": "csp_Panda",
@@ -108,7 +108,7 @@
 
 {
       "key": "saohuo",
-      "name": " 👗┃骚火┃影视",
+      "name": " 👗天招蓝光┃速度飞",   //左左影院
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -121,7 +121,7 @@
 
 {
       "key": "bttwo",
-      "name": "✌┃BTtwo┃影视",
+      "name": "✌┃天招蓝光┃速度飞",   //左左影院
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -131,7 +131,7 @@
 
 {
       "key": "FREE1OK",
-      "name": "️️👌┃Fre┃影视",
+      "name": "️️👌┃天招蓝光┃速度飞",   //左左影院
       "type": 3,
       "playerType": "1",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -185,28 +185,6 @@
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
-
-
-    
-
-
-
-
-    {
-      "key": "赞赞",
-      "name": "➕天招蓝光┃速度飞",     //新添加的   来自小米
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-
-
-
-
-
 
 
     {
