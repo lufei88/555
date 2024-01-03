@@ -99,7 +99,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://haozhansou.com/"
+      "ext": "https://haozhansou.com/",
+       "jar": "./xiaomi2.jar"
     },
 
 
