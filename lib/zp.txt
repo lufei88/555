@@ -950,12 +950,16 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
 精品体育,http://111.40.196.30:443/PLTV/88888888/224/3221225608/1.m3u8
 
-
+劲爆体育,http://111.20.34.9:6060/000000001000/5000000002000029972/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=bestzb&Contentid=5000000002000029972
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 
+
+五星体育,http://111.20.34.9:6060/000000001000/5000000010000017540/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=bestzb&Contentid=5000000010000017540
+
+魅力足球,http://111.20.34.9:6060/000000001000/5000000011000031207/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=bestzb&Contentid=5000000011000031207
 
 
 
