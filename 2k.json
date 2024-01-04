@@ -580,7 +580,16 @@
       "jar": "./xiaomi.jar"
     },
        
-       
+{"key":"MV_vod",
+"name":"卡拉OK",
+"type":1,
+"api":"https://mv.wogg.link/mv/vod",
+"searchable":1,
+"style":{ "type":"oval", "ratio":1.1 },
+"changeable":1,
+"filterable":1,
+"changeable":0
+},
        
        
     {
