@@ -176,7 +176,7 @@ CCTV风云剧场,http://120.27.200.109/api/channel/l193d/cctvfyjc
 CCTV风云音乐,http://120.27.200.109/api/channel/l193d/cctvfyyy
 CCTV高尔夫网球,http://120.27.200.109/api/channel/l193d/cctvgefwq
 
-北京卫视,http://61.160.247.140:2356/77.php?id=bjws
+
 北京卫视,http://120.27.200.109/api/channel/l193d/bjws
 
 东方卫视,http://61.160.247.140:2356/77.php?id=dfws
@@ -184,17 +184,18 @@ CCTV高尔夫网球,http://120.27.200.109/api/channel/l193d/cctvgefwq
 
 
 天津卫视,http://113.117.74.18:8081/hls/48/index.m3u8
-天津卫视,http://61.160.247.140:2356/77.php?id=tjws
 天津卫视,http://120.27.200.109/api/channel/l193d/tjws
+天津卫视,http://117.141.149.101:9901/tsfile/live/0135_1.m3u8
+
 
 重庆卫视,http://61.160.247.140:2356/77.php?id=cqws
 重庆卫视,http://120.27.200.109/api/channel/l193d/cqws
 
 
-黑龙江卫视,http://61.160.247.140:2356/77.php?id=hljws
+
 黑龙江卫视,http://120.27.200.109/api/channel/l193d/hljws
 
-吉林卫视,http://61.160.247.140:2356/77.php?id=jlws
+
 吉林卫视,http://120.27.200.109/api/channel/l193d/jlws
 
 辽宁卫视,http://61.160.247.140:2356/77.php?id=lnws
@@ -206,17 +207,20 @@ CCTV高尔夫网球,http://120.27.200.109/api/channel/l193d/cctvgefwq
 宁夏卫视,http://61.160.247.140:2356/77.php?id=nxws
 宁夏卫视,http://120.27.200.109/api/channel/l193d/nxws
 
+
 甘肃卫视,http://61.160.247.140:2356/77.php?id=gsws
 甘肃卫视,http://120.27.200.109/api/channel/l193d/gsws
 
-青海卫视,http://61.160.247.140:2356/77.php?id=qhws
+
 青海卫视,http://120.27.200.109/api/channel/l193d/qhws
 
-陕西卫视,http://61.160.247.140:2356/77.php?id=sxws
+
 陕西卫视,http://120.27.200.109/api/channel/l193d/sxws
 
-河北卫视,http://61.160.247.140:2356/77.php?id=hbws
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 河北卫视,http://120.27.200.109/api/channel/l193d/hbws
+河北卫视,http://117.141.149.101:9901/tsfile/live/0117_1.m3u8
+
 
 湖北卫视,http://61.160.247.140:2356/77.php?id=hubws
 湖北卫视,http://120.27.200.109/api/channel/l193d/hubws
@@ -226,78 +230,64 @@ CCTV高尔夫网球,http://120.27.200.109/api/channel/l193d/cctvgefwq
 湖南卫视,http://61.160.247.140:2356/77.php?id=hunws
 湖南卫视,http://120.27.200.109/api/channel/l193d/hunws
 
-江西卫视,http://61.160.247.140:2356/77.php?id=jxws
+
 江西卫视,http://120.27.200.109/api/channel/l193d/jxws
 
 
 江苏卫视,http://61.160.247.140:2356/77.php?id=jsws
 江苏卫视,http://120.27.200.109/api/channel/l193d/jsws
 
-浙江卫视,http://61.160.247.140:2356/77.php?id=zjws
+
+
+
 浙江卫视,http://120.27.200.109/api/channel/l193d/zjws
 
-东南卫视,http://61.160.247.140:2356/77.php?id=dnws
+
 东南卫视,http://120.27.200.109/api/channel/l193d/dnws
+
 
 广东卫视,http://61.160.247.140:2356/77.php?id=gdws
 广东卫视,http://120.27.200.109/api/channel/l193d/gdws
+广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
 
 
-深圳卫视,http://61.160.247.140:2356/77.php?id=szws
+
+
+
 深圳卫视,http://120.27.200.109/api/channel/l193d/szws
 
-广西卫视,http://61.160.247.140:2356/77.php?id=gxws
-广西卫视,http://120.27.200.109/api/channel/l193d/gxws
 
-云南卫视,http://61.160.247.140:2356/77.php?id=ynws
+广西卫视,http://120.27.200.109/api/channel/l193d/gxws
+广西卫视,http://117.141.149.101:9901/tsfile/live/0113_1.m3u8
+广西卫视,http://113.117.74.18:8081/hls/60/index.m3u8
+
+
+
+
+
 云南卫视,http://120.27.200.109/api/channel/l193d/ynws
 
-贵州卫视,http://61.160.247.140:2356/77.php?id=gzws
+
 贵州卫视,http://120.27.200.109/api/channel/l193d/gzws
 
-四川卫视,http://61.160.247.140:2356/77.php?id=scws
+
 四川卫视,http://120.27.200.109/api/channel/l193d/scws
 
-新疆卫视,http://61.160.247.140:2356/77.php?id=xjws
+
 新疆卫视,http://120.27.200.109/api/channel/l193d/xjws
 
-兵团卫视,http://61.160.247.140:2356/77.php?id=btws兵团卫视,http://61.160.247.140:2356/77.php?id=btws
+
 兵团卫视,http://120.27.200.109/api/channel/l193d/btws
 
 西藏卫视,http://61.160.247.140:2356/77.php?id=xzws
 西藏卫视,http://120.27.200.109/api/channel/l193d/xzws
 
-海南卫视,http://61.160.247.140:2356/77.php?id=hinws
+
 海南卫视,http://120.27.200.109/api/channel/l193d/hinws
 
 
 
-
-
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-
-
-
-
-
-
-天津卫视,http://117.141.149.101:9901/tsfile/live/0135_1.m3u8
-天津卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8?
-天津卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
-
-
-
-
 黑龙江卫视,http://113.117.74.18:8081/hls/50/index.m3u8
-
-
-
-
-
-
-宁夏卫视,http://113.117.74.18:8081/hls/73/index.m3u8
-宁夏卫视,http://117.141.149.101:9901/tsfile/live/0112_1.m3u8
-
 
 
 甘肃卫视,http://117.141.149.101:9901/tsfile/live/0141_1.m3u8
@@ -309,13 +299,6 @@ CCTV高尔夫网球,http://120.27.200.109/api/channel/l193d/cctvgefwq
 陕西卫视,http://117.141.149.101:9901/tsfile/live/0136_1.m3u8
 
 
-
-河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
-河北卫视,http://117.141.149.101:9901/tsfile/live/0117_1.m3u8
-
-
-
-
 山西卫视,http://117.141.149.101:9901/tsfile/live/0118_1.m3u8
 
 
@@ -325,34 +308,16 @@ CCTV高尔夫网球,http://120.27.200.109/api/channel/l193d/cctvgefwq
 
 
 
-
-
-
-
-
 湖北卫视,http://117.141.149.101:9901/tsfile/live/0132_1.m3u8
 
 湖南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225787/index.m3u8?
 
 
-江苏卫视,http://61.160.247.140:2356/77.php?id=jsws
 
-
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-
-
-
-
-
-广东卫视,http://61.160.247.140:2356/77.php?id=gdws
-广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-广东卫视,http://113.117.74.18:8081/hls/140/index.m3u8
 
 深圳卫视,http://117.141.149.101:9901/tsfile/live/0126_1.m3u8
 
-广西卫视,http://117.141.149.101:9901/tsfile/live/0113_1.m3u8
-广西卫视,http://113.117.74.18:8081/hls/60/index.m3u8
+
 
 
 云南卫视,http://117.141.149.101:9901/tsfile/live/0119_1.m3u8
