@@ -483,21 +483,23 @@
       "changeable": 0
     },
     
-    
-    {
-      "key": "csp_XPath_企鹅体育",  //来自小米
-      "name": "🐧企鹅┃体育",
+
+
+{
+      "key": "csp_鹅直播",
+      "name": "🏀┃企鹅┃直播",
       "type": 3,
       "api": "csp_XPath",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/企鹅直播.json"
+      "filterable": 0,
+      "ext": "./lib/qie.json"
     },
+
+
+
+
+
 
 
 
