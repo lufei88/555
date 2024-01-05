@@ -39,22 +39,11 @@
 
 
 
-  // {
-   //   "key": "csp_WoGG",
-   //   "name": "👽天招4K-2┃速度快",        玩偶云盘
-   //   "type": 3,
-   //   "api": "csp_WoGG",
-    //  "searchable": 1,
-   //   "quickSearch": 1,
-    //  "changeable": 0,
-    //  "ext": "./tvbox/tok.txt+4k|auto|fhd",
-    //    "jar": "./xiaomi.jar"
-      
-   // },
+
 
      {
       "key": "csp_WoGG1",
-      "name": "🎈天招4K-3┃速度快",
+      "name": "🎈天招4K-2┃速度快",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -68,23 +57,7 @@
 
 
 
-
-
-    
-     //{
-     // "key": "酷玩",
-    //  "name": "🎯天招4K-4┃速度快", 
-   //   "type": 3,
-   //   "api": "csp_Wogg",
-    //  "searchable": 1,
-    //  "changeable": 0,
-    //  "ext": {
-    //    "token": "01c8d56463574dc3883c695ee370e30d",
-   //     "filter": "./json/wogg.json"
-  //    },
-  //     "jar": "./jar/wogg.jar"
-  //},
-    
+ 
   
 
 
