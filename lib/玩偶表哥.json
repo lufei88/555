@@ -1,12 +1,12 @@
 {
-        "二次截取": "1&&-1+module-item-cover",
+"二次截取": "1&&-1+module-item-cover",
         "数组": "module-item-pic&&module-item-cover",
-        "链接":"href=\"&&\"[包含:detail]",
+        "链接":"href=\"&&\"[替换:vodplay>>voddetail#-1-1>>空]",
         "副标题": "module-item-text*>&&<",
-/*        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "简介": "剧情：&&</div>",
-*/        "搜索url": "http://win11.asuscomm.com:56708/index.php/vod/search/wd/{wd}.html",
-        "分类url": "http://win11.asuscomm.com:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html;;阿里",
+        "搜索url": "http://wogg.xyz/index.php/vodsearch/-------------.html?wd={wd}",
+        "分类url": "http://wogg.xyz/index.php/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;阿里T",
        "阿里token": "01c8d56463574dc3883c695ee370e30d",
-        "分类": "自营电影$1#自营剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"}
+        "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$6#音乐$5"
+        
+        
+        }
