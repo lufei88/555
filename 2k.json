@@ -35,36 +35,16 @@
 
 
 
-
-
-
-
-
-
-     {
-      "key": "csp_WoGG1",
+    {
+      "key": "csp_WoGG",
       "name": "🎈天招4K-2┃速度快",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
-
-      "jar": "./xiaomi3.jar"
-    },
-
-
-    {
-      "key": "csp_WoGG",
-      "name": "🎈玩偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
       "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar": "./xiaomi2.jar"
+      "jar": "./xiaomi3.jar"
     },
 
  
