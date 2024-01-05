@@ -485,15 +485,15 @@
     
 
 
-{
-      "key": "csp_鹅直播",     //来自壹梦
-      "name": "🏀┃企鹅┃直播",
+    {
+      "key": "py_qie",
+      "name": "🏀┃企鹅┃体育",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "py_qie",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://qrh.yimkj.cn/ym/lib/qie.json"
+      "filterable": 1,
+      "ext": "./lib/qie.py"
     },
 
 
