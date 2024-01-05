@@ -27,7 +27,7 @@
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
-       "ext": "http://dt.xn--yety82d.love/玩偶哥哥.json",   //要去修改该文件里面的KEY,记得
+       "ext": "./lib/玩偶哥哥.json",   //要去修改该文件里面的KEY,记得
        "jar": "./jar/PandaQ231205.jar"
 
 
