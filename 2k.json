@@ -75,7 +75,39 @@
 
 
 
+ {"key":"Pan99",        //来自杜比　　https://tv.dubi.tk/0825.json
+ "name":"盘99",
+ "type":3,
+ "api":"csp_Pan99",
+ "quickSearch":1, 
+ "changeable":1,
+  "filterable":1,
+   "timeout":30, 
+   "ext":"./tvbox/tok.txt$$$https://pan99.xyz$$$null$$$1$$$./json/wogg.json"
+   
+   },   
+
+
+
+{
+  "key":"影视车",                  //来自杜比　　https://tv.dubi.tk/0825.json
+   "name":"影视车",
+    "type":3,
+    "api":"csp_Wogg",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":"./tvbox/tok.txt$$$https://www.weixine.net/$$$1$$$./json/wogg.json",
+     "timeout":30
     
+    },
+
+
+
+
+
+
+
 
 
 
