@@ -19,7 +19,8 @@
      "ext": {
          "token": "01c8d56463574dc3883c695ee370e30d",
         "filter": "./lib/douban.js"
-        }
+        },
+        "jar": "./jar/wogg.jar"
 
     },
 
