@@ -49,6 +49,44 @@
    
 
 
+{"key":"csp_WoGG2",       //来自杜比　　https://tv.dubi.tk/0825.json
+"name":"哥哥",
+"type":3,
+"api":"csp_Wogg",
+"searchable":1,
+"quickSearch":1,
+"changeable":0,
+"ext":"./tvbox/tok.txt$$$https://api.wogg.xyz/$$$1$$$./json/wogg.json",
+ "timeout":30,
+  "jar":"./jar/pg.jar"
+ 
+ },
+
+
+
+ 
+
+{"key":"csp_Wobg",　　　　　　　//来自杜比　　https://tv.dubi.tk/0825.json
+"name":"表哥",
+"type":3,
+"api":"csp_Wobg",
+"searchable":1,
+"quickSearch":1,
+"changeable":0,
+"ext":"./tvbox/tok.txt$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json", 
+"timeout":30,
+ "jar":"./jar/pg.jar"
+},
+
+
+
+
+
+
+
+
+
+
 
  {"key":"Pan99",        //来自杜比https://tv.dubi.tk/0825.json
  "name":"盘99",
