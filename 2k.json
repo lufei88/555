@@ -22,6 +22,7 @@
       "key": "csp_Panda_玩偶哥哥",
       "name": "👲┃天招4K-1┃速度快",
       "api": "csp_Panda",
+      "jar": "./jar/PandaQ231205.jar"  
       "type": 3,
       "searchable": 1,
       "playerType": 2,
@@ -30,10 +31,13 @@
       "ext": "./lib/玩偶哥哥.json",   //要去修改该文件里面的KEY,记得
 
 
-
-       "jar": "./jar/PandaQ231205.jar"     
-
     },
+
+
+ 
+
+
+
 
 
 
