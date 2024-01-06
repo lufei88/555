@@ -147,7 +147,7 @@ CCTV-15,http://59.50.99.10:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&au
 央卫电信专线,#genre#
 
 
-http://110.72.30.168:8088/tsfile/live/0001_1.m3u8
+CCTV-1,http://110.72.30.168:8088/tsfile/live/0001_1.m3u8
 
 
 
