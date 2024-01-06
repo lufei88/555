@@ -80,7 +80,7 @@
   "quickSearch":1,
   "changeable":0,
   "ext":"http://127.0.0.1:9978/tvbox/tok.txt$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json",
-   "timeout":30
+   "timeout":30,
      "jar":"./jar/pg.jar"
    },
 
