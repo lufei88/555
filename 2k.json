@@ -33,7 +33,7 @@
      // "ext": "./lib/玩偶哥哥.json"   //要去修改该文件里面的KEY,记得
    "ext": {
         
-        "token": "dd4c6ea0dc8740959ce040c721bb442f",
+        "阿里token": "dd4c6ea0dc8740959ce040c721bb442f",
         "二次截取": "1&&-1+module-item-cover",
         "数组": "module-item-pic&&module-item-cover",
         "链接":"href=\"&&\"[替换:vodplay>>voddetail#-1-1>>空]",
