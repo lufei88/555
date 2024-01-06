@@ -21,8 +21,8 @@
 
 
     {
-      "key": "csp_WoGG",
-      "name": "👽天招4K超清1┃速度快",       //玩偶云盘
+      "key": "csp_WoGG前任",
+      "name": "👽天招4K-1┃速度快",       //玩偶云盘
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -34,27 +34,14 @@
     },
 
 
-     {
-     "key": "酷玩",
-      "name": "天招4K-4┃速度快", 
-     "type": 3,
-    "api": "csp_Wogg",
-    "searchable": 1,
-     "changeable": 0,
-   "ext": {
-            "token": "dd4c6ea0dc8740959ce040c721bb442f",
-            "filter": "./json/wogg.json"
-     },
-      "jar": "./jar/wogg.jar"
-    },
-    
+  
 
 
 
 
     {
       "key": "csp_WoGG",
-      "name": "🎈天招4K-1┃速度快",
+      "name": "🎈天招4K-2┃速度快",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -69,7 +56,7 @@
 
 
 {"key":"csp_WoGG2uuu",       //来自杜比　　https://tv.dubi.tk/0825.json
-"name":"🎬天招4K-2┃速度快",
+"name":"🎬天招4K-3┃速度快",
 "type":3,
 "api":"csp_Wogg",
 "searchable":1,
@@ -88,7 +75,7 @@
 
 {
   "key":"csp_Wobg",
-  "name":"👀天招4K-3┃速度快",
+  "name":"👀天招4K-4┃速度快",
   "type":3,
   "api":"csp_Wobg",
   "searchable":1,
@@ -110,7 +97,7 @@
 
 
  {"key":"Pan99",        //来自杜比https://tv.dubi.tk/0825.json
- "name":"👌天招4K-4┃速度快",
+ "name":"👌天招4K-5┃速度快",
  "type":3,
  "api":"csp_Pan99",
  "quickSearch":1, 
@@ -126,7 +113,7 @@
 
 {
   "key":"影视车",                  //来自杜比https://tv.dubi.tk/0825.json
-   "name":"📺天招4K-5┃速度快",
+   "name":"📺天招4K-6┃速度快",
     "type":3,
     "api":"csp_Wogg",
     "searchable":1,
