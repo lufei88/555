@@ -14,9 +14,12 @@
       "name": "🎯天招影视丨最新电影热剧",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/douban.js"
+      //"ext": "./lib/douban.js"
 
-
+     "ext": {
+         "token": "01c8d56463574dc3883c695ee370e30d",
+        "filter": "./lib/douban.js"
+        }
 
     },
 
