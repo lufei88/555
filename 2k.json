@@ -76,7 +76,7 @@
     "changeable":0,
     "ext":"./tvbox/tok.txt$$$https://www.weixine.net/$$$1$$$./json/wogg.json",
      "timeout":30
-    
+    "jar":"./jar/pg.jar"
     },
 
 
