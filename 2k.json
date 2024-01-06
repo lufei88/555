@@ -436,8 +436,8 @@
       "key": "csp_qiumi",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "./lib/jrk.js",
+     "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -446,7 +446,10 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    
+
+
+
+
 
 
     {
