@@ -28,8 +28,7 @@
       "timeout": 30,
       "changeable": 0,
        "ext": "./lib/玩偶哥哥.json",   //要去修改该文件里面的KEY,记得
-       //"jar": "./jar/PandaQ231205.jar"
-       "jar":"./jar/pg.jar"
+       "jar": "./jar/PandaQ231205.jar"     
 
     },
 
