@@ -49,7 +49,24 @@
 
  
   
+
+{"key":"csp_WoGG",
+"name":"哥哥",
+"type":3,
+"api":"csp_Wogg",
+"searchable":1,
+"quickSearch":1,
+"changeable":0,
+"ext":"./tvbox/tok.txt$$$https://api.wogg.xyz/$$$1$$$./json/wogg.json",
+ "timeout":30
  
+ },
+
+
+
+
+
+
     
 
 
