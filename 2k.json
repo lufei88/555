@@ -20,34 +20,8 @@
     },
 
 
-    {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃天招4K-1┃速度快",
-      "api": "csp_Panda",
-      "jar": "./jar/PandaQ231205.jar",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-     // "ext": "./lib/玩偶哥哥.json"   //要去修改该文件里面的KEY,记得
-   
-     "ext": "./tvbox/tok.txt+4k|auto|fhd$$$http://dt.xn--yety82d.love/玩偶哥哥.json" 
 
-      }, 
 
-  {
-     "key": "csp_WoGGPPPPPPPP",
-     "name": "??天招4K-2┃速度快",        //玩偶云盘
-     "type": 3,
-     "api": "csp_WoGG",
-    "searchable": 1,
-   "quickSearch": 1,
-    "changeable": 0,
-    "ext": "./tvbox/tok.txt+4k|auto|fhd",
-    "jar": "./xiaomi.jar"
-      
-   },
 
 
 
@@ -71,7 +45,7 @@
 
 
 {"key":"csp_WoGG2uuu",       //来自杜比　　https://tv.dubi.tk/0825.json
-"name":"哥哥",
+"name":"🎬天招4K-1┃速度快",
 "type":3,
 "api":"csp_Wogg",
 "searchable":1,
@@ -90,7 +64,7 @@
 
 {
   "key":"csp_Wobg",
-  "name":"表哥",
+  "name":"👀天招4K-2┃速度快",
   "type":3,
   "api":"csp_Wobg",
   "searchable":1,
@@ -112,7 +86,7 @@
 
 
  {"key":"Pan99",        //来自杜比https://tv.dubi.tk/0825.json
- "name":"盘99",
+ "name":"👌天招4K-3┃速度快",
  "type":3,
  "api":"csp_Pan99",
  "quickSearch":1, 
@@ -128,7 +102,7 @@
 
 {
   "key":"影视车",                  //来自杜比https://tv.dubi.tk/0825.json
-   "name":"影视车",
+   "name":"📺天招4K-4┃速度快",
     "type":3,
     "api":"csp_Wogg",
     "searchable":1,
