@@ -20,7 +20,18 @@
     },
 
 
-
+    {
+      "key": "csp_WoGG",
+      "name": "👽天招4K超清1┃速度快",       //玩偶云盘
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./tvbox/tok.txt+4k|auto|fhd",
+        "jar": "./xiaomi.jar"
+      
+    },
 
 
      {
