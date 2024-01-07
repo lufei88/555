@@ -837,8 +837,18 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
-  "wallpaper": "https://tool.weetai.cn/api",
+ 
+ 
+ 
+ 
+ // "spider": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
+  //"wallpaper": "https://tool.weetai.cn/api",
+ 
+ "spider":"./jar/xhkw1231.jar;md5;b8c0cfe0bfd97618d51795093d8228d7",
+"wallpaper":"http://xn--sss604efuw.top/%E6%B7%B1%E8%89%B2%E5%A3%81%E7%BA%B8/api.php",
+ 
+ 
+ 
   "lives": [
     {
       "name": "live",
