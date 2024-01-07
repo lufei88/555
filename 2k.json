@@ -459,8 +459,16 @@
       "changeable": 0,
       //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
 
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
+
+
+
+
+
+
+
+
     {
       "key": "UpYun",
       "name": "📫Up┃云盘",
