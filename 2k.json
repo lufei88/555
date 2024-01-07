@@ -29,8 +29,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
-        "jar": "./xiaomi3.jar"
-      
+       // "jar": "./xiaomi3.jar"
+      "jar": "./jar/fty.jar"
     },
 
 
