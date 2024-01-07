@@ -134,7 +134,7 @@
     },
 
 
-{"key": "996影院","name": "996","jar": "./jar/pg.jar","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 0},
+{"key": "996影院","name": "996","jar": "./jar/pg.jar","type": 3,"filterable": 1,"api": "csp_Cs1369"},
 
 
 
