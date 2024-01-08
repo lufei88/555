@@ -66,7 +66,7 @@
   "key":"csp_Wobg",
   "name":"👀天招4K-3┃速度快",
   "type":3,
-  "api":"csp_Wogg",
+  "api":"csp_Wobg",
   "searchable":1,
   "quickSearch":1,
   "changeable":0,
@@ -75,9 +75,9 @@
 
 
    "timeout":30,
-     "jar":"./jar/pg.jar"
+    // "jar":"./jar/pg.jar"
 
-      //"jar": "./jar/xiaomi4.jar"
+      "jar": "./jar/xiaomi4.jar"
    },
 
 
