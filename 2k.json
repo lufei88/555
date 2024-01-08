@@ -19,7 +19,19 @@
 
 },
 
-
+  {
+     "key": "酷玩5555",
+  "name": "??天招4K-4┃速度快", 
+   "type": 3,
+   "api": "csp_Wogg",
+   "searchable": 1,
+    "changeable": 0,
+   "ext": {
+    "token": "dd4c6ea0dc8740959ce040c721bb442f",
+   "filter": "./json/wogg.json"
+   },
+ "jar": "./jar/wogg.jar"
+ },
 
 
 
