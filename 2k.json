@@ -66,12 +66,12 @@
   "key":"csp_Wobg",
   "name":"👀天招4K-3┃速度快",
   "type":3,
-  "api":"csp_WoGG",
+  "api":"csp_Wogg",
   "searchable":1,
   "quickSearch":1,
   "changeable":0,
- "ext":"./tvbox/tok.txt+4k|auto|fhd$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json",
-   //  "ext":"./tvbox/tok.txt$$$https://wobge.run.goorm.io$$$1",  
+ //"ext":"./tvbox/tok.txt+4k|auto|fhd$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json",
+    "ext":"./tvbox/tok.txt$$$https://wobge.run.goorm.io$$$1",  
 
 
    "timeout":30,
