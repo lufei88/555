@@ -51,9 +51,10 @@
 //"ext":"./tvbox/tok.txt$$$https://api.wogg.xyz/$$$1$$$./json/wogg.json",
 
  "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
- //"timeout":30,
-  "jar":"./jar/pg.jar"
- 
+ "timeout":30,
+ //"jar":"./jar/pg.jar"
+
+ "jar": "./jar/xiaomi4.jar"
  },
 
 
@@ -74,7 +75,9 @@
 
 
    "timeout":30,
-     "jar":"./jar/pg.jar"
+     //"jar":"./jar/pg.jar"
+
+      "jar": "./jar/xiaomi4.jar"
    },
 
 
@@ -97,7 +100,9 @@
     "changeable":0,
     "ext":"./tvbox/tok.txt$$$https://www.weixine.net/$$$1$$$./json/wogg.json",
      "timeout":30,
-    "jar":"./jar/pg.jar"
+    //"jar":"./jar/pg.jar"
+
+     "jar": "./jar/xiaomi4.jar"
     },
 
 
