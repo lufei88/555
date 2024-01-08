@@ -101,9 +101,9 @@
     //"ext":"./tvbox/tok.txt$$$https://www.weixine.net/$$$1$$$./json/wogg.json",
 
      "ext": "./tvbox/tok.txt$$$https://www.weixine.net$$$1$$$./json/wogg.json",
-     "timeout":30,
-    //"jar":"./jar/pg.jar"
-    "jar": "./jar/xiaomi4.jar"
+     "timeout":60,
+      "jar":"./jar/pg.jar"
+    //"jar": "./jar/xiaomi4.jar"
      
     },
 
