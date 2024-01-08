@@ -82,24 +82,12 @@
 
 
 
- {"key":"Pan99",        //来自杜比https://tv.dubi.tk/0825.json
- "name":"👌天招4K-4┃速度快",
- "type":3,
- "api":"csp_Pan99",
- "quickSearch":1, 
- "changeable":1,
-  "filterable":1,
-   "timeout":30, 
-   "ext":"./tvbox/tok.txt$$$https://pan99.xyz$$$null$$$1$$$./json/wogg.json",
-   "jar":"./jar/pg.jar"
-   
-   },   
 
 
 
 {
   "key":"影视车",                  //来自杜比https://tv.dubi.tk/0825.json
-   "name":"📺天招4K-5┃速度快",
+   "name":"📺天招4K-4┃速度快",
     "type":3,
     "api":"csp_Wogg",
     "searchable":1,
