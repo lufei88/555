@@ -75,9 +75,9 @@
 
 
    "timeout":30,
-    // "jar":"./jar/pg.jar"
+    "jar":"./jar/pg.jar"
 
-      "jar": "./jar/xiaomi4.jar"
+     // "jar": "./jar/xiaomi4.jar"
    },
 
 
