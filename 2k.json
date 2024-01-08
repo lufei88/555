@@ -116,11 +116,6 @@
 
 
 
-
-
-
-
-
 {
       "key": "996",
       "name": "🥃天招蓝光┃速度飞",   //可以作主页　　原来杜比高清https://tv.dubi.tk/0825.json
@@ -246,22 +241,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./lib/jiaoyu.jar"
-    },
-
-
-
-
-
-
-    {
-      "key": "南瓜",
-      "name": "🎃天招蓝光┃速度飞",  //新添加的   来自小米
-      "type": 3,
-      "api": "csp_NanGua",     
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "./xiaomi.jar"
     },
 
 
