@@ -3,7 +3,21 @@
   "sites": [
 
 
+{"key":"豆瓣",
+"name":"🎯酷玩┃云盘",
+"type":3,"api":"csp_Douban",
+"searchable":0,
+"quickSearch":0,
+"filterable":0,
+//"ext":"./json/douban.json"
 
+ "ext": {
+"token": "dd4c6ea0dc8740959ce040c721bb442f",
+ "filter": "./json/douban.json"
+ }
+
+
+},
 
 
 
