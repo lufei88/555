@@ -1,6 +1,23 @@
 央视卫视,#genre#
 
-
+CCTV1 HD,http://110.72.30.168:8088/tsfile/live/0001_1.m3u8
+CCTV2 HD,http://110.72.30.168:8088/tsfile/live/0002_2.m3u8
+CCTV3 HD,http://110.72.30.168:8088/tsfile/live/0003_1.m3u8
+CCTV4 HD,http://110.72.30.168:8088/tsfile/live/0004_1.m3u8
+CCTV5 HD,http://110.72.30.168:8088/tsfile/live/0005_1.m3u8
+CCTV6 HD,http://110.72.30.168:8088/tsfile/live/0006_1.m3u8
+CCTV7 HD,http://110.72.30.168:8088/tsfile/live/0007_1.m3u8
+CCTV8 HD,http://110.72.30.168:8088/tsfile/live/0008_1.m3u8
+CCTV9 HD,http://110.72.30.168:8088/tsfile/live/0009_1.m3u8
+CCTV10 HD,http://110.72.30.168:8088/tsfile/live/0010_1.m3u8
+CCTV11 HD,http://110.72.30.168:8088/tsfile/live/0011_1.m3u8
+CCTV12 HD,http://110.72.30.168:8088/tsfile/live/0012_1.m3u8
+CCTV13 HD,http://110.72.30.168:8088/tsfile/live/0013_1.m3u8
+CCTV14 HD,http://110.72.30.168:8088/tsfile/live/0014_1.m3u8
+CCTV15 HD,http://110.72.30.168:8088/tsfile/live/0015_1.m3u8
+CCTV16 HD,http://110.72.30.168:8088/tsfile/live/1039_1.m3u8
+CCTV17 HD,http://110.72.30.168:8088/tsfile/live/0019_1.m3u8
+CCTV5+ HD,http://110.72.30.168:8088/tsfile/live/0016_1.m3u8
 CCTV-1,http://123.147.77.111:8002/udp/225.0.4.74:7980
 CCTV-2,http://123.147.77.111:8002/udp/225.0.4.132:7980
 CCTV-3,http://123.147.77.111:8002/udp/225.0.4.142:7980
