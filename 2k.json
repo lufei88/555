@@ -450,10 +450,13 @@
       "changeable": 0,
       //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
 
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd",
+       "jar": "./jar/xiaomi4.jar"
+
+
     },
 
-
+  
 
 
 
