@@ -370,35 +370,6 @@ IPTV谍战剧场,http://110.72.30.168:8088/tsfile/live/1111_1.m3u8
 
 
 
-CCTV1,http://120.27.200.109/api/channel/l193d/cctv1
-CCTV2,http://120.27.200.109/api/channel/l193d/cctv2
-CCTV3,http://120.27.200.109/api/channel/l193d/cctv3
-CCTV4,http://120.27.200.109/api/channel/l193d/cctv4
-CCTV5,http://120.27.200.109/api/channel/l193d/cctv5
-CCTV5+,http://120.27.200.109/api/channel/l193d/cctv5p
-CCTV6,http://120.27.200.109/api/channel/l193d/CCTV6
-CCTV7,http://120.27.200.109/api/channel/l193d/cctv7
-CCTV8,http://120.27.200.109/api/channel/l193d/cctv8
-CCTV9,http://120.27.200.109/api/channel/l193d/cctv9
-CCTV10,http://120.27.200.109/api/channel/l193d/cctv10
-CCTV11,http://120.27.200.109/api/channel/l193d/cctv11
-CCTV12,http://120.27.200.109/api/channel/l193d/cctv12
-CCTV13,http://120.27.200.109/api/channel/l193d/cctv13
-CCTV14,http://120.27.200.109/api/channel/l193d/cctv14
-CCTV15,http://120.27.200.109/api/channel/l193d/cctv15
-CCTV16,http://120.27.200.109/api/channel/l193d/cctv16
-CCTV17,http://120.27.200.109/api/channel/l193d/cctv17
-CCTV4K,http://120.27.200.109/api/channel/l193d/cctv4k
-CCTV16 4K,http://120.27.200.109/api/channel/l193d/cctv164k
-CCTV世界地理,http://120.27.200.109/api/channel/l193d/cctvdl
-CCTV兵器科技,http://120.27.200.109/api/channel/l193d/cctvbq
-CCTV央视文化精品,http://120.27.200.109/api/channel/l193d/cctvwhjp
-CCTV女性时尚,http://120.27.200.109/api/channel/l193d/cctvnxss
-CCTV怀旧剧场,http://120.27.200.109/api/channel/l193d/cctvhjjc
-CCTV第一剧场,http://120.27.200.109/api/channel/l193d/cctvdyjc
-CCTV风云剧场,http://120.27.200.109/api/channel/l193d/cctvfyjc
-CCTV风云音乐,http://120.27.200.109/api/channel/l193d/cctvfyyy
-CCTV高尔夫网球,http://120.27.200.109/api/channel/l193d/cctvgefwq
 
 
 
