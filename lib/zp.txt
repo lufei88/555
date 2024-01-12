@@ -2489,6 +2489,47 @@ CCTV15-音乐,http://39.162.16.88:9901/tsfile/live/0015_1.m3u8
 
 
 测试3,#genre#
+CCTV1,http://120.27.200.109/api/channel/togh6/cctv1.m3u8
+CCTV2,http://120.27.200.109/api/channel/togh6/cctv2.m3u8
+CCTV 3http://120.27.200.109/api/channel/togh6/cctv3.m3u8
+CCTV 4,http://120.27.200.109/api/channel/togh6/cctv4.m3u8
+CCTV 5,http://120.27.200.109/api/channel/togh6/cctv5.m3u8
+CCTV5+,http://120.27.200.109/api/channel/togh6/cctv5p.m3u8
+CCTV6,http://120.27.200.109/api/channel/togh6/CCTV6.m3u8
+CCTV 7,http://120.27.200.109/api/channel/togh6/cctv7.m3u8
+CCTV 8,http://120.27.200.109/api/channel/togh6/cctv8.m3u8
+CCTV 9,http://120.27.200.109/api/channel/togh6/cctv9.m3u8
+CCTV 10http://120.27.200.109/api/channel/togh6/cctv10.m3u8
+CCTV 11http://120.27.200.109/api/channel/togh6/cctv11.m3u8
+CCTV 12,http://120.27.200.109/api/channel/togh6/cctv12.m3u8
+CCTV 13,http://120.27.200.109/api/channel/togh6/cctv13.m3u8
+CCTV 14,http://120.27.200.109/api/channel/togh6/cctv14.m3u8
+CCTV 15,http://120.27.200.109/api/channel/togh6/cctv15.m3u8
+CCTV 16,http://120.27.200.109/api/channel/togh6/cctv16.m3u8
+CCTV 17,http://120.27.200.109/api/channel/togh6/cctv17.m3u8
+CCTV4K,http://120.27.200.109/api/channel/togh6/cctv4k.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
