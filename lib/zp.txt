@@ -288,7 +288,7 @@ CCTV-15,http://59.50.99.10:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&au
 央卫电信专线,#genre#
 CCTV1,http://120.27.200.109/api/channel/v7z88/cctv1.m3u8
 CCTV2,http://120.27.200.109/api/channel/v7z88/cctv2.m3u8
-CCTV3http://120.27.200.109/api/channel/v7z88/cctv3.m3u8
+CCTV3,http://120.27.200.109/api/channel/v7z88/cctv3.m3u8
 CCTV4,http://120.27.200.109/api/channel/v7z88/cctv4.m3u8
 CCTV5,http://120.27.200.109/api/channel/v7z88/cctv5.m3u8
 CCTV5+,http://120.27.200.109/api/channel/v7z88/cctv5p.m3u8
