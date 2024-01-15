@@ -1132,22 +1132,19 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 
-凤凰香港,http://120.27.200.109/api/channel/l193d/fenghuangxg1
-凤凰香港,http://120.27.200.109/api/channel/l193d/fenghuangxg2
+
 
 凤凰中文,http://113.117.74.27:8081/hls/37/index.m3u8
 
 
-凤凰资讯,http://120.27.200.109/api/channel/togh6/fenghuangzx1.m3u8
-凤凰资讯,http://120.27.200.109/api/channel/togh6/fenghuangzx2.m3u8
+
 凤凰资讯,http://113.117.74.27:8081/hls/36/index.m3u8
 凤凰资讯,http://max.freevar.com/fhws.php?id=1
 凤凰资讯,http://120.27.200.109/api/channel/l193d/fenghuangzx1
 
 
 
-凤凰卫视,http://120.27.200.109/api/channel/togh6/fhws1234.m3u8
-凤凰卫视,http://120.27.200.109/api/channel/togh6/fenghuangws1.m3u8
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
@@ -1163,12 +1160,11 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
-凤凰卫视,http://120.27.200.109/api/channel/l193d/fhws1234
-凤凰卫视,http://120.27.200.109/api/channel/l193d/fenghuangws1
 
 
 
-无线新闻,http://120.27.200.109/api/channel/togh6/wuxianxw2.m3u8
+
+
 无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ct
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
@@ -1176,8 +1172,6 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
-无线财经,http://120.27.200.109/api/channel/togh6/wuxiancj3.m3u8
-无线财经,http://120.27.200.109/api/channel/l193d/wuxiancj3
 
 
 
@@ -1185,7 +1179,7 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
-星空卫视,http://120.27.200.109/api/channel/togh6/xingkongws1.m3u8
+
 
 
 
@@ -1195,8 +1189,7 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
-翡翠台,http://120.27.200.109/api/channel/togh6/feicuitai1.m3u8
-翡翠台,http://120.27.200.109/api/channel/togh6/feicuitai2.m3u8
+
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 华丽翡翠台,http://120.27.200.109/api/channel/togh6/hlfc.m3u8
 华丽翡翠台,http://120.27.200.109/api/channel/l193d/hlfc
