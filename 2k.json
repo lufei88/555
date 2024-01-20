@@ -5,13 +5,15 @@
 
 {"key":"豆瓣",
 "name":"🎯天招影视丨最新电影热剧",
-"type":3,"api":"csp_Douban",
-"searchable":0,
-"quickSearch":0,
-"filterable":0,
-"ext":"./json/douban.json"
+//"type":3,"api":"csp_Douban",
+//"searchable":0,
+//"quickSearch":0,
+//"filterable":0,
+//"ext":"./json/douban.json"
 
-
+ "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/douban.js"
 
 
 },
