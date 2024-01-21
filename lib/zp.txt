@@ -984,12 +984,13 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 
+凤凰中文,http://sncbn.ch-cdn.gitv.tv/gitv_escape/G_FENGHUANGZHONGWEN/G_FENGHUANGZHONGWEN.m3u8
 
 
 凤凰中文,http://113.117.74.27:8081/hls/37/index.m3u8
 
 
-
+凤凰资讯,http://sncbn.ch-cdn.gitv.tv/gitv_escape/G_FENGHUANGZIXUN/G_FENGHUANGZIXUN.m3u8
 凤凰资讯,http://113.117.74.27:8081/hls/36/index.m3u8
 凤凰资讯,http://max.freevar.com/fhws.php?id=1
 凤凰资讯,http://120.27.200.109/api/channel/l193d/fenghuangzx1
@@ -1012,7 +1013,9 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
-
+凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8
+凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8
+凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8
 
 
 
@@ -1033,18 +1036,18 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
-
+星空卫视,http://yuju666888.x3322.net:808/hls/110/index.m3u8
 
 香港卫视文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 
 
 
+翡翠台,http://yuju666888.x3322.net:808/hls/105/index.m3u8
 
 
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-华丽翡翠台,http://120.27.200.109/api/channel/togh6/hlfc.m3u8
-华丽翡翠台,http://120.27.200.109/api/channel/l193d/hlfc
+明珠台,http://yuju666888.x3322.net:808/hls/106/index.m3u8
 
 
 
@@ -1157,6 +1160,9 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
 
 
+
+
+
 大湾区卫视,http://110.72.30.168:8088/tsfile/live/1052_1.m3u8
 
 广东珠江,http://110.72.30.168:8088/tsfile/live/1106_1.m3u8
@@ -1167,6 +1173,20 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
 广东经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
+
+广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
+广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
+广东民生,http://yuju666888.x3322.net:808/hls/102/index.m3u8
+广东新闻,http://yuju666888.x3322.net:808/hls/113/index.m3u8
+广东科技,http://yuju666888.x3322.net:808/hls/117/index.m3u8
+大湾区卫视,http://yuju666888.x3322.net:808/hls/118/index.m3u8
+广东少儿,http://yuju666888.x3322.net:808/hls/120/index.m3u8
+广东卡通,http://yuju666888.x3322.net:808/hls/121/index.m3u8
+
+
+
+
+广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 
 广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
@@ -1227,6 +1247,13 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 清新公共,http://hls.wiseqx.com/live/qxgg.m3u8
+
+广州综合,http://cq123.coms.ee/gz/gz.php?id=zhonghe
+广州新闻,http://cq123.coms.ee/gz/gz.php?id=xinwen
+广州竞赛,http://cq123.coms.ee/gz/gz.php?id=jingsai
+广州影视,http://cq123.coms.ee/gz/gz.php?id=yingshi
+广州法治,http://cq123.coms.ee/gz/gz.php?id=fazhi
+广州南国都市,http://cq123.coms.ee/gz/gz.php?id=shenghuo
 
 广州综合,http://sz123.ueuo.com/gzphp.php?id=zhonghe
 广州新闻,http://sz123.ueuo.com/gzphp.php?id=xinwen
@@ -1359,37 +1386,11 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://120.27.200.109/api/channel/l193d/wlty
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 
 
 
-
-
-
-
-
-
-
 魅力足球,http://223.10.20.234:8085/udp/239.1.1.75:8075
-
-
-
-
-
 
 CCTV5-,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
@@ -1408,22 +1409,14 @@ CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 
 
 
-
-
-
-
-
-
-
-
-
 哒啵赛事,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 
 
-
+广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 
-
+咪咕精彩足球 超清,http://jscbn.ws-cdn.gitv.tv/gitv_escape/G_MIGUJCZQ/G_MIGUJCZQ.m3u8
+咪咕综合体育 超清,http://jscbn.ws-cdn.gitv.tv/gitv_escape/G_MIGUZHTY/G_MIGUZHTY.m3u8
 
 
 北京体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226658/1.m3u8
@@ -1496,7 +1489,12 @@ CONBRTE拳击,http://51.83.238.223:16417/
 
 电影专场,#genre#
 1905电影,http://nas.jdshipin.com:8801/1905.php?id=1905dy
-
+喜剧影院,http://15536746789.x3322.net:9901/tsfile/live/1041_1.m3u8
+动作影院,http://15536746789.x3322.net:9901/tsfile/live/1042_1.m3u8
+家庭影院,http://15536746789.x3322.net:9901/tsfile/live/1043_1.m3u8
+经典电影,http://15536746789.x3322.net:9901/tsfile/live/1044_1.m3u8
+金鹰纪实高清,http://15536746789.x3322.net:9901/tsfile/live/1045_1.m3u8
+星影,http://15536746789.x3322.net:9901/tsfile/live/1046_1.m3u8
 
 CHC家庭影院HD,http://58.19.13.92:9901/tsfile/live/1036_1.m3u8
 CHC动作电影HD,http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
@@ -1764,44 +1762,30 @@ NewTV军旅剧场,http://39.134.65.80:80/wh7f454c46tw1933127363_696277505/ottrrs
 
 少儿频道,#genre#
 
-新动漫,http://live.aishang.ctlcdn.com/00000110240321_1/playlist.m3u8?CONTENTID=00000110240321_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
-
-嘉佳卡通,http://live.aishang.ctlcdn.com/00000110240087_1/playlist.m3u8?CONTENTID=00000110240087_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+金鹰卡通,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_JINYING/G_JINYING.m3u8
+卡酷动画,http://15536746789.x3322.net:9901/tsfile/live/1010_1.m3u8
+金鹰卡通,http://15536746789.x3322.net:9901/tsfile/live/1011_1.m3u8
+炫动卡通,http://15536746789.x3322.net:9901/tsfile/live/1014_1.m3u8
+金鹰卡通,http://118.122.2.29:9999/hls/50/index.m3u8
+炫动卡通,http://118.122.2.29:9999/hls/56/index.m3u8
+炫动卡通,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_XUANDONG/G_XUANDONG.m3u8
 嘉佳卡通,http://171.110.10.10:8181/tsfile/live/1006_1.m3u8
-
-
-
-
-
-金鹰卡通,http://live.aishang.ctlcdn.com/00000110240050_1/playlist.m3u8?CONTENTID=00000110240050_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+优漫卡通,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_YOUMAN/G_YOUMAN.m3u8
+卡酷少儿,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_KAKU/G_KAKU.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
+动漫秀场,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_DONGMANXC/G_DONGMANXC.m3u8
 
 优漫卡通,http://111.20.35.103:6610/000000001000/5574405527570022182/index.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=00
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 
 
 
-卡酷少儿,http://live.aishang.ctlcdn.com/00000110240051_1/playlist.m3u8?CONTENTID=00000110240051_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+
 卡酷少儿,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8?
-
-
-
-
-
-
-
-金鹰纪实,http://live.aishang.ctlcdn.com/00000110240303_1/playlist.m3u8?CONTENTID=00000110240303_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
-
-山东教育卫视,http://live.aishang.ctlcdn.com/00000110240304_1/playlist.m3u8?CONTENTID=00000110240304_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
-
-
 
 
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
