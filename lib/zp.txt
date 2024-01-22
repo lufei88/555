@@ -1250,22 +1250,22 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 广东地方台,#genre#
 
-广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
+广东卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_GUANGDONG-HD-265-8M/G_GUANGDONG-HD-265-8M.m3u8
+
+
+大湾区卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NANFANG/G_NANFANG.m3u8
 
 
 
 
 
-大湾区卫视,http://110.72.30.168:8088/tsfile/live/1052_1.m3u8
-
-广东珠江,http://110.72.30.168:8088/tsfile/live/1106_1.m3u8
 
 
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
-大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
+
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
-广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
-广东经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
+
+
 
 广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
 广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
@@ -1285,7 +1285,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
-广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
+
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
 
 GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
@@ -1293,7 +1293,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 
 
-广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 
 
@@ -1306,17 +1305,12 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 
-广东体育,http://r.jdshipin.com/LiYdg
 
 
 南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
-
-
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
-深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
-深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
+
 
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
@@ -1448,25 +1442,6 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
-
-广东现代教育,http://113.117.74.18:8081/hls/109/index.m3u8
-优漫卡通,http://113.117.74.18:8081/hls/128/index.m3u8
-山东教育卫视,http://113.117.74.18:8081/hls/72/index.m3u8
-深圳体育健康,http://113.117.74.18:8081/hls/142/index.m3u8
-深圳体育,http://113.117.74.18:8081/hls/70/index.m3u8
-深圳电视剧,http://113.117.74.18:8081/hls/69/index.m3u8
-深圳都市,http://113.117.74.18:8081/hls/68/index.m3u8
-乐游,http://113.117.74.18:8081/hls/66/index.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 
