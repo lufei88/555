@@ -1255,7 +1255,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 大湾区卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NANFANG/G_NANFANG.m3u8
 
-
+大湾区卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NANFANG/G_NANFANG.m3u8
 
 
 
@@ -1830,7 +1830,12 @@ NewTV军旅剧场,http://39.134.65.80:80/wh7f454c46tw1933127363_696277505/ottrrs
 
 少儿频道,#genre#
 
-
+金鹰卡通,http://223.10.20.234:8085/udp/239.1.1.61:8061
+卡酷少儿,http://223.10.20.234:8085/udp/239.1.1.62:8062
+金鹰纪实高清,http://223.10.20.234:8085/udp/239.1.1.63:8063
+哈哈炫动,http://223.10.20.234:8085/udp/239.1.1.64:8064
+嘉佳卡通,http://223.10.20.234:8085/udp/239.1.1.68:8068
+优漫卡通,http://223.10.20.234:8085/udp/239.1.1.72:8072
 金鹰卡通,http://gzcbn.ch-cdn.gitv.tv/gitv_escape/G_JINYING/G_JINYING.m3u8
 卡酷动画,http://15536746789.x3322.net:9901/tsfile/live/1010_1.m3u8
 金鹰卡通,http://15536746789.x3322.net:9901/tsfile/live/1011_1.m3u8
