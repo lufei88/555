@@ -439,6 +439,10 @@
 
       "ext": "./tvbox/tok.txt+4k|fhd|auto"
     },
+   
+   
+   
+   
     {
       "key": "PanSou",
       "name": "🔘盘搜┃搜索",
@@ -457,7 +461,9 @@
     },
 
   
+{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30},
 
+{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/tvbox/tok.txt", "timeout":30},
 
 
 
