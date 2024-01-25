@@ -1738,6 +1738,25 @@ CONBRTE拳击,http://51.83.238.223:16417/
 电影专场,#genre#
 
 
+CHC电影,http://1.zqit.cn:4000/udp/239.77.0.27:5146
+热播剧场,http://1.zqit.cn:4000/udp/239.77.0.106:5146
+GTV网络棋牌,http://1.zqit.cn:4000/udp/239.253.43.38:5146
+HZTV1,http://1.zqit.cn:4000/udp/239.77.1.232:5146
+HZTV2,http://1.zqit.cn:4000/udp/239.77.1.233:5146
+IPTV1,http://1.zqit.cn:4000/udp/239.77.1.75:5146
+IPTV2,http://1.zqit.cn:4000/udp/239.77.1.63:5146
+IPTV3+,http://1.zqit.cn:4000/udp/239.77.0.107:5146
+IPTV3,http://1.zqit.cn:4000/udp/239.77.1.64:5146
+IPTV4,http://1.zqit.cn:4000/udp/239.77.1.56:5146
+IPTV5+,http://1.zqit.cn:4000/udp/239.77.0.176:5146
+IPTV6+,http://1.zqit.cn:4000/udp/239.77.1.138:5146
+IPTV8+,http://1.zqit.cn:4000/udp/239.77.1.82:5146
+IPTV法治,http://1.zqit.cn:4000/udp/239.77.1.86:5146
+IPTV相声小品,http://1.zqit.cn:4000/udp/239.77.0.100:5146
+IPTV谍战剧场,http://1.zqit.cn:4000/udp/239.77.0.99:5146
+IPTV野外,http://1.zqit.cn:4000/udp/239.77.0.101:5146
+
+
 
 
 
