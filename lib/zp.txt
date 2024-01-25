@@ -104,15 +104,6 @@ CQTV少儿,http://27.10.9.206:8003/rtp/225.0.4.71:7980
 
 
 
-
-
-
-
-
-
-
-
-
 CCTV-1,http://yuju666888.x3322.net:808/hls/38/index.m3u8
 CCTV-2,http://yuju666888.x3322.net:808/hls/39/index.m3u8
 CCTV-3,http://yuju666888.x3322.net:808/hls/40/index.m3u8
@@ -238,13 +229,6 @@ CCTV-17,http://61.178.227.57:9901/tsfile/live/0142_1.m3u8
 足球,http://61.178.227.57:9901/tsfile/live/1017_1.m3u8
 都市剧场,http://61.178.227.57:9901/tsfile/live/1018_1.m3u8
 法制天地,http://61.178.227.57:9901/tsfile/live/1019_1.m3u8
-
-
-
-
-
-
-
 
 
 
@@ -1377,6 +1361,8 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 广东地方台,#genre#
+
+广东卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_GUANGDONG-HD-265-8M/G_GUANGDONG-HD-265-8M.m3u8
 广东体育高清,http://1.zqit.cn:4000/udp/239.77.0.112:5146
 广东公共高清,http://1.zqit.cn:4000/udp/239.77.0.225:5146
 广东少儿高清,http://1.zqit.cn:4000/udp/239.77.0.250:5146
@@ -1410,11 +1396,6 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 汕头综合高清,http://1.zqit.cn:4000/udp/239.77.1.130:5146
 汕头经济生活高清,http://1.zqit.cn:4000/udp/239.77.1.131:5146
 汕头文旅体育高清,http://1.zqit.cn:4000/udp/239.253.43.47:5146
-
-
-
-
-
 江门公共高清,http://1.zqit.cn:4000/udp/239.77.0.202:5146
 江门教育高清,http://1.zqit.cn:4000/udp/239.77.0.203:5146
 江门综合高清,http://1.zqit.cn:4000/udp/239.77.0.201:5146
@@ -1452,14 +1433,6 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 
-
-
-
-
-
-
-
-广东卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_GUANGDONG-HD-265-8M/G_GUANGDONG-HD-265-8M.m3u8
 
 
 大湾区卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NANFANG/G_NANFANG.m3u8
