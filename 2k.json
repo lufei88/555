@@ -135,8 +135,8 @@
       "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jar/xiaomi4.jar"
+      "changeable": 0
+      
     },
 
 
