@@ -101,23 +101,16 @@
 
 
 
-{
-  "key":"影视车",                  //来自杜比https://tv.dubi.tk/0825.json
-   "name":"📺天招4K-4┃速度快",
-    "type":3,
-    "api":"csp_Wogg",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":0,
-    //"ext":"./tvbox/tok.txt$$$https://www.weixine.net/$$$1$$$./json/wogg.json",
-
-     "ext": "./tvbox/tok.txt$$$https://www.weixine.net$$$1$$$./json/wogg.json",
-     "timeout":60,
-      "jar":"./jar/pg.jar"
-    //"jar": "./jar/xiaomi4.jar"
-     
+    {
+      "key": "南瓜",
+      "name": "🎃➕天招蓝光┃速度飞",//来自小米
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
-
 
 
 
