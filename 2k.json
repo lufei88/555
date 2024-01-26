@@ -282,16 +282,6 @@
     },
 
 
-    {
-      "key": "feiyun",
-      "name": "☁️天招蓝光┃速度飞",    //新添加的   来自小米
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
 
     {
       "key": "csp_Bdys",
@@ -320,16 +310,7 @@
 
 
 
-    {
-      "key": "速度",
-      "name": "🚙天招蓝光┃速度飞",      //速度
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
+ 
 
  
 
@@ -346,7 +327,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/午夜.json"
+      "ext": "./lib/午夜.json",
+       "jar": "./jar/xhkw1231.jar"
+      
     },
 
 
@@ -359,7 +342,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "./json/新视觉.json"
+      "ext": "./json/新视觉.json",
+      "jar": "./jar/xhkw1231.jar"
     },
 
    
@@ -377,7 +361,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/农民.json"
+      "ext": "./lib/农民.json",
+      "jar": "./jar/xhkw1231.jar"
     },
    
    
@@ -388,7 +373,8 @@
       "name": "🐯天招蓝光┃速度中",   //Tiger┃TV   考虑资源有的不行
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/虎虎.json"
+      "ext": "./json/虎虎.json",
+      "jar": "./jar/xhkw1231.jar"
     },
 
 
@@ -404,7 +390,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/达达龟.json"
+      "ext": "./json/达达龟.json",
+      "jar": "./jar/xhkw1231.jar"
     },
 
 
@@ -429,7 +416,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/freeok.json"
+      "ext": "./json/freeok.json",
+      "jar": "./jar/xhkw1231.jar"
     },
 
 
@@ -455,7 +443,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/奇优.json"
+      "ext": "./json/奇优.json",
+      "jar": "./jar/xhkw1231.jar"
     },
 
 
