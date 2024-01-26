@@ -317,82 +317,59 @@ CGTN,http://27.10.9.206:8003/rtp/225.0.4.12:7980
 
 
 
-CCTV1,http://61.160.247.140:2356/77.php?id=cctv1
 
 
 
 
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 
-CCTV2,http://61.160.247.140:2356/77.php?id=cctv2
-CCTV2,http://api.wemtime.com/sxgv4.php?id=CCTV-2H265_4000
-
-
-CCTV3,http://61.160.247.140:2356/77.php?id=cctv3
 
 
 
 
-CCTV4,http://61.160.247.140:2356/77.php?id=cctv4
-CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 
 
 
-CCTV5,http://61.160.247.140:2356/77.php?id=cctv5
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5,http://112.91.153.50:9901/tsfile/live/0005_1.m3u8
-
-
-CCTV5+,http://61.160.247.140:2356/77.php?id=cctv5p
 
 
 
-CCTV6,http://61.160.247.140:2356/77.php?id=cctv6
+
+
+
+
 CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 
 
-CCTV7,http://61.160.247.140:2356/77.php?id=cctv7
-
-
-CCTV8,http://61.160.247.140:2356/77.php?id=cctv8
-
-
-
-CCTV9,http://61.160.247.140:2356/77.php?id=cctv9
-CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-
-
-
-CCTV10,http://61.160.247.140:2356/77.php?id=cctv10
 
 
 
 
-CCTV11,http://61.160.247.140:2356/77.php?id=cctv11
 
 
 
-CCTV12,http://61.160.247.140:2356/77.php?id=CCTV12
 
 
-CCTV13,http://61.160.247.140:2356/77.php?id=cctv13
+
+
+
+
+
+
 CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 
-CCTV14,http://61.160.247.140:2356/77.php?id=cctv14
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 
 
 
-CCTV15,http://61.160.247.140:2356/77.php?id=CCTV15
 
 
-CCTV16,http://61.160.247.140:2356/77.php?id=cctv16
-CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+
+
+
 CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 
-CCTV17,http://61.160.247.140:2356/77.php?id=cctv17
+
 
 
 央卫电信专线,#genre#
@@ -1063,34 +1040,7 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 黑莓动画,http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
 咪咕视频1,http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
-咪咕视频2,http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
-咪咕视频3,http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
-咪咕视频4,http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
-咪咕视频5,http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
-咪咕视频6,http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
-咪咕视频7,http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
-咪咕视频8,http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
-咪咕视频9,http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-咪咕视频10,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
-咪咕视频11,http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-咪咕视频12,http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
-咪咕视频13,http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
-咪咕视频14,http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-咪咕视频15,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-咪咕视频16,http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
 咪咕视频8M1,http://39.134.66.66/PLTV/88888888/224/3221225762/index.m3u8
-咪咕视频8M2,http://39.134.66.66/PLTV/88888888/224/3221225749/index.m3u8
-咪咕视频8M3,http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
-咪咕视频8M4,http://39.134.66.66/PLTV/88888888/224/3221225764/index.m3u8
-咪咕视频8M5,http://39.134.66.66/PLTV/88888888/224/3221225747/index.m3u8
-咪咕视频8M6,http://39.134.66.66/PLTV/88888888/224/3221225766/index.m3u8
-咪咕视频8M7,http://39.134.66.66/PLTV/88888888/224/3221225760/index.m3u8
-咪咕视频8M8,http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
-咪咕视频8M9,http://39.134.66.66/PLTV/88888888/224/3221225745/index.m3u8
-咪咕视频8M10,http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
-咪咕视频8M11,http://39.134.66.66/PLTV/88888888/224/3221225741/index.m3u8
-咪咕视频8M12,http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
-咪咕视频8M13,http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
 咪咕视频 30M2160HDR,http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
 咪咕直播,http://39.134.66.66/PLTV/88888888/224/3221225782/index.m3u8
 
@@ -1099,8 +1049,7 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
-凤凰香港,http://113.117.74.27:8081/hls/38/index.m3u8
-凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
+
 凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 
 凤凰中文,http://sncbn.ch-cdn.gitv.tv/gitv_escape/G_FENGHUANGZHONGWEN/G_FENGHUANGZHONGWEN.m3u8
@@ -1276,71 +1225,21 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 广东地方台,#genre#
 
-广东卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_GUANGDONG-HD-265-8M/G_GUANGDONG-HD-265-8M.m3u8
+广东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
 广东体育,http://1.zqit.cn:4000/udp/239.77.0.112:5146
-广东公共,http://1.zqit.cn:4000/udp/239.77.0.225:5146
-广东少儿,http://1.zqit.cn:4000/udp/239.77.0.250:5146
-广东影视,http://1.zqit.cn:4000/udp/239.77.0.217:5146
-广东新闻,http://1.zqit.cn:4000/udp/239.77.0.173:5146
-广东珠江,http://1.zqit.cn:4000/udp/239.77.0.1:5146
-广东综艺,http://1.zqit.cn:4000/udp/239.77.1.237:5146
-广州影视,http://1.zqit.cn:4000/udp/239.253.43.73:5146
-广州新闻,http://1.zqit.cn:4000/udp/239.253.43.72:5146
-广州法治,http://1.zqit.cn:4000/udp/239.253.43.74:5146
-广州竞赛,http://1.zqit.cn:4000/udp/239.253.43.75:5146
-广州综合,http://1.zqit.cn:4000/udp/239.253.43.71:5146
-东莞新闻综合,http://1.zqit.cn:4000/udp/239.253.43.104:5146
-中山公共,http://1.zqit.cn:4000/udp/239.253.43.63:5146
-中山教育,http://1.zqit.cn:4000/udp/239.253.43.64:5146
-中山综合,http://1.zqit.cn:4000/udp/239.253.43.62:5146
-云浮文旅,http://1.zqit.cn:4000/udp/239.77.0.254:5146
-云浮综合,http://1.zqit.cn:4000/udp/239.77.0.253:5146
-佛山公共,http://1.zqit.cn:4000/udp/239.253.43.53:5146
-佛山南海,http://1.zqit.cn:4000/udp/239.253.43.54:5146
-佛山影视,http://1.zqit.cn:4000/udp/239.253.43.56:5146
-佛山综合,http://1.zqit.cn:4000/udp/239.253.43.57:5146
-佛山顺德,http://1.zqit.cn:4000/udp/239.253.43.55:5146
-南国都市,http://1.zqit.cn:4000/udp/239.253.43.99:5146
-山东教育,http://1.zqit.cn:4000/udp/239.77.0.83:5146
-岭南戏曲,http://1.zqit.cn:4000/udp/239.77.0.16:5146
 
-揭阳公共,http://1.zqit.cn:4000/udp/239.77.0.251:5146
-揭阳综合,http://1.zqit.cn:4000/udp/239.77.0.229:5146
-汕头综合,http://1.zqit.cn:4000/udp/239.253.43.45:5146
-汕头综合,http://1.zqit.cn:4000/udp/239.77.1.130:5146
-汕头经济生活,http://1.zqit.cn:4000/udp/239.77.1.131:5146
-汕头文旅体育,http://1.zqit.cn:4000/udp/239.253.43.47:5146
-江门公共,http://1.zqit.cn:4000/udp/239.77.0.202:5146
-江门教育,http://1.zqit.cn:4000/udp/239.77.0.203:5146
-江门综合,http://1.zqit.cn:4000/udp/239.77.0.201:5146
-河源公共,http://1.zqit.cn:4000/udp/239.253.43.214:5146
-河源综合,http://1.zqit.cn:4000/udp/239.253.43.213:5146
-深圳东部,http://1.zqit.cn:4000/udp/239.77.1.224:5146
-深圳众创,http://1.zqit.cn:4000/udp/239.77.1.247:5146
-深圳体育健康,http://1.zqit.cn:4000/udp/239.77.1.140:5146
-深圳公共,http://1.zqit.cn:4000/udp/239.77.1.178:5146
-深圳娱乐,http://1.zqit.cn:4000/udp/239.77.1.243:5146
-深圳宜和购物,http://1.zqit.cn:4000/udp/239.77.1.87:5146
-深圳宝安第一课,http://1.zqit.cn:4000/udp/239.77.1.225:5146
-深圳宝安,http://1.zqit.cn:4000/udp/239.77.1.67:5146
-深圳少儿,http://1.zqit.cn:4000/udp/239.77.1.244:5146
-深圳电视剧,http://1.zqit.cn:4000/udp/239.77.1.177:5146
-深圳财经生活,http://1.zqit.cn:4000/udp/239.77.1.242:5146
-深圳都市,http://1.zqit.cn:4000/udp/239.77.1.124:5146
-深圳都市,http://1.zqit.cn:4000/udp/239.77.1.176:5146
-深圳龙岗频道,http://1.zqit.cn:4000/udp/239.77.1.223:5146
-清远公共,http://1.zqit.cn:4000/udp/239.253.43.34:5146
-清远新闻综合,http://1.zqit.cn:4000/udp/239.253.43.33:5146
-湛江公共,http://1.zqit.cn:4000/udp/239.77.0.140:5146
-湛江新闻综合高清,http://1.zqit.cn:4000/udp/239.77.0.141:5146
-珠海1,http://1.zqit.cn:4000/udp/239.77.0.155:5146
-珠海2,http://1.zqit.cn:4000/udp/239.77.0.154:5146
-肇庆生活服务,http://1.zqit.cn:4000/udp/239.253.43.2:5146
-肇庆综合,http://1.zqit.cn:4000/udp/239.253.43.1:5146
-茂名公共,http://1.zqit.cn:4000/udp/239.77.0.207:5146
-茂名综合,http://1.zqit.cn:4000/udp/239.77.0.206:5146
-韶关新闻综合,http://1.zqit.cn:4000/udp/239.77.0.117:5146
-韶关绿色生活,http://1.zqit.cn:4000/udp/239.77.0.119:5146
+广东少儿,http://1.zqit.cn:4000/udp/239.77.0.250:5146
+
+
+广东珠江,http://1.zqit.cn:4000/udp/239.77.0.1:5146
+
+
+
+
+
+广州综合,http://1.zqit.cn:4000/udp/239.253.43.71:5146
+
+
 
 
 
@@ -1551,7 +1450,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://120.27.200.109/api/channel/l193d/wlty
 
-劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
+
 
 
 
@@ -1560,7 +1459,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 CCTV5-,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 
-风云足球,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8
+
 风云足球,http://64448yz621.imdo.co:9901/tsfile/live/1027_1.m3u8?key=txiptv
 央视台球,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8
 高尔夫网球,http://60.4.3.57:8888/udp/239.253.93.122:6465
@@ -1653,32 +1552,6 @@ CONBRTE拳击,http://51.83.238.223:16417/
 
 
 电影专场,#genre#
-
-
-CHC电影,http://1.zqit.cn:4000/udp/239.77.0.27:5146
-热播剧场,http://1.zqit.cn:4000/udp/239.77.0.106:5146
-GTV网络棋牌,http://1.zqit.cn:4000/udp/239.253.43.38:5146
-HZTV1,http://1.zqit.cn:4000/udp/239.77.1.232:5146
-HZTV2,http://1.zqit.cn:4000/udp/239.77.1.233:5146
-IPTV1,http://1.zqit.cn:4000/udp/239.77.1.75:5146
-IPTV2,http://1.zqit.cn:4000/udp/239.77.1.63:5146
-IPTV3+,http://1.zqit.cn:4000/udp/239.77.0.107:5146
-IPTV3,http://1.zqit.cn:4000/udp/239.77.1.64:5146
-IPTV4,http://1.zqit.cn:4000/udp/239.77.1.56:5146
-IPTV5+,http://1.zqit.cn:4000/udp/239.77.0.176:5146
-IPTV6+,http://1.zqit.cn:4000/udp/239.77.1.138:5146
-IPTV8+,http://1.zqit.cn:4000/udp/239.77.1.82:5146
-IPTV法治,http://1.zqit.cn:4000/udp/239.77.1.86:5146
-IPTV相声小品,http://1.zqit.cn:4000/udp/239.77.0.100:5146
-IPTV谍战剧场,http://1.zqit.cn:4000/udp/239.77.0.99:5146
-IPTV野外,http://1.zqit.cn:4000/udp/239.77.0.101:5146
-广东影视-1,http://1.zqit.cn:4000/udp/239.77.1.183:5146
-广东影视-2,http://1.zqit.cn:4000/udp/239.77.1.184:5146
-广东影视-3,http://1.zqit.cn:4000/udp/239.77.1.185:5146
-广东影视-4,http://1.zqit.cn:4000/udp/239.77.1.186:5146
-
-
-
 
 
 CHC家庭影院HD,http://58.19.13.92:9901/tsfile/live/1036_1.m3u8
