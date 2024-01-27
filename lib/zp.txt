@@ -389,9 +389,9 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 央卫电信专线,#genre#
 
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
-CCTV2,http://219.140.56.34:3333/tsfile/live/0002_1.m3u8
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
-CCTV4,http://219.140.56.34:3333/tsfile/live/1004_1.m3u8
+CCTV4,http://1.zqit.cn:4000/udp/239.77.1.166:5146
 CCTV5,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5+,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
 CCTV6,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
