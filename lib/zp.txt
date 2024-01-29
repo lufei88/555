@@ -19,7 +19,29 @@ CCTV-17 HD,http://117.27.190.42:9901/tsfile/live/23247_1.m3u8
 CCTV-5＋ HD,http://117.27.190.42:9901/tsfile/live/23248_1.m3u8
 CCTV-16 HD,http://117.27.190.42:9901/tsfile/live/23249_1.m3u8
 
-
+CCTV-1 HD,http://yuju666888.x3322.net:808/hls/38/index.m3u8
+CCTV-3 HD,http://yuju666888.x3322.net:808/hls/40/index.m3u8
+CCTV-2 HD,http://yuju666888.x3322.net:808/hls/39/index.m3u8
+CCTV-4 HD,http://yuju666888.x3322.net:808/hls/41/index.m3u8
+CCTV-5 HD,http://yuju666888.x3322.net:808/hls/42/index.m3u8
+CCTV-6 HD,http://yuju666888.x3322.net:808/hls/51/index.m3u8
+CCTV-7 HD,http://yuju666888.x3322.net:808/hls/52/index.m3u8
+CCTV-8 HD,http://yuju666888.x3322.net:808/hls/53/index.m3u8
+CCTV-10 HD,http://yuju666888.x3322.net:808/hls/55/index.m3u8
+CCTV-9 HD,http://yuju666888.x3322.net:808/hls/54/index.m3u8
+CCTV-11 HD,http://yuju666888.x3322.net:808/hls/56/index.m3u8
+CCTV-12 HD,http://yuju666888.x3322.net:808/hls/57/index.m3u8
+CCTV-13 HD,http://yuju666888.x3322.net:808/hls/59/index.m3u8
+CCTV-14 HD,http://yuju666888.x3322.net:808/hls/58/index.m3u8
+CCTV-15 HD,http://yuju666888.x3322.net:808/hls/60/index.m3u8
+CCTV-16 HD,http://yuju666888.x3322.net:808/hls/61/index.m3u8
+C高尔夫网球,http://yuju666888.x3322.net:808/hls/63/index.m3u8
+北京卡通,http://yuju666888.x3322.net:808/hls/107/index.m3u8
+广东卡通,http://yuju666888.x3322.net:808/hls/108/index.m3u8
+湖南卡通,http://yuju666888.x3322.net:808/hls/109/index.m3u8
+星空卫视,http://yuju666888.x3322.net:808/hls/110/index.m3u8
+现代教育,http://yuju666888.x3322.net:808/hls/126/index.m3u8
+CETV1,http://yuju666888.x3322.net:808/hls/204/index.m3u8
 
 
 
