@@ -511,6 +511,30 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 央卫电信专线,#genre#
 
+cctv1,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-1H265_4000
+cctv2,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-2H265_4000
+cctv3,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-3H265_4000
+cctv4,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-4H265_4000
+cctv5,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-5H265_4000
+cctv5+,http://www.51romzj.xyz//diyroms117/scxg.php?id=CCTV-5plusH265_4000
+cctv6,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-6H265_4000
+cctv7,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-7H265_4000
+cctv8,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-8H265_4000
+cctv9,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-9H265_4000
+cctv10,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-10H265_4000
+cctv11,http://www.51romzj.xyz//diyroms117/scxg.php?id=CCTV-11-H265_4000
+cctv12,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-12H265_4000
+cctv13,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-xw_4000
+cctv14,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-14H265_4000
+cctv15,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-15-yyH265_4000
+cctv16,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-16_4000
+cctv17,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-17_4000
+
+
+
+
+
+
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
