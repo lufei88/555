@@ -531,6 +531,40 @@ cctv16,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-16_4000
 cctv17,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-17_4000
 
 
+cetv1,http://www.51romzj.xyz/diyroms117/scxg.php?id=CETV-1H264_4000
+cetv2,http://www.51romzj.xyz/diyroms117/scxg.php?id=CETV-2_4000
+CHC动作电影,http://www.51romzj.xyz/diyroms117/scxg.php?id=wqCHCdzdyH265_4000
+CHC家庭影院,http://www.51romzj.xyz/diyroms117/scxg.php?id=jbtygqCHCjtyyH265_4000
+茶频道,http://www.51romzj.xyz/diyroms117/scxg.php?id=cpd_4000
+法治天地,http://www.51romzj.xyz/diyroms117/scxg.php?id=fztx_4000
+文物宝库,http://www.51romzj.xyz/diyroms117/scxg.php?id=wwbk_4000
+动漫秀场,http://www.51romzj.xyz/diyroms117/scxg.php?id=yybb-dmxc-H265_4000
+金鹰卡通,http://www.51romzj.xyz/diyroms117/scxg.php?id=jykt_2000
+魅力足球,http://www.51romzj.xyz/diyroms117/scxg.php?id=mlyy_4000
+武术世界,http://www.51romzj.xyz/diyroms117/scxg.php?id=wssj_4000
+安徽卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=ahwsH265_4000
+北京卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=bjwsH265_4000
+东方卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=dfwsH265_4000
+东南卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=dnwsfjwsH265_4000
+广东卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=gdwsH265_4000
+贵州卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=gzwsH265_4000
+河南卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=hnws35_4000
+黑龙江卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=hljwsH265_4000
+湖北卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=hbwsH265_4000
+湖南卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=hnwsH265_4000
+吉林卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=jlwsH265_4000
+江苏卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=jswsH265_4000
+江西卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=jxwsH265_4000
+辽宁卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=lnwsH265_4000
+山东卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=sdwsH265_4000
+深圳卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=szwsH265_4000
+四川卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=scwsH265_4000
+浙江卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=zjwsH265_4000
+天津卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=tjwsH265_4000
+重庆卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=cqwsH265_4000
+重庆卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=qhwsH264_2000
+
+
 
 
 
