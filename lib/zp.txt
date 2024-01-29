@@ -1,4 +1,33 @@
 央视卫视,#genre#
+
+CCTV-1 HD,http://117.27.190.42:9901/tsfile/live/23232_1.m3u8
+CCTV-2 HD,http://117.27.190.42:9901/tsfile/live/23233_1.m3u8
+CCTV-3 HD,http://117.27.190.42:9901/tsfile/live/23234_1.m3u8
+CCTV-4 HD,http://117.27.190.42:9901/tsfile/live/23235_1.m3u8
+CCTV-5 HD,http://117.27.190.42:9901/tsfile/live/23236_1.m3u8
+CCTV-6 HD,http://117.27.190.42:9901/tsfile/live/23237_1.m3u8
+CCTV-7 HD,http://117.27.190.42:9901/tsfile/live/23238_1.m3u8
+CCTV-8 HD,http://117.27.190.42:9901/tsfile/live/23239_1.m3u8
+CCTV-9 HD,http://117.27.190.42:9901/tsfile/live/23240_1.m3u8
+CCTV-10 HD,http://117.27.190.42:9901/tsfile/live/23241_1.m3u8
+CCTV-11 HD,http://117.27.190.42:9901/tsfile/live/23242_1.m3u8
+CCTV-12 HD,http://117.27.190.42:9901/tsfile/live/23243_1.m3u8
+CCTV-13 HD,http://117.27.190.42:9901/tsfile/live/23244_1.m3u8
+CCTV-14 HD,http://117.27.190.42:9901/tsfile/live/23245_1.m3u8
+CCTV-15 HD,http://117.27.190.42:9901/tsfile/live/23246_1.m3u8
+CCTV-17 HD,http://117.27.190.42:9901/tsfile/live/23247_1.m3u8
+CCTV-5＋ HD,http://117.27.190.42:9901/tsfile/live/23248_1.m3u8
+CCTV-16 HD,http://117.27.190.42:9901/tsfile/live/23249_1.m3u8
+
+
+
+
+
+
+
+
+
+
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
