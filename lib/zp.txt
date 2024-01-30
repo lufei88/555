@@ -503,50 +503,6 @@ CHC高清电影HD,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8
 星空,http://nas.jumping.wang:5555/udp/239.93.1.10:2193
 
 
-
-凤凰中文,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用iMqk7n9PpS
-凤凰资讯,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用Fve2fj7qVA
-翡翠台,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用r9vuMI4wk1
-TVB明珠,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用qRFmR2JQh7
-TVB J2,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用KJQLjeRJlt
-TVB无线新闻,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用uEEDGxxXlb
-TVB财体体育资讯 A,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用teVyyIFEDM
-TVB财体体育资讯 B,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用pOjPWzTToq
-Viu TV,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用3TdSvtisZh
-VIU 6,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用k2pGdZHDip
-RTHK31,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用F5zq5Rrtep
-RTHK32,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用JO6WH9SDG1
-HOY资讯,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用irGpBT4hUb
-澳门莲花,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用3VVeE0vL5e
-民视,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用H3ZMykGm5h
-中视,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用UbOLq9nqhG
-华视,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用uJO2sb8JCL
-台视,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用AXYWFcfcpy
-
-
-
-天映频道(粤语),http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用7ee9OMbqvB
-天映频道(国语),http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用lxcKnE7w1a
-Thrill,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用ANj2Dd511s
-华艺综合,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用8NJpzLByid
-ELTA影剧,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用bJx2FlxNdZ
-东森电影,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用frwTClSDcN
-东森洋片,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用Fo1VSd4sZF
-东森戏剧,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用yPCV21bPaW
-龙祥时代,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用oanvychmTO
-AXN,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用ZsoL7CU3cf
-龙华电影,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用2pZkI8dJTm
-探索频道,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用ydIcIUpy1J
-好莱坞电影,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用KuRVPC3qEp
-CINEMAX,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用AmkvL3ynew
-ELEVEN体育1台,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用uLX4g2tSkG
-ELTA体育 1,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用VVaj4qt9WF
-ELTA体育 3,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用YR5OYEgfhN
-ELTA体育 4,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用MZ8fjXXw4q
-博斯高球1,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用jg5OB8e8Mz
-博斯高球2,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用FaD9Xr1yYo
-龙华戏剧,http://8.210.207.87/老鼠爱钓鱼.php?id=業余愛好聊天群专用R1LWZF8ALG
-
 凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 
 凤凰中文,http://sncbn.ch-cdn.gitv.tv/gitv_escape/G_FENGHUANGZHONGWEN/G_FENGHUANGZHONGWEN.m3u8
