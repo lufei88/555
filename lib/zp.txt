@@ -1,24 +1,7 @@
 央视卫视,#genre#
 
 
-CCTV1 HD,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
-CCTV2 HD,http://39.134.66.110/PLTV/88888888/224/3221225599/index.m3u8
-CCTV3 HD,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
-CCTV4 HD,http://39.134.66.110/PLTV/88888888/224/3221225797/index.m3u8
-CCTV5 HD,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
-CCTV5+ HD,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
-CCTV6 HD,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
-CCTV7 HD,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
-CCTV8 HD,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
-CCTV9 HD,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
-CCTV10 HD,http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
-CCTV11 HD,http://39.134.66.110/PLTV/88888888/224/3221225517/index.m3u8
-CCTV12 HD,http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
-CCTV13 HD,http://39.134.66.110/PLTV/88888888/224/3221225812/index.m3u8
-CCTV14 HD,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
-CCTV15 HD,http://39.134.66.110/PLTV/88888888/224/3221225513/index.m3u8
-CCTV16 HD,http://39.134.66.110/PLTV/88888888/224/3221225893/index.m3u8
-CCTV17 HD,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+
 
 
 
@@ -75,6 +58,34 @@ CETV-4,http://nas.jumping.wang:5555/udp/239.93.0.50:5140
 CGTN英语,http://nas.jumping.wang:5555/udp/239.93.0.104:5140
 CGTN西班牙语,http://nas.jumping.wang:5555/udp/239.93.42.49:5140
 CGTN法语,http://nas.jumping.wang:5555/udp/239.93.42.50:5140
+
+
+CCTV-1 HD,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-2 HD,http://39.134.66.110/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-3 HD,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4 HD,http://39.134.66.110/PLTV/88888888/224/3221225797/index.m3u8
+CCTV-5 HD,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5+ HD,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6 HD,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-7 HD,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8 HD,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9 HD,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10 HD,http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11 HD,http://39.134.66.110/PLTV/88888888/224/3221225517/index.m3u8
+CCTV-12 HD,http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13 HD,http://39.134.66.110/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-14 HD,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-15 HD,http://39.134.66.110/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-16 HD,http://39.134.66.110/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-17 HD,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -341,59 +352,64 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 
 央卫电信专线,#genre#
+CCTV-1,http://123.147.77.111:8002/udp/225.0.4.74:7980
+CCTV-2,http://123.147.77.111:8002/udp/225.0.4.132:7980
+CCTV-3,http://123.147.77.111:8002/udp/225.0.4.142:7980
+CCTV-4,http://123.147.77.111:8002/udp/225.0.4.176:7980
+CCTV-5,http://123.147.77.111:8002/udp/225.0.4.143:7980
+CCTV5+,http://123.147.77.111:8002/udp/225.0.4.73:7980
+CCTV-6,http://123.147.77.111:8002/udp/225.0.4.144:7980
+CCTV-7,http://123.147.77.111:8002/udp/225.0.4.127:7980
+CCTV-8,http://123.147.77.111:8002/udp/225.0.4.137:7980
+CCTV-9,http://123.147.77.111:8002/udp/225.0.4.131:7980
+CCTV-10,http://123.147.77.111:8002/udp/225.0.4.130:7980
+CCTV-11,http://123.147.77.111:8002/udp/225.0.4.218:7980
+CCTV-12,http://123.147.77.111:8002/udp/225.0.4.129:7980
+CCTV-13,http://123.147.77.111:8002/udp/225.0.4.219:7980
+CCTV-14,http://123.147.77.111:8002/udp/225.0.4.128:7980
+CCTV-15,http://123.147.77.111:8002/udp/225.0.4.220:7980
+CCTV-17,http://123.147.77.111:8002/udp/225.0.4.179:7980
+CCTV-1,http://27.10.9.206:8003/rtp/225.0.4.74:7980
+CCTV-2,http://27.10.9.206:8003/rtp/225.0.4.132:7980
+CCTV-3,http://27.10.9.206:8003/rtp/225.0.4.142:7980
+CCTV-4,http://27.10.9.206:8003/rtp/225.0.4.176:7980
+CCTV-5,http://27.10.9.206:8003/rtp/225.0.4.143:7980
+CCTV5+,http://27.10.9.206:8003/rtp/225.0.4.73:7980
+CCTV-6,http://27.10.9.206:8003/rtp/225.0.4.144:7980
+CCTV-7,http://27.10.9.206:8003/rtp/225.0.4.127:7980
+CCTV-8,http://27.10.9.206:8003/rtp/225.0.4.137:7980
+CCTV-9,http://27.10.9.206:8003/rtp/225.0.4.131:7980
+CCTV-10,http://27.10.9.206:8003/rtp/225.0.4.130:7980
+CCTV-11,http://27.10.9.206:8003/rtp/225.0.4.218:7980
+CCTV-12,http://27.10.9.206:8003/rtp/225.0.4.129:7980
+CCTV-13,http://27.10.9.206:8003/rtp/225.0.4.219:7980
+CCTV-14,http://27.10.9.206:8003/rtp/225.0.4.128:7980
+CCTV-15,http://27.10.9.206:8003/rtp/225.0.4.220:7980
+CCTV-17,http://27.10.9.206:8003/rtp/225.0.4.179:7980
+CGTN,http://27.10.9.206:8003/rtp/225.0.4.12:7980
+湖南卫视,http://27.10.9.206:8003/rtp/225.0.4.75:7980
+浙江卫视,http://27.10.9.206:8003/rtp/225.0.4.81:7980
+江苏卫视,http://27.10.9.206:8003/rtp/225.0.4.79:7980
+安徽卫视,http://27.10.9.206:8003/rtp/225.0.4.133:7980
+广东卫视,http://27.10.9.206:8003/rtp/225.0.4.84:7980
+北京卫视,http://27.10.9.206:8003/rtp/225.0.4.78:7980
+天津卫视,http://27.10.9.206:8003/rtp/225.0.4.82:7980
+辽宁卫视,http://27.10.9.206:8003/rtp/225.0.4.98:7980
+东方卫视,http://27.10.9.206:8003/rtp/225.0.4.80:7980
+山东卫视,http://27.10.9.206:8003/rtp/225.0.4.199:7980
+东南卫视,http://27.10.9.206:8003/rtp/225.0.4.200:7980
+黑龙江卫视,http://27.10.9.206:8003/rtp/225.0.4.201:7980
+深圳卫视,http://27.10.9.206:8003/rtp/225.0.4.202:7980
+江西卫视,http://27.10.9.206:8003/rtp/225.0.4.203:7980
+四川卫视,http://27.10.9.206:8003/rtp/225.0.4.204:7980
+重庆卫视,http://27.10.9.206:8003/rtp/225.0.4.187:7980
+河北卫视,http://27.10.9.206:8003/rtp/225.0.4.174:7980
+贵州卫视,http://27.10.9.206:8003/rtp/225.0.4.175:7980
 
-cctv1,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-1H265_4000
-cctv2,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-2H265_4000
-cctv3,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-3H265_4000
-cctv4,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-4H265_4000
-cctv5,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-5H265_4000
-cctv5+,http://www.51romzj.xyz//diyroms117/scxg.php?id=CCTV-5plusH265_4000
-cctv6,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-6H265_4000
-cctv7,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-7H265_4000
-cctv8,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-8H265_4000
-cctv9,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-9H265_4000
-cctv10,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-10H265_4000
-cctv11,http://www.51romzj.xyz//diyroms117/scxg.php?id=CCTV-11-H265_4000
-cctv12,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-12H265_4000
-cctv13,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-xw_4000
-cctv14,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-14H265_4000
-cctv15,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-15-yyH265_4000
-cctv16,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-16_4000
-cctv17,http://www.51romzj.xyz/diyroms117/scxg.php?id=CCTV-17_4000
 
 
-cetv1,http://www.51romzj.xyz/diyroms117/scxg.php?id=CETV-1H264_4000
-cetv2,http://www.51romzj.xyz/diyroms117/scxg.php?id=CETV-2_4000
-CHC动作电影,http://www.51romzj.xyz/diyroms117/scxg.php?id=wqCHCdzdyH265_4000
-CHC家庭影院,http://www.51romzj.xyz/diyroms117/scxg.php?id=jbtygqCHCjtyyH265_4000
-茶频道,http://www.51romzj.xyz/diyroms117/scxg.php?id=cpd_4000
-法治天地,http://www.51romzj.xyz/diyroms117/scxg.php?id=fztx_4000
-文物宝库,http://www.51romzj.xyz/diyroms117/scxg.php?id=wwbk_4000
-动漫秀场,http://www.51romzj.xyz/diyroms117/scxg.php?id=yybb-dmxc-H265_4000
-金鹰卡通,http://www.51romzj.xyz/diyroms117/scxg.php?id=jykt_2000
-魅力足球,http://www.51romzj.xyz/diyroms117/scxg.php?id=mlyy_4000
-武术世界,http://www.51romzj.xyz/diyroms117/scxg.php?id=wssj_4000
-安徽卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=ahwsH265_4000
-北京卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=bjwsH265_4000
-东方卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=dfwsH265_4000
-东南卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=dnwsfjwsH265_4000
-广东卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=gdwsH265_4000
-贵州卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=gzwsH265_4000
-河南卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=hnws35_4000
-黑龙江卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=hljwsH265_4000
-湖北卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=hbwsH265_4000
-湖南卫视http://www.51romzj.xyz/diyroms117/scxg.php?id=hnwsH265_4000
-吉林卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=jlwsH265_4000
-江苏卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=jswsH265_4000
-江西卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=jxwsH265_4000
-辽宁卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=lnwsH265_4000
-山东卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=sdwsH265_4000
-深圳卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=szwsH265_4000
-四川卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=scwsH265_4000
-浙江卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=zjwsH265_4000
-天津卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=tjwsH265_4000
-重庆卫视，http://www.51romzj.xyz/diyroms117/scxg.php?id=cqwsH265_4000
-青海卫视,http://www.51romzj.xyz/diyroms117/scxg.php?id=qhwsH264_2000
+
+
 
 
 
