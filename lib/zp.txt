@@ -4166,9 +4166,16 @@ i成都,http://nas.jumping.wang:5555/udp/239.93.1.104:1234
 
 
 
-
-
-
-
-咪咕代理,#genre#
+蓝光,#genre#
+CCTV1 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv1
+CCTV2 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv2
+CCTV3 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv3
+CCTV4 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv4
+CCTV5 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv5
+CCTV5+ 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv5p
+CCTV6 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv6
+CCTV7 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv7
+CCTV8 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv8
+CCTV9 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv9
+CCTV10 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv10
 
