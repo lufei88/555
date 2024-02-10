@@ -493,7 +493,8 @@
       "api": "csp_Freeok",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/xhkw1231.jar"
     },
 
 
