@@ -486,13 +486,14 @@
     },
 
 
-{
-      "key": "FREE1OK",
-      "name": "️️👌┃天招蓝光┃速度飞",   //可以作主页　　原来杜比高清https://tv.dubi.tk/0825.json
+    {
+      "key": "FreeOK",
+      "name": "️️👌┃Fre┃影视",
       "type": 3,
-      "playerType": "1",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"
+      "api": "csp_Freeok",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
 
 
