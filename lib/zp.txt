@@ -613,6 +613,20 @@ CHC高清电影HD,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8
 
 
 
+壹新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
+非凡新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
+三立新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
+TVBS新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+寰宇新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+年代新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+东森新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+中视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+台视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+民视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
+
+
+
 
 
 
