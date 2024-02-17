@@ -3561,26 +3561,13 @@ CCTV15-音乐,http://39.162.16.88:9901/tsfile/live/0015_1.m3u8
 港湾,#genre#
 凤凰卫视,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=1
 凤凰资讯,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=2
-TVB翡翠台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=3
-TVB明珠台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=4
-TVBJ2台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=5
-TVB星河台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=6
-无线新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=7
-无线财经台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=8
-无线财经台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=81
+翡翠台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=3明珠台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=4
+J2,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=5
+星河,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=6
+无线新闻,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=7
+无线财经,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=8
+无线财经,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=81
 
 
-
-
-测试2,#genre#
-
-
-
-
-
-
-
-
-测试3,#genre#
 
 
