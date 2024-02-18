@@ -917,17 +917,28 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 美亚,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 
-台新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
-非凡,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
+
 三立,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
-TVBS,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
-中天,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-环宇,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
-年代,http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
-东森,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-中视,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
-台视,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
-民视,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
+TVBS,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156402&extension=ts&play_token=UAAcYUkyjm
+
+东森财经,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156396&extension=ts
+
+
+台视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156398&extension=ts&play_token=6pDQNgylDg
+
+台视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156392&extension=ts&play_token=Ste6dPj5f9
+民视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156389&extension=ts
+华视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156391&extension=ts
+
+YOYO,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156403&extension=ts&play_token=IOtTGJARgv
+天下卫视1,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156399&extension=ts&play_token=u8z6Sz30CI
+天下卫视2,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156400&extension=ts&play_token=K6gyPVXpHi
+三立国际,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156390&extension=ts
+
+东森戏剧,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156395&extension=ts
+华夏电视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156422&extension=ts
+中国电影,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156417&extension=ts
+长城精品,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156410&extension=ts
 
 
 
