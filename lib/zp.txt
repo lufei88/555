@@ -1,6 +1,5 @@
 央视卫视,#genre#
 
-
 CCTV-1,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv1.m3u8
 CCTV-2,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv2.m3u8
 CCTV-3,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv3.m3u8
@@ -151,7 +150,7 @@ CCTV-17,http://39.136.18.230:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 
 
 
-动漫秀场,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
+
 都市剧场,http://39.136.18.228:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls
 生活时尚,http://39.136.18.233:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226207/1/index.m3u8?fmt=ts2hls
 茶频道,http://39.136.18.226:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
@@ -164,23 +163,14 @@ CCTV-17,http://39.136.18.230:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 纪实人文,http://39.136.18.229:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls
 CETV1,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 CETV4,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226338/1/index.m3u8?fmt=ts2hls
-卡酷动画,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
-嘉佳卡通,http://39.136.18.233:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225690/1/index.m3u8?fmt=ts2hls
-优漫卡通,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225763/1/index.m3u8?fmt=ts2hls
-炫动卡通,http://39.136.18.230:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
-金鹰卡通,http://39.136.18.233:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
+
 天元围棋,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226341/1/index.m3u8?fmt=ts2hls
 
 
 
 
-中国教育1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226712/1.m3u8
-中国教育2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226718/1.m3u8
-中国教育3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226722/1.m3u8
-中国教育4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226724/1.m3u8
-CGTN,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226666/1.m3u8
-纪实人文,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226705/1.m3u8
-北京纪实,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226730/1.m3u8
+
+
 金鹰纪实,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 
 
@@ -205,9 +195,8 @@ CCTV-14 HD,http://yuju666888.x3322.net:808/hls/58/index.m3u8
 CCTV-15 HD,http://yuju666888.x3322.net:808/hls/60/index.m3u8
 CCTV-16 HD,http://yuju666888.x3322.net:808/hls/61/index.m3u8
 C高尔夫网球,http://yuju666888.x3322.net:808/hls/63/index.m3u8
-北京卡通,http://yuju666888.x3322.net:808/hls/107/index.m3u8
-广东卡通,http://yuju666888.x3322.net:808/hls/108/index.m3u8
-湖南卡通,http://yuju666888.x3322.net:808/hls/109/index.m3u8
+
+
 
 现代教育,http://yuju666888.x3322.net:808/hls/126/index.m3u8
 CETV1,http://yuju666888.x3322.net:808/hls/204/index.m3u8
@@ -1831,13 +1820,6 @@ yy电影10,http://mmitv.top/pltv/yy.php?id=24066336
 
 
 
-
-
-
-
-
-
-
 电影专场,#genre#
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
@@ -2986,12 +2968,27 @@ MUFC贝影,http://43.138.170.29:35455/yy/1355659580
 
 少儿频道,#genre#
 
-金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+卡酷动画,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
+嘉佳卡通,http://39.136.18.233:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225690/1/index.m3u8?fmt=ts2hls
+优漫卡通,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225763/1/index.m3u8?fmt=ts2hls
+炫动卡通,http://39.136.18.230:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
+金鹰卡通,http://39.136.18.233:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
+动漫秀场,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
+北京卡通,http://yuju666888.x3322.net:808/hls/107/index.m3u8
+广东卡通,http://yuju666888.x3322.net:808/hls/108/index.m3u8
+湖南卡通,http://yuju666888.x3322.net:808/hls/109/index.m3u8
+
+
+
+
+
+
+金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$移动专线
+卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$移动专线
+优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$移动专线
+哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$移动专线
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$移动专线
+黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8$移动专线
 
 
 
