@@ -762,7 +762,7 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 
 
 
-香港卫视,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
