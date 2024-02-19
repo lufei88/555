@@ -1014,7 +1014,7 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 
 
 星空卫视,http://nas.jumping.wang:5555/udp/239.93.0.156:2193
-
+星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 
 
 
@@ -1024,6 +1024,8 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://epg.pw/stream/0eab6241cf13ac3d52485869be7750cdf3d4366792dd4ac805449d6c39a4990a.m3u8
 
+
+无线新闻,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/iptv/a6249962f1a8e5c0ce2217c3f53e4442/playlist.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ct
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -1048,7 +1050,7 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 美亚,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 
-无线新闻,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/iptv/a6249962f1a8e5c0ce2217c3f53e4442/playlist.m3u8
+
 民视新闻,http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/live/iptv/a0f1140ff58bc4c5cc791a47dd9f64de/playlist.m3u8
 环宇新闻,http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/live/iptv/a01622b89303a094f756b77dd5c5d71d/playlist.m3u8
 东森新闻,http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/baae310a249a023e666380d1d3bc793b/playlist.m3u8
@@ -1061,7 +1063,12 @@ TBS新闻,http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/61021
 美亚电影,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/iptv/6c59688533366b8b0c97340773012709/playlist.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 东森财经,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156396&extension=ts
-
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+BBC新闻,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+BBC新闻,http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+环球电视,http://live.cgtn.com/500/prog_index.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 
 
