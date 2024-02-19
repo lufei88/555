@@ -1048,18 +1048,18 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 美亚,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 
-无线新闻　　　http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/iptv/a6249962f1a8e5c0ce2217c3f53e4442/playlist.m3u8
-民视新闻　　　http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/live/iptv/a0f1140ff58bc4c5cc791a47dd9f64de/playlist.m3u8
-环宇新闻　　　http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/live/iptv/a01622b89303a094f756b77dd5c5d71d/playlist.m3u8
-东森新闻　　　http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/baae310a249a023e666380d1d3bc793b/playlist.m3u8
-年代新闻　　　http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/live/iptv/3f6c9e22ff03a31ce4381bf8ad07b351/playlist.m3u8
-台视新闻　　　http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/86e74fc8456a5af4902d477882b1178c/playlist.m3u8
-TBS新闻　　　http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/610215c54f6bc3914f0e3323ff56e3cc/playlist.m3u8
-中视新闻　　　http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/c5ea6a30cc66c731cb03b00bfa56bd4e/playlist.m3u8　
-中天新闻　　　http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/3fefb8fc51b95f3b1d33240e41a064c4/playlist.m3u8
-天映经典　　　http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/4e9b20f8d731f673940cd4759da46138/playlist.m3u8
-美亚电影　　　http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/iptv/6c59688533366b8b0c97340773012709/playlist.m3u8
-
+无线新闻,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/iptv/a6249962f1a8e5c0ce2217c3f53e4442/playlist.m3u8
+民视新闻,http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/live/iptv/a0f1140ff58bc4c5cc791a47dd9f64de/playlist.m3u8
+环宇新闻,http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/live/iptv/a01622b89303a094f756b77dd5c5d71d/playlist.m3u8
+东森新闻,http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/baae310a249a023e666380d1d3bc793b/playlist.m3u8
+年代新闻,http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/live/iptv/3f6c9e22ff03a31ce4381bf8ad07b351/playlist.m3u8
+台视新闻,http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/86e74fc8456a5af4902d477882b1178c/playlist.m3u8
+TBS新闻,http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/610215c54f6bc3914f0e3323ff56e3cc/playlist.m3u8
+中视新闻,http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/c5ea6a30cc66c731cb03b00bfa56bd4e/playlist.m3u8　
+中天新闻,http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/3fefb8fc51b95f3b1d33240e41a064c4/playlist.m3u8
+天映经典,http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/4e9b20f8d731f673940cd4759da46138/playlist.m3u8
+美亚电影,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/iptv/6c59688533366b8b0c97340773012709/playlist.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 东森财经,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156396&extension=ts
 
 
