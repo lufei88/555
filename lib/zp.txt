@@ -6719,6 +6719,11 @@ CCTV14,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 
 
+
+
+
+
+
 北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
 北京卫视,http://39.134.65.164/PLTV/88888888/224/3221225678/1.m3u8
 北京卫视,http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8
@@ -6773,5 +6778,43 @@ CCTV17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 广西卫视,http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
 宁夏卫视,http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8
 
-
+测试👉电信,#genre#
+北京卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000272103.m3u8
+东方卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000292403.m3u8
+天津卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2019927003.m3u8
+重庆卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000297803.m3u8
+黑龙江台,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000293903.m3u8
+辽宁卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000281303.m3u8
+河北卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000293403.m3u8
+山东卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000294803.m3u8
+安徽卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000298003.m3u8
+河南卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000296103.m3u8
+湖北卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000294503.m3u8
+湖南卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000296203.m3u8
+江西卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000294103.m3u8
+江苏卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000295603.m3u8
+浙江卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000295503.m3u8
+东南卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000292503.m3u8
+广东卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000292703.m3u8
+深圳卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000292203.m3u8
+广西卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000294203.m3u8
+贵州卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000293303.m3u8
+四川卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000295003.m3u8
+新疆卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2019927403.m3u8
+海南卫视,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000291503.m3u8
+兵器科技,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513403.m3u8
+第一剧场,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012514403.m3u8
+怀旧剧场,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012511203.m3u8
+风云剧场,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513603.m3u8
+风云音乐,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012514103.m3u8
+风云足球,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012514203.m3u8
+电视指南,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012514003.m3u8
+女性时尚,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513903.m3u8
+文化精品,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513803.m3u8
+世界地理,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513303.m3u8
+高尔夫球,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012512503.m3u8
+央视台球,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513703.m3u8
+卫生健康,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513503.m3u8
+CGTN台,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575001.m3u8
+CGTN纪录,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574701.m3u8
 
