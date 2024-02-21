@@ -1,10 +1,6 @@
 央视卫视,#genre#
 
 
-
-
-
-
 CCTV-1,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv1.m3u8
 CCTV-2,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv2.m3u8
 CCTV-3,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv3.m3u8
@@ -27,11 +23,27 @@ CCTV-4K,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 
 
 
+风云音乐,http://113.9.165.254:88/hls/113/index.m3u8
+第一剧场,http://119.123.216.39:808/hls/98/index.m3u8
+世界地理,http://113.9.165.254:88/hls/118/index.m3u8
+怀旧剧场,http://119.123.216.39:808/hls/92/index.m3u8
+女性时尚,http://119.123.216.39:808/hls/12/index.m3u8
+风云剧场,http://119.123.216.39:808/hls/95/index.m3u8
+兵器科技,http://119.123.216.39:808/hls/21/index.m3u8
+风云足球,http://119.123.216.39:808/hls/133/index.m3u8
+央视台球,http://119.123.216.39:808/hls/73/index.m3u8
+央视文化精品,http://113.9.165.254:88/hls/161/index.m3u8
+高尔夫网球,http://119.123.216.39:808/hls/174/index.m3u8
+央视文化精品,http://119.123.216.39:808/hls/97/index.m3u8
+电视指南,http://113.9.165.254:88/hls/163/index.m3u8
+CETV-1,http://121.19.134.126:808/hls/80/index.m3u8
+CETV-4,http://121.19.134.126:808/hls/82/index.m3u8
+
 
 CGTN英语,http://nas.jumping.wang:5555/udp/239.93.0.104:5140
 CGTN西班牙语,http://nas.jumping.wang:5555/udp/239.93.42.49:5140
 CGTN法语,http://nas.jumping.wang:5555/udp/239.93.42.50:5140
-CETV1,http://yuju666888.x3322.net:808/hls/204/index.m3u8
+CETV-1,http://yuju666888.x3322.net:808/hls/204/index.m3u8
 
 
 CCTV-1,http://mtw.so/5UqsjP
@@ -122,7 +134,23 @@ CCTV-16,http://112.17.52.85/PLTV/88888888/224/3221233710/index.m3u8
 
 
 
-
+动漫秀场,http://111.225.93.83:33333/hls/127/index.m3u8
+法治天地,http://180.158.146.27:9901/tsfile/live/1006_1.m3u8
+都市剧场,http://180.158.146.27:9901/tsfile/live/1004_1.m3u8
+欢笑剧场,http://111.225.93.83:33333/hls/126/index.m3u8
+梨园频道,http://119.123.216.39:808/hls/159/index.m3u8
+纪实科教,http://111.225.93.83:33333/hls/58/index.m3u8
+金鹰卡通,http://121.19.134.8:808/hls/64/index.m3u8
+纪实人文,http://121.19.134.246:808/hls/65/index.m3u8
+金鹰纪实,http://121.19.134.246:808/hls/67/index.m3u8
+金色学堂,http://223.10.112.69:18000/hls/57/index.m3u8
+生活时尚,http://111.225.93.83:33333/hls/128/index.m3u8
+游戏风云,http://111.225.93.83:33333/hls/125/index.m3u8
+早期教育,http://119.123.216.39:808/hls/100/index.m3u8
+东方财经,http://113.9.165.254:88/hls/84/index.m3u8
+乐游,http://113.9.165.254:88/hls/114/index.m3u8
+中国交通,http://182.150.118.66:50443/hls/75/index.m3u8
+黑莓动画,http://113.9.165.254:88/hls/300/index.m3u8
 
 
 
@@ -199,13 +227,8 @@ CCTV-17 HD,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 
 
 CCTV-2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-
-
 CCTV-2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-
-
 CCTV-13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-
 CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 
@@ -689,9 +712,7 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 凤凰资讯,http://nas.jumping.wang:5555/udp/239.93.0.118:2191
 凤凰资讯,http://nas.jumping.wang:5555/udp/239.93.1.4:2191
 
-凤凰卫视,http://202.168.187.208:2024/tsfile/live/1009_1.m3u8
-
-星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8
+星空卫视,http://110.72.72.98:808/hls/60/index.m3u8
 星空卫视,http://nas.jumping.wang:5555/udp/239.93.0.156:2193
 星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 
@@ -709,8 +730,6 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 无线新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ct
 无线新闻,http://r.jdshipin.com/CkuBd
 
-
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
 
@@ -869,7 +888,34 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 广东地方台,#genre#
 
-广东卫视,http://nas147.myds.me:8888/udp/239.77.0.166:5146
+广东卫视,http://121.19.134.126:808/hls/47/index.m3u8
+广东珠江,http://119.123.216.39:808/hls/83/index.m3u8
+广东体育,http://119.123.216.39:808/hls/2/index.m3u8
+广东民生,http://14.212.185.138:9901/tsfile/live/0001_48.m3u8
+广东经济科教,http://119.123.216.39:808/hls/4/index.m3u8
+广东影视,http://119.123.216.39:808/hls/6/index.m3u8
+广东少儿,http://119.123.216.39:808/hls/175/index.m3u8
+广东新闻,http://119.123.216.39:808/hls/5/index.m3u8
+嘉佳卡通,http://119.123.216.39:808/hls/8/index.m3u8
+广州综合,http://183.6.110.242:9901/hls/54/index.m3u8
+广州新闻,http://183.6.110.242:9901/hls/55/index.m3u8
+广州影视,http://183.6.110.242:9901/hls/56/index.m3u8
+广州法治,http://183.6.110.242:9901/hls/57/index.m3u8
+深圳都市,http://113.87.49.129:808/hls/25/index.m3u8
+深圳电视剧,http://113.87.49.129:808/hls/26/index.m3u8
+深圳财经生活,http://113.87.49.129:808/hls/27/index.m3u8
+深圳娱乐,http://113.87.49.129:808/hls/28/index.m3u8
+深圳体育健康,http://113.87.49.129:808/hls/29/index.m3u8
+深圳少儿,http://113.87.49.129:808/hls/30/index.m3u8
+深圳公共,http://113.87.49.129:808/hls/31/index.m3u8
+
+
+
+
+
+
+
+
 广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
 广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
 广东民生,http://yuju666888.x3322.net:808/hls/102/index.m3u8
@@ -892,96 +938,6 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 普宁台,http://php.jdshipin.com:8880/chudian.php?id=pnzh
 潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
 普宁台,http://ci.emdoor.tech:8080/touchtv.php?pk=2450
-
-
-
-广东卫视,http://nas147.myds.me:8888/udp/239.77.0.166:5146
-广东珠江,http://nas147.myds.me:8888/udp/239.77.0.1:5146
-广东新闻,http://nas147.myds.me:8888/udp/239.77.0.173:5146
-广东民生,http://nas147.myds.me:8888/udp/239.77.0.225:5146
-广东体育,http://nas147.myds.me:8888/udp/239.77.0.112:5146
-广东经济科教,http://nas147.myds.me:8888/udp/239.77.0.85:5146
-广东影视,http://nas147.myds.me:8888/udp/239.77.0.217:5146
-广东少儿,http://nas147.myds.me:8888/udp/239.77.0.250:5146
-广东嘉佳卡通,http://nas147.myds.me:8888/udp/239.77.0.179:5146
-广州综合,http://nas147.myds.me:8888/udp/239.253.43.71:5146
-广州新闻,http://nas147.myds.me:8888/udp/239.253.43.72:5146
-广州影视,http://nas147.myds.me:8888/udp/239.253.43.73:5146
-广州法治,http://nas147.myds.me:8888/udp/239.253.43.74:5146
-广州竞赛,http://nas147.myds.me:8888/udp/239.253.43.75:5146
-深圳卫视,http://nas147.myds.me:8888/udp/239.77.0.130:5146
-深圳都市,http://nas147.myds.me:8888/udp/239.77.1.176:5146
-深圳电视剧,http://nas147.myds.me:8888/udp/239.77.1.125:5146
-深圳财经生活,http://nas147.myds.me:8888/udp/239.77.1.242:5146
-深圳娱乐,http://nas147.myds.me:8888/udp/239.77.1.243:5146
-深圳体育健康,http://nas147.myds.me:8888/udp/239.77.1.128:5146
-深圳少儿,http://nas147.myds.me:8888/udp/239.77.1.244:5146
-深圳公共,http://nas147.myds.me:8888/udp/239.77.1.178:5146
-深圳宝安,http://nas147.myds.me:8888/udp/239.77.1.67:5146
-深圳龙岗,http://nas147.myds.me:8888/udp/239.77.1.223:5146
-深圳东部,http://nas147.myds.me:8888/udp/239.77.1.224:5146
-深圳众创TV,http://nas147.myds.me:8888/udp/239.77.1.247:5146
-汕头经济生活,http://nas147.myds.me:8888/udp/239.77.1.131:5146
-汕头文旅体育,http://nas147.myds.me:8888/udp/239.253.43.47:5146
-汕头综合,http://nas147.myds.me:8888/udp/239.253.43.45:5146
-汕头综合,http://nas147.myds.me:8888/udp/239.77.1.130:5146
-韶关新闻综合,http://nas147.myds.me:8888/udp/239.77.0.117:5146
-韶关绿色生活,http://nas147.myds.me:8888/udp/239.77.0.119:5146
-湛江新闻综合,http://nas147.myds.me:8888/udp/239.77.0.141:5146
-湛江公共,http://nas147.myds.me:8888/udp/239.77.0.140:5146
-揭阳综合,http://nas147.myds.me:8888/udp/239.77.0.229:5146
-揭阳生活,http://nas147.myds.me:8888/udp/239.77.0.251:5146
-汕尾新闻综合,http://nas147.myds.me:8888/udp/239.77.0.25:5146
-汕尾文化生活,http://nas147.myds.me:8888/udp/239.77.0.187:5146
-江门综合,http://nas147.myds.me:8888/udp/239.77.0.201:5146
-江门侨乡生活,http://nas147.myds.me:8888/udp/239.77.0.202:5146
-江门教育,http://nas147.myds.me:8888/udp/239.77.0.203:5146
-惠州1,http://nas147.myds.me:8888/udp/239.77.1.232:5146
-惠州2,http://nas147.myds.me:8888/udp/239.77.1.233:5146
-珠海1,http://nas147.myds.me:8888/udp/239.77.0.155:5146
-珠海2,http://nas147.myds.me:8888/udp/239.77.0.154:5146
-肇庆综合,http://nas147.myds.me:8888/udp/239.253.43.1:5146
-肇庆生活服务,http://nas147.myds.me:8888/udp/239.253.43.2:5146
-河源综合,http://nas147.myds.me:8888/udp/239.253.43.213:5146
-河源公共,http://nas147.myds.me:8888/udp/239.253.43.214:5146
-清远新闻综合,http://nas147.myds.me:8888/udp/239.253.43.33:5146
-清远公共,http://nas147.myds.me:8888/udp/239.253.43.34:5146
-云浮综合,http://nas147.myds.me:8888/udp/239.77.0.253:5146
-云浮文旅,http://nas147.myds.me:8888/udp/239.77.0.254:5146
-茂名综合,http://nas147.myds.me:8888/udp/239.77.0.206:5146
-茂名公共,http://nas147.myds.me:8888/udp/239.77.0.207:5146
-汕尾文化生活,http://nas147.myds.me:8888/udp/239.77.0.187:5146
-佛山公共,http://nas147.myds.me:8888/udp/239.253.43.53:5146
-佛山南海,http://nas147.myds.me:8888/udp/239.253.43.54:5146
-佛山顺德,http://nas147.myds.me:8888/udp/239.253.43.55:5146
-佛山影视,http://nas147.myds.me:8888/udp/239.253.43.56:5146
-佛山综合,http://nas147.myds.me:8888/udp/239.253.43.57:5146
-东莞新闻综合,http://nas147.myds.me:8888/udp/239.253.43.104:5146
-东莞生活资讯,http://nas147.myds.me:8888/udp/239.253.43.105:5146
-中山综合,http://nas147.myds.me:8888/udp/239.253.43.62:5146
-中山公共,http://nas147.myds.me:8888/udp/239.253.43.63:5146
-中山教育,http://nas147.myds.me:8888/udp/239.253.43.64:5146
-香山文化,http://nas147.myds.me:8888/udp/239.253.43.63:5146
-徐闻综合,http://nas147.myds.me:8888/udp/239.253.43.112:5146
-
-
-
-广东珠江,http://202.168.187.208:2024/tsfile/live/1011_1.m3u8
-广东体育,http://202.168.187.208:2024/tsfile/live/1014_1.m3u8
-广东影视,http://202.168.187.208:2024/tsfile/live/1015_1.m3u8
-广东少儿,http://202.168.187.208:2024/tsfile/live/1016_1.m3u8
-广州法治,http://202.168.187.208:2024/tsfile/live/1017_1.m3u8
-广州竞赛,http://202.168.187.208:2024/tsfile/live/1018_1.m3u8
-广州综合,http://202.168.187.208:2024/tsfile/live/1019_1.m3u8
-广州影视,http://202.168.187.208:2024/tsfile/live/1020_1.m3u8
-金鹰卡通,http://202.168.187.208:2024/tsfile/live/1021_1.m3u8
-卡酷卡通,http://202.168.187.208:2024/tsfile/live/1022_1.m3u8
-优漫卡通,http://202.168.187.208:2024/tsfile/live/1023_1.m3u8
-佳嘉卡通,http://202.168.187.208:2024/tsfile/live/1024_1.m3u8
-岭南戏曲,http://202.168.187.208:2024/tsfile/live/102５_1.m3u8
-
-
-
 
 
 
@@ -1379,6 +1335,8 @@ HZTV2高清,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.233:5146
 
 
 
+
+
  
 体育频道,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
@@ -1395,6 +1353,12 @@ GTV网络棋牌,http://hls.xinbi.lol/gdzb.php?id=/udp/239.253.43.38:5146
 武术世界高清,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.108:5146
 哒啵赛事高清,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.185:5146
 
+风云足球,http://119.123.216.39:808/hls/133/index.m3u8
+央视台球,http://119.123.216.39:808/hls/73/index.m3u8
+高尔夫网球,http://119.123.216.39:808/hls/174/index.m3u8
+咪咕足球,http://113.9.161.31:88/hls/156/index.m3u8
+咪咕体育,http://113.9.161.31:88/hls/304/index.m3u8
+
 
 
 
@@ -1410,10 +1374,10 @@ CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 
 
 
-风云足球,http://39.136.18.228:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
 
 
-C高尔夫网球,http://yuju666888.x3322.net:808/hls/63/index.m3u8
+
+高尔夫网球,http://yuju666888.x3322.net:808/hls/63/index.m3u8
 
 
 超级体育(移动专线),http://39.134.65.208/PLTV/88888888/224/3221225635/index.m3u8
@@ -2955,12 +2919,19 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 少儿频道,#genre#
 
-卡酷动画,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
-嘉佳卡通,http://39.136.18.233:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225690/1/index.m3u8?fmt=ts2hls
-优漫卡通,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225763/1/index.m3u8?fmt=ts2hls
-炫动卡通,http://39.136.18.230:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
-金鹰卡通,http://39.136.18.233:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
-动漫秀场,http://39.136.18.227:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
+金鹰纪实,http://121.19.134.246:808/hls/67/index.m3u8
+动漫秀场,http://111.225.93.83:33333/hls/127/index.m3u8
+早期教育,http://119.123.216.39:808/hls/100/index.m3u8
+黑莓动画,http://113.9.165.254:88/hls/300/index.m3u8
+北京卡酷少儿,http://114.251.185.6:8012/rtp/239.3.1.189:8000
+河北少儿科教,http://121.19.134.126:808/hls/22/index.m3u8
+嘉佳卡通,http://119.123.216.39:808/hls/8/index.m3u8
+深圳少儿,http://113.87.49.129:808/hls/30/index.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+
+
+
 北京卡通,http://yuju666888.x3322.net:808/hls/107/index.m3u8
 广东卡通,http://yuju666888.x3322.net:808/hls/108/index.m3u8
 湖南卡通,http://yuju666888.x3322.net:808/hls/109/index.m3u8
@@ -3051,28 +3022,6 @@ key=0b292c335e5837e947f9409c59228f3e6
 大头儿子-02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c6227ce3d1d4c9297d5cfd9a08a4fa9/1200.m3u8
 大头儿子-03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a86eb58a9e04c34a87f8c883932cfa2/1200.m3u8
 大头儿子-04,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/46e4d00d85fe4287b54c8015de46e102/1200.m3u8
-
-
-
-
-
-
-
-
-
-4K测试,#genre#
-
-
-
-
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
-
-
-
-Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
 
 
 裸眼3D,#genre#
@@ -6782,3 +6731,74 @@ CETV-4,http://121.19.134.126:808/hls/82/index.m3u8
 西藏卫视,http://113.9.165.254:88/hls/58/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+
+
+广东卫视,http://nas147.myds.me:8888/udp/239.77.0.166:5146
+广东珠江,http://nas147.myds.me:8888/udp/239.77.0.1:5146
+广东新闻,http://nas147.myds.me:8888/udp/239.77.0.173:5146
+广东民生,http://nas147.myds.me:8888/udp/239.77.0.225:5146
+广东体育,http://nas147.myds.me:8888/udp/239.77.0.112:5146
+广东经济科教,http://nas147.myds.me:8888/udp/239.77.0.85:5146
+广东影视,http://nas147.myds.me:8888/udp/239.77.0.217:5146
+广东少儿,http://nas147.myds.me:8888/udp/239.77.0.250:5146
+广东嘉佳卡通,http://nas147.myds.me:8888/udp/239.77.0.179:5146
+广州综合,http://nas147.myds.me:8888/udp/239.253.43.71:5146
+广州新闻,http://nas147.myds.me:8888/udp/239.253.43.72:5146
+广州影视,http://nas147.myds.me:8888/udp/239.253.43.73:5146
+广州法治,http://nas147.myds.me:8888/udp/239.253.43.74:5146
+广州竞赛,http://nas147.myds.me:8888/udp/239.253.43.75:5146
+深圳卫视,http://nas147.myds.me:8888/udp/239.77.0.130:5146
+深圳都市,http://nas147.myds.me:8888/udp/239.77.1.176:5146
+深圳电视剧,http://nas147.myds.me:8888/udp/239.77.1.125:5146
+深圳财经生活,http://nas147.myds.me:8888/udp/239.77.1.242:5146
+深圳娱乐,http://nas147.myds.me:8888/udp/239.77.1.243:5146
+深圳体育健康,http://nas147.myds.me:8888/udp/239.77.1.128:5146
+深圳少儿,http://nas147.myds.me:8888/udp/239.77.1.244:5146
+深圳公共,http://nas147.myds.me:8888/udp/239.77.1.178:5146
+深圳宝安,http://nas147.myds.me:8888/udp/239.77.1.67:5146
+深圳龙岗,http://nas147.myds.me:8888/udp/239.77.1.223:5146
+深圳东部,http://nas147.myds.me:8888/udp/239.77.1.224:5146
+深圳众创TV,http://nas147.myds.me:8888/udp/239.77.1.247:5146
+汕头经济生活,http://nas147.myds.me:8888/udp/239.77.1.131:5146
+汕头文旅体育,http://nas147.myds.me:8888/udp/239.253.43.47:5146
+汕头综合,http://nas147.myds.me:8888/udp/239.253.43.45:5146
+汕头综合,http://nas147.myds.me:8888/udp/239.77.1.130:5146
+韶关新闻综合,http://nas147.myds.me:8888/udp/239.77.0.117:5146
+韶关绿色生活,http://nas147.myds.me:8888/udp/239.77.0.119:5146
+湛江新闻综合,http://nas147.myds.me:8888/udp/239.77.0.141:5146
+湛江公共,http://nas147.myds.me:8888/udp/239.77.0.140:5146
+揭阳综合,http://nas147.myds.me:8888/udp/239.77.0.229:5146
+揭阳生活,http://nas147.myds.me:8888/udp/239.77.0.251:5146
+汕尾新闻综合,http://nas147.myds.me:8888/udp/239.77.0.25:5146
+汕尾文化生活,http://nas147.myds.me:8888/udp/239.77.0.187:5146
+江门综合,http://nas147.myds.me:8888/udp/239.77.0.201:5146
+江门侨乡生活,http://nas147.myds.me:8888/udp/239.77.0.202:5146
+江门教育,http://nas147.myds.me:8888/udp/239.77.0.203:5146
+惠州1,http://nas147.myds.me:8888/udp/239.77.1.232:5146
+惠州2,http://nas147.myds.me:8888/udp/239.77.1.233:5146
+珠海1,http://nas147.myds.me:8888/udp/239.77.0.155:5146
+珠海2,http://nas147.myds.me:8888/udp/239.77.0.154:5146
+肇庆综合,http://nas147.myds.me:8888/udp/239.253.43.1:5146
+肇庆生活服务,http://nas147.myds.me:8888/udp/239.253.43.2:5146
+河源综合,http://nas147.myds.me:8888/udp/239.253.43.213:5146
+河源公共,http://nas147.myds.me:8888/udp/239.253.43.214:5146
+清远新闻综合,http://nas147.myds.me:8888/udp/239.253.43.33:5146
+清远公共,http://nas147.myds.me:8888/udp/239.253.43.34:5146
+云浮综合,http://nas147.myds.me:8888/udp/239.77.0.253:5146
+云浮文旅,http://nas147.myds.me:8888/udp/239.77.0.254:5146
+茂名综合,http://nas147.myds.me:8888/udp/239.77.0.206:5146
+茂名公共,http://nas147.myds.me:8888/udp/239.77.0.207:5146
+汕尾文化生活,http://nas147.myds.me:8888/udp/239.77.0.187:5146
+佛山公共,http://nas147.myds.me:8888/udp/239.253.43.53:5146
+佛山南海,http://nas147.myds.me:8888/udp/239.253.43.54:5146
+佛山顺德,http://nas147.myds.me:8888/udp/239.253.43.55:5146
+佛山影视,http://nas147.myds.me:8888/udp/239.253.43.56:5146
+佛山综合,http://nas147.myds.me:8888/udp/239.253.43.57:5146
+东莞新闻综合,http://nas147.myds.me:8888/udp/239.253.43.104:5146
+东莞生活资讯,http://nas147.myds.me:8888/udp/239.253.43.105:5146
+中山综合,http://nas147.myds.me:8888/udp/239.253.43.62:5146
+中山公共,http://nas147.myds.me:8888/udp/239.253.43.63:5146
+中山教育,http://nas147.myds.me:8888/udp/239.253.43.64:5146
+香山文化,http://nas147.myds.me:8888/udp/239.253.43.63:5146
+徐闻综合,http://nas147.myds.me:8888/udp/239.253.43.112:5146
+
