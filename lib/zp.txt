@@ -867,14 +867,10 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 
 
-VIUTV,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
-RHK31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
-RHK32,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
-HOY,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
-澳门莲花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
-民视,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
-中视,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
-华视,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
+
+
+
+
 
 
 
@@ -931,19 +927,9 @@ BBC新闻,http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
 
 台视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156398&extension=ts&play_token=6pDQNgylDg
-
 台视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156392&extension=ts&play_token=Ste6dPj5f9
 民视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156389&extension=ts
 华视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156391&extension=ts
-
-
-
-
-
-
-
-
-
 
 澳门体育,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
