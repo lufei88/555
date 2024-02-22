@@ -898,40 +898,18 @@ TBBS,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwz
 三立新闻,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
 
 
+翡翠台,http://yuju666888.x3322.net:808/hls/105/index.m3u8
+翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 
-
-
-
-
+明珠台,http://yuju666888.x3322.net:808/hls/106/index.m3u8
 
 星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 华丽翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 
 
-
-
-
-
 香港卫视文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
-
-
-翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
-翡翠台,http://yuju666888.x3322.net:808/hls/105/index.m3u8
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
-
-
-明珠台,http://yuju666888.x3322.net:808/hls/106/index.m3u8
 美亚,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
-
-
-
-
-
-
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8
 
 
@@ -947,10 +925,6 @@ BBC新闻,http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
 
 
-台视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156398&extension=ts&play_token=6pDQNgylDg
-台视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156392&extension=ts&play_token=Ste6dPj5f9
-民视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156389&extension=ts
-华视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156391&extension=ts
 
 澳门体育,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
