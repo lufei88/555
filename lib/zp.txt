@@ -867,7 +867,28 @@ CCTV15-音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playli
 J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 
 
+VIUTV,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+RHK31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+RHK32,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+HOY,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
+澳门莲花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
+民视,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
+中视,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
+华视,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
+龙华电影,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhslcfvxcvzszbcvzfdvzsfcbzbnztyzd.flv
+东森电影,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
+TBBS,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+民视新闻,http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
+台视新闻,http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+环宇新闻,http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+年代新闻,http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+三立新闻,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
 
+
+星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+华丽翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 
 
 
