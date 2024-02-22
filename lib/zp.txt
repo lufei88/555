@@ -1079,14 +1079,11 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 文化生活,http://120.238.13.198:8000/hls/70/index.m3u8
 
 
-
-
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
 广东经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
-
 嘉佳卡通,http://ci.emdoor.tech:8080/touchtv.php?pk=1187
 广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
@@ -1116,35 +1113,6 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
 阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
 阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
-河源综合,http://php.jdshipin.com:8880/chudian.php?id=hyzh
-河源公共,http://php.jdshipin.com:8880/chudian.php?id=hygg
-连平台,http://php.jdshipin.com:8880/chudian.php?id=lpzh
-阳江-1,http://php.jdshipin.com:8880/chudian.php?id=yjtv1
-阳江-2,http://php.jdshipin.com:8880/chudian.php?id=yjtv2
-惠东综合,http://php.jdshipin.com:8880/chudian.php?id=hdzh
-开平综合,http://php.jdshipin.com:8880/chudian.php?id=kpzh
-开平生活,http://php.jdshipin.com:8880/chudian.php?id=kpsh
-四会新闻综合,http://php.jdshipin.com:8880/chudian.php?id=shzh
-广宁综合,http://php.jdshipin.com:8880/chudian.php?id=gnzh
-工布江达县广播电视台,http://php.jdshipin.com:8880/chudian.php?id=gbjd
-化州综合,http://php.jdshipin.com:8880/chudian.php?id=hzzh
-鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
-廉江综合,http://php.jdshipin.com:8880/chudian.php?id=ljzh
-英德新闻综合,http://php.jdshipin.com:8880/chudian.php?id=ydxw
-紫金综合,http://php.jdshipin.com:8880/chudian.php?id=zjzh
-连州综合,http://php.jdshipin.com:8880/chudian.php?id=lzzh
-阳春综合,http://php.jdshipin.com:8880/chudian.php?id=yczh
-怀集综合,http://php.jdshipin.com:8880/chudian.php?id=hjzh
-惠阳电视台,http://php.jdshipin.com:8880/chudian.php?id=hytv
-信宜综合,http://php.jdshipin.com:8880/chudian.php?id=xyzh
-阳西综合,http://php.jdshipin.com:8880/chudian.php?id=yxzh
-台山台,http://php.jdshipin.com:8880/chudian.php?id=tstv
-遂溪台,http://php.jdshipin.com:8880/chudian.php?id=sxtv
-新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
-罗定综合,http://php.jdshipin.com:8880/chudian.php?id=ldzh
-吴川综合,http://php.jdshipin.com:8880/chudian.php?id=wczh
-乐昌电视台,http://php.jdshipin.com:8880/chudian.php?id=lctv
-潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
 
 
 
@@ -1200,6 +1168,55 @@ GRTN文化频道,http://ci.emdoor.tech:8080/touchtv.php?pk=2511
 连平综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2520
 和平综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2492
 工布江达,http://ci.emdoor.tech:8080/touchtv.php?pk=2439
+
+
+
+
+
+
+
+
+
+
+
+
+
+河源综合,http://php.jdshipin.com:8880/chudian.php?id=hyzh
+河源公共,http://php.jdshipin.com:8880/chudian.php?id=hygg
+连平台,http://php.jdshipin.com:8880/chudian.php?id=lpzh
+阳江-1,http://php.jdshipin.com:8880/chudian.php?id=yjtv1
+阳江-2,http://php.jdshipin.com:8880/chudian.php?id=yjtv2
+惠东综合,http://php.jdshipin.com:8880/chudian.php?id=hdzh
+开平综合,http://php.jdshipin.com:8880/chudian.php?id=kpzh
+开平生活,http://php.jdshipin.com:8880/chudian.php?id=kpsh
+四会新闻综合,http://php.jdshipin.com:8880/chudian.php?id=shzh
+广宁综合,http://php.jdshipin.com:8880/chudian.php?id=gnzh
+工布江达县广播电视台,http://php.jdshipin.com:8880/chudian.php?id=gbjd
+化州综合,http://php.jdshipin.com:8880/chudian.php?id=hzzh
+鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
+廉江综合,http://php.jdshipin.com:8880/chudian.php?id=ljzh
+英德新闻综合,http://php.jdshipin.com:8880/chudian.php?id=ydxw
+紫金综合,http://php.jdshipin.com:8880/chudian.php?id=zjzh
+连州综合,http://php.jdshipin.com:8880/chudian.php?id=lzzh
+阳春综合,http://php.jdshipin.com:8880/chudian.php?id=yczh
+怀集综合,http://php.jdshipin.com:8880/chudian.php?id=hjzh
+惠阳电视台,http://php.jdshipin.com:8880/chudian.php?id=hytv
+信宜综合,http://php.jdshipin.com:8880/chudian.php?id=xyzh
+阳西综合,http://php.jdshipin.com:8880/chudian.php?id=yxzh
+台山台,http://php.jdshipin.com:8880/chudian.php?id=tstv
+遂溪台,http://php.jdshipin.com:8880/chudian.php?id=sxtv
+新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
+罗定综合,http://php.jdshipin.com:8880/chudian.php?id=ldzh
+吴川综合,http://php.jdshipin.com:8880/chudian.php?id=wczh
+乐昌电视台,http://php.jdshipin.com:8880/chudian.php?id=lctv
+潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
+
+
+
+
+
+
+
 
 
 
