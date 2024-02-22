@@ -1135,7 +1135,7 @@ GRTN文化频道,http://ci.emdoor.tech:8080/touchtv.php?pk=2511
 肇庆综合,http://ci.emdoor.tech:8080/touchtv.php?pk=1232
 阳江-1,http://ci.emdoor.tech:8080/touchtv.php?pk=2505
 阳江-2,http://ci.emdoor.tech:8080/touchtv.php?pk=2506
-梅州综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2401
+
 化州综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2440
 开平生活,http://ci.emdoor.tech:8080/touchtv.php?pk=2406
 紫金台,http://ci.emdoor.tech:8080/touchtv.php?pk=2452
