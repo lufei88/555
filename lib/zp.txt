@@ -1005,6 +1005,9 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 广东地方台,#genre#
 
 广东卫视,http://121.19.134.126:808/hls/47/index.m3u8
+大湾区卫视,http://113.87.49.129:808/hls/18/index.m3u8
+大湾区卫视,http://119.123.216.39:808/hls/132/index.m3u8
+广东新闻,http://119.123.216.39:808/hls/5/index.m3u8
 广东珠江,http://119.123.216.39:808/hls/83/index.m3u8
 广东体育,http://119.123.216.39:808/hls/2/index.m3u8
 广东民生,http://14.212.185.138:9901/tsfile/live/0001_48.m3u8
@@ -1013,6 +1016,9 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 广东少儿,http://119.123.216.39:808/hls/175/index.m3u8
 广东新闻,http://119.123.216.39:808/hls/5/index.m3u8
 嘉佳卡通,http://119.123.216.39:808/hls/8/index.m3u8
+广东移动,http://119.123.216.39:808/hls/14/index.m3u8
+广东 4K,http://119.123.216.39:808/hls/9/index.m3u8
+岭南戏曲,http://119.123.216.39:808/hls/16/index.m3u8
 
 
 深圳都市,http://113.87.49.129:808/hls/25/index.m3u8
@@ -1023,24 +1029,32 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 深圳少儿,http://113.87.49.129:808/hls/30/index.m3u8
 深圳公共,http://113.87.49.129:808/hls/31/index.m3u8
 
+深圳都市,http://119.123.216.39:808/hls/140/index.m3u8
+深圳电视剧,http://119.123.216.39:808/hls/141/index.m3u8
+深圳财经生活,http://119.123.216.39:808/hls/151/index.m3u8
+深圳娱乐,http://119.123.216.39:808/hls/155/index.m3u8
+深圳公共,http://119.123.216.39:808/hls/156/index.m3u8
+深圳少儿,http://119.123.216.39:808/hls/157/index.m3u8
+深圳体育,http://119.123.216.39:808/hls/158/index.m3u8
+梨园,http://119.123.216.39:808/hls/159/index.m3u8
+汽摩高清,http://119.123.216.39:808/hls/66/index.m3u8
 
 
-
-
-
-
-
-广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
+广东卫视,http://yuju666888.x3322.net:808/hls/2/index.m3u8
 广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
+广东珠江,http://yuju666888.x3322.net:808/hls/1/index.m3u8
 广东民生,http://yuju666888.x3322.net:808/hls/102/index.m3u8
+广州新闻,http://yuju666888.x3322.net:808/hls/104/index.m3u8
+广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
 广东新闻,http://yuju666888.x3322.net:808/hls/113/index.m3u8
-广东科技,http://yuju666888.x3322.net:808/hls/117/index.m3u8
+广东经济科教,http://yuju666888.x3322.net:808/hls/117/index.m3u8
 大湾区卫视,http://yuju666888.x3322.net:808/hls/118/index.m3u8
 广东少儿,http://yuju666888.x3322.net:808/hls/120/index.m3u8
-广东卡通,http://yuju666888.x3322.net:808/hls/121/index.m3u8
-广州,http://yuju666888.x3322.net:808/hls/104/index.m3u8
-珠海1,http://yuju666888.x3322.net:808/hls/122/index.m3u8
-珠海2,http://yuju666888.x3322.net:808/hls/123/index.m3u8
+嘉佳卡通,http://yuju666888.x3322.net:808/hls/121/index.m3u8
+广东现代教育,http://yuju666888.x3322.net:808/hls/126/index.m3u8
+
+珠海-1,http://yuju666888.x3322.net:808/hls/122/index.m3u8
+珠海-2,http://yuju666888.x3322.net:808/hls/123/index.m3u8
 
 
 
@@ -1067,9 +1081,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 
-
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
-广东珠江,http://202.168.187.208:2024/tsfile/live/1011_1.m3u8
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
@@ -1082,29 +1094,16 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-广东影视,http://202.168.187.208:2024/tsfile/live/1020_1.m3u8
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广东影视,http://202.168.187.208:2024/tsfile/live/1015_1.m3u8
+广东影视,http://202.168.187.208:2024/tsfile/live/1020_1.m3u8
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-增城电视台,http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.m3u8
+
 汕头综合,http://www.liuyunw.com:88/live/gdst.php?id=lKGXIQa
 汕头经济生活,http://www.liuyunw.com:88/live/gdst.php?id=7xjJK9d
 汕头文旅体育,http://www.liuyunw.com:88/live/gdst.php?id=G7Kql7a
 
-
-
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-增城电视台,http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.m3u8
-深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
-
-东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
@@ -1117,12 +1116,6 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
 阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
 阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
-
-肇庆综合,http://php.jdshipin.com:8880/chudian.php?id=zqzh
-肇庆公共,http://php.jdshipin.com:8880/chudian.php?id=zqgg
-惠州新闻综合,http://php.jdshipin.com:8880/chudian.php?id=hzxw
-清远综合,http://php.jdshipin.com:8880/chudian.php?id=qyzh
-梅州综合,http://php.jdshipin.com:8880/chudian.php?id=mzzh
 河源综合,http://php.jdshipin.com:8880/chudian.php?id=hyzh
 河源公共,http://php.jdshipin.com:8880/chudian.php?id=hygg
 连平台,http://php.jdshipin.com:8880/chudian.php?id=lpzh
@@ -1138,36 +1131,35 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
 廉江综合,http://php.jdshipin.com:8880/chudian.php?id=ljzh
 英德新闻综合,http://php.jdshipin.com:8880/chudian.php?id=ydxw
-清新综合,http://php.jdshipin.com:8880/chudian.php?id=qxzh
 紫金综合,http://php.jdshipin.com:8880/chudian.php?id=zjzh
 连州综合,http://php.jdshipin.com:8880/chudian.php?id=lzzh
 阳春综合,http://php.jdshipin.com:8880/chudian.php?id=yczh
-佛冈综合,http://php.jdshipin.com:8880/chudian.php?id=fgzh
 怀集综合,http://php.jdshipin.com:8880/chudian.php?id=hjzh
 惠阳电视台,http://php.jdshipin.com:8880/chudian.php?id=hytv
 信宜综合,http://php.jdshipin.com:8880/chudian.php?id=xyzh
-徐闻综合,http://php.jdshipin.com:8880/chudian.php?id=xwzh
 阳西综合,http://php.jdshipin.com:8880/chudian.php?id=yxzh
 台山台,http://php.jdshipin.com:8880/chudian.php?id=tstv
 遂溪台,http://php.jdshipin.com:8880/chudian.php?id=sxtv
 新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
 罗定综合,http://php.jdshipin.com:8880/chudian.php?id=ldzh
-和平综合,http://php.jdshipin.com:8880/chudian.php?id=hpzh
-东源台,http://php.jdshipin.com:8880/chudian.php?id=dytv
 吴川综合,http://php.jdshipin.com:8880/chudian.php?id=wczh
 乐昌电视台,http://php.jdshipin.com:8880/chudian.php?id=lctv
-恩平综合,http://php.jdshipin.com:8880/chudian.php?id=epzh
-
-
 潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
-恩平综合,http://php.jdshipin.com:8880/chudian.php?id=epzh
-肇庆综合,http://php.jdshipin.com:8880/chudian.php?id=zqzh
-肇庆公共,http://php.jdshipin.com:8880/chudian.php?id=zqgg
 
 
 
 
 
+
+广东卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1182
+大湾区卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1197
+广东4K超高清,http://ci.emdoor.tech:8080/touchtv.php?pk=1198
+广东影视,http://ci.emdoor.tech:8080/touchtv.php?pk=1199
+嘉佳卡通,http://ci.emdoor.tech:8080/touchtv.php?pk=1187
+广东国际,http://ci.emdoor.tech:8080/touchtv.php?pk=1191
+广东经济科教,http://ci.emdoor.tech:8080/touchtv.php?pk=1196
+广东少儿,http://ci.emdoor.tech:8080/touchtv.php?pk=1200
+广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
 GRTN文化频道,http://ci.emdoor.tech:8080/touchtv.php?pk=2511
 河源综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2402
 河源公共,http://ci.emdoor.tech:8080/touchtv.php?pk=2496
@@ -1266,11 +1258,8 @@ GRTN文化频道,https://vip.ott-iptv.top/xue/itouch.php?pk=2511
 
 
 
+
 GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广东体育,http://r.jdshipin.com/LiYdg
-
-
-
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
 
