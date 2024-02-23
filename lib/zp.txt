@@ -6435,8 +6435,26 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 
 测试👉电信,#genre#
-凤凰中文,http://sz123.ueuo.com/cd/xg.php?id=test1_4000
-凤凰资讯,http://sz123.ueuo.com/cd/xg.php?id=test2_4000
+CCTV-1,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576803.m3u8
+CCTV-2,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576702.m3u8
+CCTV-3,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576501.m3u8
+CCTV-4,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576601.m3u8
+CCTV-5,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576401.m3u8
+CCTV-5+,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576301.m3u8
+CCTV-6,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574301.m3u8
+CCTV-7,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576201.m3u8
+CCTV-8,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576101.m3u8
+CCTV-9,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576001.m3u8
+CCTV-10,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022573001.m3u8
+CCTV-11,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575901.m3u8
+CCTV-12,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575801.m3u8
+CCTV-13,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575701.m3u8
+CCTV-14,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575601.m3u8
+CCTV-15,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575501.m3u8
+CCTV-16,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575401.m3u8
+CCTV-17,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575301.m3u8
+CCTV-4K,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575202.m3u8
+CCTV-8K,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2020603421.m3u8
 
 
 移动广东地方台,#genre#
