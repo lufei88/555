@@ -899,21 +899,28 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 广东地方台,#genre#
-
+广东卫视,http://yuju666888.x3322.net:808/hls/601/index.m3u8
 广东卫视,http://yuju666888.x3322.net:808/hls/2/index.m3u8
+广东体育,http://yuju666888.x3322.net:808/hls/605/index.m3u8
 广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
+广东新闻 高清,http://yuju666888.x3322.net:808/hls/113/index.m3u8
+广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdx
 广东珠江,http://yuju666888.x3322.net:808/hls/1/index.m3u8
+广东民生,http://yuju666888.x3322.net:808/hls/604/index.m3u8
 广东民生,http://yuju666888.x3322.net:808/hls/102/index.m3u8
 广州新闻,http://yuju666888.x3322.net:808/hls/104/index.m3u8
+广东影视,http://yuju666888.x3322.net:808/hls/609/index.m3u8
 广东影视,http://yuju666888.x3322.net:808/hls/24/index.m3u8
 广东新闻,http://yuju666888.x3322.net:808/hls/113/index.m3u8
 广东经济科教,http://yuju666888.x3322.net:808/hls/117/index.m3u8
+
 大湾区卫视,http://yuju666888.x3322.net:808/hls/118/index.m3u8
+广东移动,http://yuju666888.x3322.net:808/hls/613/index.m3u8
 广东少儿,http://yuju666888.x3322.net:808/hls/120/index.m3u8
 嘉佳卡通,http://yuju666888.x3322.net:808/hls/121/index.m3u8
 广东现代教育,http://yuju666888.x3322.net:808/hls/126/index.m3u8
-
-
+岭南戏曲,http://yuju666888.x3322.net:808/hls/614/index.m3u8
+广东现代教育,http://yuju666888.x3322.net:808/hls/126/index.m3u8
 
 
 大湾区卫视,http://113.87.49.129:808/hls/18/index.m3u8
@@ -956,6 +963,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 文化生活,http://120.238.13.198:8000/hls/70/index.m3u8
 
 
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
