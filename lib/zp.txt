@@ -709,8 +709,7 @@ TBBS,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwz
 星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 美亚,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+
 星空[V],http://120.238.150.68:9901/tsfile/live/1026_1.m3u8
 V音乐台,http://n1.jimgo.win:4022/udp/239.93.0.157:2194
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
