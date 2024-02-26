@@ -321,9 +321,95 @@
         },
 
 
+{
+            "key": "csp_xml_ikun",
+            "name": "1080P站-Y",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "categories": [
+                "国产剧",
+                "韩国剧",
+                "泰国剧",
+                "欧美剧",
+                "香港剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "犯罪片",
+                "惊悚片",
+                "古装片",
+                "灾难片",
+                "历史片",
+                "其他片",
+                "悬疑片",
+                "奇幻片",
+                "动画片",
+                "欧美综艺"
+            ]
+        },
 
 
 
+{
+            "key": "乐视采集",
+            "name": "1080P站-Z",
+            "type": 1,
+            "playerType": 2,
+            "searchable": 1,
+            "api": "https://leshizyapi.com/api.php/provide/vod/at/json",
+            "playUrl": "",
+            "categories": [
+                "国产剧",
+                "韩国剧",
+                "泰国剧",
+                "欧美剧",
+                "香港剧",
+                "台湾剧",
+                "短剧",
+                "日剧",
+                "海外剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "电影解说",
+                "动作片",
+                "冒险片",
+                "动画片",
+                "喜剧片",
+                "爱情片",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "犯罪片",
+                "其他片"
+            ]
+        },
 
 
 
@@ -1052,7 +1138,84 @@
       "jar": "./xiaomi.jar"
     },
 
-       
+
+
+
+
+
+
+{
+      "key": "MTV",
+      "name": "🎧明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
+    },
+
+
+{"key":"哔哩音乐","name":"🎧哔哩｜音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/哔哩音乐.json"},
+
+
+
+{
+      "key": "直播转点播2",
+      "name": "歌曲 ",
+      "type": 4,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "http://120.53.102.254/dsp",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
+
+{
+      "key": "吾爱演唱会",
+      "name": "音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/吾爱演唱会.json"
+    },
+
+
+
+
+
+
+
+{ "key": "横版影院", "name": "短剧一
+    ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] },
+
+
+{ "key": "csp_AppYsV2_Mxone", "name": "💚┃短剧2┃短剧", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.kuin.one/api.php/app/", "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
        
     {
       "key": "Aid",
