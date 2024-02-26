@@ -76,10 +76,11 @@
 {
       "key": "QTV",
       "name": "💰️腾讯(4K)",
+      "jar": "./jar/sa0226.jar",
       "type": 3,
       "api": "./lib/drpy6.min.js",
-      "ext": "./lib/txvip.js",
-      "jar": "./jar/sa0226.jar"
+      "ext": "./lib/txvip.js"
+      
     },
 
 
