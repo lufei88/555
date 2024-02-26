@@ -712,6 +712,7 @@ TBBS,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwz
 
 明珠台,http://yuju666888.x3322.net:808/hls/106/index.m3u8
 
+星河,http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
 星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 美亚,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
