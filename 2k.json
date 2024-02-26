@@ -72,6 +72,21 @@
 
 
 
+
+{
+      "key": "QTV",
+      "name": "💰️腾讯(4K)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/txvip.js"
+    },
+
+
+
+
+
+
+
  
 
 {
