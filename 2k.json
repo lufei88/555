@@ -69,44 +69,34 @@
  },
 
 
+
+
+
  
 
-
-
 {
-  "key":"csp_Wobg",
-  "name":"👀天招4K-3┃速度快",
-  "type":3,
-  "api":"csp_Wobg",
-  "searchable":1,
-  "quickSearch":1,
-  "changeable":0,
-   "ext":"./tvbox/tok.txt+4k|auto|fhd$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json",
-   // "ext":"./tvbox/tok.txt$$$https://wobge.run.goorm.io$$$1",  
-
-
-   "timeout":30,
-    "jar":"./jar/pg.jar"
-
-     // "jar": "./jar/xiaomi4.jar"
-   },
-
-
-
-
-    {
-      "key": "csp_Czsapp",
-      "name": "🏭️天招蓝光┃速度飞",//来自小米
+      "key": "saohuo",
+      "name": "🔥天招蓝光┃速度飞",//来自小米
       "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
       "searchable": 1,
       "changeable": 0,
       "quickSearch": 1,
-      "ext": "https://www.czzy66.com/",
-      "filterable": 1
+      "playerType": "2",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
     },
-
 
 
 
@@ -123,6 +113,18 @@
       "changeable": 1
     },
 
+
+
+
+  {
+      "key": "csp_77",
+      "name": "🥣天招蓝光┃速度飞",//来自小米
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
 
 
@@ -149,27 +151,9 @@
     },
 
 
-    {
-      "key": "南坊",
-      "name": "☀天招蓝光┃速度飞",//来自小米
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
-    },
-
-
-
-
-
-
-
-
 {
       "key": "zy_新浪",
-      "name": "🌟天招蓝光┃速度飞",//来自仓鼠
+      "name": "💫天招蓝光┃速度飞",//来自仓鼠
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -201,7 +185,7 @@
 
 
 {"key":"暴风采集",
-"name":"天招蓝光┃速度飞",//来自仓鼠
+"name":"👀天招蓝光┃速度飞",//来自仓鼠
 "type":1,
 "api":"https://app.bfzyapi.com/api.php/provide/vod/",
 "playUrl":"","categories":
@@ -212,7 +196,7 @@
 
 {
             "key": "一起看 ",
-            "name": "天招蓝光┃速度飞",//来自仓鼠
+            "name": "🏭️天招蓝光┃速度飞",//来自仓鼠
             "type": 3,
             "api": "csp_YQKan",
             "searchable": 1,
@@ -223,7 +207,7 @@
 
 {
       "key": "红牛资源",
-      "name": "天招蓝光┃速度飞",//来自仓鼠
+      "name": "🎀天招蓝光┃速度飞",//来自仓鼠
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -254,7 +238,7 @@
 
 {
       "key": "光速资源",
-      "name": "天招蓝光┃速度飞",//来自仓鼠
+      "name": "🦊天招蓝光┃速度飞",//来自仓鼠
       "type": 1,
       "api": "http://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -285,7 +269,7 @@
 
 {
             "key": "快云资源",
-            "name": "天招蓝光┃速度飞",//来自仓鼠
+            "name": "🐦天招蓝光┃速度飞",//来自仓鼠
             "type": 1,
             "api": "https://kuaiyun-api.com/api.php/provide/vod/",
             "searchable": 1,
@@ -332,7 +316,7 @@
 
 {
             "key": "csp_xml_ikun",
-            "name": "天招蓝光┃速度飞",//来自仓鼠
+            "name": "🌾天招蓝光┃速度飞",//来自仓鼠
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
             "searchable": 1,
@@ -379,7 +363,7 @@
 
 {
             "key": "乐视采集",
-            "name": "天招蓝光┃速度飞",//来自仓鼠
+            "name": "🛀天招蓝光┃速度飞",//来自仓鼠
             "type": 1,
             "playerType": 2,
             "searchable": 1,
@@ -439,113 +423,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- {
-      "key": "saohuo",
-      "name": "🔥天招蓝光┃速度飞",//来自小米
-      "type": 3,
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "playerType": "2",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-        "数组二次截取": "class=\"v_list\">&&</ul>",
-        "数组": "\"v_img\"&&/div>",
-        "标题": "title=\"&&\"",
-        "副标题": "v_note\"&&</div",
-        "跳转播放链接": "<iframe*src=\"&&\"",
-        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
-
-
-
-
-   {
-      "key": "03影院",
-      "name": "🛀天招蓝光┃速度飞",//来自小米
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "2",
-      "ext": {
-        "主页url": "https://www.03yy.co",
-        "数组": "<div class=\"pic-content pic-width-2\">&&</div",
-        "副标题": "<span>&&</span>",
-        "嗅探词": ".mp4?#m3u8#adsmind.ugdtimg.com",
-        "简介": "<p&&</p>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "搜索模式": "1",
-        "搜索url": "https://www.03yy.co/search.php?searchword={wd}",
-        "搜索副标题": "<span>&&</span>",
-        "搜索链接": "href=\"&&\"",
-        "线路二次截取": "<ul id=\"playlist\">&&</ul",
-        "线路数组": " <li&&li>",
-        "线路标题": ">&&<",
-        "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-      }
-    },
-
-
-
-
-
-
-
-
-
-
-  {
-      "key": "csp_77",
-      "name": "🥣天招蓝光┃速度飞",//来自小米
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-    {
-      "key": "嘿嘿",
-      "name": "🌾天招蓝光┃速度飞",//来自小米
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
-    },
-
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -565,44 +443,19 @@
 
 
 
+
    {
-      "key": "乌鸦",
-      "name": "🐦天招蓝光┃速度飞",
+      "key": "赞赞",
+      "name": "➕天招蓝光┃速度飞",
       "type": 3,
-      "api": "csp_XBPQ",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://111.230.51.151:2323/api.php/app/",
       "searchable": 1,
-      "playerType": 2,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "站名": "乌鸦影视",
-        "主页url": "https://wyys.wuyays.top/appto/v1/home/cateData?id=1",
-        "请求头": "User-Agent$Dart/2.19 (dart:io)",
-        "二次截取": "\"data\"*[&&]",
-        "数组": "{&&}",
-        "图片": "\"vod_pic\"*\"&&\"",
-        "标题": "\"vod_name\"*\"&&\"",
-        "副标题": "\"vod_remarks\"*\"&&\"",
-        "链接": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,+_platform=android&__ic=lqGGz9NM4aHVoD8jSoFFcmfeQ0zcjkG0a6dOiCPe4lHMGzMEigPzyXuhccQRZf6D75pAyu5qXZa8Woq50p8Xvf11kZq38Yk6UAkKR0nWIPWyUN%2BrL68%2FTxsj%2Fs%2F%2Bdvz3d9mhjzeyYUyI71OEzzkEnw%3D%3D",
-        "线路数组": "\"player_info\":{&&}",
-        "线路标题": "\"show\"*\"&&\"",
-        "导演": "vod_director\"*\"&&\"",
-        "主演": "vod_actor\"*\"&&\"",
-        "简介": "vod_blurb\"*\"&&\"",
-        "播放二次截取": "&&[替换]",
-        "播放数组": "urls*\\[&&\\]",
-        "播放列表": "{&&}",
-        "跳转播放链接": "\"url\"*\"&&\"",
-        "播放标题": "\"name\"*\"&&\"",
-        "跳转解析": "默认$空#墨鸦内部$https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=adegilpstxyAEFOQWY&format=json&url=",
-        "播放链接": "解析+\"url\"*\"&&\"",
-        "搜索url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
-        "搜索模式": "1",
-        "分类url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
+      "changeable": 0
     },
+
 
 
 
@@ -719,29 +572,10 @@
 
 
 
-   {
-      "key": "赞赞",
-      "name": "➕天招蓝光┃速度飞",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://111.230.51.151:2323/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
 
 
-    {
-      "key": "毛驴",
-      "name": "🎀天招蓝光┃速度飞",//来自小米
-      "type": 3,
-      "api": "csp_MLYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.maolvys.com/"
-    },
+
+
 
 
 {
@@ -767,14 +601,7 @@
 
 
 
-{
-      "key": "bttwo",
-      "name": "✌┃天招蓝光┃速度飞",   //可以作主页　　原来杜比高清https://tv.dubi.tk/0825.json
-      "type": 3,
-    
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/两个BT.js"
-    },
+
 
 
     {
@@ -796,45 +623,10 @@
 
 
 
-{
-      "key": "Auete",
-      "name": "🏂天招蓝光┃速度飞",     //新添加的   来自小米
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://haozhansou.com/",
-       "jar": "./xiaomi2.jar"
-    },
 
 
-    {
-      "key": "03影院",
-      "name": "🛀天招蓝光┃速度飞",     //新添加的   来自小米
-       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "2",
-      "ext": {
-        "主页url": "https://www.03yy.co",
-        "数组": "<div class=\"pic-content pic-width-2\">&&</div",
-        "副标题": "<span>&&</span>",
-        "嗅探词": ".mp4?#m3u8#adsmind.ugdtimg.com",
-        "简介": "<p&&</p>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "搜索模式": "1",
-        "搜索url": "https://www.03yy.co/search.php?searchword={wd}",
-        "搜索副标题": "<span>&&</span>",
-        "搜索链接": "href=\"&&\"",
-        "线路二次截取": "<ul id=\"playlist\">&&</ul",
-        "线路数组": " <li&&li>",
-        "线路标题": ">&&<",
-        "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-      }
-    },
+
+   
 
 
 
@@ -861,56 +653,6 @@
       "filterable": 1,
       "ext": "./lib/changmeng.js"
     },
-
-
-
-
- 
-
- 
-
-
-
-
-
-
- 
-
-
-   
-   
-   
-   
-   
-   
-   
- 
-   
-   
-    
-
-
-
-
-
-
-
-
-
-    {
-      "key": "电影港",
-      "name": "💫天招蓝光┃速度中",      //电影港  有下载的，考虑
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": "1",
-      "ext": "./json/电影港.json",
-      "jar": "./jar/xyq.jar"
-    },
-
-
-
- 
-
 
 
 
