@@ -181,6 +181,27 @@
 
 
 
+{
+      "key": "csp_Auete",
+      "name": "👑┃Aue┃影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/fatcat.jar;md5;f2e335a610902ad385828c2e67ad884a"
+    },
+
+
+
+
+
+
+
+
+
+
+
 {"key":"暴风采集",
 "name":"👀天招蓝光┃速度飞",//来自仓鼠
 "type":1,
