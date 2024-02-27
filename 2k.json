@@ -125,6 +125,25 @@
 
 
 
+{
+      "key": "csp_农民",
+      "name": "👑天招蓝光┃速度飞",//来自笑傲
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/农民影视.json"
+    },
+
+
+
+
+
+
+
+
+
 
 {
       "key": "saohuo",
