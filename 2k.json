@@ -224,7 +224,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/98影视.json"
+      "ext": "./lib/98影视.json",
+      "jar": "./jar/sa0226.jar",
     },
 
 
