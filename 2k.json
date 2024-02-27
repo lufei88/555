@@ -74,13 +74,45 @@
 
 {
 	"key": "XAL蓝光",
-	"name": "👑VIP直连",
+	"name": "👑VIP┃速度飞",//来自笑傲
 	"type": 1,
 	"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
 	"playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
 	"searchable": 1,
 	"quickSearch": 1
 },
+
+
+
+
+{
+    "key": "csp_qx", 
+    "name": "👑天招蓝光┃速度飞",//来自笑傲
+    "type": 3,
+    "api": "csp_XBPQ",
+    "playerType":1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "./jar/zyb.jar",
+    "ext": {
+    "站名":"七新影视",
+    "主页url":"http://www.7xdy.com/",
+    "简介":"💕天招智盒💕提醒您请勿相信影片中的广告，以免上当受骗！💕剧情:👉+<span class=\"detail-content\" style=\"display: none;\">&&</span>",
+    "导演":"导演：&&</a>",
+    "主演":"主演：&&</a>",
+    "搜索url":"http://www.7xdy.com/search.php;post;searchword={wd}",
+    "影片状态":"集数：&&</div>",
+    "影片类型":"video-tag-icon\">&&立即播放",
+    "免嗅":"0",
+    "图片":"data-original=\"&&\"",
+    "线路标题":"💕天招主线💕",
+    "线路数组":"<h3&&</h3>",
+    "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html",
+    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
+
+
+
 
 
 
