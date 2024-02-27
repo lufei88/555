@@ -699,7 +699,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 凤凰资讯,http://nas.jumping.wang:5555/udp/239.93.1.4:2191
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv
 凤凰资讯,http://110.72.66.59:808/hls/1/index.m3u8
-凤凰咨询,http://223.82.161.157:8822/hls/80/index.m3u8
+凤凰咨讯,http://223.82.161.157:8822/hls/80/index.m3u8
 
 
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv
