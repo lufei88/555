@@ -178,7 +178,7 @@
 
 {
       "key": "csp_Auete",
-      "name": "👑天招蓝光┃速度飞",//来自笑做
+      "name": "👑天招蓝光┃速度飞",//来自笑傲
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -191,7 +191,7 @@
 
 {
       "key": "云播影视",
-      "name": "👑天招蓝光┃速度飞",//来自笑做
+      "name": "👑天招蓝光┃速度飞",//来自笑傲
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
@@ -203,13 +203,13 @@
 
 {
       "key": "萌米",
-      "name": "🌈萌米┃",
+      "name": "🌈天招蓝光┃速度飞",//来自笑傲
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-    "jar": "./fty.jar",
+    "jar": "./jar/fty.jar",
       "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
     },
 
