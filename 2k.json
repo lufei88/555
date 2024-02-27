@@ -175,7 +175,7 @@
       "name": "👑天招蓝光┃速度飞",//来自笑做
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy5.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/TVB云播.js"
     },
 
