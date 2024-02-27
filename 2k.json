@@ -158,6 +158,22 @@
     },
 
 
+{
+      "key":"WC",
+      "name":"👑潮潮",
+      "type":3,
+      "api":"csp_Yswc",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"",
+      "jar":"./jar/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
+    },
+
+
+
+
+
 
 
 {
