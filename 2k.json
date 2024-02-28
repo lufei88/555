@@ -144,27 +144,6 @@
 
 
 
-{"key":"csp_WoGG2uuu",       //来自杜比　　https://tv.dubi.tk/0825.json
-"name":"🎬天招4K-2┃速度快",
-"type":3,
-"api":"csp_WoGG",
-"searchable":1,
-"quickSearch":1,
-"changeable":0,
-//"ext":"./tvbox/tok.txt$$$https://api.wogg.xyz/$$$1$$$./json/wogg.json",
-
- //"ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
-"ext":"./tvbox/tok.txt$$$https://wogg.xyz/$$$null$$$1$$$./tvbox/tok.txt",
-
- "timeout":30,
- //"jar":"./jar/pg.jar"
-
- "jar": "./jar/xiaomi4.jar"
- },
-
-
-
-
 
 {
       "key": "csp_非凡资源",
