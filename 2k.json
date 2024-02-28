@@ -42,6 +42,7 @@
  "changeable":1, 
  "filterable":1, 
  "timeout":30,
+ "jar": "./jar/xhkw0206.jar",
   "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
   },
 
