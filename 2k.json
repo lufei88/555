@@ -154,7 +154,7 @@
 //"ext":"./tvbox/tok.txt$$$https://api.wogg.xyz/$$$1$$$./json/wogg.json",
 
  //"ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
-"ext":"./tvbox/tok.txt$$$https://wogg.xyz/$$$null$$$1$$$./tvbox/tok.txt"
+"ext":"./tvbox/tok.txt$$$https://wogg.xyz/$$$null$$$1$$$./tvbox/tok.txt",
 
  "timeout":30,
  //"jar":"./jar/pg.jar"
