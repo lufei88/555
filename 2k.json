@@ -1568,6 +1568,13 @@
   
 
   
+
+
+
+
+
+
+
   
  "parses": [
     {
@@ -1945,8 +1952,22 @@
       "regex": [
         "is_play_url="
       ]
-    }
+    },
+
+
+
+{"name": "🎯酷玩在线","type": 1,"url": "https://daina.hk/api/?key=a8a115b4a649db5caefe328e6504b5d7&url=","ext": {"flag": ["FYNB"],"header": {"User-Agent": "okhttp/4.1.0"}}}
+
+
+
   ],
+
+
+
+
+
+
+
   "flags": [
     "优酷视频",
     "youku",
