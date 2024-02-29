@@ -106,6 +106,19 @@
 
 
 
+
+    {
+      "key": "csp_Nmys",
+      "name": "🧑天招蓝光┃速度飞",//来自小米
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+    },
+
+
  {
       "key": "csp_xml_优质",
       "name": "👑天招蓝光┃速度飞",//来自笑傲
