@@ -48,20 +48,11 @@
 
 
 
-{"key":"小盒网盘",
-"name":"📦天招4K-2┃速度快",
-"type":3,"api":"csp_Wogg",
-"quickSearch":1,
-"changeable":1,
-"filterable":1,
-"timeout":30,
- "jar": "./jar/xhkw0206.jar",
-"ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json"
-},
+
 
 
   {"key":"Hdhive",
-  "name":"🐦天招4K-3┃速度快",
+  "name":"🐦天招4K-2┃速度快",
   "type":3,
   "api":"csp_Hdhive",
   "quickSearch":1,
@@ -75,7 +66,7 @@
 
 
 {"key":"Wobg",
-"name":"🧙天招4K-4┃速度快",
+"name":"🧙天招4K-3┃速度快",
 "type":3,
 "api":"csp_Wobg",
 "quickSearch":1,
@@ -89,7 +80,7 @@
 
 
 {"key":"玩我",
-"name":"🍡天招4K-5┃速度快",
+"name":"🍡天招4K-4┃速度快",
 "type":3,"api":"csp_Wobg",
 "quickSearch":1,
 "changeable":1,
@@ -102,7 +93,7 @@
 
 
 {"key":"土豆",
-"name":"天招4K-6┃速度快",
+"name":"📦天招4K-5┃速度快",
 "type":3,
 "api":"csp_Wobg",
 "quickSearch":1,
