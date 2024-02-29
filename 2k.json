@@ -51,6 +51,75 @@
   "ext":"./tvbox/tok34.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
 
 
+{"key":"Wobg",
+"name":"🧙表天招4k-2┃速度飞",
+"type":3,
+"api":"csp_Wobg",
+"quickSearch":1,
+ "changeable":1,
+ "filterable":1,
+ "timeout":30,
+ "jar": "./jar/xhkw0206.jar",
+ "ext":"./tvbox/tok34.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
+    
+    },
+
+
+
+{"key":"玩我",
+"name":"🍡天招4k-3┃速度飞",
+"type":3,
+"api":"csp_Wobg",
+"quickSearch":1,
+ "changeable":1,
+  "filterable":1,
+   "timeout":30,
+   "jar": "./jar/xhkw0206.jar",
+    "ext":"./tvbox/tok34.json$$$http://www.ttkx.live$$$null$$$1$$$./lib/wogg.json"
+    },
+
+
+{"key":"土豆",
+"name":"🥔天招4k-4┃速度飞",
+"type":3,
+"api":"csp_Wobg",
+"quickSearch":1, 
+"changeable":1, 
+"filterable":1, 
+"timeout":30, 
+"jar": "./jar/xhkw0206.jar",
+"ext":"./tvbox/tok34.json$$$https://aliz.lvdoui.top$$$null$$$1$$$./lib/wogg.json"
+},
+
+{"key":"Hdhive",
+"name":"🐦天招4k-5┃速度飞",
+"type":3,
+"api":"csp_Hdhive",
+"quickSearch":1, 
+"changeable":1, 
+"filterable":1, 
+"timeout":30, 
+"jar": "./jar/xhkw0206.jar",
+"ext":"./tvbox/tok34.json$$$null$$$1"
+},
+
+
+
+
+{"key":"团长资源",
+"name":"👹天招4k-6┃速度飞",
+"type":3,
+"api":"csp_TZFile", 
+"quickSearch":1, 
+"changeable":1, 
+"filterable":1, 
+"timeout":30,
+"jar": "./jar/xhkw0206.jar",
+"ext":"./tvbox/tok35.json$$$null$$$1"
+},
+
+
+
 
 
 
