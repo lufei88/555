@@ -39,7 +39,16 @@
 
 
 
-{"key":"Wogg","name":"👽天招蓝光┃速度飞","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./tvbox/tok34.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
+{"key":"Wogg",
+"name":"👽天招蓝光┃速度飞",
+"type":3,
+"api":"csp_Wogg",
+"quickSearch":1, 
+"changeable":1,
+ "filterable":1, 
+ "timeout":30,
+ "jar": "./jar/xhkw0206.jar",
+  "ext":"./tvbox/tok34.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
 
 
 
