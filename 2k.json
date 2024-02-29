@@ -41,10 +41,10 @@
 //"ext":"./tvbox/tok.txt$$$https://api.wogg.xyz/$$$1$$$./json/wogg.json",
 
  "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
- "timeout":30,
+ "timeout":30
  //"jar":"./jar/pg.jar"
 
- "jar": "./jar/xiaomi4.jar"
+ //"jar": "./jar/xiaomi4.jar"
  },
 
   
