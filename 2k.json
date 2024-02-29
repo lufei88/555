@@ -1,7 +1,9 @@
 {
   
   
-   "spider": "./jar/xiaomi4.jar;md5;5543dae038ce2248e7759e9cbca295b9",
+   //"spider": "./jar/xiaomi4.jar;md5;5543dae038ce2248e7759e9cbca295b9",
+
+    "spider": "./jar/xhkw0206.jar;md5;7590d845de0a74107cefcf610f36a5a2",
     "wallpaper":"http://xn--sss604efuw.top/%E6%B7%B1%E8%89%B2%E5%A3%81%E7%BA%B8/api.php",
   
   "warningText": "感谢您使用天招全能影视盒子",
@@ -42,7 +44,7 @@
  "changeable":1, 
  "filterable":1, 
  "timeout":30,
- "jar": "./jar/xhkw0206.jar",
+ //"jar": "./jar/xhkw0206.jar",
   "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
   },
 
@@ -59,7 +61,7 @@
    "changeable":1, 
    "filterable":1, 
    "timeout":30, 
-    "jar": "./jar/xhkw0206.jar",
+    //"jar": "./jar/xhkw0206.jar",
    "ext":"./lib/tokenm.json$$$null$$$1"
    },
 
@@ -73,7 +75,7 @@
  "changeable":1, 
  "filterable":1, 
  "timeout":30,
-  "jar": "./jar/xhkw0206.jar",
+  //"jar": "./jar/xhkw0206.jar",
 "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
 },
 
@@ -86,7 +88,7 @@
 "changeable":1,
 "filterable":1,
 "timeout":30, 
- "jar": "./jar/xhkw0206.jar",
+ //"jar": "./jar/xhkw0206.jar",
 "ext":"./lib/tokenm.json$$$http://www.ttkx.live$$$null$$$1$$$./lib/wogg.json"
 },
 
@@ -100,7 +102,7 @@
  "changeable":1, 
  "filterable":1, 
  "timeout":30,
-  "jar": "./jar/xhkw0206.jar",
+ // "jar": "./jar/xhkw0206.jar",
  "ext":"./lib/tokenm.json$$$https://aliz.lvdoui.top$$$null$$$1$$$./lib/wogg.json"
  },
 
