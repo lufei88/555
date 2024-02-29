@@ -106,25 +106,6 @@
 
 
 
-{"key":"团长资源",
-"name":"👹天招4k-6┃速度飞",
-"type":3,
-"api":"csp_TZFile", 
-"quickSearch":1, 
-"changeable":1, 
-"filterable":1, 
-"timeout":30,
-"jar": "./jar/xhkw0206.jar",
-"ext":"./tvbox/tok35.json$$$null$$$1"
-},
-
-
-
-
-
-
-
-
  {
       "key": "csp_xml_优质",
       "name": "👑天招蓝光┃速度飞",//来自笑傲
