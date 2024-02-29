@@ -1,5 +1,44 @@
 央视频道,#genre#
 
+CCTV-1,http://yuju666888.x3322.net:808/hls/617/index.m3u8
+CCTV-2,http://yuju666888.x3322.net:808/hls/618/index.m3u8
+CCTV-3,http://yuju666888.x3322.net:808/hls/619/index.m3u8
+CCTV-4,http://yuju666888.x3322.net:808/hls/620/index.m3u8
+CCTV-5,http://yuju666888.x3322.net:808/hls/621/index.m3u8
+CCTV-5+,http://121.19.134.246:808/hls/17/index.m3u8
+CCTV-6,http://yuju666888.x3322.net:808/hls/622/index.m3u8
+CCTV-7,http://yuju666888.x3322.net:808/hls/623/index.m3u8
+CCTV-8,http://yuju666888.x3322.net:808/hls/624/index.m3u8
+CCTV-9,http://yuju666888.x3322.net:808/hls/625/index.m3u8
+CCTV-10,http://yuju666888.x3322.net:808/hls/626/index.m3u8
+CCTV-11,http://yuju666888.x3322.net:808/hls/627/index.m3u8
+CCTV-12,http://yuju666888.x3322.net:808/hls/628/index.m3u8
+CCTV-13,http://yuju666888.x3322.net:808/hls/629/index.m3u8
+CCTV-14,http://yuju666888.x3322.net:808/hls/630/index.m3u8
+CCTV-15,http://yuju666888.x3322.net:808/hls/631/index.m3u8
+CCTV-16,http://113.9.165.254:88/hls/100/index.m3u8
+CCTV-17,http://yuju666888.x3322.net:808/hls/633/index.m3u8
+
+CCTV-1,http://121.19.134.126:808/hls/1/index.m3u8
+CCTV-2,http://121.19.134.246:808/hls/2/index.m3u8
+CCTV-3,http://121.19.134.246:808/hls/3/index.m3u8
+CCTV-4,http://121.19.134.126:808/hls/4/index.m3u8
+CCTV-5,http://121.19.134.246:808/hls/5/index.m3u8
+CCTV-5+,http://121.19.134.246:808/hls/17/index.m3u8
+CCTV-6,http://121.19.134.246:808/hls/6/index.m3u8
+CCTV-7,http://121.19.134.246:808/hls/7/index.m3u8
+CCTV-8,http://121.19.134.246:808/hls/8/index.m3u8
+CCTV-9,http://121.19.134.246:808/hls/9/index.m3u8
+CCTV-10,http://121.19.134.246:808/hls/10/index.m3u8
+CCTV-11,http://121.19.134.246:808/hls/11/index.m3u8
+CCTV-12,http://121.19.134.246:808/hls/12/index.m3u8
+CCTV-13,http://121.19.134.246:808/hls/13/index.m3u8
+CCTV-14,http://121.19.134.246:808/hls/14/index.m3u8
+CCTV-15,http://121.19.134.246:808/hls/15/index.m3u8
+CCTV-16,http://113.9.165.254:88/hls/100/index.m3u8
+CCTV-17,http://121.19.134.246:808/hls/16/index.m3u8
+
+
 CCTV-1,http://fxgm.fxjf.work:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://fxgm.fxjf.work:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://fxgm.fxjf.work:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -51,44 +90,11 @@ CCTV-8K,http://mtw.so/62HqYI
 
 
 
-CCTV-1,http://yuju666888.x3322.net:808/hls/617/index.m3u8
-CCTV-2,http://yuju666888.x3322.net:808/hls/618/index.m3u8
-CCTV-3,http://yuju666888.x3322.net:808/hls/619/index.m3u8
-CCTV-4,http://yuju666888.x3322.net:808/hls/620/index.m3u8
-CCTV-5,http://yuju666888.x3322.net:808/hls/621/index.m3u8
-CCTV-6,http://yuju666888.x3322.net:808/hls/622/index.m3u8
-CCTV-7,http://yuju666888.x3322.net:808/hls/623/index.m3u8
-CCTV-8,http://yuju666888.x3322.net:808/hls/624/index.m3u8
-CCTV-9,http://yuju666888.x3322.net:808/hls/625/index.m3u8
-CCTV-10,http://yuju666888.x3322.net:808/hls/626/index.m3u8
-CCTV-11,http://yuju666888.x3322.net:808/hls/627/index.m3u8
-CCTV-12,http://yuju666888.x3322.net:808/hls/628/index.m3u8
-CCTV-13,http://yuju666888.x3322.net:808/hls/629/index.m3u8
-CCTV-14,http://yuju666888.x3322.net:808/hls/630/index.m3u8
-CCTV-15,http://yuju666888.x3322.net:808/hls/631/index.m3u8
-CCTV-16,http://113.9.165.254:88/hls/100/index.m3u8
-CCTV-17,http://yuju666888.x3322.net:808/hls/633/index.m3u8
 
 
 
-CCTV-1,http://121.19.134.126:808/hls/1/index.m3u8
-CCTV-2,http://121.19.134.246:808/hls/2/index.m3u8
-CCTV-3,http://121.19.134.246:808/hls/3/index.m3u8
-CCTV-4,http://121.19.134.126:808/hls/4/index.m3u8
-CCTV-5,http://121.19.134.246:808/hls/5/index.m3u8
-CCTV-5+,http://121.19.134.246:808/hls/17/index.m3u8
-CCTV-6,http://121.19.134.246:808/hls/6/index.m3u8
-CCTV-7,http://121.19.134.246:808/hls/7/index.m3u8
-CCTV-8,http://121.19.134.246:808/hls/8/index.m3u8
-CCTV-9,http://121.19.134.246:808/hls/9/index.m3u8
-CCTV-10,http://121.19.134.246:808/hls/10/index.m3u8
-CCTV-11,http://121.19.134.246:808/hls/11/index.m3u8
-CCTV-12,http://121.19.134.246:808/hls/12/index.m3u8
-CCTV-13,http://121.19.134.246:808/hls/13/index.m3u8
-CCTV-14,http://121.19.134.246:808/hls/14/index.m3u8
-CCTV-15,http://121.19.134.246:808/hls/15/index.m3u8
-CCTV-16,http://113.9.165.254:88/hls/100/index.m3u8
-CCTV-17,http://121.19.134.246:808/hls/16/index.m3u8
+
+
 
 
 CCTV-1,http://175.0.50.196:8899/tsfile/live/0017_1.m3u8
