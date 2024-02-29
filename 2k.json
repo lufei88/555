@@ -1369,12 +1369,21 @@
 
 
 
-{
+
+
+
+    {
       "key": "种子短剧",
-      "name": "💮┃短剧┃视频",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
+      "name": "💮┃短剧┃种子",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
+      "playerType": 2
     },
+
+
+
+
 
 
 
@@ -1509,7 +1518,7 @@
 
 {
       "key": "直播转点播2",
-      "name": "歌曲 ",
+      "name": "🎧歌曲 ",
       "type": 4,
       "style": {
         "type": "rect",
@@ -1525,7 +1534,7 @@
 
 {
       "key": "吾爱演唱会",
-      "name": "音乐",
+      "name": "🍒音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
