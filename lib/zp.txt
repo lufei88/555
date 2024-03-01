@@ -849,6 +849,25 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
+
+HOY资讯频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
+财经资讯香港,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+财经资讯香港,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
+财经资讯香港,https://s2.pub/cctv-11
+翡翠香港频道,https://s2.pub/cctv-4 
+翡翠香港频道,https://s2.pub/cctv-23 
+明珠香港频道,https://s2.pub/cctv-6
+VIUtv1香港台,https://s2.pub/cctv-7 
+VIUtv2香港频,https://s2.pub/cctv-8 
+HOY77香港台,https://s2.pub/cctv-9 
+HOY78香港台,https://s2.pub/cctv-10 
+
+
+
+
+
+
+
 J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 VIUTV,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
 港台电视31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
