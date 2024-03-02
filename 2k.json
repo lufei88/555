@@ -133,6 +133,21 @@
 
 
 
+{"key": "快看",
+"name": "👀快看┃影视",
+"type": 3,
+"api": "csp_Kuaikan",
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 0,
+"filterable": 1
+},
+
+
+
+
+
+
 
 
  {
