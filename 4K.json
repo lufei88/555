@@ -201,11 +201,18 @@
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
-      "ext": "http://111.230.51.151:2323/api.php/app/",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
     },
+
+
+
+
+
+
+
 
 
 
@@ -232,7 +239,8 @@
       "api": "csp_Kkys",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "./jar/xiaomi5.jar"
     },
 
 
@@ -1001,43 +1009,6 @@
    "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" 
    },
 
-
-
-
-
-
- 
-
-
-
-    {
-      "key": "亮亮",
-      "name": "💡天招蓝光┃小米",//来自小米
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-      
-    },
-
-
-
-
-
-   {
-      "key": "赞赞",
-      "name": "➕天招蓝光┃小米",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://111.230.51.151:2323/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
 
 
 
