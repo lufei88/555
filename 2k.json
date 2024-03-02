@@ -32,7 +32,17 @@
 
 
 
-
+   {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+       "jar": "./jar/fan0303.jar",  
+      "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
 
 
 
@@ -45,7 +55,7 @@
 "changeable":1,
  "filterable":1, 
  "timeout":30,
- 
+ "jar": "./jar/xhkw0206.jar",
   "ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json",
   "jar": "./jar/xhkw0206.jar"
   
