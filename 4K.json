@@ -139,6 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "jar": "./jar/xiaomi5.jar",
       "ext": "https://www.hdmyy.com/"
     },
 
@@ -153,6 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "jar": "./jar/xiaomi5.jar",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
     },
 
@@ -217,6 +219,7 @@
       "searchable": 1,
       "changeable": 0,
       "quickSearch": 1,
+      "jar": "./jar/xiaomi5.jar",
       "filterable": 1
     },
 
