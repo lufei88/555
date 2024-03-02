@@ -45,8 +45,11 @@
 "changeable":1,
  "filterable":1, 
  "timeout":30,
- "jar": "./jar/xhkw0206.jar",
-  "ext":"./tvbox/tok36.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
+ 
+  "ext":"./tvbox/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json",
+  "jar": "./jar/xhkw0206.jar"
+  
+  },
 
 
 {"key":"Wobg",
