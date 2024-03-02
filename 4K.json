@@ -1172,6 +1172,8 @@
       "name": "💰️腾讯(4K)",
       "type": 3,
       "api": "./lib/drpy2.min.js",
+      "jar": "./lib/xhkw0206.jar",
+      
       "ext": "./lib/txvip.js"
     },
 
