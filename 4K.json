@@ -1174,6 +1174,71 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+      "key": "爱奇异",
+      "name": "💰️爱奇艺(官)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/aiqiyi.js"
+    },
+    {
+      "key": "优酷",
+      "name": "💰️优酷(官)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/youku.js"
+    },
+    {
+      "key": "腾讯",
+      "name": "💰️腾讯(官)",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/app.jar"
+    },
+    {
+      "key": "芒果",
+      "name": "💰️芒果(官)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/mangguo.js"
+    },
+    {
+      "key": "搜狗",
+      "name": "💰️搜狗(官)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/caigou.js"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
       "key": "drpy_js_360影视",
       "name": "💰️360官源🌈",
@@ -1196,6 +1261,31 @@
           
       "ext": "./lib/txvip.js"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
