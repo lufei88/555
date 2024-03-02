@@ -1056,7 +1056,7 @@
       "playerType": "2",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": {
-        "主页url": "https://www.3ayy.com",
+        "主页url": "https://www.hdmyy.com/",
         "简介": "module-info-introduction\">&&</p>",
         "导演": "导演：&&</div>",
         "主演": "主演：&&</div>",
@@ -1076,14 +1076,39 @@
         "搜索数组": "{&&}",
         "搜索标题": "\"name\":\"&&\"",
         "搜索图片": "\"pic\":\"&&\"",
-        "搜索链接": "https://www.3ayy.com/video/+\"id\":&&,+.html",
+        "搜索链接": "https://www.hdmyy.com/video/+\"id\":&&,+.html",
         "播放数组": "module-play-list-base\">&&</div>",
         "播放标题": "<span>&&</span>",
         "播放列表": "<a&&</a>",
-        "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
+        "分类url": "https://www.hdmyy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
+
+
+
+
+
+ {
+      "key": "Xinsj",
+      "name": "👓视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.hdmyy.com/"
+    },
+
+
+
+
+
+
+
+
+
+
 
 
  {
