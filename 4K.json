@@ -1,7 +1,7 @@
 {
   
-  "spider": "./jar/sa0226.jar",
-      //"spider": "./jar/xhkw0206.jar;md5;7590d845de0a74107cefcf610f36a5a2",
+  ///"spider": "./jar/sa0226.jar",
+      "spider": "./jar/xhkw0206.jar;md5;7590d845de0a74107cefcf610f36a5a2",
 
     "wallpaper":"http://xn--sss604efuw.top/%E6%B7%B1%E8%89%B2%E5%A3%81%E7%BA%B8/api.php",  
   "warningText": "感谢您使用天招全能影视盒子",
@@ -1182,8 +1182,7 @@
       "name": "💰️腾讯(4K)",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "jar": "./jar/sa0226.jar",
-      
+      "jar": "./jar/sa0226.jar",      
       "ext": "./lib/txvip.js"
     },
 
