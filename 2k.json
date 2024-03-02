@@ -34,7 +34,7 @@
 
    {
       "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽天招4k-1┃速度飞",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -47,19 +47,6 @@
 
 
 
-{"key":"Wogg",
-"name":"👽天招4k-1┃速度飞",
-"type":3,
-"api":"csp_Wogg",
-"quickSearch":1, 
-"changeable":1,
- "filterable":1, 
- "timeout":30,
- "jar": "./jar/xhkw0206.jar",
-  "ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json",
-  "jar": "./jar/xhkw0206.jar"
-  
-  },
 
 
 {"key":"Wobg",
