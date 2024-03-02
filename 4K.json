@@ -1223,7 +1223,7 @@
       "name": "💰️搜狗(官)",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
+      "ext": "./lib/caigou.js"
     },
 
 
