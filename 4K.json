@@ -55,56 +55,13 @@
   },
 
 
-{"key":"Wobg",
-"name":"🧙天招4k-2┃速度飞",
-"type":3,
-"api":"csp_Wobg",
-"quickSearch":1,
- "changeable":1,
- "filterable":1,
- "timeout":30,
- "jar": "./jar/xhkw0206.jar",
- "ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
-    
-    },
-
-
-
-{"key":"玩我",
-"name":"🍡天招4k-3┃速度飞",
-"type":3,
-"api":"csp_Wobg",
-"quickSearch":1,
- "changeable":1,
-  "filterable":1,
-   "timeout":30,
-   "jar": "./jar/xhkw0206.jar",
-    "ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$http://www.ttkx.live$$$null$$$1$$$./lib/wogg.json"
-    },
-
-
-{"key":"土豆",
-"name":"🥔天招4k-4┃速度飞",
-"type":3,
-"api":"csp_Wobg",
-"quickSearch":1, 
-"changeable":1, 
-"filterable":1, 
-"timeout":30, 
-"jar": "./jar/xhkw0206.jar",
-"ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$https://aliz.lvdoui.top$$$null$$$1$$$./lib/wogg.json"
-},
-
-{"key":"Hdhive",
-"name":"🐦天招4k-5┃速度飞",
-"type":3,
-"api":"csp_Hdhive",
-"quickSearch":1, 
-"changeable":1, 
-"filterable":1, 
-"timeout":30, 
-"jar": "./jar/xhkw0206.jar",
-"ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$null$$$1"
+{"key": "Fangniu4k",
+"name": "🐮天招4k-2┃速度飞",//来自小盒
+"type": 3,
+"api": "csp_Fangniu4k",
+"searchable": 1,
+"changeable": 0,
+"jar": "./jar/fangniu.jar"
 },
 
 
