@@ -47,6 +47,26 @@
 
 
 
+{"key": "Fangniu4k",
+"name": "🐮天招4k-1┃速度飞",//来自小盒
+"type": 3,
+"api": "csp_Fangniu4k",
+"searchable": 1,
+"changeable": 0,
+"jar": "./jar/fangniu.jar"
+},
+
+
+
+
+
+
+
+
+
+
+
+
 {
       "key": "saohuo",
       "name": "🔥天招蓝光┃速度飞",//来自小米
