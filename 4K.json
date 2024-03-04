@@ -63,7 +63,7 @@
  "changeable":1,
  "filterable":1,
  "timeout":30,
- 
+ "jar": "./jar/xhkw0206.jar",
  "ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
     
     },
@@ -78,7 +78,7 @@
  "changeable":1,
   "filterable":1,
    "timeout":30,
-   
+   "jar": "./jar/xhkw0206.jar",
     "ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$http://www.ttkx.live$$$null$$$1$$$./lib/wogg.json"
     },
 
@@ -91,7 +91,7 @@
 "changeable":1, 
 "filterable":1, 
 "timeout":30, 
-
+"jar": "./jar/xhkw0206.jar",
 "ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$https://aliz.lvdoui.top$$$null$$$1$$$./lib/wogg.json"
 },
 
@@ -103,7 +103,7 @@
 "changeable":1, 
 "filterable":1, 
 "timeout":30, 
-
+"jar": "./jar/xhkw0206.jar",
 "ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$null$$$1"
 },
 
