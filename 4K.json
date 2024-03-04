@@ -122,7 +122,7 @@
 {"key":"csp_CandyMuj_taoju",
 "name":"👑天招蓝光┃速度飞",//来自笑傲
 "type":3,"api":"csp_CandyMuj_taoju",
-"jar":"./jar/candymuj.jar",
+//"jar":"./jar/candymuj.jar",
 "searchable":1,
 "quickSearch":1,
 "filterable":1
