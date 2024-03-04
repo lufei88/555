@@ -875,11 +875,10 @@ VIUTV,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzut
 HOY,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
 澳门莲花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
 民视,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
-中视,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
-华视,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
-龙华电影,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhslcfvxcvzszbcvzfdvzsfcbzbnztyzd.flv
-东森电影,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
-TBBS,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+
+
+
+
 民视新闻,http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
 台视新闻,http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
 环宇新闻,http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
@@ -887,6 +886,12 @@ TBBS,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwz
 年代新闻,http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
 东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 三立新闻,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
+
+
+龙华电影,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhslcfvxcvzszbcvzfdvzsfcbzbnztyzd.flv
+东森电影,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
+TBBS,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+
 
 
 
@@ -1599,9 +1604,7 @@ CONBRTE拳击,http://51.83.238.223:16417/
 
 电影轮播,#genre#
 
-CHC动作电影,http://118.254.201.208:8888/udp/239.76.245.243:1234
-CHC高清电影,http://118.254.201.208:8888/udp/239.76.245.242:1234
-CHC家庭影院,http://118.254.201.208:8888/udp/239.76.245.241:1234
+
 
 
 CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1610,6 +1613,14 @@ CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8?key=txiptv&p
 CHC高清电影,http://1.82.70.21:8009/rtp/239.112.205.206:5140#http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 CHC动作电影,hhttp://1.82.70.21:8009/rtp/239.112.205.207:5140#http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
 CHC家庭影院,http://1.82.70.21:8009/rtp/239.112.205.205:5140#http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
+
+
+CHC动作电影,http://118.254.201.208:8888/udp/239.76.245.243:1234
+CHC高清电影,http://118.254.201.208:8888/udp/239.76.245.242:1234
+CHC家庭影院,http://118.254.201.208:8888/udp/239.76.245.241:1234
+
+
+
 
 
 峨眉电影,http://171.214.202.220:4000/udp/239.93.0.252:5140#http://171.223.215.229:4000/udp/239.93.0.252:5140
