@@ -203,6 +203,30 @@
 
 
 
+{"key": "77",
+"name": "💚酷云┃影院",
+"type": 3,
+"api": "csp_Kunyu77",
+"jar": "./jar/cally.jar",
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 1
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {
       "key": "saohuo",
