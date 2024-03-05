@@ -46,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-       "jar": "./jar/fan0303.jar",  
+       "jar": "./jar/fan0303.jar",
       "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
 
@@ -68,6 +68,77 @@
 
 
 
+
+
+
+    {
+      "key": "QTV",
+      "name": "🚀天招VIP专线1(4K)",    
+      "type": 3,
+      "api": "./lib/drpy2.min.js",          
+      "ext": "./lib/txvip.js"
+    },
+
+
+   {
+      "key": "腾讯",
+      "name": "🚀天招VIP专线2",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/app.jar"
+    },
+
+
+
+{
+      "key": "爱奇异",
+      "name": "🚀天招VIP专线3",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/aiqiyi.js"
+    },
+
+
+
+    {
+      "key": "优酷",
+      "name": "🚀天招VIP专线4",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/youku.js"
+    },
+
+
+{
+      "key": "drpy_js_360影视",
+      "name": "🚀天招VIP专线5",
+      "type": 3,
+      "jar": "./jar/sa0226.jar",  
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/360影视.js"
+    },
+
+
+
+   {
+      "key": "芒果",
+      "name": "🚀天招VIP专线6",　　　
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/mangguo.js"
+    },
+
+
+    {
+      "key": "搜狗",
+      "name": "🚀天招VIP专线7",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
+    },
 
 
 
