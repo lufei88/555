@@ -142,7 +142,15 @@
 
 
 
-
+{"key": "飞云",
+"name": "🌥飞云┃切片",//小盒
+"type": 3,
+"api": "csp_AppYsV2",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "http://122.228.84.103:5821/api.php/app/"
+},
 
 
 
@@ -1570,6 +1578,10 @@
       "type": 3,
       "url": "Web"
     },
+
+{"name": "🌥飞云切片","type": 1,"url": "http://122.228.84.103:7777/api/?key=lEoJRrX01Drg8Of5aA&url="},
+
+
     {
       "name": "观音解析",
       "type": 1,
