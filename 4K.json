@@ -46,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-       "jar": "./jar/fan0303.jar",
+      "jar": "./jar/fan0303.jar",
       "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
 
@@ -57,7 +57,7 @@
 
 
 {"key": "Fangniu4k",
-"name": "🚀天招4k专线2",//来自小盒
+"name": "🚀天招4k专线2",　　　　//来自小盒
 "type": 3,
 "api": "csp_Fangniu4k",
 "searchable": 1,
@@ -71,13 +71,13 @@
 
 
 
-    {
-      "key": "QTV",
-      "name": "🚀天招VIP专线1(4K)",    
-      "type": 3,
-      "api": "./lib/drpy2.min.js",          
-      "ext": "./lib/txvip.js"
-    },
+{
+ "key": "QTV",
+　"name": "🚀天招VIP专线1",    
+　"type": 3,
+　"api": "./lib/drpy2.min.js",          
+　"ext": "./lib/txvip.js"
+},
 
 
    {
@@ -139,24 +139,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
