@@ -951,7 +951,8 @@ VIUTV,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzut
 HOY,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
 澳门莲花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
 民视,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
-
+中视,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
+华视,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
 
 
 
@@ -1154,9 +1155,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 珠海-1,http://yuju666888.x3322.net:808/hls/122/index.m3u8
 珠海-2,http://yuju666888.x3322.net:808/hls/123/index.m3u8
 
-汕头综合,http://183.238.248.84:9000/udp/239.21.0.101:3744
-汕头经济生活,http://183.238.248.84:9000/udp/239.21.0.102:3748
-汕头文旅体育,http://183.238.248.83:9000/udp/239.21.0.103:3752
+
 
 
 
