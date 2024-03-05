@@ -74,18 +74,16 @@
 
     {
       "key": "QTV",
-      "name": "🚀天招VIP专线1(4K)",   
-      "jar": "./jar/sa0226.jar",  
+      "name": "🚀天招VIP专线1(4K)",    
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-          
+      "api": "./lib/drpy2.min.js",          
       "ext": "./lib/txvip.js"
     },
 
 
    {
       "key": "腾讯",
-      "name": "🚀天招VIP专线2",　　　　
+      "name": "🚀天招VIP专线2",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -128,7 +126,7 @@
 
    {
       "key": "芒果",
-      "name": "🚀天招VIP专线3",　　　
+      "name": "🚀天招VIP专线6",　　　
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/mangguo.js"
@@ -137,7 +135,7 @@
 
     {
       "key": "搜狗",
-      "name": "🚀天招VIP专线6",
+      "name": "🚀天招VIP专线7",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
