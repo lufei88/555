@@ -40,7 +40,7 @@
 
    {
       "key": "玩偶哥哥",
-      "name": "🚀天招4k-1┃vip",
+      "name": "🚀天招4k-1┃VIP",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -57,13 +57,110 @@
 
 
 {"key": "Fangniu4k",
-"name": "🐮天招4k-2┃速度飞",//来自小盒
+"name": "🚀天招4k-2┃VIP",//来自小盒
 "type": 3,
 "api": "csp_Fangniu4k",
 "searchable": 1,
 "changeable": 0,
 "jar": "./jar/fangniu.jar"
 },
+
+
+
+
+
+
+
+
+    {
+      "key": "QTV",
+      "name": "🚀天招VIP专线1(4K)",    //QQ
+      "jar": "./jar/sa0226.jar",  
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+          
+      "ext": "./lib/txvip.js"
+    },
+
+
+   {
+      "key": "腾讯",
+      "name": "🚀天招VIP专线2",　　　　　　//qq官方
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/app.jar"
+    },
+
+
+
+{
+      "key": "爱奇异",
+      "name": "🚀天招VIP专线3",　　　　//爱奇艺
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/aiqiyi.js"
+    },
+
+
+
+    {
+      "key": "优酷",
+      "name": "🚀天招VIP专线4",　　　//优酷
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/youku.js"
+    },
+
+
+{
+      "key": "drpy_js_360影视",
+      "name": "🚀天招VIP专线5",　　　　//360
+      "type": 3,
+      "jar": "./jar/sa0226.jar",  
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/360影视.js"
+    },
+
+
+
+   {
+      "key": "芒果",
+      "name": "🚀天招VIP专线3",　　　
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/mangguo.js"
+    },
+
+
+    {
+      "key": "搜狗",
+      "name": "🚀天招VIP专线6",     //搜狗
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1108,85 +1205,13 @@
 
 
 
+ 
+ 
 
 
 
 
 
-{
-      "key": "爱奇异",
-      "name": "💰️爱奇艺(官)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/aiqiyi.js"
-    },
-    {
-      "key": "优酷",
-      "name": "💰️优酷(官)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/youku.js"
-    },
-    {
-      "key": "腾讯",
-      "name": "💰️腾讯(官)",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/app.jar"
-    },
-    {
-      "key": "芒果",
-      "name": "💰️芒果(官)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/mangguo.js"
-    },
-    {
-      "key": "搜狗",
-      "name": "💰️搜狗(官)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
-    },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-      "key": "drpy_js_360影视",
-      "name": "💰️360官源🌈",
-      "type": 3,
-      "jar": "./jar/sa0226.jar",  
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视.js"
-    },
-
-
-
-
-
-    {
-      "key": "QTV",
-      "name": "💰️腾讯(4K)",
-      "jar": "./jar/sa0226.jar",  
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-          
-      "ext": "./lib/txvip.js"
-    },
 
 
 
