@@ -41,7 +41,7 @@
 
 {
  "key": "QTV",
- "name": "天招VIP专线1",
+ "name": "🚀天招VIP专线1",
  "type": 3,
  "api": "./lib/drpy2.min.js",
  "ext": "./lib/txvip.js"
@@ -50,7 +50,7 @@
 
    {
       "key": "腾讯",
-      "name": "天招VIP专线2",
+      "name": "🚀天招VIP专线2",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -63,7 +63,7 @@
 
 {
   "key": "爱奇异",
-  "name": "天招VIP专线3",
+  "name": "🚀天招VIP专线3",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -73,7 +73,7 @@
 
 {
   "key": "优酷",
-  "name": "天招VIP专线4",
+  "name": "🚀天招VIP专线4",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -82,7 +82,7 @@
 
 {
   "key": "drpy_js_360影视",
-  "name": "天招VIP专线5",
+  "name": "🚀天招VIP专线5",
   "type": 3,
   "jar": "./jar/sa0226.jar",
   "api": "./lib/drpy2.min.js",
@@ -93,7 +93,7 @@
 
 {
   "key": "芒果",
-  "name": "天招VIP专线6",
+  "name": "🚀天招VIP专线6",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/mangguo.js"
@@ -102,7 +102,7 @@
 
 {
   "key": "搜狗",
-  "name": "天招VIP专线7",
+  "name": "🚀天招VIP专线7",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
