@@ -41,11 +41,11 @@
 
 {
  "key": "QTV",
-　"name": "天招VIP专线1",    
-　"type": 3,
-　"api": "./lib/drpy2.min.js",          
-　"ext": "./lib/txvip.js"
-},
+ "name": "天招VIP专线1",
+ "type": 3,
+ "api": "./lib/drpy2.min.js",
+ "ext": "./lib/txvip.js"
+ },
 
 
    {
@@ -57,56 +57,56 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./lib/app.jar"
-    },
+      },
 
 
 
 {
-      "key": "爱奇异",
-      "name": "天招VIP专线3",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/aiqiyi.js"
-    },
+  "key": "爱奇异",
+  "name": "天招VIP专线3",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/aiqiyi.js"
+  },
 
-
-
-    {
-      "key": "优酷",
-      "name": "天招VIP专线4",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/youku.js"
-    },
 
 
 {
-      "key": "drpy_js_360影视",
-      "name": "天招VIP专线5",
-      "type": 3,
-      "jar": "./jar/sa0226.jar",  
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视.js"
-    },
+  "key": "优酷",
+  "name": "天招VIP专线4",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/youku.js"
+  },
+
+
+{
+  "key": "drpy_js_360影视",
+  "name": "天招VIP专线5",
+  "type": 3,
+  "jar": "./jar/sa0226.jar",
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/360影视.js"
+  },
 
 
 
-   {
-      "key": "芒果",
-      "name": "天招VIP专线6",　　　
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/mangguo.js"
-    },
+{
+  "key": "芒果",
+  "name": "天招VIP专线6",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/mangguo.js"
+  },
 
 
-    {
-      "key": "搜狗",
-      "name": "天招VIP专线7",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
-    },
+{
+  "key": "搜狗",
+  "name": "天招VIP专线7",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
+  },
 
 
 
