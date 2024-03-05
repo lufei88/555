@@ -74,7 +74,7 @@
 
     {
       "key": "QTV",
-      "name": "🚀天招VIP专线1(4K)",    //QQ
+      "name": "🚀天招VIP专线1(4K)",   
       "jar": "./jar/sa0226.jar",  
       "type": 3,
       "api": "./lib/drpy2.min.js",
@@ -85,7 +85,7 @@
 
    {
       "key": "腾讯",
-      "name": "🚀天招VIP专线2",　　　　　　//qq官方
+      "name": "🚀天招VIP专线2",　　　　
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -98,7 +98,7 @@
 
 {
       "key": "爱奇异",
-      "name": "🚀天招VIP专线3",　　　　//爱奇艺
+      "name": "🚀天招VIP专线3",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/aiqiyi.js"
@@ -108,7 +108,7 @@
 
     {
       "key": "优酷",
-      "name": "🚀天招VIP专线4",　　　//优酷
+      "name": "🚀天招VIP专线4",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/youku.js"
@@ -117,7 +117,7 @@
 
 {
       "key": "drpy_js_360影视",
-      "name": "🚀天招VIP专线5",　　　　//360
+      "name": "🚀天招VIP专线5",
       "type": 3,
       "jar": "./jar/sa0226.jar",  
       "api": "./lib/drpy2.min.js",
@@ -137,7 +137,7 @@
 
     {
       "key": "搜狗",
-      "name": "🚀天招VIP专线6",     //搜狗
+      "name": "🚀天招VIP专线6",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
