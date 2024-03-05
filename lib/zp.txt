@@ -19,14 +19,15 @@ CCTV-14,http://mtw.so/5NFtrm
 CCTV-15,http://mtw.so/5VbDUL
 CCTV-16,http://mtw.so/62HqYy
 CCTV-17,http://mtw.so/6adE3f
+CCTV-4K,http://mtw.so/5VbDUV
+CCTV-8K,http://mtw.so/62HqYI
 CGTN英语,http://mtw.so/6hJR7W
 CGTN法语,http://mtw.so/6pbS3B
 CGTN俄语,http://mtw.so/5xSr2N
 CGTN阿拉伯语,http://mtw.so/5FoDRm
 CGTN西班牙语,http://mtw.so/5G9gmP
 CGTN纪录国际,http://mtw.so/5NFtrw
-CCTV-4K,http://mtw.so/5VbDUV
-CCTV-8K,http://mtw.so/62HqYI
+
 
 
 
