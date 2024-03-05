@@ -132,6 +132,7 @@
 {
   "key": "搜狗",
   "name": "🚀天招VIP专线7",
+  "playerType": "2",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
