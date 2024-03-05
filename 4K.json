@@ -48,7 +48,7 @@
 "changeable":1,
  "filterable":1, 
  "timeout":30,
- 
+ "jar": "./jar/xiaomi5.jar"
   "ext":"http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
  
   
