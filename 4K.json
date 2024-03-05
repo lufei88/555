@@ -35,6 +35,35 @@
 
 
 
+   {
+     "key": "玩偶哥哥",
+     "name": "👑天招4k专线1",
+     "type": 3,
+     "api": "csp_WoGG",
+     "searchable": 1,
+     "quickSearch": 1,
+     "changeable": 0,
+     "jar": "./jar/fan0303.jar",
+     "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+     },
+
+
+
+
+
+
+
+{
+  "key": "Fangniu4k",
+  "name": "??天招4k专线2",//来自小盒
+  "type": 3,
+  "api": "csp_Fangniu4k",
+  "searchable": 1,
+  "changeable": 0,
+  "jar": "./jar/fangniu.jar"
+  },
+
+
 
 
 
