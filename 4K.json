@@ -37,7 +37,7 @@
 
    {
      "key": "玩偶哥哥",
-     "name": "👑天招4k专线1",
+     "name": "🏆天招4k专线1",
      "type": 3,
      "api": "csp_WoGG",
      "searchable": 1,
@@ -55,7 +55,7 @@
 
 {
   "key": "Fangniu4k",
-  "name": "🚀天招4k专线2",//来自小盒
+  "name": "🏆天招4k专线2",//来自小盒
   "type": 3,
   "api": "csp_Fangniu4k",
   "searchable": 1,
@@ -79,7 +79,7 @@
 
    {
       "key": "腾讯",
-      "name": "🚀天招VIP专线2",
+      "name": "🥇天招VIP专线2",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -92,7 +92,7 @@
 
 {
   "key": "爱奇异",
-  "name": "🚀天招VIP专线3",
+  "name": "🥇天招VIP专线3",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -102,7 +102,7 @@
 
 {
   "key": "优酷",
-  "name": "🚀天招VIP专线4",
+  "name": "🥇天招VIP专线4",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -111,7 +111,7 @@
 
 {
   "key": "drpy_js_360影视",
-  "name": "🚀天招VIP专线5",
+  "name": "🥇天招VIP专线5",
   "type": 3,
   "jar": "./jar/sa0226.jar",
   "api": "./lib/drpy2.min.js",
@@ -122,7 +122,7 @@
 
 {
   "key": "芒果",
-  "name": "🚀天招VIP专线6",
+  "name": "🥇天招VIP专线6",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/mangguo.js"
@@ -131,7 +131,7 @@
 
 {
   "key": "搜狗",
-  "name": "🚀天招VIP专线7",
+  "name": "🥇天招VIP专线7",
   "playerType": "2",
   "type": 3,
   "api": "./lib/drpy2.min.js",
@@ -155,7 +155,7 @@
 
 
 {"key": "飞云",
-"name": "🌥飞云┃切片",//小盒
+"name": "🥈飞云┃切片",//小盒
 "type": 3,
 "api": "csp_AppYsV2",
 "searchable": 1,
@@ -166,7 +166,7 @@
 
 
 {"key": "XAL蓝光",
-"name": "🎸XAL┃TV",
+"name": "🥈XAL┃TV",
 "type": 1,
 "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
 "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
@@ -178,7 +178,7 @@
 
 
 {"key": "csp_新视觉影院",
-"name": "🧩新视觉┃影院",
+"name": "🥈新视觉┃影院",
 "type": 3,
 "api": "csp_XYQHiker",
 "jar": "./jar/xyq.jar",
@@ -191,7 +191,7 @@
 
 
 {"key": "天天",
-"name": "💦天天┃影视",
+"name": "🥈天天┃影视",
 "type": 3,
 "api": "csp_TTian",
 "playerType": 1,
@@ -204,7 +204,7 @@
 
 
 {"key": "77",
-"name": "💚酷云┃影院",
+"name": "🥈酷云┃影院",
 "type": 3,
 "api": "csp_Kunyu77",
 "jar": "./jar/cally.jar",
@@ -216,7 +216,7 @@
 
 
 {"key": "csp_6080",
-"name": "🐔6080┃影院",
+"name": "🥈6080┃影院",
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
@@ -227,7 +227,7 @@
 
 
 {"key":"csp_达龟",
-"name":"🐢达达龟┃影视",
+"name":"🥈达达龟┃影视",
 "type":3,
 "api":"csp_XBPQ",
 "searchable":1,
@@ -239,7 +239,7 @@
 
 
 {"key": "csp_奇优",
-"name": "🧁奇优┃影视",
+"name": "🥈奇优┃影视",
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
