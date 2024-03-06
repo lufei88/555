@@ -680,17 +680,7 @@
 
 
 
-{
-      "key": "Auete",
-      "name": "🌈天招蓝光19┃速度飞",//来自笑傲
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-    "jar": "./jar/fty.jar",
-      "ext": "https://haozhansou.com/"
-    },
+
 
 
 
