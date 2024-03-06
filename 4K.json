@@ -210,15 +210,12 @@
  {
       "key": "Xinsj",
       "name": "🥇天招蓝光2┃小米",//来自小米　新视觉　6080
-      "type": 3,
-      //"api": "csp_Xinsj",
+      "type": 3,      
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      //"jar": "./jar/xiaomi5.jar",
+      "changeable": 1,     
       "jar": "./jar/xyq.jar",
-      //"ext": "https://www.hdmyy.com/"
       "ext": "./json/新视觉影院2.json"
     },
 
