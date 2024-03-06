@@ -1185,7 +1185,7 @@
 
 {
       "key": "MTV",
-      "name": "🎧明星┃MV",
+      "name": "🎤明星┃MV",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -1221,7 +1221,7 @@
 
 {
       "key": "吾爱演唱会",
-      "name": "🍒音乐",
+      "name": "🎤音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
