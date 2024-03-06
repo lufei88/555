@@ -180,7 +180,7 @@
 
 {
       "key": "saohuo",
-      "name": "🥇天招蓝光１┃小米",//小米 骚火
+      "name": "🥇天招蓝光１┃小米",　　　　　　//小米 骚火
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -210,8 +210,8 @@
    "key": "Xinsj",
    "name": "🥇天招蓝光2┃小米",//小盒新视觉2
    "type":3,
-   "api":"csp_XYQHiker",
-   "searchable": 1,
+      "api":"csp_XYQHiker",
+         "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
    "jar":"./jar/xyq.jar",
@@ -247,14 +247,57 @@
 
 
 
-{"key":"csp_CandyMuj_taoju",
-"name":"🥇天招蓝光4┃速度飞",　//来自笑傲
-"type":3,"api":"csp_CandyMuj_taoju",
-"jar":"./jar/candymuj.jar",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
+{
+  "key":"csp_CandyMuj_taoju",
+  "name":"🥇天招蓝光4┃速度飞",　//来自笑傲
+  "type":3,"api":"csp_CandyMuj_taoju",
+  "jar":"./jar/candymuj.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
