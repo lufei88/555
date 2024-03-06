@@ -1061,7 +1061,7 @@
 
     {
       "key": "种子短剧",
-      "name": "💮┃短剧┃种子",
+      "name": "💁‍♀️┃短剧┃首选",
       "type": 3,
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
@@ -1144,7 +1144,7 @@
     },
     {
       "key": "js_童趣",
-      "name": "🧗‍┃童趣┃搜视",
+      "name": "👼┃童趣┃搜视",
       "type": 3,
       "api": "./lib/apiv15drpy2.min.js",
       "searchable": 1,
