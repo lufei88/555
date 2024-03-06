@@ -113,7 +113,7 @@
   "key": "drpy_js_360影视",
   "name": "🥇天招VIP专线5",
   "type": 3,
-  "jar": "./jar/sa0226.jar",
+  //"jar": "./jar/sa0226.jar",
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/360影视.js"
   },
