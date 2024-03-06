@@ -70,7 +70,7 @@
 
 {
  "key": "QTV",
- "name": "🚀天招VIP专线1",
+ "name": "🥇天招VIP专线1",
  "type": 3,
  "api": "./lib/drpy2.min.js",
  "ext": "./lib/txvip.js"
