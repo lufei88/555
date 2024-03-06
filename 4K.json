@@ -218,74 +218,48 @@
    "ext":"./json/新视觉影院2.json"
    },
 
+{
+"key": "csp_新视觉影院",
+"name": "🥈新视觉┃影院",　　　　//小盒新视觉
+"type": 3,
+"api": "csp_XYQHiker",
+"jar": "./jar/xyq.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./json/新视觉影院.json"
+},
+
+
+
+
+{
+  "key": "csp_Nmys",
+  "name": "🥇天招蓝光3┃小米",　　//来自小米
+  "type": 3,
+  "api": "csp_Nmys",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "jar": "./jar/xiaomi5.jar",
+  "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+  },
+
+
+
+{"key":"csp_CandyMuj_taoju",
+"name":"🥇天招蓝光4┃速度飞",　//来自笑傲
+"type":3,"api":"csp_CandyMuj_taoju",
+"jar":"./jar/candymuj.jar",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
-      
-    },
-
-    {
-      "key": "YiSo",
-      "name": "🛎易搜┃云盘",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-
-     // "ext": "./tvbox/tok.txt+4k|fhd|auto"
-
-     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30
-    },
-   
-   
    
    
     {
