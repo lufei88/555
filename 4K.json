@@ -168,7 +168,7 @@
 
 
 {"key": "csp_奇优",
-"name": "🥇奇优┃影视",
+"name": "🥇奇优┃影视",      //小盒 奇优
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
@@ -180,7 +180,7 @@
 
 {
       "key": "saohuo",
-      "name": "🥇天招蓝光１┃小米",//来自小米
+      "name": "🥇天招蓝光１┃小米",//小米 骚火
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -209,15 +209,41 @@
 
  {
       "key": "Xinsj",
-      "name": "🥇天招蓝光2┃小米",//来自小米
+      "name": "🥇天招蓝光2┃小米",//来自小米　新视觉　6080
       "type": 3,
-      "api": "csp_Xinsj",
+      //"api": "csp_Xinsj",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./jar/xiaomi5.jar",
-      "ext": "https://www.hdmyy.com/"
+      //"jar": "./jar/xiaomi5.jar",
+      "jar": "./jar/xyq.jar",
+      //"ext": "https://www.hdmyy.com/"
+      "ext": "./json/新视觉影院2.json"
     },
+
+
+
+
+
+
+{"key": "csp_新视觉影院",
+"name": "🥈新视觉┃影院",　　//小盒　　新视觉
+"type": 3,
+"api": "csp_XYQHiker",
+"jar": "./jar/xyq.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./json/新视觉影院.json"
+},
+
+
+
+
+
+
+
 
 
 
@@ -415,16 +441,6 @@
 
 
 
-{"key": "csp_新视觉影院",
-"name": "🥈新视觉┃影院",
-"type": 3,
-"api": "csp_XYQHiker",
-"jar": "./jar/xyq.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./json/新视觉影院.json"
-},
 
 
 
