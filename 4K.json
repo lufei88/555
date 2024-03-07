@@ -1264,7 +1264,7 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-     "jar": "./fty.jar",
+     "jar": "./jar/fty.jar",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/huya2.js",
       "style": {
