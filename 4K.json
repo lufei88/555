@@ -1051,7 +1051,16 @@
 
 
 
-
+{
+      "key": "足球",
+      "name": "⚽️足球合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/qiuxing.json"
+    },
 
 
 
