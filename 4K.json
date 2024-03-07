@@ -48,6 +48,20 @@
     },
 
 
+{
+      "key": "csp_佳能",
+      "name": "🅱️佳能影视",//来自笑傲　佳能影视
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/348.json"
+    },
+
+
+
+
 
 {
       "key": "997",
