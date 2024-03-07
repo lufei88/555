@@ -35,13 +35,11 @@
 
 
 
-{"key": "小盒4K",
-"name": "🎯小盒┃4k",//来自小盒　小盒4K
+{"key": "小盒会员",
+"name": "📛小盒┃会员",//来自小盒会员
 "type": 3,
-"api": "csp_Fangniu4k",
-"searchable": 1,
-"changeable": 0,
-"jar": "./jar/xh4k.jar"
+"api": "csp_AppYsV2",
+"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
 },
 
 
