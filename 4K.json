@@ -77,7 +77,16 @@
 
 
 
-
+{
+      "key": "csp_xBPQ_奇优",
+      "name": "👑奇优",   //来自笑傲　奇优
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/QY.json"
+    },
 
 
 
