@@ -376,15 +376,15 @@
 
 
 {
-      "key": "csp_xBPQ_奇优",
-      "🥇天招超快线3",//小盒奇优
+   "key": "csp_xBPQ_奇优",
+   "🥇天招超快线3",//小盒奇优
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/QY.json"
-    },
+      },
 
 
 {
