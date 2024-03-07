@@ -89,7 +89,16 @@
     },
 
 
-
+{
+      "key": "csp_黑狐",
+      "name": "👑黑狐",　　//来自笑傲　奇优
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/HH.json"
+    },
 
 
 
