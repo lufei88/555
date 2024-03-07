@@ -35,6 +35,26 @@
 
 
 
+{
+      "key": "Auete",
+      "name": "🏝奥特┃直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+     "jar": "./jar/fty.jar",
+      "ext": "https://auete.pro/"
+    },
+
+
+
+
+
+
+
+
+
    {
      "key": "玩偶哥哥",
      "name": "🏆VIP-4k专线1(首选)",
