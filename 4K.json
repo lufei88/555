@@ -35,12 +35,7 @@
 
 
 
-{"key": "小盒会员",
-"name": "📛小盒┃会员",//来自小盒会员
-"type": 3,
-"api": "csp_AppYsV2",
-"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
-},
+
 
 
 
@@ -256,12 +251,22 @@
 
 
 
+{"key": "小盒会员",
+"name": "🏆VIP-4k专线2(首选)",//来自小盒会员
+"type": 3,
+"api": "csp_AppYsV2",
+"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
+},
+
+
+
+
 
 
 
 {
   "key": "Fangniu4k",
-  "name": "🏆VIP-4k专线2",//来自小盒
+  "name": "🏆VIP-4k专线3",//来自小盒
   "type": 3,
   "api": "csp_Fangniu4k",
   "searchable": 1,
