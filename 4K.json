@@ -35,7 +35,14 @@
 
 
 
-{"key": "小盒4K","name": "🎯小盒┃4k","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar": "./jar/xh4k.jar"},
+{"key": "小盒4K",
+"name": "🎯小盒┃4k",//来自小盒　小盒4K
+"type": 3,
+"api": "csp_Fangniu4k",
+"searchable": 1,
+"changeable": 0,
+"jar": "./jar/xh4k.jar"
+},
 
 
 
