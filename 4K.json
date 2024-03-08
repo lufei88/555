@@ -49,28 +49,7 @@
 
 
 
-{"key": "小盒网盘",
-"name": "📦小盒┃网盘",
-"type": 3,
-"api": "csp_Wogg",
-     "searchable": 1,
-     "quickSearch": 1,
-     "changeable": 0,
-"jar": "./jar/fan0303.jar",
-"ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.weixine.link/$$$null$$$1$$$./json/wogg.json"
-},
-
-
-
-
-
-
-
-
-
-
-
-
+{"key": "小盒网盘","name": "📦小盒┃网盘","type": 3,"api": "csp_Wogg","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 30,"ext": "./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./json/wogg.json"},
 
 
 {"key": "小盒会员",
