@@ -96,27 +96,7 @@
 
 
 
-{"key": "Hdhive",
-"name": "🏆VIP-4k专线5",//来自小盒
-"type": 3,
-"api": "csp_Hdhive",
- "searchable": 1,
- "quickSearch": 1,
- "changeable": 0,
- "ext": "./tvbox/tok.txt$$$null$$$1"},
 
-
-
-{"key": "Wobg",
-"name": "🏆VIP-4k专线6",//来自小盒
-"type": 3,
-"api": "csp_Wobg",
-"quickSearch": 1,
-"changeable": 1,
-"filterable": 1,
-"timeout": 30,    
-"ext": "./tvbox/tok.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./json/wogg.json"
-},
 
 
 
