@@ -34,18 +34,23 @@
 },
 
 
-
-   {
-      "key": "ymtt",
-      "name": "🐉┃夜猫4K源┃",
+    {
+      "key": "宇宙",
+      "name": "🐉┃宇宙4k源┃",
       "type": 3,
       "playerType": 1,
-      "api": "csp_Fangniu4k",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://cloud.lxweb.cn/f/Zr1NSz/Xyt.jar"
+      "api": "csp_LvDou",
+      "jar": "https://cloud.lxweb.cn/f/DZ61T1/lvdou.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": {
+        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
+        "mackey": "toudongxidegou88|qunimagebisha857",
+        "danmu": true
+      }
     },
-
 
 
 
