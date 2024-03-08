@@ -63,7 +63,16 @@
 
 
 
-
+{"key": "玩我",
+"name": "🍡玩我┃网盘",
+"type": 3,
+"api": "csp_Wobg",
+"quickSearch": 1,
+"changeable": 1,
+"filterable": 1,
+"timeout": 30,
+"jar": "./jar/tudou.jar",
+"ext": "./tvbox/tok.txt$$$http://www.ttkx.live$$$null$$$1$$$./json/wogg.json"},
 
 
 
