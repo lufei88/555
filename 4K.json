@@ -63,19 +63,6 @@
 
 
 
-{"key": "Hdhive",
-"name": "🐦影巢┃网盘",
-"type": 3,
-"api": "csp_Hdhive",
- "searchable": 1,
-     "quickSearch": 1,
-     "changeable": 0,
-"ext": "./tvbox/tok.txt$$$null$$$1"},
-
-
-
-
-
 
 
 
@@ -93,6 +80,10 @@
 
 
 
+
+
+
+
 {
   "key": "Fangniu4k",
   "name": "🏆VIP-4k专线4",//来自小盒
@@ -102,6 +93,21 @@
   "changeable": 0,
   "jar": "./jar/fangniu.jar"
   },
+
+
+
+{"key": "Hdhive",
+"name": "🏆VIP-4k专线5",//来自小盒
+"type": 3,
+"api": "csp_Hdhive",
+ "searchable": 1,
+ "quickSearch": 1,
+ "changeable": 0,
+ "ext": "./tvbox/tok.txt$$$null$$$1"},
+
+
+
+
 
 
 
