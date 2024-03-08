@@ -35,7 +35,16 @@
 
 
 
-
+   {
+      "key": "ymtt",
+      "name": "🐉┃夜猫4K源┃",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://cloud.lxweb.cn/f/Zr1NSz/Xyt.jar"
+    },
 
 
 
