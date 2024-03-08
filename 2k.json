@@ -37,14 +37,7 @@
 
 
 
-
-
-
-
-
-
-
-   {
+ {
      "key": "玩偶哥哥",
      "name": "🏆VIP-4k专线1(首选)",
      "type": 3,
@@ -58,9 +51,26 @@
 
 
 
+{"key": "马铃薯",
+"name": "🏆VIP-4k专线2(首选)",//来自小盒会员
+"type": 3,
+"api": "csp_Tudou",
+"quickSearch": 1,
+"changeable": 1,
+"filterable": 1,
+"timeout": 30,
+"jar": "./jar/tudou.jar",
+"ext": "./tvbox/tok.txt$$$https://aliz.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
+},
+
+
+
+
+
+
 
 {"key": "小盒会员",
-"name": "🏆VIP-4k专线2(首选)",//来自小盒会员
+"name": "🏆VIP-4k专线3(首选)",//来自小盒会员
 "type": 3,
 "api": "csp_AppYsV2",
 "ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
@@ -72,15 +82,26 @@
 
 
 
+
+
+
+
 {
   "key": "Fangniu4k",
-  "name": "🏆VIP-4k专线3",//来自小盒
+  "name": "🏆VIP-4k专线4",//来自小盒
   "type": 3,
   "api": "csp_Fangniu4k",
   "searchable": 1,
   "changeable": 0,
   "jar": "./jar/fangniu.jar"
   },
+
+
+
+
+
+
+
 
 
 
