@@ -34,22 +34,14 @@
 },
 
 
-    {
-      "key": "宇宙",
-      "name": "🐉┃宇宙4k源┃",
+
+     {
+      "key": "drpy_影探",
+      "name": "🐉┃影探4k源┃",
       "type": 3,
       "playerType": 1,
-      "api": "csp_LvDou",
-      "jar": "https://cloud.lxweb.cn/f/DZ61T1/lvdou.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": {
-        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
-        "mackey": "toudongxidegou88|qunimagebisha857",
-        "danmu": true
-      }
+      "api": "https://cloud.lxweb.cn/f/0Q9yU0/drpy2.min.js",
+      "ext": "https://cloud.lxweb.cn/f/6pdQTw/%E6%96%B0%E6%8E%A2%E6%8E%A2.js"
     },
 
 
