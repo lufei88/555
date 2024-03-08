@@ -49,6 +49,29 @@
 
 
 
+{"key": "小盒网盘",
+"name": "📦小盒┃网盘",
+"type": 3,
+"api": "csp_Wogg",
+     "searchable": 1,
+     "quickSearch": 1,
+     "changeable": 0,
+"jar": "./jar/fan0303.jar",
+"ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.weixine.link/$$$弹"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {"key": "小盒会员",
 "name": "🏆VIP-4k专线2(首选)",//来自小盒会员
