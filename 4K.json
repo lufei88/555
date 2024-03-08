@@ -109,12 +109,12 @@
 
 {"key": "Wobg",
 "name": "🏆VIP-4k专线6",//来自小盒
-     "type": 3,
-     "api": "csp_WoGG",
-     "searchable": 1,
-     "quickSearch": 1,
-     "changeable": 0,
-    
+"type": 3,
+"api": "csp_Wobg",
+"quickSearch": 1,
+"changeable": 1,
+"filterable": 1,
+"timeout": 30,    
 "ext": "./tvbox/tok.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./json/wogg.json"
 },
 
