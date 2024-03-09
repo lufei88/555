@@ -7013,3 +7013,52 @@ CCTV-16高清,http://ha.hahomes.net:9981/stream/channelid/1719589157?ticket=94a5
 CCTV-4K 4K,http://ha.hahomes.net:9981/stream/channelid/2094369637?ticket=8d258ca988cc6d5d0e8a201b5d149794d9bd8ed2&profile=pass
 CCTV16 4K,http://ha.hahomes.net:9981/stream/channelid/1447049590?ticket=52e0621ffc27f1fb2e75d079713283667e06b7e4&profile=pass
 
+
+
+
+
+CCTV-1超清,http://ha.hahomes.net:9981/stream/channelid/2027775990?ticket=9d220f04d8358a7433de1f7079214079bff8ff70&profile=pass
+
+CCTV-1高清(CCTV -1综合高清),http://ha.hahomes.net:9981/stream/channelid/1851602762?ticket=1c4ad4070ca0ac29bc35174728234aa9a2fc8dbe&profile=pass
+
+
+CCTV-2,http://ha.hahomes.net:9981/stream/channelid/374993669?ticket=7761b4acf5caafddc1a30dc43446bb9cfc45624e&profile=pass
+
+
+
+
+汕头综合高清,http://ha.hahomes.net:9981/stream/channelid/495978806?ticket=cd612ec5f71ab505c20e175288e6acf5ab1d30ca&profile=pass
+
+汕头经济生活高清,http://ha.hahomes.net:9981/stream/channelid/114229228?ticket=92fc399cd8abfaf198d2e3f121db94be23e718a2&profile=pass
+
+汕头文旅体育高清,http://ha.hahomes.net:9981/stream/channelid/1411725568?ticket=c420b302f6b12405e4d514ead4c21643ad257987&profile=pass
+
+
+揭阳综合高清,http://ha.hahomes.net:9981/stream/channelid/719965502?ticket=8314399643cdbb51935d9f774a776ebb15b95eea&profile=pass
+揭阳公共高清,http://ha.hahomes.net:9981/stream/channelid/1300386960?ticket=5ab43d760b789121d4f50856d5f27861379cfc7e&profile=pass
+
+
+
+南方卫视高清,http://ha.hahomes.net:9981/stream/channelid/1977749157?ticket=8f3b3952032a9bb395de64bfbfecf7d454129457&profile=pass
+
+
+佛山顺德高清,http://ha.hahomes.net:9981/stream/channelid/57435491?ticket=a5120f1a6d7505c72808d0b3453fd387575d6647&profile=pass
+
+佛山综合高清,http://ha.hahomes.net:9981/stream/channelid/1507084790?ticket=5090f27231f89667675e954d1bb4942a3cf304a6&profile=pass
+
+
+佛山影视高清,http://ha.hahomes.net:9981/stream/channelid/78415091?ticket=1986cd700424526044b36841912ca015888c311f&profile=pass
+
+
+佛山南海高清,http://ha.hahomes.net:9981/stream/channelid/802473806?ticket=ca82f8876eb0e013a61cf5af403c8af33be77a2a&profile=pass
+
+佛山公共高清,http://ha.hahomes.net:9981/stream/channelid/1815241689?ticket=5807c432cc23ca2b20eba3d4d5978f76bb93b454&profile=pass
+
+
+中山公共高清,http://ha.hahomes.net:9981/stream/channelid/474891200?ticket=68de9ab4aedac9f02539bb53eed75cbd03125b4e&profile=pass
+
+中山综合高清,http://ha.hahomes.net:9981/stream/channelid/1192946639?ticket=e30d3ff93b62e3df7e5574610188eff96e960a61&profile=pass
+
+清远新闻综合高清,http://ha.hahomes.net:9981/stream/channelid/1628939202?ticket=b69da8885eb916f4f03f40f1e35de92b6a6eb251&profile=pass
+
+清远公共高清,http://ha.hahomes.net:9981/stream/channelid/1061472936?ticket=df25e8f7e69d57bcb847a0485502bd02e1d71758&profile=pass
