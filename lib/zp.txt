@@ -6995,5 +6995,21 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 测试👉电信,#genre#
 
 
-
+CCTV-1高清,http://ha.hahomes.net:9981/stream/channelid/1652210161?ticket=5e7e9c17d5a64fa28f799ca62d9979a73baf611f&profile=pass
+CCTV-2高清,http://ha.hahomes.net:9981/stream/channelid/953943315?ticket=a683a46e6f66f0aff9d3584dbc33c3fbcdee05ae&profile=pass
+CCTV-3高清,http://ha.hahomes.net:9981/stream/channelid/1939524774?ticket=9732b82b082dfc4068010aa32ceef1f8aa8e1986&profile=pass
+CCTV-4高清,http://ha.hahomes.net:9981/stream/channelid/1212563681?ticket=43bd6a854359d3c59a7d7e83765a43807f96171c&profile=pass
+CCTV-5+高清,http://ha.hahomes.net:9981/stream/channelid/2098093539?ticket=d219ff9e64f8362db63fed541943ac70f5e48ffd&profile=pass
+CCTV-6高清,http://ha.hahomes.net:9981/stream/channelid/1957987454?ticket=9dff738de98748b3e6ef87b5a08b719c40f4acf0&profile=pass
+CCTV-7高清,http://ha.hahomes.net:9981/stream/channelid/2046330371?ticket=7b5a5da935f82d09906ee2e980e1aaff9920fda6&profile=pass
+CCTV-8高清,http://ha.hahomes.net:9981/stream/channelid/905027571?ticket=cdb89a98f1fd46b78760beb4be595bb1a874c812&profile=pass
+CCTV-10高清,http://ha.hahomes.net:9981/stream/channelid/16400441?ticket=83e50ab1810a4f955b70a5c41aecc8604fbe5dc0&profile=pass
+CCTV-11高清,http://ha.hahomes.net:9981/stream/channelid/197780110?ticket=a75012d9d8b3b12a605ba68d87253ea687f14ab2&profile=pass
+CCTV-12高清,http://ha.hahomes.net:9981/stream/channelid/1808478065?ticket=4b8fbcd4fc2944b868db1d6c6a00e07d2f99df96&profile=pass
+CCTV-13高清,http://ha.hahomes.net:9981/stream/channelid/1138744477?ticket=bdcc3a73be4c32bf315c0fc20cbd0d7a44d248b4&profile=pass
+CCTV-14高清,http://ha.hahomes.net:9981/stream/channelid/1586388572?ticket=33696aca3bb94e73f4c14616fe73dec08a7c728c&profile=pass
+CCTV-15高清,http://ha.hahomes.net:9981/stream/channelid/1268115267?ticket=eb4ab119082da6cdb927f65234744339a8e87dd4&profile=pass
+CCTV-16高清,http://ha.hahomes.net:9981/stream/channelid/1719589157?ticket=94a58805c155b20d6488bf2bdd77a76d526b726c&profile=pass
+CCTV-4K 4K,http://ha.hahomes.net:9981/stream/channelid/2094369637?ticket=8d258ca988cc6d5d0e8a201b5d149794d9bd8ed2&profile=pass
+CCTV16 4K,http://ha.hahomes.net:9981/stream/channelid/1447049590?ticket=52e0621ffc27f1fb2e75d079713283667e06b7e4&profile=pass
 
