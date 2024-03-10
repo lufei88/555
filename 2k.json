@@ -35,11 +35,24 @@
 
 
 
+{"key": "小盒会员",
+"name": "🏆VIP-4k专线1(首选)",//来自小盒会员
+"type": 3,
+"api": "csp_AppYsV2",
+"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
+},
+
+
+
+
+
+
+
 
 
  {
      "key": "玩偶哥哥",
-     "name": "🏆VIP-4k专线1(首选)",
+     "name": "🏆VIP-4k专线2(首选)",
      "type": 3,
      "api": "csp_WoGG",
      "searchable": 1,
@@ -52,7 +65,7 @@
 
 
 {"key": "马铃薯",
-"name": "🏆VIP-4k专线2(首选)",//来自小盒会员
+"name": "🏆VIP-4k专线3(首选)",//来自小盒
 "type": 3,
 "api": "csp_Tudou",
 "quickSearch": 1,
@@ -67,50 +80,9 @@
 
 
 
-
-
-{"key": "小盒会员",
-"name": "🏆VIP-4k专线3(首选)",//来自小盒会员
-"type": 3,
-"api": "csp_AppYsV2",
-"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
-},
-
-
-
-
-
-
-
-
-
-
-
-{
-  "key": "Fangniu4k",
-  "name": "🏆VIP-4k专线4",//来自小盒
-  "type": 3,
-  "api": "csp_Fangniu4k",
-  "searchable": 1,
-  "changeable": 0,
-  "jar": "./jar/fangniu.jar"
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
  "key": "QTV",
- "name": "🥇天招VIP专线1",
+ "name": "🥇天招VIP专线1(首选)",
  "type": 3,
  "api": "./lib/drpy2.min.js",
  "ext": "./lib/txvip.js"
@@ -119,7 +91,7 @@
 
    {
       "key": "腾讯",
-      "name": "🥇天招VIP专线2",
+      "name": "🥇天招VIP专线2(首选)",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -132,7 +104,7 @@
 
 {
   "key": "爱奇异",
-  "name": "🥇天招VIP专线3",
+  "name": "🥇天招VIP专线3(首选)",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -142,7 +114,7 @@
 
 {
   "key": "优酷",
-  "name": "🥇天招VIP专线4",
+  "name": "🥇天招VIP专线4(首选)",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
