@@ -863,9 +863,10 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 无线新闻,http://r.jdshipin.com/CkuBd
-无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
+
 
 无线财经,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
+无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 无线财经,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
 
 
