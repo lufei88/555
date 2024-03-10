@@ -49,8 +49,21 @@
 
 
 
-{"key": "马铃薯",
+{"key": "小盒会员",
 "name": "🏆VIP-4k专线2(首选)",//来自小盒会员
+"type": 3,
+"api": "csp_AppYsV2",
+"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
+},
+
+
+
+
+
+
+
+{"key": "马铃薯",
+"name": "🏆VIP-4k专线3(首选)",//来自小盒会员
 "type": 3,
 "api": "csp_Tudou",
 "quickSearch": 1,
@@ -67,12 +80,6 @@
 
 
 
-{"key": "小盒会员",
-"name": "🏆VIP-4k专线3(首选)",//来自小盒会员
-"type": 3,
-"api": "csp_AppYsV2",
-"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
-},
 
 
 
@@ -84,15 +91,7 @@
 
 
 
-{
-  "key": "Fangniu4k",
-  "name": "🏆VIP-4k专线4",//来自小盒
-  "type": 3,
-  "api": "csp_Fangniu4k",
-  "searchable": 1,
-  "changeable": 0,
-  "jar": "./jar/fangniu.jar"
-  },
+
 
 
 
