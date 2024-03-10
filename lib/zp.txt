@@ -860,19 +860,18 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-无线新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
-无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass 
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
-
+无线新闻,http://r.jdshipin.com/CkuBd
+无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
 无线财经,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
 无线财经,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
 
 
 
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻,http://r.jdshipin.com/CkuBd
-无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
+
+
 
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -1552,25 +1551,30 @@ HZTV2高清,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.233:5146
 
  
 体育频道,#genre#
+
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://120.27.200.109/api/channel/l193d/wlty
-风云足球,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012514203.m3u8
-高尔夫球,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012512503.m3u8
-央视台球,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513703.m3u8
+
+
+五星体育,http://php.jdshipin.com:8880/bst.php?id=wxty
+劲爆体育,http://php.jdshipin.com:8880/bst.php?id=jbty
+魅力足球,http://php.jdshipin.com:8880/bst.php?id=mlzq
+
+
+风云足球,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+高尔夫网球,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+央视台球,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
 高尔夫网球,http://yuju666888.x3322.net:808/hls/63/index.m3u8
 高尔夫网球,http://yuju666888.x3322.net:808/hls/63/index.m3u8
-咪咕足球,http://113.9.161.31:88/hls/156/index.m3u8
-咪咕体育,http://113.9.161.31:88/hls/304/index.m3u8
-CCTV-5,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576401.m3u8
-CCTV-5+,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576301.m3u8
-CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV-5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+
+CCTV5,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576403.m3u8
+CCTV5+,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
 广东体育,http://yuju666888.x3322.net:808/hls/22/index.m3u8
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 斗鱼体育,http://43.138.170.29:35455/douyu/9170147
 斗鱼体育,http://159.75.85.63:35455/douyu/9170147
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
 
 健身健美,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226965/1.m3u8
 足球高清,http://171.221.240.108:808/hls/43/index.m3u8
@@ -1616,11 +1620,7 @@ CONBRTE拳击(移动专线),http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRn
 曼联官方MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 Dubaisport,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
-红牛运动,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
 
 Dric足球,http://livetv.ktv.zone/23/play.m3u8
 
@@ -1675,15 +1675,8 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 天空体育 板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-中国功夫,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
-NewTV武搏世界,http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=4
-武搏世界,http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
-武搏世界,http://111.40.196.31:443/PLTV/88888888/224/3221225664/1.m3u8
-武搏世界,http://39.135.238.76/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
-武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-武搏世界,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=4
-武搏世界,http://39.134.65.208/PLTV/88888888/224/3221225547/index.m3u8
-武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+
+
 CONBRTE拳击,http://51.83.238.223:16417/
 
 
