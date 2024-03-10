@@ -936,20 +936,12 @@ FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 
 
 
-亚太第一卫视,http://110.19.106.198:9981/stream/channelid/999152661?ticket=B1BCB80234BFA8C75584A88C1E29CA0CF7745FC4&profile=pass
 
 
 
 
-
-
-
-
-
-
-港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-香港電台(RTHK 34),https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
+香港電台34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+香港電台34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w316626141.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
@@ -985,7 +977,6 @@ CGNTV,http://livear.cgtn.com/1000a/prog_index.m3u8
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 
 新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 韩.EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 韩.EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
