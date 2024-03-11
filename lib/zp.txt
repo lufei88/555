@@ -1442,9 +1442,22 @@ HZTV2高清,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.233:5146
  
 体育频道,#genre#
 
+
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://120.27.200.109/api/channel/l193d/wlty
-
+JJ斗地主,http://s2.pub/JJdoudizhu
+博斯高球1,http://ali.hlspull.yximgs.com/live/twlivezmxzcvpzozzdezhdbcxhvzsztzhwozzfszzzhvcxvhbszzyz.flv
+博斯高球2,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzyzdzyfzoxvchzwhzwozdzzhzzlszhbzbszzez.flv
+CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
+DAZN体育,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevend.flv
+爱尔达体育,http://ali.hlspull.yximgs.com/live/twlivezezpzxcvzpzozdxcvdzozdzpoedhopzfvxczhetouhzzvzzztyy.flv
+爱尔达体育3,http://ali.hlspull.yximgs.com/live/twlivecxvpzeyzdcxozvmzlzbtzwzhozudscbcxozcvmnfuzlbhhztys.flv
+爱尔达体育4,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzbvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzlys.flv
+纬来蓝球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来蓝球,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
+晴彩竞技,http://home4.kmo.ink:8888/udp/239.3.1.125:8001
+先锋乒羽,http://61.136.96.78:880/65.m3u8
 
 五星体育,http://php.jdshipin.com:8880/bst.php?id=wxty
 劲爆体育,http://php.jdshipin.com:8880/bst.php?id=jbty
