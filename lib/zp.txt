@@ -158,18 +158,10 @@ CGTN英语,http://nas.jumping.wang:5555/udp/239.93.0.104:5140
 CGTN西班牙语,http://nas.jumping.wang:5555/udp/239.93.42.49:5140
 CGTN法语,http://nas.jumping.wang:5555/udp/239.93.42.50:5140
 CETV-1,http://yuju666888.x3322.net:808/hls/204/index.m3u8
-CETV-1,http://121.19.134.126:808/hls/80/index.m3u8
-CETV-4,http://121.19.134.126:808/hls/82/index.m3u8
 
 
-文化精品,http://223.82.161.157:8822/hls/64/index.m3u8
-兵器科技,http://223.82.161.157:8822/hls/65/index.m3u8
-风云音乐,http://223.82.161.157:8822/hls/66/index.m3u8
-怀旧剧场,http://223.82.161.157:8822/hls/67/index.m3u8
-风云足球,http://223.82.161.157:8822/hls/68/index.m3u8
-风云剧场,http://223.82.161.157:8822/hls/69/index.m3u8
-第一剧场,http://223.82.161.157:8822/hls/70/index.m3u8
-世界地理,http://223.82.161.157:8822/hls/71/index.m3u8
+
+
 
 
 
@@ -220,49 +212,6 @@ CGTN 英文记录,http://60.10.227.40:555/udp/239.253.93.195:6373
 
 C高尔夫网球,http://yuju666888.x3322.net:808/hls/63/index.m3u8
 现代教育,http://yuju666888.x3322.net:808/hls/126/index.m3u8
-
-
-CCTV-1 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv1
-CCTV-2 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv2
-CCTV-3 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv3
-CCTV-4 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv4
-CCTV-5 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv5
-CCTV-5+ HD,http://nas.jdshipin.com:8801/bst.php?id=cctv5p
-CCTV-6 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv6
-CCTV-7 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv7
-CCTV-8 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv8
-CCTV-9 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv9
-CCTV-10 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv10
-CCTV-11 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv11
-CCTV-12 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv12
-CCTV-13 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv13
-CCTV-14 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv14
-CCTV-15 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv15
-CCTV-16 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv16
-CCTV-17 HD,http://nas.jdshipin.com:8801/bst.php?id=cctv17
-
-CCTV-1 HD,http://nas.jumping.wang:5555/udp/239.93.0.184:5140
-CCTV-2 HD,http://nas.jumping.wang:5555/udp/239.93.1.23:6000
-CCTV-3 HD,http://nas.jumping.wang:5555/udp/239.93.1.11:2223
-CCTV-4 HD,http://nas.jumping.wang:5555/udp/239.93.1.105:5140
-CCTV-5 HD,http://nas.jumping.wang:5555/udp/239.93.42.37:5140
-CCTV-6 HD,http://nas.jumping.wang:5555/udp/239.93.1.13:2226
-CCTV-7 HD,http://nas.jumping.wang:5555/udp/239.93.1.67:5140
-CCTV-8 HD,http://nas.jumping.wang:5555/udp/239.93.42.39:5140
-CCTV-9 HD,http://nas.jumping.wang:5555/udp/239.93.1.24:5140
-CCTV-10 HD,http://nas.jumping.wang:5555/udp/239.93.1.28:5140
-CCTV-11 HD,http://nas.jumping.wang:5555/udp/239.93.0.102:5140
-CCTV-12 HD,http://nas.jumping.wang:5555/udp/239.93.1.30:8124
-CCTV-13 HD,http://nas.jumping.wang:5555/udp/239.93.0.66:5140
-CCTV-14 HD,http://nas.jumping.wang:5555/udp/239.93.1.29:6000
-CCTV-15 HD,http://nas.jumping.wang:5555/udp/239.93.0.103:5140
-CCTV-17 HD,http://nas.jumping.wang:5555/udp/239.93.0.92:5140
-CCTV-5＋ HD,http://nas.jumping.wang:5555/udp/239.93.1.36:8004
-CETV-1 HD,http://nas.jumping.wang:5555/udp/239.93.1.111:5140
-CETV-2,http://nas.jumping.wang:5555/udp/239.93.0.113:5140
-CETV-4,http://nas.jumping.wang:5555/udp/239.93.0.50:5140
-
-
 
 
 
@@ -1674,7 +1623,7 @@ CHC家庭影院,http://118.254.201.208:8888/udp/239.76.245.241:1234
 
 
 峨眉电影,http://171.214.202.220:4000/udp/239.93.0.252:5140#http://171.223.215.229:4000/udp/239.93.0.252:5140
-东方影视,http://101.229.111.162:4022/udp/239.45.3.237:5140
+
 
 爱怀旧高清,http://125.71.250.138:8899/udp/239.93.42.21:5140
 爱喜剧高清,http://125.71.250.138:8899/udp/239.93.42.9:5140
@@ -2969,79 +2918,7 @@ MUFC贝影,http://43.138.170.29:35455/yy/1355659580
 
 
 
-埋堆堆电影,#genre#
 
-堆堆电影1,https://live.metshop.top/huya/11352909
-堆堆电影2,https://live.metshop.top/huya/11342421
-堆堆电影3,https://live.metshop.top/huya/11601960
-堆堆电影4,https://live.metshop.top/huya/11352903
-堆堆电影5,https://live.metshop.top/huya/11279247
-喜剧专场6,https://live.metshop.top/huya/11602044
-经典女神,https://live.metshop.top/huya/11352909
-七夕特辑,https://live.metshop.top/huya/11352883
-金庸武侠,https://live.metshop.top/huya/11342435
-烧脑悬疑,https://live.metshop.top/huya/11352880
-埋堆堆1,https://live.metshop.top/huya/23749096
-埋堆堆2,https://live.metshop.top/huya/23735126
-埋堆堆3,https://live.metshop.top/huya/23865152
-埋堆堆4,https://live.metshop.top/huya/23903196
-埋堆堆5,https://live.metshop.top/huya/23740156
-埋堆堆6,https://live.metshop.top/huya/23728660
-埋堆堆7,https://live.metshop.top/huya/23735153
-埋堆堆8,https://live.metshop.top/huya/23865058
-埋堆堆9,https://live.metshop.top/huya/23734183
-埋堆堆10,https://live.metshop.top/huya/23749068
-埋堆堆11,https://live.metshop.top/huya/23865036
-埋堆堆12,https://live.metshop.top/huya/23740162
-埋堆堆13,https://live.metshop.top/huya/23829474
-埋堆堆14,https://live.metshop.top/huya/23863833
-埋堆堆15,https://live.metshop.top/huya/23903106
-埋堆堆16,https://live.metshop.top/huya/23865025
-埋堆堆17,https://live.metshop.top/huya/23728689
-埋堆堆18,https://live.metshop.top/huya/23824171
-埋堆堆19,https://live.metshop.top/huya/23860057
-埋堆堆20,https://live.metshop.top/huya/23865072
-埋堆堆21,https://live.metshop.top/huya/23734176
-埋堆堆22,https://live.metshop.top/huya/23728651
-埋堆堆23,https://live.metshop.top/huya/23734246
-埋堆堆24,https://live.metshop.top/huya/23865179
-埋堆堆25,https://live.metshop.top/huya/23734196
-埋堆堆26,https://live.metshop.top/huya/23734211
-埋堆堆27,https://live.metshop.top/huya/23865086
-埋堆堆28,https://live.metshop.top/huya/23863796
-埋堆堆29,https://live.metshop.top/huya/23863822
-埋堆堆30,https://live.metshop.top/huya/23749083
-埋堆堆31,https://live.metshop.top/huya/23734243
-埋堆堆32,https://live.metshop.top/huya/23864480
-埋堆堆33,https://live.metshop.top/huya/23746486
-埋堆堆34,https://live.metshop.top/huya/23860049
-埋堆堆35,https://live.metshop.top/huya/23749074
-埋堆堆36,https://live.metshop.top/huya/23863882
-埋堆堆37,https://live.metshop.top/huya/23863778
-埋堆堆38,https://live.metshop.top/huya/23824164
-埋堆堆39,https://live.metshop.top/huya/23829537
-埋堆堆40,https://live.metshop.top/huya/23863809
-埋堆堆41,https://live.metshop.top/huya/23865096
-埋堆堆42,https://live.metshop.top/huya/23863804
-埋堆堆43,https://live.metshop.top/huya/23728630
-埋堆堆44,https://live.metshop.top/huya/23863895
-埋堆堆45,https://live.metshop.top/huya/23863787
-埋堆堆46,https://live.metshop.top/huya/23728637
-埋堆堆47,https://live.metshop.top/huya/23865142
-埋堆堆48,https://live.metshop.top/huya/23903085
-埋堆堆49,https://live.metshop.top/huya/23903183
-埋堆堆50,https://live.metshop.top/huya/23728647
-埋堆堆51,https://live.metshop.top/huya/23746691
-埋堆堆52,https://live.metshop.top/huya/23829447
-埋堆堆53,https://live.metshop.top/huya/23728693
-埋堆堆54,https://live.metshop.top/huya/23903130
-埋堆堆55,https://live.metshop.top/huya/23734223
-埋堆堆56,https://live.metshop.top/huya/23734169
-埋堆堆57,https://live.metshop.top/huya/23865124
-埋堆堆58,https://live.metshop.top/huya/23865186
-埋堆堆59,https://live.metshop.top/huya/23902225
-埋堆堆60,https://live.metshop.top/huya/23903164
-埋堆堆61,https://live.metshop.top/huya/23728674
 
 
 
