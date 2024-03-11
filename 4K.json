@@ -189,44 +189,9 @@
 //快速线路一///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-
-
-
-
-{
-  "key":"csp_小盒",
-  "name":"🥇天招VIP专线1",//来自小盒自营
-  "type":3,
-  "api":"csp_XBPQ",  
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./json/小盒.json"
-  },
-
-
-
-
-
-
-
-
-
-{
-   "key": "csp_xBPQ_奇优",
-   "name":"🥇天招超快线2",  //小盒奇优
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/QY.json"
-      },
-
-
 {
       "key": "saohuo",
-      "name": "🥇天招超快线3",//小米 骚火
+      "name": "🥇天招超快线1",//小米 骚火
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -252,9 +217,35 @@
 
 
 
+
+
+
+
+
+
+
+
+{
+   "key": "csp_xBPQ_奇优",
+   "name":"🥇天招超快线2",  //小盒奇优
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/QY.json"
+      },
+
+
+
+
+
+
+
+
  {
    "key": "Xinsj",
-   "name": "🥇天招超快线4",//小盒新视觉2 
+   "name": "🥇天招超快线3",//小盒新视觉2 
    "type":3,
       "api":"csp_XYQHiker",
          "searchable": 1,
@@ -266,7 +257,7 @@
 
 {
 "key": "csp_新视觉影院",
-"name": "🥇天招超快线5",//小盒新视觉
+"name": "🥇天招超快线4",//小盒新视觉
 "type": 3,
 "api": "csp_XYQHiker",
 "jar": "./jar/xyq.jar",
@@ -281,7 +272,7 @@
 
 {
   "key": "csp_Nmys",
-  "name": "🥇天招超快线6",//来自小米
+  "name": "🥇天招超快线5",//来自小米
   "type": 3,
   "api": "csp_Nmys",
   "searchable": 1,
@@ -295,7 +286,7 @@
 
 {
   "key":"csp_CandyMuj_taoju",
-  "name":"🥇天招超快线7",//来自笑傲
+  "name":"🥇天招超快线6",//来自笑傲
   "type":3,"api":"csp_CandyMuj_taoju",
   "jar":"./jar/candymuj.jar",
   "searchable":1,
@@ -306,7 +297,7 @@
 
 {
       "key": "csp_xml_优质",
-      "name": "🥇天招超快线8",//来自笑傲
+      "name": "🥇天招超快线7",//来自笑傲
       "type": 1,
       "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
       "searchable": 1,
@@ -346,7 +337,7 @@
 
 {
       "key": "csp_非凡资源",
-      "name": "🥇天招超快线9",//来自笑傲
+      "name": "🥇天招超快线8",//来自笑傲
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -384,7 +375,7 @@
 
 {
       "key": "csp_农民",
-      "name": "🥇天招超快线10",//来自笑傲
+      "name": "🥇天招超快线9",//来自笑傲
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -398,7 +389,7 @@
 
 {
       "key": "csp_LiangZi",
-      "name": "🥇天招超快线11",//来自笑傲
+      "name": "🥇天招超快线10",//来自笑傲
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -435,7 +426,7 @@
 
 {
       "key": "csp_黑狐",
-      "name": "🥇天招超快线12",//来自笑傲　黑狐
+      "name": "🥇天招超快线11",//来自笑傲　黑狐
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -453,7 +444,7 @@
 
 {
       "key": "zy_新浪",
-      "name": "🥇天招超快线13",//来自笑傲　新浪直连　　有广告
+      "name": "🥇天招超快线12",//来自笑傲　新浪直连　　有广告
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -486,7 +477,7 @@
 
 {
       "key": "csp_佳能",
-      "name": "🥇天招超快线14",//来自笑傲　佳能影视
+      "name": "🥇天招超快线13",//来自笑傲　佳能影视
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -496,16 +487,18 @@
     },
 
 
+{
+  "key":"csp_小盒",
+  "name":"🥇天招VIP专线14",//来自小盒自营
+  "type":3,
+  "api":"csp_XBPQ",  
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/小盒.json"
+  },
 
 
-{"key": "XAL蓝光",
-"name": "🥇天招超快线15",//小盒tv
-"type": 1,
-"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-"playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
-"searchable": 1,
-"quickSearch": 1
-},
 
 
 
