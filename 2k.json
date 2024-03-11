@@ -34,7 +34,6 @@
 },
 
 
-
 {"key": "小盒会员",
 "name": "🏆VIP-4k专线1(首选)",//来自小盒会员
 "type": 3,
@@ -43,14 +42,7 @@
 },
 
 
-
-
-
-
-
-
-
- {
+   {
      "key": "玩偶哥哥",
      "name": "🏆VIP-4k专线2(首选)",
      "type": 3,
@@ -64,8 +56,16 @@
 
 
 
+
+
+
+
+
+
+
+
 {"key": "马铃薯",
-"name": "🏆VIP-4k专线3(首选)",//来自小盒
+"name": "🏆VIP-4k专线3(首选)",//来自小盒会员
 "type": 3,
 "api": "csp_Tudou",
 "quickSearch": 1,
@@ -80,9 +80,11 @@
 
 
 
+
+
 {
  "key": "QTV",
- "name": "🥇天招VIP专线1(首选)",
+ "name": "🥇天招VIP专线1",
  "type": 3,
  "api": "./lib/drpy2.min.js",
  "ext": "./lib/txvip.js"
@@ -91,7 +93,7 @@
 
    {
       "key": "腾讯",
-      "name": "🥇天招VIP专线2(首选)",
+      "name": "🥇天招VIP专线2",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -104,7 +106,7 @@
 
 {
   "key": "爱奇异",
-  "name": "🥇天招VIP专线3(首选)",
+  "name": "🥇天招VIP专线3",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -114,7 +116,7 @@
 
 {
   "key": "优酷",
-  "name": "🥇天招VIP专线4(首选)",
+  "name": "🥇天招VIP专线4",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -141,9 +143,22 @@
   },
 
 
+
+{
+  "key": "XAL蓝光",
+  "name": "🥇天招VIP专线7",
+  "type": 1,
+  "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
+  "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+  "searchable": 1,
+  "quickSearch": 1
+  },
+
+
+
 {
   "key": "搜狗",
-  "name": "🥇天招VIP专线7",
+  "name": "🥇天招VIP专线8",
   "playerType": "2",
   "type": 3,
   "api": "./lib/drpy2.min.js",
@@ -156,31 +171,37 @@
 
 
 
+
 //快速线路一///////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-{"key": "飞云",
-"name": "🥇天招超快线1",//小盒
-"type": 3,
-"api": "csp_AppYsV2",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "http://122.228.84.103:5821/api.php/app/"
-},
-
 
 
 
 
 {"key": "XAL蓝光",
-"name": "🥇天招超快线2",//小盒tv
+"name": "🥇天招超快线1",//小盒tv
 "type": 1,
 "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
 "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
 "searchable": 1,
 "quickSearch": 1
 },
+
+
+{
+  "key":"csp_小盒",
+  "name":"🥇天招VIP专线2",//来自小盒自营
+  "type":3,
+  "api":"csp_XBPQ",  
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/小盒.json"
+  },
+
+
+
+
+
 
 
 
@@ -1676,9 +1697,7 @@
 
 
 
-{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
-}
-},
+
 
 
 
@@ -1804,18 +1823,13 @@
 
 
 
-
-
-
-
-
-
-
 {"name": "🌥飞云切片","type": 1,"url": "http://122.228.84.103:7777/api/?key=lEoJRrX01Drg8Of5aA&url="},
 
 
 
-
+{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
+}
+},
 
 
 
