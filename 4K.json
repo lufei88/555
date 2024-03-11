@@ -1499,132 +1499,9 @@
       "type": 3,
       "url": "Demo"
     },
-    {
-      "name": "超级嗅探",
-      "type": 3,
-      "url": "Web"
-    },
+ 
 
 
-    {
-      "name": "观音解析",
-      "type": 1,
-      "url": "http://61.147.93.21:8090/index.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
-    },
-    {
-      "name": "茶杯解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
-    },
-    {
-      "name": "盖碗解析",
-      "type": 1,
-      "url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "xigua",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-{
-      "name": "777",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
  {
       "name": "🌎天招VIP",
       "type": 1,
@@ -1696,7 +1573,9 @@
 
 
 
-
+{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
+}
+},
 
 
 
@@ -1823,13 +1702,11 @@
 
 
 
-{"name": "🌥飞云切片","type": 1,"url": "http://122.228.84.103:7777/api/?key=lEoJRrX01Drg8Of5aA&url="},
 
 
 
-{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
-}
-},
+
+
 
 
 
@@ -2096,6 +1973,9 @@
         "is_play_url="
       ]
     },
+
+　　　{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+
     {
       "name": "爱酷",
       "hosts": [
