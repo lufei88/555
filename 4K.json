@@ -80,28 +80,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
  "key": "QTV",
  "name": "🥇天招VIP专线1",
@@ -162,15 +140,30 @@
   "ext": "./lib/mangguo.js"
   },
 
+{
+  "key":"csp_小盒",
+  "name":"🥇天招VIP专线7",//来自小盒自营
+  "type":3,
+  "api":"csp_XBPQ",  
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/小盒.json"
+  },
+
+
+
+
 
 {
   "key": "搜狗",
-  "name": "🥇天招VIP专线7",
+  "name": "🥇天招VIP专线8",
   "playerType": "2",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
   },
+
 
 
 
