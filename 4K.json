@@ -1540,6 +1540,7 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
+
    {
       "name": "天招vip2",
       "type": 1,
@@ -1638,6 +1639,7 @@
         }
       }
     },
+
     {
       "name": "杰森",
       "type": 1,
@@ -1704,62 +1706,6 @@
 
 
 
-
-
-
-
-
-
-{
-      "name": "红茶嗅探",
-      "type": 0,
-      "url": "https://jx.4kdv.com/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        },
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "leshi",
-          "LS",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "不累",
-      "type": 1,
-      "url": "https://blbfq.f3322.net/player/analysis.php?v=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "qq",
-          "letv",
-          "sohu",
-          "youku",
-          "mgtv",
-          "bilibili",
-          "wasu",
-          "xigua",
-          "1905"
-        ]
-      }
-    },
     {
       "name": "byg解析",
       "type": 1,
@@ -1974,7 +1920,7 @@
       ]
     },
 
-　　　{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 
     {
       "name": "爱酷",
