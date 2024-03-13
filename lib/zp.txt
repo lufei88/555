@@ -904,16 +904,6 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-
-HOY资讯频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
-财经资讯香港,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
-
-
-
-
-
-
-
 J2,http://ali.hlspull.yximgs.com/live/j2t3a88221300-dhoSOLDLsk.flv
 J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 体育资讯,http://ali.hlspull.yximgs.com/live/tvbwuxiancjt5522143a88221300-dhoSOLDLsk.flv
