@@ -1,5 +1,29 @@
 央视频道,#genre#
 
+
+CCTV-1,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/111128@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+CCTV-2,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000315/index.m3u8?playtype=1&usercode=cl@is
+CCTV-3,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/1369028@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+CCTV-4,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000343/index.m3u8?playtype=1&usercode=cl@is
+CCTV-5,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/1369029@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+CCTV-5+,http://182.139.250.132:5033/HUAWEI/00000001000000050000000000000153/index.m3u8?playtype=1&usercode=cl@is
+CCTV-6,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/1369030@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+CCTV-7,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000344/index.m3u8?playtype=1&usercode=cl@is
+CCTV-8,http://175.0.50.196:8899/tsfile/live/0008_1.m3u8
+CCTV-9,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000345/index.m3u8?playtype=1&usercode=cl@is
+CCTV-10,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000346/index.m3u8?playtype=1&usercode=cl@is
+CCTV-11,http://182.139.250.132:5033/HUAWEI/00000001000000050000000000000583/index.m3u8?playtype=1&usercode=cl@is
+CCTV-12,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000348/index.m3u8?playtype=1&usercode=cl@is
+CCTV-13,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000349/index.m3u8?playtype=1&usercode=cl@is
+CCTV-14,http://182.139.250.132:5033/HUAWEI/00000001000000050000000000000587/index.m3u8?playtype=1&usercode=cl@is
+CCTV-15,http://182.139.250.132:5033/HUAWEI/00000001000000050000000000000580/index.m3u8?playtype=1&usercode=cl@is
+
+
+
+
+
+
+
 CCTV-1,http://175.0.50.196:8899/tsfile/live/0017_1.m3u8
 CCTV-2,http://175.0.50.196:8899/tsfile/live/0018_1.m3u8
 CCTV-3,http://175.0.50.196:8899/tsfile/live/0019_1.m3u8
@@ -257,8 +281,36 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 
 
-
-
+湖南卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000155/index.m3u8?playtype=1&usercode=cl@is
+江苏卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000205/index.m3u8?playtype=1&usercode=cl@is
+浙江卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000158/index.m3u8?playtype=1&usercode=cl@is
+东方卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000156/index.m3u8?playtype=1&usercode=cl@is
+北京卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000154/index.m3u8?playtype=1&usercode=cl@is
+深圳卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000159/index.m3u8?playtype=1&usercode=cl@is
+天津卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000206/index.m3u8?playtype=1&usercode=cl@is
+湖北卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000166/index.m3u8?playtype=1&usercode=cl@is
+广东卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000157/index.m3u8?playtype=1&usercode=cl@is
+山东卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000165/index.m3u8?playtype=1&usercode=cl@is
+黑龙江,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000164/index.m3u8?playtype=1&usercode=cl@is
+重庆卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000352/index.m3u8?playtype=1&usercode=cl@is
+东南卫视,http://182.139.250.132:5033/HUAWEI/20000002000000050000000000000370/index.m3u8?playtype=1&usercode=cl@is
+江西卫视,http://182.139.250.132:5033/HUAWEI/20000002000000050000000000000380/index.m3u8?playtype=1&usercode=cl@is
+贵州卫视,http://182.139.250.132:5033/HUAWEI/20000002000000050000000000000379/index.m3u8?playtype=1&usercode=cl@is
+河北卫视,http://182.139.250.132:5033/HUAWEI/20000002000000050000000000000381/index.m3u8?playtype=1&usercode=cl@is
+安徽卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000338/index.m3u8?playtype=1&usercode=cl@is
+辽宁卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000353/index.m3u8?playtype=1&usercode=cl@is
+云南卫视,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/3444@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+陕西卫视,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/7105@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+山西卫视,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/1344@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+内蒙卫视,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/79469@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+青海卫视,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/67026@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+宁夏卫视,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/160782@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+西藏卫视,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/77574@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+新疆卫视,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/126387@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+农林卫视,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000273/index.m3u8?playtype=1&usercode=cl@is
+海南卫视,http://182.139.250.132:5033/HUAWEI/Umai:CHAN/1334@BESTV.SMG.SMG/index.m3u8?playtype=1&usercode=cl@is
+康定卫视,http://182.139.250.132:5033/HUAWEI/20000002000000050000000000000419/index.m3u8?playtype=1&usercode=cl@is
+中国交通,http://182.139.250.132:5033/HUAWEI/20000002000000050000000000000382/index.m3u8?playtype=1&usercode=cl@is
 
 
 
