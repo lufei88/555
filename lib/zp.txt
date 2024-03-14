@@ -972,6 +972,13 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 [港•澳•台],#genre#
 
+
+凤凰中文,http://183.1.250.154:8081/hls/37/index.m3u8
+凤凰资讯,http://183.1.250.154:8081/hls/36/index.m3u8
+凤凰香港,http://183.1.250.154:8081/hls/38/index.m3u8
+
+
+
 凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
@@ -992,7 +999,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 凤凰资讯,http://nas.jumping.wang:5555/udp/239.93.0.118:2191
 凤凰资讯,http://nas.jumping.wang:5555/udp/239.93.1.4:2191
 
-凤凰香港,http://ali.hlspull.yximgs.com/live/fenghuangxianggangt3a88221300-dhoSOLDLsk.flv
+
 
 
 无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024
@@ -8225,6 +8232,30 @@ CCTV-2,http://ha.hahomes.net:9981/stream/channelid/374993669?ticket=7761b4acf5ca
 清远公共高清,http://ha.hahomes.net:9981/stream/channelid/1061472936?ticket=df25e8f7e69d57bcb847a0485502bd02e1d71758&profile=pass
 
 测试2👉电信,#genre#
+
+
+好消息2台,P2p://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
+三立綜合台,P2p://generationnexxxt.com:19806/792a7263dd7b4c7484512d07f3c21083
+靖天資訊台,P2p://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
+靖天綜合台,P2p://generationnexxxt.com:19806/ed2e3f294dcc40c1b72aba372fbed64d
+靖天育樂台,P2p://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
+中視經典台,P2p://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9
+中視菁采台,P2p://generationnexxxt.com:19806/ae5e01a7bc294327b88f65aa5d38217c
+TVBS精采台,P2p://generationnexxxt.com:19806/2089afbec2474359add275658522922f
+TVBS亞洲,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
+壹電視綜合,P2p://generationnexxxt.com:19806/617d6cf150574cb485ee07aea57262fd
+緯來精采,P2p://generationnexxxt.com:19806/1db14fe8aad841b4b28eca2b136e7206
+ETtoday綜合台,P2p://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
+民視第一台,P2p://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
+民視臺灣台,P2p://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
+靖天歡樂台,P2p://generationnexxxt.com:19806/439163cf3469473b8ffd582b687991be
+八大優頻道,P2p://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
+三立戲劇台,P2p://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
+龍華戲劇,P2p://generationnexxxt.com:19806/5d4f0bd2b18b4a588a0ca733569b18dd
+靖天戲劇台,P2p://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
+
+
+
 
 CCTV1综合,http://114.132.99.29:8883/doudou.php?id=cctv1
 CCTV2财*,http://114.132.99.29:8883/doudou.php?id=cctv2
