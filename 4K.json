@@ -148,7 +148,17 @@
   },
 
 
-
+{
+  "key": "csp_地瓜",
+  "name": "🥇天招VIP专线6",//小盒地瓜
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "./jar/xyq.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./json/地瓜.json"
+  },
 
 
 
@@ -157,7 +167,7 @@
 
 {
   "key": "芒果",
-  "name": "🥇天招VIP专线6",
+  "name": "🥇天招VIP专线7",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/mangguo.js"
@@ -169,7 +179,7 @@
 
 {
   "key": "drpy_js_360影视",
-  "name": "🥇天招VIP专线7",
+  "name": "🥇天招VIP专线8",
   "type": 3,
   //"jar": "./jar/sa0226.jar",
   "api": "./lib/drpy2.min.js",
@@ -187,7 +197,7 @@
 
 {
   "key": "搜狗",
-  "name": "🥇天招VIP专线8",
+  "name": "🥇天招VIP专线9",
 //  "playerType": "2",
   "type": 3,
   "api": "./lib/drpy2.min.js",
