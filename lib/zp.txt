@@ -8234,29 +8234,6 @@ CCTV-2,http://ha.hahomes.net:9981/stream/channelid/374993669?ticket=7761b4acf5ca
 测试2👉电信,#genre#
 
 
-好消息2台,P2p://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
-三立綜合台,P2p://generationnexxxt.com:19806/792a7263dd7b4c7484512d07f3c21083
-靖天資訊台,P2p://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
-靖天綜合台,P2p://generationnexxxt.com:19806/ed2e3f294dcc40c1b72aba372fbed64d
-靖天育樂台,P2p://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
-中視經典台,P2p://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9
-中視菁采台,P2p://generationnexxxt.com:19806/ae5e01a7bc294327b88f65aa5d38217c
-TVBS精采台,P2p://generationnexxxt.com:19806/2089afbec2474359add275658522922f
-TVBS亞洲,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
-壹電視綜合,P2p://generationnexxxt.com:19806/617d6cf150574cb485ee07aea57262fd
-緯來精采,P2p://generationnexxxt.com:19806/1db14fe8aad841b4b28eca2b136e7206
-ETtoday綜合台,P2p://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
-民視第一台,P2p://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
-民視臺灣台,P2p://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
-靖天歡樂台,P2p://generationnexxxt.com:19806/439163cf3469473b8ffd582b687991be
-八大優頻道,P2p://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
-三立戲劇台,P2p://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
-龍華戲劇,P2p://generationnexxxt.com:19806/5d4f0bd2b18b4a588a0ca733569b18dd
-靖天戲劇台,P2p://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
-
-
-
-
 CCTV1综合,http://114.132.99.29:8883/doudou.php?id=cctv1
 CCTV2财*,http://114.132.99.29:8883/doudou.php?id=cctv2
 CCTV3综艺,http://114.132.99.29:8883/doudou.php?id=cctv3
@@ -8368,7 +8345,7 @@ UFC格斗精选,http://114.132.99.29:8883/doudou.php?id=ufcgdjx
 武汉江汉关,http://114.132.99.29:8883/doudou.php?id=whjhg
 武汉黄鹤楼,http://114.132.99.29:8883/doudou.php?id=whhhl
 
-🔸台,#genre#
+测试4,#genre#
 民视,P2p://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,P2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
@@ -8538,7 +8515,7 @@ EYE TV,P2p://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
 镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
-🔸港澳,#genre#
+测试工,#genre#
 港台电视31,P2p://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,P2p://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,P2p://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
