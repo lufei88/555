@@ -894,18 +894,14 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 凤凰香港,http://ali.hlspull.yximgs.com/live/fenghuangxianggangt3a88221300-dhoSOLDLsk.flv
 
 
-
-无线新闻,http://ali.hlspull.yximgs.com/live/wuxianxwt54873a88221300-dhoSOLDLsk.flv
-无线新闻,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024
 无线新闻,http://hksc.vnetidc.hk:61282/bysid/83
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-
 无线新闻,http://r.jdshipin.com/CkuBd
 
 无线财经,http://108.165.240.85:80/jspd.php?id=7
-无线财经,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
-无线财经,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+
 
 
 
