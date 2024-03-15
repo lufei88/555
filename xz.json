@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "AppType": 1,
+      "ApplicationInfoList": [
+        {
+          "ID": 12270,
+          "AppType": 1,
+          "AppName": "星河直播",
+          "Version": "4",
+          "PackageName": "org.xinghe.tv",
+          "FileSize": 13454,
+          "DownUrl": "http://f1.tvpusher.com/static/2024/01/19/23bdaf84f56542c3b4d16b4e43d66bf8.apk",
+          "DownUrl2": "http://app.keeflys.com/share/app/20240119/65aa004d7022d.apk",
+          "CreateTime": "2023-12-09T17:52:06.253",
+          "DownTimes": 0,
+          "Status": 1,
+          "IconUrl": "https://m.qpic.cn/psc?/V53UcoJs3DKKgF4PXyYL1w4LeN1GpXuh/bqQfVz5yrrGYSXMvKr.cqQZ*gU2X27R9ZwR7msb.i3fPZritfh5ZIwSk5tGkrYj1sSoWBA7IKnyX.WOfUFNHV0bOapJC0HR42kRhrQN06U4!/b\u0026bo\u003dZABkAAAAAAADByI!\u0026rf\u003dviewer_4",
+          "IconTemplate": [
+            {
+              "ID": 163,
+              "Key": "gd_15649241992_l2qt0W",
+              "Name": "驿晨应用市场",
+              "IconUrl": "https://m.qpic.cn/psc?/V53UcoJs3DKKgF4PXyYL1w4LeN1GpXuh/bqQfVz5yrrGYSXMvKr.cqQZ*gU2X27R9ZwR7msb.i3fPZritfh5ZIwSk5tGkrYj1sSoWBA7IKnyX.WOfUFNHV0bOapJC0HR42kRhrQN06U4!/b\u0026bo\u003dZABkAAAAAAADByI!\u0026rf\u003dviewer_4",
+              "IconUrlArr": [
+                "https://m.qpic.cn/psc?/V53UcoJs3DKKgF4PXyYL1w4LeN1GpXuh/bqQfVz5yrrGYSXMvKr.cqQZ*gU2X27R9ZwR7msb.i3fPZritfh5ZIwSk5tGkrYj1sSoWBA7IKnyX.WOfUFNHV0bOapJC0HR42kRhrQN06U4!/b\u0026bo\u003dZABkAAAAAAADByI!\u0026rf\u003dviewer_4"
+              ]
+            }
+          ],
+          "Sort": 1,
+          "BelongType": 1,
+          "ClickDisable": false,
+          "PageType": 1,
+          "YunShiTingUrl": "",
+          "VideoNav": "",
+          "AllyKeys": "qd838772,qd985368,qd440415,qd076263,qd585366,gd_18913689119_995OPV,gd_13271692991_dbqBuj,gd_17585853222_hLcf0m,gd_15867008275_rPXLvw,gd_15941144880_GLRvoo,gd_15991575057_F8rvPJ,gd_13484971665_g9b7MK,gd_13673957231_59knBe,gd_13680719369_8m6l8c,gd_15649241992_l2qt0W,gd_15277760686_TUGRkY,gd_15399773456_VRGNOJ,gd_15110181495_qwCGnU,gd_13665604140_uSJ7oW,gd_13932016749_dqVNmV,gd_13954955191_yU3O4O,gd_16773657765_y9qqxQ,gd_15665032876_u9zg5w,gd_18920026667_YqJ4WI,gd_15333919702_BjSChV,gd_15802812111_E9x9tS,gd_13569040623_HfBTG5,gd_15235985369_RMX25e,gd_13181440416_EX3bi2,qd301380",
+          "ChannelNo": ""
+        },
+        {
+          "ID": 3375,
+          "AppType": 1,
+          "AppName": "飞鸟影视",
+          "Version": "1",
+          "PackageName": "com.bird.video",
+          "FileSize": 38385,
+          "DownUrl": "http://f1.tvpusher.com/static/2023/07/18/5937db746ca449e2a3152f7a81f1936e.apk",
+          "DownUrl2": "http://byscoss.mylejia.com/package/op/20230718/F61AEE24BBFE4C9CB0B59BEBF96786BA.apk",
+          "CreateTime": "2022-07-06T15:12:04.577",
+          "DownTimes": 0,
+          "Status": 1,
+          "IconUrl": "http://m.qpic.cn/psc?/V53UcoJs3DKKgF4PXyYL1w4LeN1GpXuh/bqQfVz5yrrGYSXMvKr.cqcK4zpPkQDY6*ECrmWnJZvy6KLsq2Kj2dJ8rjAN4Tw7P4XVG6yVwh9gp0t2e1HTnQ3K5BNF7N21zCxNKu.3fcXY!/b\u0026bo\u003deAB4AAAAAAADFzI!\u0026rf\u003dviewer_4",
