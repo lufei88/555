@@ -2,6 +2,27 @@
 
 
 CCTV-1,http://175.0.50.196:8899/tsfile/live/0017_1.m3u8
+CCTV-1,http://175.0.50.196:8899/tsfile/live/0017_1.m3u8
+CCTV-2,http://175.0.50.196:8899/tsfile/live/0018_1.m3u8
+CCTV-3,http://175.0.50.196:8899/tsfile/live/0019_1.m3u8
+CCTV-4,http://175.0.50.196:8899/tsfile/live/0004_1.m3u8
+CCTV-5,http://175.0.50.196:8899/tsfile/live/0005_1.m3u8
+CCTV-6,http://175.0.50.196:8899/tsfile/live/0006_1.m3u8
+CCTV-7,http://175.0.50.196:8899/tsfile/live/0007_1.m3u8
+CCTV-8,http://175.0.50.196:8899/tsfile/live/0008_1.m3u8
+CCTV-9,http://175.0.50.196:8899/tsfile/live/0009_1.m3u8
+CCTV-10,http://175.0.50.196:8899/tsfile/live/0010_1.m3u8
+CCTV-11,http://175.0.50.196:8899/tsfile/live/0011_2.m3u8
+CCTV-12,http://175.0.50.196:8899/tsfile/live/0012_2.m3u8
+CCTV-13,http://175.0.50.196:8899/tsfile/live/0013_1.m3u8
+CCTV-14,http://175.0.50.196:8899/tsfile/live/0014_1.m3u8
+CCTV-15,http://175.0.50.196:8899/tsfile/live/0015_1.m3u8
+
+
+
+
+
+
 CCTV-1,http://39.165.52.68:8880/sql/2233/hls.m3u8
 CCTV-2,http://39.165.52.68:8880/sql/2234/hls.m3u8
 CCTV-3,http://39.165.52.68:8880/sql/2235/hls.m3u8
@@ -49,21 +70,7 @@ CCTV-17,http://182.139.250.132:5033/HUAWEI/00000001000000050000000000000580/inde
 
 
 
-CCTV-1,http://175.0.50.196:8899/tsfile/live/0017_1.m3u8
-CCTV-2,http://175.0.50.196:8899/tsfile/live/0018_1.m3u8
-CCTV-3,http://175.0.50.196:8899/tsfile/live/0019_1.m3u8
-CCTV-4,http://175.0.50.196:8899/tsfile/live/0004_1.m3u8
-CCTV-5,http://175.0.50.196:8899/tsfile/live/0005_1.m3u8
-CCTV-6,http://175.0.50.196:8899/tsfile/live/0006_1.m3u8
-CCTV-7,http://175.0.50.196:8899/tsfile/live/0007_1.m3u8
-CCTV-8,http://175.0.50.196:8899/tsfile/live/0008_1.m3u8
-CCTV-9,http://175.0.50.196:8899/tsfile/live/0009_1.m3u8
-CCTV-10,http://175.0.50.196:8899/tsfile/live/0010_1.m3u8
-CCTV-11,http://175.0.50.196:8899/tsfile/live/0011_2.m3u8
-CCTV-12,http://175.0.50.196:8899/tsfile/live/0012_2.m3u8
-CCTV-13,http://175.0.50.196:8899/tsfile/live/0013_1.m3u8
-CCTV-14,http://175.0.50.196:8899/tsfile/live/0014_1.m3u8
-CCTV-15,http://175.0.50.196:8899/tsfile/live/0015_1.m3u8
+
 
 
 
