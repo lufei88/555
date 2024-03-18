@@ -1,1 +1,1 @@
-{"id":"1","wenads":"TV应用市场","imads1":"http://2023zjbb.tdddz.cn/upload/images/20231125/17009078876561cb6fe8a9b.png","imads2":"","imads3":"TV应用市场","imads4":"","imads5":"","viads":"装机必备"}
+{"id":"1","wenads":"天招智盒应用市场","imads1":"http://2023zjbb.tdddz.cn/upload/images/20231125/17009078876561cb6fe8a9b.png","imads2":"","imads3":"感谢您使用天招智盒——天招应用市场","imads4":"","imads5":"","viads":"天招智盒"}
