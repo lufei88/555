@@ -8,7 +8,7 @@
 {"id":"113","title":"我的电视","logo":"http://zibb2024.tdddz.cn/upload/images/20240117/170549297565a7c1efa776b.png","desc1":"直播应用","desc":"我的电视TV精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.lizongying.mytv","url":"http://zibb2024.tdddz.cn/upload/kozyax_app/20240314/171038751665f2713c912d3.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"10.74MB","create_time":"2 月以前 "}
 
 
-{"id":"124","title":"天招智盒","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tupi.png","desc1":"影视应用","desc":"天招智盒是天招自开发appTV端应用，为用户提供丰富4K、高清流畅体验、个性贴心服务的基础上，在内容充实、首页界面等方面进行了全方位优化，提供海量而精彩的影视内容：从影视剧、综艺、新闻、动漫、体育、抖音短剧和全网歌曲等热门内容，再到演唱会、纪录片、生活、游戏等几十个细分类目一应俱全。","baoming":"com.ktcp.video","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/tzzh.app","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh1.png!h450","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh2.png!h450","daxiao":"25.8MB","create_time":"1 天以前 "}
+{"id":"124","title":"天招智盒","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tupi.png","desc1":"影视应用","desc":"天招智盒是天招自开发appTV端应用，为用户提供丰富4K、高清流畅体验、个性贴心服务的基础上，在内容充实、首页界面等方面进行了全方位优化，提供海量而精彩的影视内容：从影视剧、综艺、新闻、动漫、体育、抖音短剧和全网歌曲等热门内容，再到演唱会、纪录片、生活、游戏等几十个细分类目一应俱全。","baoming":"com.ktcp.video","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/tzzh.app","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh1.jpg!h450","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh2.jpg!h450","daxiao":"25.8MB","create_time":"1 天以前 "}
 
 
 
