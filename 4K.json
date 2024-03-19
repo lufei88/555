@@ -34,6 +34,20 @@
 },
 
 
+
+{"key": "csp_appys_影盒",
+"name": "❤影探主接口|4K",
+"type": 3,
+"api": "csp_AppYsV2",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "http://cms-yttv.lyyytv.cn/api.php/app/"
+},
+
+
+
+
 {"key": "小盒会员",
 "name": "🏆VIP-4k专线1(首选)",//来自小盒会员
 "type": 3,
