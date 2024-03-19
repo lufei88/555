@@ -2,11 +2,10 @@
 
 
 
+{"id":"123","title":"我要看直播","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp.png","desc1":"直播应用","desc":"天招智盒自开发的我要看直播新版，集国内高清流畅看电视节目，更有高清流畅真正做到秒换台不卡顿港澳台电视直播，也集中了影院在线直播在线听歌等热门节目，让大家享受观影体验。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzp.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp1.jpg","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp2.jpg","daxiao":"13.17MB","create_time":"3 日以前 "}
 
 
 
-
-{"id":"123","title":"太阳直播","logo":"http://zibb2024.tdddz.cn/upload/images/20240315/171050278565f43381b4318.png","desc1":"直播应用","desc":"太阳直播新版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.kklive.sun","url":"http://zibb2024.tdddz.cn/upload/kozyax_app/20240315/171050283765f433b507e43.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"13.17MB","create_time":"3 日以前 "}
 
 {"id":"121","title":"电视家","logo":"http://zibb2024.tdddz.cn/upload/images/20240224/170875581365d98b65e0781.png","desc1":"直播应用","desc":"电视家2024版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.jerry.live.dszb.dsj","url":"http://zibb2024.tdddz.cn/upload/kozyax_app/20240224/170875582265d98b6e6ccec.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"10.1MB","create_time":"23 日以前 "}
 
