@@ -2,7 +2,7 @@
 
 
 
-{"id":"123","title":"我要看直播","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp.png","desc1":"直播应用","desc":"天招智盒自开发的我要看直播新版，集国内高清流畅看电视节目，更有高清流畅真正做到秒换台不卡顿港澳台电视直播，也集中了影院在线直播在线听歌等热门节目，让大家享受观影体验。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzp.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp1.jpg","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp2.jpg","daxiao":"13.17MB","create_time":"3 日以前 "}
+{"id":"123","title":"我要看直播","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp.png","desc1":"直播应用","desc":"天招智盒自开发的我要看直播新版，集国内高清流畅看电视节目，更有高清流畅真正做到秒换台不卡顿港澳台电视直播，也集中了影院在线直播在线听歌等热门节目，让大家享受观影体验。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzp.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp1.jpg","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp22.jpg","daxiao":"13.17MB","create_time":"3 日以前 "}
 
 
 
