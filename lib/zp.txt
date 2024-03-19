@@ -8196,4 +8196,9 @@ HOY资讯,P2p://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 
 
 测试5,#genre#
-
+中天,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
+戏剧,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
+八大,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
+欢乐,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
+来戏剧,mitv://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
+综合,mitv://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
