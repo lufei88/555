@@ -35,15 +35,6 @@
 
 
 
-{"key": "csp_appys_影盒",
-"name": "❤影探主接口|4K",
-"type": 3,
-"api": "csp_AppYsV2",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "http://cms-yttv.lyyytv.cn/api.php/app/"
-},
 
 
 
@@ -461,7 +452,7 @@
 
 {
   "key":"csp_小盒",
-  "name":"🥇天招VIP专线10",//来自小盒自营
+  "name":"🥇天招超快线10",//来自小盒自营
   "type":3,
   "api":"csp_XBPQ",  
   "searchable":1,
@@ -472,6 +463,15 @@
 
 
 
+{"key": "csp_appys_影盒",
+"name": "🥇天招超快线11",//影探
+"type": 3,
+"api": "csp_AppYsV2",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "http://cms-yttv.lyyytv.cn/api.php/app/"
+},
 
 
 
