@@ -16,7 +16,33 @@ CCTV-11,http://ynxsj.7766.org:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-12,http://ynxsj.7766.org:9901/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV-13,http://ynxsj.7766.org:9901/tsfile/live/0013_2.m3u8?key=txiptv
 CCTV-14,http://ynxsj.7766.org:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV-5,http://ynxsj.7766.org:9901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV-15,http://ynxsj.7766.org:9901/tsfile/live/0015_1.m3u8?key=txiptv
+
+
+
+
+
+CCTV-1,http://39.165.52.68:8880/sql/2233/hls.m3u8
+CCTV-2,http://39.165.52.68:8880/sql/2234/hls.m3u8
+CCTV-3,http://39.165.52.68:8880/sql/2235/hls.m3u8
+CCTV-4,http://39.165.52.68:8880/sql/2236/hls.m3u8
+CCTV-5,http://39.165.52.68:8880/sql/2237/hls.m3u8
+CCTV-6,http://39.165.52.68:8880/sql/2238/hls.m3u8
+CCTV-7,http://39.165.52.68:8880/sql/2239/hls.m3u8
+CCTV-8,http://39.165.52.68:8880/sql/2240/hls.m3u8
+CCTV-9,http://39.165.52.68:8880/sql/2241/hls.m3u8
+CCTV-10,http://39.165.52.68:8880/sql/2242/hls.m3u8
+CCTV-11,http://39.165.52.68:8880/sql/2243/hls.m3u8
+CCTV-12,http://39.165.52.68:8880/sql/2244/hls.m3u8
+CCTV-13,http://39.165.52.68:8880/sql/2245/hls.m3u8
+CCTV-14,http://39.165.52.68:8880/sql/2246/hls.m3u8
+CCTV-15,http://39.165.52.68:8880/sql/2247/hls.m3u8
+CCTV-16,http://39.165.52.68:8880/sql/2248/hls.m3u8
+CCTV-17,http://39.165.52.68:8880/sql/2250/hls.m3u8
+
+
+
+
 
 
 
@@ -41,39 +67,6 @@ CCTV-16,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
 CCTV-17,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
 CCTV-4K,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
 CCTV-8K,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CCTV-1,http://39.165.52.68:8880/sql/2233/hls.m3u8
-CCTV-2,http://39.165.52.68:8880/sql/2234/hls.m3u8
-CCTV-3,http://39.165.52.68:8880/sql/2235/hls.m3u8
-CCTV-4,http://39.165.52.68:8880/sql/2236/hls.m3u8
-CCTV-5,http://39.165.52.68:8880/sql/2237/hls.m3u8
-CCTV-6,http://39.165.52.68:8880/sql/2238/hls.m3u8
-CCTV-7,http://39.165.52.68:8880/sql/2239/hls.m3u8
-CCTV-8,http://39.165.52.68:8880/sql/2240/hls.m3u8
-CCTV-9,http://39.165.52.68:8880/sql/2241/hls.m3u8
-CCTV-10,http://39.165.52.68:8880/sql/2242/hls.m3u8
-CCTV-11,http://39.165.52.68:8880/sql/2243/hls.m3u8
-CCTV-12,http://39.165.52.68:8880/sql/2244/hls.m3u8
-CCTV-13,http://39.165.52.68:8880/sql/2245/hls.m3u8
-CCTV-14,http://39.165.52.68:8880/sql/2246/hls.m3u8
-CCTV-15,http://39.165.52.68:8880/sql/2247/hls.m3u8
-CCTV-16,http://39.165.52.68:8880/sql/2248/hls.m3u8
-CCTV-17,http://39.165.52.68:8880/sql/2250/hls.m3u8
-
 
 
 
