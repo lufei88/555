@@ -1,1 +1,1 @@
-{"id":"1","wenads":"感谢您使用天招智盒，软件不定期更新,希望以我们的技术和服务能赢得大家的认可和满意，你们的支持就是我们最大的动力！","imads1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/8888.png","imads2":"","imads3":"感谢您使用天招智盒——天招应用市场","imads4":"","imads5":"","viads":"天招智盒"}
+{"id":"1","wenads":"感谢您使用天招智盒，软件不定期更新,希望以我们的技术和服务能赢得大家的认可和满意，你们的支持就是我们最大的动力！","imads1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/9999.png","imads2":"","imads3":"感谢您使用天招智盒——天招应用市场","imads4":"","imads5":"","viads":"天招智盒"}
