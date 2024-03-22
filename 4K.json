@@ -1531,9 +1531,48 @@
 
 
 
-{"name":"📦小盒在线","type": 1,"url":"http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=","ext": {"flag": ["qq","腾讯"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name":"📦小盒在线","type": 1,"url":"http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=","ext": {"flag": ["qq","腾讯"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
+{
+      "name": "🌎天招VIP",
+      "type": 1,
+   //   "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+   "url":"http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
 
 
 
