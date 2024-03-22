@@ -97,15 +97,13 @@
 
 
 
-{"key": "腾讯","name": "🐧腾讯┃视频","type": 3,"api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js","ext": "./lib/腾讯.js"},
-
-
-
-
-
-
-
-
+{
+  "key": "腾讯",
+  "name": "🥇天招VIP专线2",
+  "type": 3,
+  "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
+  "ext": "./lib/腾讯.js"
+  },
 
 
 
@@ -142,9 +140,38 @@
 
 
 
+
+{
+  "key": "芒果",
+  "name": "🥇天招VIP专线5",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/mangguo.js"
+  },
+
+
+
+
+
+{
+  "key": "drpy_js_360影视",
+  "name": "🥇天招VIP专线6",
+  "type": 3,
+  //"jar": "./jar/sa0226.jar",
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/360影视.js"
+  },
+
+
+
+
+
+
+
+
 {
   "key": "csp_no",
-  "name": "🥇天招VIP专线5",//小盒novip
+  "name": "🥇天招VIP专线7",//小盒novip
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -156,7 +183,7 @@
 
 {
   "key": "csp_地瓜",
-  "name": "🥇天招VIP专线6",//小盒地瓜
+  "name": "🥇天招VIP专线8",//小盒地瓜
   "type": 3,
   "api": "csp_XYQHiker",
   "jar": "./jar/xyq.jar",
@@ -171,26 +198,6 @@
 
 
 
-{
-  "key": "芒果",
-  "name": "🥇天招VIP专线7",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/mangguo.js"
-  },
-
-
-
-
-
-{
-  "key": "drpy_js_360影视",
-  "name": "🥇天招VIP专线8",
-  "type": 3,
-  //"jar": "./jar/sa0226.jar",
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/360影视.js"
-  },
 
 
 
@@ -201,17 +208,6 @@
 
 
 
-{
-  "key": "搜狗",
-  "name": "🥇天招VIP专线9",
-//  "playerType": "2",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  //"ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
-
-  "ext": "./lib/caigou.js"
-
-  },
 
 
 
