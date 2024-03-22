@@ -104,6 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "api": "./lib/drpy2.min.js",
       //"jar": "./lib/app.jar"
       "jar": "./lib/腾讯.js"
       },
