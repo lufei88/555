@@ -105,7 +105,7 @@
       "quickSearch": 1,
       "filterable": 1,
       //"jar": "./lib/app.jar"
-      "jar": "./lib/腾讯.jar"
+      "jar": "./lib/腾讯.js"
       },
 
 
