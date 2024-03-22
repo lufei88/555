@@ -97,7 +97,7 @@
 
 
 
-{"key": "腾讯","name": "🐧腾讯┃视频","type": 3,"api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js","ext": "./js/腾讯.js"},
+{"key": "腾讯","name": "🐧腾讯┃视频","type": 3,"api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js","ext": "./lib/腾讯.js"},
 
 
 
