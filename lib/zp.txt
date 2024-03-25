@@ -1536,6 +1536,10 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,http://r.jdshipin.com/CkuBd
 
+
+
+
+无线财经,http://live.cooltv.top/tv/tvb.php?id=3
 无线财经,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
 无线财经,http://1.65.195.85:9981/stream/channelid/1781676223?
 无线财经,http://1.65.195.85:9981/stream/channelid/1781676223?ticket=1655ad1b29eb46b035d82ca8eace45223640062a&profile=pass
@@ -1550,7 +1554,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 
-
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 翡翠台,https://epg.pw/stream/801a4d6c7df2878951e19be994cbb9ccaef32bfd863db663ee4440375b9e7a70.m3u8
 翡翠台,http://yuju666888.x3322.net:808/hls/105/index.m3u8
@@ -1558,17 +1562,28 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-
+明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
 明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
 明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
 明珠台,http://yuju666888.x3322.net:808/hls/106/index.m3u8
 
 
 
+娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 
+
+
+
+星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 星河,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
 星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+
+
+J2,http://213.81.133.133:8080/jednotka/index.m3u8
 J2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
+
+
+
 
 HOY77,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
 HOY78,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
