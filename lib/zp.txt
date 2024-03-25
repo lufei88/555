@@ -1528,7 +1528,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 凤凰资讯,http://nas.jumping.wang:5555/udp/239.93.0.118:2191
 
 
-
+无线新闻,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
 无线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024
@@ -1554,7 +1554,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 
-
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
@@ -1602,12 +1602,14 @@ HOY78,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfnc
 中天,http://s2.pub/cctv-17
 中天,http://223.71.206.22:30080/TW/ztxw2/hls.m3u8
 
+中天新闻,http://223.71.206.22:30080/TW/ztxw/hls.m3u8
 
 
 
 
 
-
+viu,http://223.71.206.22:30080/HK/viu/hls.m3u8
+viu6,http://223.71.206.22:30080/HK/viu6/hls.m3u8
 
 
 
