@@ -4,7 +4,7 @@
 
 
 
-{"id":"125","title":"港澳台升级安装","logo":"http://zibb2024.tdddz.cn/upload/images/20240217/170815559765d062cd5a35d.png","desc1":"直播应用","desc":"秒看HD精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.qy.kktv","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/秒看1.0.2.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"8.58MB","create_time":"1 月以前 "}
+{"id":"126","title":"秒看升级","logo":"http://zibb2024.tdddz.cn/upload/images/20240217/170815559765d062cd5a35d.png","desc1":"直播应用","desc":"秒看HD精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.qy.kktv","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/mktvsj.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"8.58MB","create_time":"1 天以前 "}
 
 
 
