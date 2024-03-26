@@ -1485,6 +1485,9 @@ FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 欧洲华文教育,http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
 欧洲华文8套,https://livefr.cgtn.com/1000f/prog_index.m3u8
 
+TVBS,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
+TVBS精台,P2p://generationnexxxt.com:19806/2089afbec2474359add275658522922f
+
 
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
@@ -8696,5 +8699,11 @@ HOY资讯,P2p://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 
 
 测试5,#genre#
+
+TVBS3,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+
+
 TVBS,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-TVBS2,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
+
+TVBS新闻,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
