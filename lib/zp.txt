@@ -8696,7 +8696,5 @@ HOY资讯,P2p://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 
 
 测试5,#genre#
-民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
-台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
-大爱,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
-中视,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
+TVBS,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+TVBS2,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
