@@ -1,26 +1,5 @@
 央视频道,#genre#
 
-CCTV-1,http://default0-tenc-live.5gtv.com.cn/live/CCTV1HD.m3u8
-CCTV-2,http://default0-tenc-live.5gtv.com.cn/live/CCTV2HD.m3u8
-CCTV-3,http://default0-tenc-live.5gtv.com.cn/live/CCTV3HD.m3u8
-CCTV-4,http://default0-tenc-live.5gtv.com.cn/live/CCTV4HD.m3u8
-CCTV-5,http://default0-tenc-live.5gtv.com.cn/live/CCTV5HD.m3u8
-CCTV-5+,http://default0-tenc-live.5gtv.com.cn/live/CCTV5pHD.m3u8
-CCTV-6,http://default0-tenc-live.5gtv.com.cn/live/CCTV6HD.m3u8
-CCTV-7,http://default0-tenc-live.5gtv.com.cn/live/CCTV7HD.m3u8
-CCTV-8,http://default0-tenc-live.5gtv.com.cn/live/CCTV8HD.m3u8
-CCTV-9,http://default0-tenc-live.5gtv.com.cn/live/CCTV9HD.m3u8
-CCTV-10,http://default0-tenc-live.5gtv.com.cn/live/CCTV10HD.m3u8
-CCTV-11,http://default0-tenc-live.5gtv.com.cn/live/CCTV11.m3u8
-CCTV-12,http://default0-tenc-live.5gtv.com.cn/live/CCTV12HD.m3u8
-CCTV-13,http://default0-tenc-live.5gtv.com.cn/live/XP_CCTV13.m3u8
-CCTV-14,http://default0-tenc-live.5gtv.com.cn/live/CCTV14HD.m3u8
-CCTV-16,http://default0-tenc-live.5gtv.com.cn/live/CCTV16HD.m3u8
-CCTV-17,http://default0-tenc-live.5gtv.com.cn/live/CCTV17HD.m3u8
-CCTV-4K,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4K.m3u8
-CGTN,https://livetv-hunan.5gtv.com.cn/live/CGTN.m3u8
-CETV1,https://livetv-hunan.5gtv.com.cn/live/CETV1.m3u8
-
 CCTV-1,http://fmtv.wifi942.com:9999/api/proxy/ysp.php?id=CCTV1
 CCTV-2,http://fmtv.wifi942.com:9999/api/proxy/ysp.php?id=CCTV2
 CCTV-3,http://fmtv.wifi942.com:9999/api/proxy/ysp.php?id=CCTV3
@@ -56,6 +35,34 @@ CCTV央视台球,http://dl.wifi942.com:66/test/ysp.php?id=ystq
 CCTV卫生健康,http://dl.wifi942.com:66/test/ysp.php?id=wsjk
 CGTN,http://dl.wifi942.com:66/test/ysp.php?id=cgtn
 CGTN纪录,http://dl.wifi942.com:66/test/ysp.php?id=cgtnjl
+
+
+
+
+
+
+CCTV-1,http://default0-tenc-live.5gtv.com.cn/live/CCTV1HD.m3u8
+CCTV-2,http://default0-tenc-live.5gtv.com.cn/live/CCTV2HD.m3u8
+CCTV-3,http://default0-tenc-live.5gtv.com.cn/live/CCTV3HD.m3u8
+CCTV-4,http://default0-tenc-live.5gtv.com.cn/live/CCTV4HD.m3u8
+CCTV-5,http://default0-tenc-live.5gtv.com.cn/live/CCTV5HD.m3u8
+CCTV-5+,http://default0-tenc-live.5gtv.com.cn/live/CCTV5pHD.m3u8
+CCTV-6,http://default0-tenc-live.5gtv.com.cn/live/CCTV6HD.m3u8
+CCTV-7,http://default0-tenc-live.5gtv.com.cn/live/CCTV7HD.m3u8
+CCTV-8,http://default0-tenc-live.5gtv.com.cn/live/CCTV8HD.m3u8
+CCTV-9,http://default0-tenc-live.5gtv.com.cn/live/CCTV9HD.m3u8
+CCTV-10,http://default0-tenc-live.5gtv.com.cn/live/CCTV10HD.m3u8
+CCTV-11,http://default0-tenc-live.5gtv.com.cn/live/CCTV11.m3u8
+CCTV-12,http://default0-tenc-live.5gtv.com.cn/live/CCTV12HD.m3u8
+CCTV-13,http://default0-tenc-live.5gtv.com.cn/live/XP_CCTV13.m3u8
+CCTV-14,http://default0-tenc-live.5gtv.com.cn/live/CCTV14HD.m3u8
+CCTV-16,http://default0-tenc-live.5gtv.com.cn/live/CCTV16HD.m3u8
+CCTV-17,http://default0-tenc-live.5gtv.com.cn/live/CCTV17HD.m3u8
+CCTV-4K,https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4K.m3u8
+CGTN,https://livetv-hunan.5gtv.com.cn/live/CGTN.m3u8
+CETV1,https://livetv-hunan.5gtv.com.cn/live/CETV1.m3u8
+
+
 
 
 
