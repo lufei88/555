@@ -1296,21 +1296,21 @@
     },
 
 
-
-
-
-
-
 {
-  "key": "短剧",
-   "name": "📺短剧┃视频",
-   "type": 3,
-   "api": "csp_Duanju",
-   "searchable": 0,
-   "changeable": 1,
-   "jar": "./jar/pg.jar"
-   
-   },
+			"key": "聚合短剧",
+			"name": "📺短剧┃视频",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://106.52.241.21:83/api.php/app/"
+		},
+
+
+
+
+
 
 
      {
