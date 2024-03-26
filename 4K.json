@@ -1466,7 +1466,13 @@
 
 
 
-
+{
+      "key": "拳皇争霸",
+      "name": "🐆拳皇争霸",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/quanhuang.js"
+    },
 
 
 
