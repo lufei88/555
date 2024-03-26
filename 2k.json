@@ -1296,6 +1296,11 @@
     },
 
 
+
+
+
+
+
 {
 			"key": "聚合短剧",
 			"name": "📺短剧┃视频",
@@ -1306,11 +1311,6 @@
 			"filterable": 1,
 			"ext": "http://106.52.241.21:83/api.php/app/"
 		},
-
-
-
-
-
 
 
      {
@@ -1354,6 +1354,13 @@
       "changeable": 1,
       "jar": "./xiaomi.jar"
     },
+
+
+
+{"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/兔小贝.js"},
+{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/少儿教育.json"},
+
+
 
 
 
@@ -1466,7 +1473,13 @@
 
 
 
-
+{
+      "key": "拳皇争霸",
+      "name": "🐆拳皇争霸",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/quanhuang.js"
+    },
 
 
 
