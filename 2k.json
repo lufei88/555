@@ -34,6 +34,11 @@
 },
 
 
+
+
+
+
+
 {"key": "小盒会员",
 "name": "🏆VIP-4k专线1(首选)",//来自小盒会员
 "type": 3,
@@ -91,16 +96,15 @@
  },
 
 
-   {
-      "key": "腾讯",
-      "name": "🥇天招VIP专线2",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/app.jar"
-      },
+
+{
+  "key": "腾讯",
+  "name": "🥇天招VIP专线2",
+  "type": 3,
+  "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
+  "ext": "./lib/腾讯.js"
+  },
+
 
 
 
@@ -124,22 +128,22 @@
 
 
 
-{
-  "key": "XAL蓝光",
-  "name": "🥇天招VIP专线5",
-  "type": 1,
-  "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-  "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
-  "searchable": 1,
-  "quickSearch": 1
-  },
+//{
+ // "key": "XAL蓝光",
+ // "name": "🥇天招VIP专线5",
+ // "type": 1,
+ // "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
+ // "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+ // "searchable": 1,
+ // "quickSearch": 1
+ // },
 
 
 
 
 {
   "key": "芒果",
-  "name": "🥇天招VIP专线6",
+  "name": "🥇天招VIP专线5",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/mangguo.js"
@@ -151,7 +155,7 @@
 
 {
   "key": "drpy_js_360影视",
-  "name": "🥇天招VIP专线7",
+  "name": "🥇天招VIP专线6",
   "type": 3,
   //"jar": "./jar/sa0226.jar",
   "api": "./lib/drpy2.min.js",
@@ -165,19 +169,45 @@
 
 
 
+{
+  "key": "csp_no",
+  "name": "🥇天招VIP专线7",//小盒novip
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./json/no.json"
+  },
 
 
 {
-  "key": "搜狗",
-  "name": "🥇天招VIP专线8",
-//  "playerType": "2",
+  "key": "csp_地瓜",
+  "name": "🥇天招VIP专线8",//小盒地瓜
   "type": 3,
-  "api": "./lib/drpy2.min.js",
-  //"ext": "http://vip.vip0531.com/viptv/tvbox/lib/caigou.js"
-
-  "ext": "./lib/caigou.js"
-
+  "api": "csp_XYQHiker",
+  "jar": "./jar/xyq.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./json/地瓜.json"
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -419,7 +449,7 @@
 
 {
   "key":"csp_小盒",
-  "name":"🥇天招VIP专线10",//来自小盒自营
+  "name":"🥇天招超快线10",//来自小盒自营
   "type":3,
   "api":"csp_XBPQ",  
   "searchable":1,
@@ -430,6 +460,15 @@
 
 
 
+{"key": "csp_appys_影盒",
+"name": "🥇天招超快线11",//影探
+"type": 3,
+"api": "csp_AppYsV2",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "http://cms-yttv.lyyytv.cn/api.php/app/"
+},
 
 
 
@@ -1252,7 +1291,7 @@
       "name": "💁‍♀️┃短剧┃首选",
       "type": 3,
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "./lib/种子短剧.js",
+        "ext": "./lib/种子短剧.js",
       "playerType": 2
     },
 
@@ -1488,11 +1527,43 @@
  
 
 
- {
+
+
+
+
+
+
+
+ 
+
+  
+
+
+
+  
+
+//{"name":"🌎天招VIP","type": 1,"url":"http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+
+
+
+
+ 
+
+
+{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
+}
+},
+
+
+
+
+{
       "name": "🌎天招VIP",
       "type": 1,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url=",
-      "ext": {
+      "url": "http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=",      
+    "ext": {
         "flag": [
           "qiyi",
           "imgo",
@@ -1516,7 +1587,6 @@
           "xigua",
           "fun",
           "风行"
-
         ],
         "header": {
           "User-Agent": "Mozilla/5.0"
@@ -1526,43 +1596,9 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-
-   {
-      "name": "天招vip2",
-      "type": 1,
-      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+    
 
 
-
-
-{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
-}
-},
 
 
 
@@ -1687,6 +1723,9 @@
         }
       }
     },
+
+
+
 
 
 
