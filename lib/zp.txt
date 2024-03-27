@@ -1495,25 +1495,23 @@ HOY78,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfnc
 
 
 无线财经,rtmp//f13h.mine.nu/sat/hk031
-有线18,rtmp://f13h.mine.nu/sat/hk021
-TVBS新闻,rtmp://f13h.mine.nu/sat/tv551
+
+
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 华视,rtmp://f13h.mine.nu/sat/tv111
 中视,rtmp://f13h.mine.nu/sat/tv091
 台视,rtmp://f13h.mine.nu/sat/tv071
 民视,rtmp://f13h.mine.nu/sat/tv051
-东森财经,rtmp://f13h.mine.nu/sat/tv571
+
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-ELTA体育1,rtmp://f13h.mine.nu/sat/md051
-ELTA体育2,rtmp://f13h.mine.nu/sat/md041
-TVBS欢乐,rtmp://f13h.mine.nu/sat/tv421
 
 
 
 
+TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 
 
 中天,http://s2.pub/cctv-17
