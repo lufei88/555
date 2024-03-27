@@ -1684,8 +1684,12 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
+
+汕头综合,https://stqznews.top/tv/live/stzhhd.php 
 汕头综合,http://ha.hahomes.net:9981/stream/channelid/495978806?ticket=cd612ec5f71ab505c20e175288e6acf5ab1d30ca&profile=pass
+汕头经济生活,https://stqznews.top/tv/live/stjjhd.php 
 汕头经济生活,http://ha.hahomes.net:9981/stream/channelid/114229228?ticket=92fc399cd8abfaf198d2e3f121db94be23e718a2&profile=pass
+汕头文旅体育,https://stqznews.top/tv/live/stwlhd.php
 汕头文旅体育,http://ha.hahomes.net:9981/stream/channelid/1411725568?ticket=c420b302f6b12405e4d514ead4c21643ad257987&profile=pass
 
 
@@ -8727,9 +8731,22 @@ HOY资讯,P2p://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 
 
 测试5,#genre#
-中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-华视新闻,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
-民视新闻,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-民视,mitv://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
-民视,mitv://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
-台视,mitv://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
+壹综合,p3p://108.181.20.159:75234/64e36a09000d3453a98b615460a544cd
+中天新闻,p3p://108.181.20.159:75234/613dba64000abeb1c801c02934bb45fc
+TVBS新闻,p3p://108.181.20.159:75234/621858e3000e70ad1217c0700d576ad0
+东森新闻,p3p://108.181.20.159:75234/61468afa0005b339ea7014d376a616f3
+中视新闻,p3p://108.181.20.159:75234/61ff2b9d0004cfe6bb9a99f71e1c4c92
+
+三立新闻,p3p://108.181.20.159:75234/6014c896000c7101401f67cc5477681b
+民视新闻,p3p://108.181.20.159:75234/602f1f4a000aa86fa700c49817387f81
+台视新闻,p3p://108.181.20.159:75234/62caf1dc000525b3cbb4de6e3c0e2af8
+年代新闻,p3p://108.181.20.159:75234/5fe09fec000ac0127462c4ac6b1f16a3
+镜新闻,p3p://108.181.20.159:75234/63ebd33c0003c437e26ae87279d061f1
+非凡新闻,p3p://108.181.20.159:75234/6146918a000a6ec0ea89b8904d520fbf
+壹新闻,p3p://108.181.20.159:75234/621dbb640001cb2b272027f74da62753
+华视新闻,p3p://108.181.20.159:75234/632c706b0009d57248864b64705a59a0
+
+三立inews,p3p://108.181.20.159:75234/644f81c10003ba2367cad2610d3a2ab5#p3p://108.181.20.159:75234/643a6b71000a47fb156c2a403510409b
+东森财经,p3p://108.181.20.159:75234/61468bd70005123dea7373f226636dba
+非凡商业,p3p://108.181.20.159:75234/621dbc3b00051ea5272370aa6e685347
+博斯运动1,p3p://108.181.20.159:75234/61f02576000b2c0a80eb0552388d145e
