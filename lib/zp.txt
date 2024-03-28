@@ -1,5 +1,23 @@
 央视频道,#genre#
 
+CCTV-1,http://101.228.122.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://101.228.122.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://101.228.122.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://101.228.122.236:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://101.228.122.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://101.228.122.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://101.228.122.236:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://101.228.122.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://101.228.122.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://101.228.122.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://101.228.122.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://101.228.122.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://101.228.122.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://101.228.122.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://101.228.122.236:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
 
 CCTV-1,http://183.94.1.118:8801/tsfile/live/0001_1.m3u8
 CCTV-2,http://183.94.1.118:8801/tsfile/live/0002_1.m3u8
@@ -22,21 +40,7 @@ CCTV-17,http://fmtv.wifi942.com:9999/api/proxy/ysp.php?id=CCTV17
 
 
 
-CCTV-1,http://101.228.122.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://101.228.122.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://101.228.122.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://101.228.122.236:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://101.228.122.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://101.228.122.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://101.228.122.236:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://101.228.122.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://101.228.122.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://101.228.122.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://101.228.122.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://101.228.122.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://101.228.122.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://101.228.122.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://101.228.122.236:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
