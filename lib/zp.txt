@@ -1533,8 +1533,7 @@ cgtn,http://livetv.skycf.eu.org:80/live.m3u8?c=15
 环宇新闻2,http://119.23.61.191:8088/TW/hyxwtw/hls.m3u8
 镜新闻,http://119.23.61.191:8088/TW/jxw/hls.m3u8
 民视新闻,http://119.23.61.191:8088/TW/msxw/hls.m3u8
-三立海外,http://119.23.61.191:8088/TW/slhw/hls.m3u8
-三立海外+,http://119.23.61.191:8088/TW/slhwj/hls.m3u8
+
 台视新闻,http://119.23.61.191:8088/TW/tsxw/hls.m3u8
 TVBS新闻,http://119.23.61.191:8088/TW/tvbs/hls.m3u8
 中视新闻,http://119.23.61.191:8088/TW/zsxw/hls.m3u8
