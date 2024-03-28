@@ -8975,7 +8975,8 @@ HOY资讯,P2p://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 
 
 测试5,#genre#
-111,http://120.79.160.134:8066/TW/ztxw/hls.m3u8
-222,http://120.79.160.134:8066/TW/ztxw2/hls.m3u8
-33,http://120.79.160.134:8066/TW/ztzh/hls.m3u8
+111,P2p://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
+222,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+33,P2p://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
+44,P2p://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
 
