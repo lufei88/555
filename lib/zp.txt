@@ -1481,7 +1481,6 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-
 星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 星河,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
 星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -1525,10 +1524,7 @@ TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 
 
 
-卫视电影,mitv://ns2.hellotvvod.com:9906/625e461d6bfb4547838a2b78b87a4f42.ts
-东森电影,mitv://ns2.hellotvvod.com:9906/f4b91b7216344cc193da2b2c4ca0a478.ts
-纬来电影,mitv://ns2.hellotvvod.com:9906/cc5dcb0cfb0a43dfaac066ecfb57199a8.ts
-龙祥电影,mitv://ns2.hellotvvod.com:9906/558d283e9d9d44729c3d8f337b55e572.ts
+亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 
 
 
