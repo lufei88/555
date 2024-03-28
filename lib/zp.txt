@@ -1515,11 +1515,11 @@ TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
 东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
-镜新闻台,http://livetv.skycf.eu.org/live.m3u8?c=10
+镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
 民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
 三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
 华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
-台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=14
+东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 cgtn,http://livetv.skycf.eu.org:80/live.m3u8?c=15
 
 
