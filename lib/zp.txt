@@ -1421,6 +1421,8 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 凤凰中文,http://223.82.161.157:8822/hls/81/index.m3u8
 
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+
+凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰资讯,http://nas.jumping.wang:5555/udp/239.93.1.4:2191
 凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
@@ -1506,6 +1508,31 @@ MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 中视,rtmp://f13h.mine.nu/sat/tv091
 台视,rtmp://f13h.mine.nu/sat/tv071
 民视,rtmp://f13h.mine.nu/sat/tv051
+
+
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
+东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
+镜新闻台,http://livetv.skycf.eu.org/live.m3u8?c=10
+民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
+三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
+华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
+台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=14
+
+
+
+卫视电影,mitv://ns2.hellotvvod.com:9906/625e461d6bfb4547838a2b78b87a4f42.ts
+东森电影,mitv://ns2.hellotvvod.com:9906/f4b91b7216344cc193da2b2c4ca0a478.ts
+纬来电影,mitv://ns2.hellotvvod.com:9906/cc5dcb0cfb0a43dfaac066ecfb57199a8.ts
+龙祥电影,mitv://ns2.hellotvvod.com:9906/558d283e9d9d44729c3d8f337b55e572.ts
+
+
+
+
 
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
