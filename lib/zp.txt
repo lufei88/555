@@ -8299,7 +8299,9 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 测试2,#genre#
 
-
+123,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+12,P2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
+11,P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
 
 
 
