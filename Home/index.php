@@ -14,6 +14,13 @@
 {"id":"123","title":"我要看直播","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp.png","desc1":"直播应用","desc":"天招智盒自开发的我要看直播新版，集国内高清流畅看电视节目，更有高清流畅真正做到秒换台不卡顿港澳台电视直播，也集中了影院在线直播在线听歌等热门节目，让大家享受观影体验。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzp.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp1.jpg","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp22.jpg","daxiao":"13.17MB","create_time":"3 日以前 "}
 
 
+{"id":"128","title":"想唱就唱","logo":"http://pic.qqtf.com/up/2024-3/2024311951344051.png","desc1":"音乐应用","desc":"com.duoduo.opreatv","baoming":"想唱就唱KTV软件是为各位用户打造的电视K歌软件，拥有庞大的曲库，流行，经典，民谣，摇滚等多种风格，满足你的不同需求，创建房间，要请好友一起唱歌，享受全新的聚会体验，有需要的用户赶紧来本站下载吧。","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/想唱就唱.apk","image1":"http://pic.qqtf.com/up/2024-3/17101220238916578.jpg","image2":"http://pic.qqtf.com/up/2024-3/202431195311097190.jpg","daxiao":"3.75MB","create_time":"1天前 "}
+
+
+
+
+
+
 
 {"id":"127","title":"抖音","logo":"http://pic.j9p.com/up/2022-6/202261082358114.png","desc1":"直播应用","desc":"总是用手机看抖音不爽不过瘾那就试试这款由吾爱大神打造的抖音TV小書版app，软件在手机上和电视上都可以运行播放，支持自动播放功能，可以自由的设置，软件没有广告，支持账号登录，很干净清爽，十分好用。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/dyzp.apk","image1":"http://pic.j9p.com/up/2024-3/2024030513405074604.jpg","image2":"http://pic.j9p.com/up/2024-3/2024030513405055106.jpg","daxiao":"13.17MB","create_time":"3 日以前 "}
 
