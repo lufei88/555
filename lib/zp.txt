@@ -1,25 +1,6 @@
 央视频道,#genre#
 
-CCTV-1,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv1
-CCTV-2,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv2
-CCTV-3,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv3
-CCTV-4,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4
-CCTV-4欧洲,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4o
-CCTV-4美洲,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4a
-CCTV-5,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv5
-CCTV-5+,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv5p
-CCTV-6,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv6
-CCTV-7,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv7
-CCTV-8,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv8
-CCTV-9,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv9
-CCTV-10,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv10
-CCTV-11,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv11
-CCTV-12,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv12
-CCTV-13,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv13
-CCTV-14,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv14
-CCTV-15,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv15
-CCTV-16,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv16
-CCTV-17,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv17
+
 
 
 
@@ -54,7 +35,26 @@ CCTV-17,http://fmtv.wifi942.com:9999/api/proxy/ysp.php?id=CCTV17
 央视台球,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 电视指南,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
-
+CCTV-1,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv1
+CCTV-2,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv2
+CCTV-3,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv3
+CCTV-4,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4
+CCTV-4欧洲,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4o
+CCTV-4美洲,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4a
+CCTV-5,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv5
+CCTV-5+,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv5p
+CCTV-6,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv6
+CCTV-7,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv7
+CCTV-8,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv8
+CCTV-9,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv9
+CCTV-10,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv10
+CCTV-11,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv11
+CCTV-12,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv12
+CCTV-13,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv13
+CCTV-14,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv14
+CCTV-15,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv15
+CCTV-16,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv16
+CCTV-17,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv17
 
 
 
@@ -461,6 +461,45 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 
 卫视频道,#genre#
+
+北京卫视,http://125.210.152.21:9121/live/hzgq-bjgqws-h264.m3u8
+东方卫视,http://125.210.152.21:9121/live/hzgq-dftvgq-h264.m3u8
+天津卫视,http://125.210.152.21:9121/live/hzgq-tjwsgq-h264.m3u8
+重庆卫视,http://125.210.152.21:9121/live/hzgq-cqwsgq-h264.m3u8
+黑龙江卫视,http://125.210.152.21:9121/live/hzgq-hljwsgq-h264.m3u8
+吉林卫视,http://125.210.152.21:9121/live/hzgq-jlwsgq-h264.m3u8
+辽宁卫视,http://125.210.152.21:9121/live/hzgq-lnwsgq-h264.m3u8
+内蒙古卫视,http://125.210.152.21:9121/live/hszx-nmgtv-h264.m3u8
+宁夏卫视,http://125.210.152.21:9121/live/hszx-nxtv-h264.m3u8
+甘肃卫视,http://125.210.152.21:9121/live/hszx-gstv-h264.m3u8
+青海卫视,http://125.210.152.21:9121/live/hszx-qhtv-h264.m3u8
+陕西卫视,http://125.210.152.21:9121/live/hszx-sxtv-h264.m3u8
+河北卫视,http://125.210.152.21:9121/live/hzgq-hbwsgq1-h264.m3u8
+山西卫视,http://125.210.152.21:9121/live/hszx-shanxitv-h264.m3u8
+山东卫视,http://125.210.152.21:9121/live/hzgq-sdwsgq-h264.m3u8
+安徽卫视,http://125.210.152.21:9121/live/hzgq-ahwsgq-h264.m3u8
+河南卫视,http://125.210.152.21:9121/live/hzgq-henanwsgq-h264.m3u8
+湖北卫视,http://125.210.152.21:9121/live/hzgq-hbwsgq-h264.m3u8
+湖南卫视,http://125.210.152.21:9121/live/hzgq-hnwsgq-h264.m3u8
+江西卫视,http://125.210.152.21:9121/live/hzgq-jxwsgq-h264.m3u8
+江苏卫视,http://125.210.152.21:9121/live/hzgq-jswsgq-h264.m3u8
+浙江卫视,http://125.210.152.21:9121/live/hzgq-zjwsgq-h264.m3u8
+东南卫视,http://125.210.152.21:9121/live/hzgq-fjwsgq-h264.m3u8
+广东卫视,http://125.210.152.21:9121/live/hzgq-gdwsgq-h264.m3u8
+深圳卫视,http://125.210.152.21:9121/live/hzgq-szwsgq-h264.m3u8
+广西卫视,http://125.210.152.21:9121/live/hszx-gxtv-h264.m3u8
+云南卫视,http://125.210.152.21:9121/live/hzgq-ynwsgq-h264.m3u8
+贵州卫视,http://125.210.152.21:9121/live/hszx-gztv-h264.m3u8
+四川卫视,http://125.210.152.21:9121/live/hszx-sctv-h264.m3u8
+新疆卫视,http://125.210.152.21:9121/live/hszx-xjtv-h264.m3u8
+兵团卫视,http://125.210.152.21:9121/live/hszx-bttv-h264.m3u8
+西藏卫视,http://125.210.152.21:9121/live/hszx-xztv-h264.m3u8
+海南卫视,http://125.210.152.21:9121/live/hszx-lytv-h264.m3u8
+三沙卫视,http://125.210.152.21:9121/live/hzgq-ssws-h264.m3u8
+
+
+
+
 
 东方卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=dfws
 重庆卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=cqws
