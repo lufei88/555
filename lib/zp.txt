@@ -1,5 +1,29 @@
 央视频道,#genre#
 
+CCTV-1,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv1
+CCTV-2,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv2
+CCTV-3,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv3
+CCTV-4,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4
+CCTV-4欧洲,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4o
+CCTV-4美洲,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4a
+CCTV-5,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv5
+CCTV-5+,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv5p
+CCTV-6,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv6
+CCTV-7,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv7
+CCTV-8,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv8
+CCTV-9,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv9
+CCTV-10,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv10
+CCTV-11,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv11
+CCTV-12,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv12
+CCTV-13,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv13
+CCTV-14,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv14
+CCTV-15,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv15
+CCTV-17,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv17
+
+
+
+
+
 CCTV-1,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-2,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-3,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -1345,10 +1369,27 @@ EYE旅游,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=eyetvtravel_tw
 
 
 
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+中华小家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC影台,http://61.221.215.25:8800/hls/43/index.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+伟来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+49号频道,http://61.221.215.25:8800/hls/49/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 
-
-
+八大综合,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+tbvs频道,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
+八大戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+三立戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+AMC电影,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
+纬来精彩,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
+八大一台,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
+野生频道,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
 
 
 
