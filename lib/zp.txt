@@ -8079,6 +8079,69 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 
 
+东方卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=dfws
+重庆卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=cqws
+吉林卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=jlws
+辽宁卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=lnws
+内蒙古卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=nmws
+宁夏卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=nxws
+甘肃卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=gsws
+青海卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=qhws
+陕西卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=sxws
+山东卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=sdws
+河南卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=hnws
+湖北卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=hubws
+湖南卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=hunws
+江西卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=jxws
+江苏卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=jsws
+广东卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=gdws
+大湾区卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=dwqws
+广西卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=gxws
+云南卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=ynws
+贵州卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=gzws
+新疆卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=xjws
+西藏卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=xzws
+海南卫视,http://mywlkj.ddns.net:754/tv/migu.php?id=hinws
+山东教育,http://mywlkj.ddns.net:754/tv/migu.php?id=sdjy
+优漫卡通,http://mywlkj.ddns.net:754/tv/migu.php?id=ymkt
+嘉佳卡通,http://mywlkj.ddns.net:754/tv/migu.php?id=jjkt
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+
+四海钓鱼,http://mywlkj.ddns.net:754/tv/migu.php?id=shdy
+上海新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=shxwzh
+第一财经,http://mywlkj.ddns.net:754/tv/migu.php?id=dycj
+东方影视,http://mywlkj.ddns.net:754/tv/migu.php?id=dfys
+上海纪实人文,http://mywlkj.ddns.net:754/tv/migu.php?id=shjs
+上海ICS,http://mywlkj.ddns.net:754/tv/migu.php?id=shics
+法治天地,http://mywlkj.ddns.net:754/tv/migu.php?id=fztd
+欢笑剧场,http://mywlkj.ddns.net:754/tv/migu.php?id=hxjc
+乐游HD,http://mywlkj.ddns.net:754/tv/migu.php?id=ly
+魅力足球,http://mywlkj.ddns.net:754/tv/migu.php?id=mlzq
+劲爆体育,http://mywlkj.ddns.net:754/tv/migu.php?id=jbty
+游戏风云,http://mywlkj.ddns.net:754/tv/migu.php?id=yxfy
+七彩戏剧,http://mywlkj.ddns.net:754/tv/migu.php?id=qcxj
+金鹰纪实,http://mywlkj.ddns.net:754/tv/migu.php?id=jyjs
+
+江苏城市,http://mywlkj.ddns.net:754/tv/migu.php?id=jscs
+江苏综艺,http://mywlkj.ddns.net:754/tv/migu.php?id=jszy
+江苏新闻,http://mywlkj.ddns.net:754/tv/migu.php?id=jsxw
+江苏教育,http://mywlkj.ddns.net:754/tv/migu.php?id=jsjy
+江苏国际,http://mywlkj.ddns.net:754/tv/migu.php?id=jsgj
+江苏影视,http://mywlkj.ddns.net:754/tv/migu.php?id=jsys
+江苏体育休闲,http://mywlkj.ddns.net:754/tv/migu.php?id=jsty
+
+
+南京新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=njxwzh
+南京教科,http://mywlkj.ddns.net:754/tv/migu.php?id=njjk
+南京十八,http://mywlkj.ddns.net:754/tv/migu.php?id=njsb
+淮安新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=haxwzh
+苏州新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=szxwzh
+泰州新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=tz1
+徐州新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=xzxwzh
+宿迁新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=sqxwzh
+连云港新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=lygxwzh
+广东影视,http://mywlkj.ddns.net:754/tv/migu.php?id=gdys
+甘肃临洮电视台,http://mywlkj.ddns.net:754/tv/migu.php?id=lttv
 
 
 
