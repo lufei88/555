@@ -847,7 +847,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 凤凰资讯,http://nas.jumping.wang:5555/udp/239.93.0.118:2191
 
 
-无线新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=inews_twn
+
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 无线新闻,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
 无线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
@@ -861,73 +861,13 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-无线新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=inews_twn
-无线财经,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=tvbcaijing_twn
-翡翠台,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=Wlt
-明珠台,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=pearl_twn
-千禧,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=Tvbclassic
-星河粤语,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=tvbxinhe_twn
-星河,http://61.158.166.42:1301//haiousmtjk.php?key=haiou67&id=Xinhe
-天映频道,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=Celestial_mega
-RHK31,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=rhk31_twn
-台视,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ttv_taiwan
-中视,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=zhongshihd_twn
-华视,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ctshd_twn
-TVBS新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=tvbs
-世界新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=Tvbasia
-欢乐,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=tvbshuanle_twn
-民视1,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ftvtaiwan_twn
-三立综合,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=sanlizhonghe
-三立2,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=sanlitaiwan
-三立都会,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=sanlidouhui_twn
-八大综合,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=badazhonghe
-ELTA综合,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=eltazonghe
-中天综合,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ctiasia_twn
-中天娱乐,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ctient
-华视综合,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=weishichinese_twn
-伟来电影,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=videolandmovie
-holly，http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=hollywoodmovies_twn
-AXAV,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=axn_twn
-龙华电影,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=xingwei_movie
-龙华洋片,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=lunghuawestern_twn
-龙华戏剧,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=lunghuaxiju_twn
-龙华偶像,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=lunghuaidol_twn
-美亚电影,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=meiyamovie_twn
-hbo,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=Hbo
-hbo2,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=hbohead_twn
-hbo3,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=Hbosignature
-hbo4,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=fyi_twn
-tvbs新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=tvbs_n
-中天新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ctinews
-台视新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ttvnews_twn
-中视新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=zhongshinews_twn
-民视新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ftvnew_taiwan
-东森新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ettvnews
-环宇新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=huanyuxinwen_twn
-非凡新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=feifannews_twn
-年代新闻,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=niandainews_twn
-东森财经,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ettvcaijing_twn
-东森超视,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=ettvsuper
-EYE剧场,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=eyetvxiju_twn
-EYE旅游,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=eyetvtravel_twn
-靖天国际,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=jingtianintl_twn
-靖天卡通,http://61.158.166.42:1301/haiousmtjk.php?key=haiou67&id=jingtiancartoon_twn
 
 
 
 
 
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中华小家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC影台,http://61.221.215.25:8800/hls/43/index.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-伟来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-49号频道,http://61.221.215.25:8800/hls/49/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+
+
 
 
 八大综合,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
@@ -960,6 +900,130 @@ AMC电影,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+
+
+
+
+
+
+
+
+凤凰中文,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=1
+凤凰资讯,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=2
+凤凰香港,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=3
+翡翠台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=4
+无线新闻,http://8.137.59.151:99/haioutz/haiousmttz.php?id=5
+无线财经体育,http://8.137.59.151:99/haioutz/haiousmttz.php?id=6
+华丽翡翠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=7
+J2,http://8.137.59.151:99/haioutz/haiousmttz.php?id=8
+亚洲武侠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=9
+千禧经典,http://8.137.59.151:99/haioutz/haiousmttz.php?id=11
+18,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
+
+
+
+明珠,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=12
+星河,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=13
+星河粤语,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=14
+天映频道,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=15
+天映经典,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=16
+RHK 31,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=17
+RHK 32,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=18
+VIUTV1,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=19
+民视,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=26
+台视,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=27
+中视,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=28
+华视,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=29
+TVBSHD,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=30
+TVBS,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=31
+TVBS欢乐,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=32
+民视台湾,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=33
+三立综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=34
+三立台湾,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=35
+三立都会,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=36
+八大综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=37
+爱尔达综,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=38
+中天亚洲,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=39
+中天综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=40
+中天娱乐,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=41
+华艺综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=42
+东森电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=43
+东森洋片,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=44
+纬来电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=45
+好莱坞电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=46
+AXN 台湾,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=47
+龙华电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=48
+龙华洋片,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=49
+龙华戏剧,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=50
+龙华偶像,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=51
+美亚电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=52
+HBO_HD,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=53
+HBO_HITS,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=54
+HBOSignatureHD,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=55
+HBO温馨家庭,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=56
+TVBS新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=57
+中天新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=58
+台视新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=59
+中视新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=60
+民视新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=61
+东森新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=62
+环宇新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=63
+非凡新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=64
+年代新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=65
+东森财经,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=66
+EYETV戏剧,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=67
+EYETV旅游,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=68
+靖天国际,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=69
+靖天卡通,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=70
+东森超视,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=71
+美食星球,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=72
+亚洲旅游,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=73
+TLC旅游,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=74
+国家地理野生,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=75
+纬来日本,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=76
+纬来体育,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=77
+龙华戏剧,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=78
+龙华偶像,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=79
+美亚电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=80
+CINEMAX,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=81
+HBO_HD,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=82
+HBO_HITS,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=83
+HBOSignatureHD,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=84
+HBO温馨家庭,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=85
+爱尔达体育1,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=91
+爱尔达体育2,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=92
+爱尔达体育3,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=93
+博斯运动1,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=94
+博斯运动2,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=95
+博斯高球1,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=96
+博斯高球2,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=97
+博斯网球,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=98
+astr Supersports 1,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=99
+astr Supersports 2,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=100
+astr Supersports 3,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=101
+astr Supersports 4,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=102
+WWE,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=103
+UFC,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=104
+TNT Sports 1,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=105
+TNT Sports 2,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=106
+TNT Sports 3,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=107
+TNT Sports 4,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=108
+SONY Sports 1,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=109
+SONY Sports 2,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=110
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
