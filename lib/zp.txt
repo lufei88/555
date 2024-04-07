@@ -8059,109 +8059,68 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 
 
-辽宁卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=058
-江苏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=085
-天津卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=084
-湖南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=086
-北京卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=083
-黑龙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=095
-广东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=092
-东方卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=093
-浙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=094
-吉林卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=097
-安徽卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=096
-江西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=098
-山东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=099
-贵州卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=101
-深圳卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=100
-湖北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=102
-四川卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=103
-陕西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=512
-河南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=339
-海南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=473
-云南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=482
-东南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=483
-金鹰卡通,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=105
-河南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=104
-卡酷少儿,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=106
-重庆卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=107
-山西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=109
-河北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=108
-青海卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=111
-内蒙古卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=110
-山东教育卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=112
-北京纪实科教,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=113
-广西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=116
-云南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=115
-宁夏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=118
-陕西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=114
-延边卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=117
-甘肃卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=119
-西藏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=121
-农林卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=122
-兵团卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=124
+CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-03 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-04 中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-05 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV+5+ 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-06 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-07 国防,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-08 电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-09 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12 社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16 奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17 农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
+CCTV-01*综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+CCTV-02*财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-03*综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8 
+CCTV-04*国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-05*体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-05+体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-06*电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-07*军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8 
+CCTV-08*电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-09*纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10*科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11*戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV-12*社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13*新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14*少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8 
+CCTV-16*奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
-
-
-
-
-
-四海钓鱼,http://mywlkj.ddns.net:754/tv/migu.php?id=shdy
-上海新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=shxwzh
-第一财经,http://mywlkj.ddns.net:754/tv/migu.php?id=dycj
-东方影视,http://mywlkj.ddns.net:754/tv/migu.php?id=dfys
-上海纪实人文,http://mywlkj.ddns.net:754/tv/migu.php?id=shjs
-上海ICS,http://mywlkj.ddns.net:754/tv/migu.php?id=shics
-法治天地,http://mywlkj.ddns.net:754/tv/migu.php?id=fztd
-欢笑剧场,http://mywlkj.ddns.net:754/tv/migu.php?id=hxjc
-乐游HD,http://mywlkj.ddns.net:754/tv/migu.php?id=ly
-魅力足球,http://mywlkj.ddns.net:754/tv/migu.php?id=mlzq
-劲爆体育,http://mywlkj.ddns.net:754/tv/migu.php?id=jbty
-游戏风云,http://mywlkj.ddns.net:754/tv/migu.php?id=yxfy
-七彩戏剧,http://mywlkj.ddns.net:754/tv/migu.php?id=qcxj
-金鹰纪实,http://mywlkj.ddns.net:754/tv/migu.php?id=jyjs
-
-江苏城市,http://mywlkj.ddns.net:754/tv/migu.php?id=jscs
-江苏综艺,http://mywlkj.ddns.net:754/tv/migu.php?id=jszy
-江苏新闻,http://mywlkj.ddns.net:754/tv/migu.php?id=jsxw
-江苏教育,http://mywlkj.ddns.net:754/tv/migu.php?id=jsjy
-江苏国际,http://mywlkj.ddns.net:754/tv/migu.php?id=jsgj
-江苏影视,http://mywlkj.ddns.net:754/tv/migu.php?id=jsys
-江苏体育休闲,http://mywlkj.ddns.net:754/tv/migu.php?id=jsty
-
-
-南京新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=njxwzh
-南京教科,http://mywlkj.ddns.net:754/tv/migu.php?id=njjk
-南京十八,http://mywlkj.ddns.net:754/tv/migu.php?id=njsb
-淮安新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=haxwzh
-苏州新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=szxwzh
-泰州新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=tz1
-徐州新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=xzxwzh
-宿迁新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=sqxwzh
-连云港新闻综合,http://mywlkj.ddns.net:754/tv/migu.php?id=lygxwzh
-广东影视,http://mywlkj.ddns.net:754/tv/migu.php?id=gdys
-甘肃临洮电视台,http://mywlkj.ddns.net:754/tv/migu.php?id=lttv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+CGTN,https://tv.cry33.com/51.php?id=2022575003.m3u8
+CGTN法语,https://tv.cry33.com/51.php?id=2022574903.m3u8
+CGTN俄语,https://tv.cry33.com/51.php?id=2022574803.m3u8
+CGTN阿拉伯语,https://tv.cry33.com/51.php?id=2022574603.m3u8
+CGTN西班牙语,https://tv.cry33.com/51.php?id=2022571703.m3u8
+CGTN外语纪录,https://tv.cry33.com/51.php?id=2022574703.m3u8
+CCTV风云剧场,https://tv.cry33.com/51.php?id=2012513603.m3u8
+CCTV第一剧场,https://tv.cry33.com/51.php?id=2012514403.m3u8
+CCTV怀旧剧场,https://tv.cry33.com/51.php?id=2012511203.m3u8
+CCTV世界地理,https://tv.cry33.com/51.php?id=2012513303.m3u8
+CCTV风云音乐,https://tv.cry33.com/51.php?id=2012514103.m3u8
+CCTV兵器科技,https://tv.cry33.com/51.php?id=2012513403.m3u8
+CCTV风云足球,https://tv.cry33.com/51.php?id=2012514203.m3u8
+CCTV高尔夫网球,https://tv.cry33.com/51.php?id=2012512503.m3u8
+CCTV女性时尚,https://tv.cry33.com/51.php?id=2012513903.m3u8
+CCTV央视文化精品,https://tv.cry33.com/51.php?id=2012513803.m3u8
+CCTV央视台球,https://tv.cry33.com/51.php?id=2012513703.m3u8
+CCTV电视指南,https://tv.cry33.com/51.php?id=2012514003.m3u8
+CCTV卫生健康,https://tv.cry33.com/51.php?id=2012513503.m3u8
+CCTV-娱乐,http://110.72.72.90:808/hls/66/index.m3u8
+中教一套,https://tv.cry33.com/51.php?id=2022823801.m3u8
+中教一套,http://182.137.255.59:5033/syhjcms_hls/98000000000000000001685674939564/index.m3u8?playtype=1&usercode=cl@is
+中教一套,http://171.221.27.11:5010/syhjcms_hls/98000000000000000001685674939564/index.m3u8?playtype=1&usercode=cl@is
+中教一套,http://118.122.242.46:5031/syhjcms_hls/98000000000000000001685674939564/index.m3u8?playtype=1&usercode=cl@is
+中教一套,http://118.122.242.88:5033/syhjcms_hls/98000000000000000001685674939564/index.m3u8?playtype=1&usercode=cl@is
+中教一套,http://182.139.250.132:5033/syhjcms_hls/98000000000000000001685674939564/index.m3u8?playtype=1&usercode=cl@is
