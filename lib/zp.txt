@@ -1,5 +1,29 @@
 央视频道,#genre#
 
+CCTV-1,https://tv.cry33.com/51.php?id=2022576803.m3u8
+CCTV-2,https://tv.cry33.com/51.php?id=2022576703.m3u8
+CCTV-3,https://tv.cry33.com/51.php?id=2022576503.m3u8
+CCTV-4,https://tv.cry33.com/51.php?id=2022576603.m3u8
+CCTV-5,https://tv.cry33.com/51.php?id=2022576403.m3u8
+CCTV-5+,https://tv.cry33.com/51.php?id=2022576303.m3u8
+CCTV-6,https://tv.cry33.com/51.php?id=2022574301.m3u8
+CCTV-7,https://tv.cry33.com/51.php?id=2022576203.m3u8
+CCTV-8,https://tv.cry33.com/51.php?id=2022576103.m3u8
+CCTV-9,https://tv.cry33.com/51.php?id=2022576003.m3u8
+CCTV-10,https://tv.cry33.com/51.php?id=2022573003.m3u8
+CCTV-11,https://tv.cry33.com/51.php?id=2022575903.m3u8
+CCTV-12,https://tv.cry33.com/51.php?id=2022575803.m3u8
+CCTV-13,https://tv.cry33.com/51.php?id=2022575703.m3u8
+CCTV-14,https://tv.cry33.com/51.php?id=2022575603.m3u8
+CCTV-15,https://tv.cry33.com/51.php?id=2022575503.m3u8
+CCTV-16,https://tv.cry33.com/51.php?id=2022575103.m3u8
+CCTV-17,https://tv.cry33.com/51.php?id=2022575303.m3u8
+CCTV-4K,https://tv.cry33.com/51.php?id=2022575203.m3u8
+CCTV-8K,https://tv.cry33.com/51.php?id=2020603421.m3u8
+
+
+
+
 CCTV-1,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=&encrypt=
 CCTV-2,http://lr1.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=&encrypt=
 CCTV-3,http://lr1.aikan.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?msisdn=&encrypt=
@@ -8049,26 +8073,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 测试2,#genre#
 
-CCTV-1,http://mywlkj.ddns.net:754/tv/ysp.php?id=1
-CCTV-2,http://mywlkj.ddns.net:754/tv/ysp.php?id=2
-CCTV-3,http://mywlkj.ddns.net:754/tv/ysp.php?id=3
-CCTV-4,http://mywlkj.ddns.net:754/tv/ysp.php?id=4
-CCTV-5,http://mywlkj.ddns.net:754/tv/ysp.php?id=5
-CCTV-5+,http://mywlkj.ddns.net:754/tv/ysp.php?id=6
-CCTV-6,http://mywlkj.ddns.net:754/tv/ysp.php?id=7
-CCTV-7,http://mywlkj.ddns.net:754/tv/ysp.php?id=8
-CCTV-8,http://mywlkj.ddns.net:754/tv/ysp.php?id=9
-CCTV-9,http://mywlkj.ddns.net:754/tv/ysp.php?id=10
-CCTV-10,http://mywlkj.ddns.net:754/tv/ysp.php?id=11
-CCTV-11,http://mywlkj.ddns.net:754/tv/ysp.php?id=12
-CCTV-12,http://mywlkj.ddns.net:754/tv/ysp.php?id=13
-CCTV-13,http://mywlkj.ddns.net:754/tv/ysp.php?id=14
-CCTV-14,http://mywlkj.ddns.net:754/tv/ysp.php?id=15
-CCTV-15,http://mywlkj.ddns.net:754/tv/ysp.php?id=16
-CCTV-16,http://mywlkj.ddns.net:754/tv/ysp.php?id=17
-CCTV-17,http://mywlkj.ddns.net:754/tv/ysp.php?id=18
-CCTV-4K,http://mywlkj.ddns.net:754/tv/ysp.php?id=19
-CCTV-8K,http://mywlkj.ddns.net:754/tv/ysp.php?id=20
 
 
 
