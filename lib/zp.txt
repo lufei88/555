@@ -1222,8 +1222,21 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 广东地方台,#genre#
 
 
-广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
 
+
+广东卫视,http://120.84.121.250:808/hls/121/index.m3u8
+经济科教,http://120.84.121.250:808/hls/118/index.m3u8
+大湾区,http://120.84.121.250:808/hls/119/index.m3u8
+广东少儿,http://120.84.121.250:808/hls/120/index.m3u8
+广东珠江,http://120.84.121.250:808/hls/122/index.m3u8
+广东新闻,http://120.84.121.250:808/hls/124/index.m3u8
+广东民生,http://120.84.121.250:808/hls/148/index.m3u8
+
+
+
+
+
+广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
 
 
 广东民生,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=10
