@@ -8062,7 +8062,7 @@ CCTV-12,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv12
 CCTV-13,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv13
 CCTV-14,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv14
 CCTV-15,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv15
-CCTV-16,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv16
+CCTV-16,http://mywlkj.ddns.net:754/tv/ysp.php?id=17
 CCTV-17,http://mywlkj.ddns.net:754/tv/migu.php?id=cctv17
 
 
