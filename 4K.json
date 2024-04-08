@@ -152,26 +152,10 @@
 
 
 
-{
-  "key": "csp_btys",
-  "name": "🥇天招VIP专线6",//小盒BT
-  "type": 3,
-  "playerType": "2",
-  "api": "csp_XBPQ",
-  "jar":"./jar/XbyQ.jar",
-  "ext":"./json/bt.json"
-  },
-
-
-
-
-
-
-
 
 {
   "key": "drpy_js_360影视",
-  "name": "🥇天招VIP专线7",
+  "name": "🥇天招VIP专线6",
   "type": 3,
   //"jar": "./jar/sa0226.jar",
   "api": "./lib/drpy2.min.js",
@@ -183,7 +167,7 @@
 
     {
       "key": "白嫖",
-      "name": "🥇天招VIP专线8",//小盒白飘
+      "name": "🥇天招VIP专线7",//小盒白飘
       "type": 3,
       "api": "csp_BaiPiao",
       "playerType": 2,
@@ -198,7 +182,7 @@
 
     {
       "key": "原创",
-      "name": "🥇天招VIP专线9",//小盒原创
+      "name": "🥇天招VIP专线8",//小盒原创
       "type": 3,
       "api": "csp_YCyz",
       "jar": "./jar/fan0408.jar",
@@ -220,7 +204,7 @@
 
 {
   "key": "csp_no",
-  "name": "🥇天招VIP专线10",//小盒novip
+  "name": "🥇天招VIP专线9",//小盒novip
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -232,7 +216,7 @@
 
 {
   "key": "csp_地瓜",
-  "name": "🥇天招VIP专线111",//小盒地瓜
+  "name": "🥇天招VIP专线10",//小盒地瓜
   "type": 3,
   "api": "csp_XYQHiker",
   "jar": "./jar/xyq.jar",
@@ -529,7 +513,15 @@
 
 
 
-
+{
+  "key": "csp_btys",
+  "name": "🥇天招超快线13",//小盒BT
+  "type": 3,
+  "playerType": "2",
+  "api": "csp_XBPQ",
+  "jar":"./jar/XbyQ.jar",
+  "ext":"./json/bt.json"
+  },
 
 
 
