@@ -827,7 +827,7 @@ J2,http://8.137.59.151:99/haioutz/haiousmttz.php?id=8
 
 
 
-明珠,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=12
+明珠台,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=12
 星河,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=13
 星河粤语,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=14
 天映频道,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=15
