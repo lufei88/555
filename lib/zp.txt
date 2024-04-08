@@ -801,7 +801,14 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-
+翡翠台,http://ali.hlspull.yximgs.com/live/haiou999jade_twn.flv
+无线新闻,http://ali.hlspull.yximgs.com/live/haiou999inews_twn.flv
+无线财经,http://ali.hlspull.yximgs.com/live/haiou999tvbcaijing_twn.flv
+华丽翡翠,http://ali.hlspull.yximgs.com/live/haiou999Wlt.flv
+J2,http://ali.hlspull.yximgs.com/live/haiou999j2_twn.flv
+亚洲武侠,http://ali.hlspull.yximgs.com/live/haiou999tvbyzwx.flv
+千禧经典,http://ali.hlspull.yximgs.com/live/haiou999Tvbclassic.flv
+18,http://ali.hlspull.yximgs.com/live/haiou99918.flv
 
 
 
@@ -932,7 +939,7 @@ SONY Sports 2,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=110
 
 
 
-
+翡翠台,http://120.84.121.250:808/hls/25/index.m3u8
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
@@ -958,7 +965,7 @@ AMC电影,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
 
 
 
-
+明珠台,http://120.84.121.250:808/hls/26/index.m3u8
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
 明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
@@ -1290,6 +1297,9 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 
+汕头综合,http://120.84.121.250:808/hls/171/index.m3u8
+
+
 
 汕头综合,https://stqznews.top/tv/live/stzhhd.php 
 汕头综合,http://ha.hahomes.net:9981/stream/channelid/495978806?ticket=cd612ec5f71ab505c20e175288e6acf5ab1d30ca&profile=pass
@@ -1303,6 +1313,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 汕头综合,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=40
 
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+潮州综合,http://120.84.121.250:808/hls/20/index.m3u8
 潮州综合,http://211.97.63.3:801/hls/503/index.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 
@@ -1317,8 +1328,8 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 
-揭阳综合,http://ha.hahomes.net:9981/stream/channelid/719965502?ticket=8314399643cdbb51935d9f774a776ebb15b95eea&profile=pass
-揭阳公共,http://ha.hahomes.net:9981/stream/channelid/1300386960?ticket=5ab43d760b789121d4f50856d5f27861379cfc7e&profile=pass
+揭阳生活,http://120.84.121.250:808/hls/18/index.m3u8
+揭西综合,http://120.84.121.250:808/hls/27/index.m3u8
 
 
 
