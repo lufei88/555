@@ -39,25 +39,25 @@
 
 
 
-//{"key": "小盒会员",
-//"name": "🏆VIP-4k专线1(首选)",//来自小盒会员
-//"type": 3,
-//"api": "csp_AppYsV2",
-//"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
-//},
+{"key": "小盒会员",
+"name": "🏆VIP-4k专线1(首选)",//来自小盒会员
+"type": 3,
+"api": "csp_AppYsV2",
+"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
+},
 
 
- //{
- //  "key": "玩偶哥哥",
- //   "name": "🏆VIP-4k专线1(首选)",
- //  "type": 3,
- //  "api": "csp_WoGG",
- //  "searchable": 1,
- //  "quickSearch": 1,
- //   "changeable": 0,
- //   "jar": "./jar/fan0303.jar",
- //  "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-//     },
+{
+   "key": "玩偶哥哥",
+   "name": "🏆VIP-4k专线2(首选)",
+   "type": 3,
+ "api": "csp_WoGG",
+  "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+    "jar": "./jar/fan0303.jar",
+   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
 
 
 
