@@ -1,27 +1,15 @@
-{"id":"124","title":"天招智盒","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tupi.png","desc1":"影视应用","desc":"天招智盒是TV端影视应用，为用户提供多条真正4K影片观影线路，4K高清流畅体验、个性贴心服务的基础上，在内容充实、首页界面等方面进行了全方位优化，提供海量而精彩的影视内容：从影视剧、综艺、新闻、动漫、体育、抖音短剧和全网歌曲等热门内容，再到演唱会、纪录片、生活、游戏等几十个细分类目一应俱全。","baoming":"com.ktcp.video","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/tzzh.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh1.jpg","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh2.jpg","daxiao":"25.8MB","create_time":"1 天以前 "}
+{"id":"124","title":"天招智盒","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tupi.png","desc1":"影视应用","desc":"天招智盒是TV端影视应用，为用户提供多条真正4K影片观影线路，4K高清流畅体验、个性贴心服务的基础上，在内容充实、首页界面等方面进行了全方位优化，提供海量而精彩的影视内容：从影视剧、综艺、新闻、动漫、体育、抖音短剧和全网歌曲等热门内容，再到演唱会、纪录片、生活、游戏等几十个细分类目一应俱全。","baoming":"com.xhkw.Player","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/tzzh.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh1.jpg","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh2.jpg","daxiao":"25.8MB","create_time":"1 天以前 "}
 
 
 
 
 
-{"id":"126","title":"秒看升级","logo":"http://zibb2024.tdddz.cn/upload/images/20240217/170815559765d062cd5a35d.png","desc1":"直播应用","desc":"秒看HD精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.qy.kktv","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/mktvsj.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"8.58MB","create_time":"1 天以前 "}
+{"id":"126","title":"秒看升级","logo":"http://zibb2024.tdddz.cn/upload/images/20240217/170815559765d062cd5a35d.png","desc1":"直播应用","desc":"秒看HD精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.bslive.mktv","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/mktvsj.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"8.58MB","create_time":"1 天以前 "}
 
 
 
 
-{"id":"129","title":"我要看直播语音版","logo":"http://zibb2024.tdddz.cn/upload/images/20240217/170815559765d062cd5a35d.png","desc1":"直播应用","desc":"秒看HD精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.qy.kktv","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzbyyp.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"8.58MB","create_time":"1 天以前 "}
-
-
-
-
-
-
-
-
-{"id":"123","title":"我要看直播","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp.png","desc1":"直播应用","desc":"天招智盒自开发的我要看直播新版，集国内高清流畅看电视节目，更有高清流畅真正做到秒换台不卡顿港澳台电视直播，也集中了影院在线直播在线听歌等热门节目，让大家享受观影体验。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzp.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp1.jpg","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp22.jpg","daxiao":"13.17MB","create_time":"3 日以前 "}
-
-
-{"id":"128","title":"想唱就唱","logo":"http://pic.qqtf.com/up/2024-3/2024311951344051.png","desc1":"音乐应用","desc":"com.duoduo.opreatv","baoming":"想唱就唱KTV软件是为各位用户打造的电视K歌软件，拥有庞大的曲库，流行，经典，民谣，摇滚等多种风格，满足你的不同需求，创建房间，要请好友一起唱歌，享受全新的聚会体验，有需要的用户赶紧来本站下载吧。","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/scjc.apk","image1":"http://pic.qqtf.com/up/2024-3/17101220238916578.jpg","image2":"http://pic.qqtf.com/up/2024-3/202431195311097190.jpg","daxiao":"3.75MB","create_time":"1天前 "}
+{"id":"129","title":"我要看直播语音版","logo":"http://zibb2024.tdddz.cn/upload/images/20240217/170815559765d062cd5a35d.png","desc1":"直播应用","desc":"秒看HD精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzbyyp.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"8.58MB","create_time":"1 天以前 "}
 
 
 
@@ -29,7 +17,19 @@
 
 
 
-{"id":"127","title":"抖音","logo":"http://pic.j9p.com/up/2022-6/202261082358114.png","desc1":"直播应用","desc":"总是用手机看抖音不爽不过瘾那就试试这款由吾爱大神打造的抖音TV小書版app，软件在手机上和电视上都可以运行播放，支持自动播放功能，可以自由的设置，软件没有广告，支持账号登录，很干净清爽，十分好用。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/dyzp.apk","image1":"http://pic.j9p.com/up/2024-3/2024030513405074604.jpg","image2":"http://pic.j9p.com/up/2024-3/2024030513405055106.jpg","daxiao":"13.17MB","create_time":"3 日以前 "}
+
+{"id":"123","title":"我要看直播","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp.png","desc1":"直播应用","desc":"天招智盒自开发的我要看直播新版，集国内高清流畅看电视节目，更有高清流畅真正做到秒换台不卡顿港澳台电视直播，也集中了影院在线直播在线听歌等热门节目，让大家享受观影体验。","baoming":"com.kudian.live","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzp.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp1.jpg","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/wykzp22.jpg","daxiao":"13.17MB","create_time":"3 日以前 "}
+
+
+{"id":"128","title":"想唱就唱","logo":"http://pic.qqtf.com/up/2024-3/2024311951344051.png","desc1":"音乐应用","desc":"com.origjoy.local.ktv","baoming":"想唱就唱KTV软件是为各位用户打造的电视K歌软件，拥有庞大的曲库，流行，经典，民谣，摇滚等多种风格，满足你的不同需求，创建房间，要请好友一起唱歌，享受全新的聚会体验，有需要的用户赶紧来本站下载吧。","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/scjc.apk","image1":"http://pic.qqtf.com/up/2024-3/17101220238916578.jpg","image2":"http://pic.qqtf.com/up/2024-3/202431195311097190.jpg","daxiao":"3.75MB","create_time":"1天前 "}
+
+
+
+
+
+
+
+{"id":"127","title":"抖音","logo":"http://pic.j9p.com/up/2022-6/202261082358114.png","desc1":"直播应用","desc":"总是用手机看抖音不爽不过瘾那就试试这款由吾爱大神打造的抖音TV小書版app，软件在手机上和电视上都可以运行播放，支持自动播放功能，可以自由的设置，软件没有广告，支持账号登录，很干净清爽，十分好用。","baoming":"com.ss.android.ugc.aweme","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/dyzp.apk","image1":"http://pic.j9p.com/up/2024-3/2024030513405074604.jpg","image2":"http://pic.j9p.com/up/2024-3/2024030513405055106.jpg","daxiao":"13.17MB","create_time":"2 日以前 "}
 
 
 
