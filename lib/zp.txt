@@ -1225,8 +1225,8 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 广东卫视,http://120.84.121.250:808/hls/121/index.m3u8
-经济科教,http://120.84.121.250:808/hls/118/index.m3u8
-大湾区,http://120.84.121.250:808/hls/119/index.m3u8
+广东经济科教,http://120.84.121.250:808/hls/118/index.m3u8
+大湾区卫视,http://120.84.121.250:808/hls/119/index.m3u8
 广东少儿,http://120.84.121.250:808/hls/120/index.m3u8
 广东珠江,http://120.84.121.250:808/hls/122/index.m3u8
 广东新闻,http://120.84.121.250:808/hls/124/index.m3u8
@@ -1239,7 +1239,18 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 
-广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
+广州综合,http://8.137.59.151:3000/guangdong/guangzhou.php?id=zhonghe
+广州新闻,http://8.137.59.151:3000/guangdong/guangzhou.php?id=xinwen
+广州影视,http://8.137.59.151:3000/guangdong/guangzhou.php?id=yingshi
+广州法治,http://8.137.59.151:3000/guangdong/guangzhou.php?id=fazhi
+广州南国都市,http://8.137.59.151:3000/guangdong/guangzhou.php?id=shenghuo
+东莞新闻综合,http://8.137.59.151:3000/guangdong/dongguang.php?id=xwzh
+东莞生活资讯,http://8.137.59.151:3000/guangdong/dongguang.php?id=shzx
+佛山综合,http://8.137.59.151:3000/guangdong/foshan.php?id=fszh
+佛山影视,http://8.137.59.151:3000/guangdong/foshan.php?id=fsys
+佛山公共,http://8.137.59.151:3000/guangdong/foshan.php?id=fsgg
+佛山顺德,http://8.137.59.151:3000/guangdong/foshan.php?id=fssd
+佛山高明,http://8.137.59.151:3000/guangdong/foshan.php?id=fsgm
 
 
 
@@ -1248,9 +1259,12 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 广东体育,http://116.21.123.204:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://183.6.110.242:9901/hls/1053/index.m3u8
+
+
+
+
+广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
-
-
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
@@ -1274,9 +1288,7 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 
-汕头经济生活,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=38
-汕头文旅体育,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=39
-汕头综合,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=40
+
 
 
 汕头综合,https://stqznews.top/tv/live/stzhhd.php 
@@ -1286,7 +1298,9 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 汕头文旅体育,https://stqznews.top/tv/live/stwlhd.php
 汕头文旅体育,http://ha.hahomes.net:9981/stream/channelid/1411725568?ticket=c420b302f6b12405e4d514ead4c21643ad257987&profile=pass
 
-
+汕头经济生活,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=38
+汕头文旅体育,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=39
+汕头综合,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=40
 
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州综合,http://211.97.63.3:801/hls/503/index.m3u8
@@ -8034,49 +8048,6 @@ HZTV2,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=62
 珠海2,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=75
 
 测试3,#genre#
-广州综合,http://8.137.59.151:3000/guangdong/guangzhou.php?id=zhonghe
-广州新闻,http://8.137.59.151:3000/guangdong/guangzhou.php?id=xinwen
-广州影视,http://8.137.59.151:3000/guangdong/guangzhou.php?id=yingshi
-广州法治,http://8.137.59.151:3000/guangdong/guangzhou.php?id=fazhi
-广州南国都市,http://8.137.59.151:3000/guangdong/guangzhou.php?id=shenghuo
-东莞新闻综合,http://8.137.59.151:3000/guangdong/dongguang.php?id=xwzh
-东莞生活资讯,http://8.137.59.151:3000/guangdong/dongguang.php?id=shzx
-佛山综合,http://8.137.59.151:3000/guangdong/foshan.php?id=fszh
-佛山影视,http://8.137.59.151:3000/guangdong/foshan.php?id=fsys
-佛山公共,http://8.137.59.151:3000/guangdong/foshan.php?id=fsgg
-佛山顺德,http://8.137.59.151:3000/guangdong/foshan.php?id=fssd
-佛山高明,http://8.137.59.151:3000/guangdong/foshan.php?id=fsgm
-揭阳综合,http://8.137.59.151:3000/guangdong/tianma.php?id=jyzh
-揭阳生活,http://8.137.59.151:3000/guangdong/tianma.php?id=jysh
-河源综合,http://8.137.59.151:3000/guangdong/chudian.php?id=hyzh
-河源公共,http://8.137.59.151:3000/guangdong/chudian.php?id=hygg
-连平台,http://8.137.59.151:3000/guangdong/chudian.php?id=lpzh
-阳江-1,http://8.137.59.151:3000/guangdong/chudian.php?id=yjtv1
-惠东综合,http://8.137.59.151:3000/guangdong/chudian.php?id=hdzh
-开平综合,http://8.137.59.151:3000/guangdong/chudian.php?id=kpzh
-开平生活,http://8.137.59.151:3000/guangdong/chudian.php?id=kpsh
-广宁综合,http://8.137.59.151:3000/guangdong/chudian.php?id=gnzh
-工布江达县广播电视台,http://8.137.59.151:3000/guangdong/chudian.php?id=gbjd
-化州综合,http://8.137.59.151:3000/guangdong/chudian.php?id=hzzh
-廉江综合,http://8.137.59.151:3000/guangdong/chudian.php?id=ljzh
-英德新闻综合,http://8.137.59.151:3000/guangdong/chudian.php?id=ydxw
-普宁综合,http://8.137.59.151:3000/guangdong/chudian.php?id=pnzh
-紫金综合,http://8.137.59.151:3000/guangdong/chudian.php?id=zjzh
-阳春综合,http://8.137.59.151:3000/guangdong/chudian.php?id=yczh
-怀集综合,http://8.137.59.151:3000/guangdong/chudian.php?id=hjzh
-惠阳电视台,http://8.137.59.151:3000/guangdong/chudian.php?id=hytv
-信宜综合,http://8.137.59.151:3000/guangdong/chudian.php?id=xyzh
-阳西综合,http://8.137.59.151:3000/guangdong/chudian.php?id=yxzh
-台山台,http://8.137.59.151:3000/guangdong/chudian.php?id=tstv
-遂溪台,http://8.137.59.151:3000/guangdong/chudian.php?id=sxtv
-新会综合,http://8.137.59.151:3000/guangdong/chudian.php?id=xhzh
-和平综合,http://8.137.59.151:3000/guangdong/chudian.php?id=hpzh
-东源台,http://8.137.59.151:3000/guangdong/chudian.php?id=dytv
-吴川综合,http://8.137.59.151:3000/guangdong/chudian.php?id=wczh
-乐昌电视台,http://8.137.59.151:3000/guangdong/chudian.php?id=lctv
-汕头综合,http://114.132.99.29:8812/st.php?id=G7Kql7a
-汕头经济,http://114.132.99.29:8812/st.php?id=7xjJK9d
-汕头文体,http://www.238311.top/live/ffgccb.flv.flv
-汕头综合,http://114.132.99.29:8812/st.php?id=G7Kql7a
+
 
 
