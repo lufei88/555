@@ -47,16 +47,16 @@
 //},
 
 
-   {
-     "key": "玩偶哥哥",
-     "name": "🏆VIP-4k专线1(首选)",
-     "type": 3,
-     "api": "csp_WoGG",
-     "searchable": 1,
-     "quickSearch": 1,
-     "changeable": 0,
-     "jar": "./jar/fan0408.jar",
-     "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+ {
+   "key": "玩偶哥哥",
+    "name": "🏆VIP-4k专线1(首选)",
+   "type": 3,
+   "api": "csp_WoGG",
+   "searchable": 1,
+   "quickSearch": 1,
+    "changeable": 0,
+    "jar": "./jar/fan0303.jar",
+   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
      },
 
 
@@ -212,7 +212,17 @@
 
 
 
-
+    {
+      "key": "原创",
+      "name": "☀原创┃无广",
+      "type": 3,
+      "api": "csp_YCyz",
+      "jar": "./jar/fan0408.jar",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
 
 
