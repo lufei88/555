@@ -218,7 +218,7 @@
       "type": 3,
       "api": "csp_YCyz",
       "jar": "./jar/fan0408.jar",
-      "timeout": 15,
+      "timeout": 30,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
