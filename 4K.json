@@ -206,6 +206,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "jar": "./jar/fan0303.jar",
       "ext": "https://www.baipiaoys.com:9092/"
     },
 
