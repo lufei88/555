@@ -513,7 +513,15 @@
 
 
 
-
+{
+  "key": "csp_btys",
+  "name": "🥇天招超快线13",//小盒BT
+  "type": 3,
+  "playerType": "2",
+  "api": "csp_XBPQ",
+  "jar":"./jar/XbyQ.jar",
+  "ext":"./json/bt.json"
+  },
 
 
 
