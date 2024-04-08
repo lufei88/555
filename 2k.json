@@ -47,17 +47,17 @@
 //},
 
 
-   {
-     "key": "玩偶哥哥",
-     "name": "🏆VIP-4k专线1(首选)",
-     "type": 3,
-     "api": "csp_WoGG",
-     "searchable": 1,
-     "quickSearch": 1,
-     "changeable": 0,
-     "jar": "./jar/fan0303.jar",
-     "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-     },
+ //{
+ //  "key": "玩偶哥哥",
+ //   "name": "🏆VIP-4k专线1(首选)",
+ //  "type": 3,
+ //  "api": "csp_WoGG",
+ //  "searchable": 1,
+ //  "quickSearch": 1,
+ //   "changeable": 0,
+ //   "jar": "./jar/fan0303.jar",
+ //  "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+//     },
 
 
 
@@ -165,13 +165,46 @@
 
 
 
+    {
+      "key": "白嫖",
+      "name": "🥇天招VIP专线7",//小盒白飘
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./jar/fan0408.jar",
+      "ext": "https://www.baipiaoys.com:9092/"
+    },
+
+
+
+    {
+      "key": "原创",
+      "name": "🥇天招VIP专线8",//小盒原创
+      "type": 3,
+      "api": "csp_YCyz",
+      "jar": "./jar/fan0408.jar",
+      "timeout": 30,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+
+
+
+
+
+
 
 
 
 
 {
   "key": "csp_no",
-  "name": "🥇天招VIP专线7",//小盒novip
+  "name": "🥇天招VIP专线9",//小盒novip
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -183,7 +216,7 @@
 
 {
   "key": "csp_地瓜",
-  "name": "🥇天招VIP专线8",//小盒地瓜
+  "name": "🥇天招VIP专线10",//小盒地瓜
   "type": 3,
   "api": "csp_XYQHiker",
   "jar": "./jar/xyq.jar",
@@ -192,11 +225,6 @@
   "filterable": 1,
   "ext": "./json/地瓜.json"
   },
-
-
-
-
-
 
 
 
@@ -469,6 +497,24 @@
 "filterable": 1,
 "ext": "http://cms-yttv.lyyytv.cn/api.php/app/"
 },
+
+
+
+{
+  "key":"csp_四客",
+  "name":"🥇天招超快线12",//小盒四客
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./json/四客.json"
+  },
+
+
+
+
+
 
 
 
@@ -1568,13 +1614,6 @@
 {"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
 }
 },
-
-
-
-
-
-
-
 
 
 
