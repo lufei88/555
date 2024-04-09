@@ -39,12 +39,12 @@
 
 
 
-{"key": "小盒会员",
-"name": "🏆VIP-4k专线1(首选)",//来自小盒会员
-"type": 3,
-"api": "csp_AppYsV2",
-"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
-},
+//{"key": "小盒会员",
+//"name": "🏆VIP-4k专线1(首选)",//来自小盒会员
+//"type": 3,
+//"api": "csp_AppYsV2",
+//"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
+//},
 
 
 {
@@ -1604,9 +1604,9 @@
  
 
 
-{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
-}
-},
+//{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
+//}
+//},
 
 
 {
