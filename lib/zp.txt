@@ -724,6 +724,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
+翡翠台,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=4
 翡翠台,http://ali.hlspull.yximgs.com/live/haiou999jade_twn.flv
 无线新闻,http://ali.hlspull.yximgs.com/live/haiou999inews_twn.flv
 无线财经,http://ali.hlspull.yximgs.com/live/haiou999tvbcaijing_twn.flv
@@ -745,6 +746,23 @@ J2,http://ali.hlspull.yximgs.com/live/haiou999j2_twn.flv
 华丽翡翠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=7
 J2,http://8.137.59.151:99/haioutz/haiousmttz.php?id=8
 亚洲武侠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=9
+
+
+翡翠台,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=4
+无线新闻,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=5
+无线财经,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=6
+华丽翡翠,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=7
+J2,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=8
+18台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
+亚洲武侠,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=9
+
+
+
+
+
+
+
+
 千禧经典,http://8.137.59.151:99/haioutz/haiousmttz.php?id=11
 18,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
 
