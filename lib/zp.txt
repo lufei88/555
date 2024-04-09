@@ -757,16 +757,7 @@ TVBS欢乐,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=32
 三立综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=34
 三立台湾,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=35
 三立都会,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=36
-八大综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=37
-爱尔达综,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=38
-中天亚洲,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=39
-中天综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=40
-中天娱乐,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=41
-华艺综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=42
-东森电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=43
-东森洋片,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=44
-纬来电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=45
-好莱坞电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=46
+
 AXN 台湾,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=47
 龙华电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=48
 龙华洋片,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=49
@@ -798,9 +789,12 @@ TLC旅游,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=74
 国家地理野生,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=75
 纬来日本,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=76
 纬来体育,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=77
-龙华戏剧,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=78
-龙华偶像,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=79
-美亚电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=80
+八大综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=37
+爱尔达综,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=38
+中天亚洲,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=39
+中天综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=40
+中天娱乐,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=41
+华艺综合,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=42
 CINEMAX,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=81
 HBO_HD,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=82
 HBO_HITS,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=83
@@ -826,6 +820,44 @@ TNT Sports 3,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=107
 TNT Sports 4,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=108
 SONY Sports 1,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=109
 SONY Sports 2,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=110
+
+
+
+
+
+
+
+
+星河,http://171.108.239.92:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://171.108.239.92:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+东森超视,http://171.108.239.92:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+家庭影院,http://171.108.239.92:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+动作电影,http://171.108.239.92:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+高清电影,http://171.108.239.92:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+天映电影,http://171.108.239.92:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影,http://171.108.239.92:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥电影,http://171.108.239.92:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影,http://171.108.239.92:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://171.108.239.92:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+东森洋片台,http://171.108.239.92:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+
+
+
+
+
+
+东森电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=43
+东森洋片,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=44
+纬来电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=45
+好莱坞电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=46
+
+龙华戏剧,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=78
+龙华偶像,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=79
+美亚电影,http://8.137.59.151:99/haioujk/haiousmtjk666.php?id=80
+
 
 
 
