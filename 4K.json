@@ -1594,21 +1594,6 @@
  
 
 
-
-
-
-
-
-
-
- 
-
-  
-
-
-
-  
-
 //{"name":"🌎天招VIP","type": 1,"url":"http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
@@ -1656,8 +1641,14 @@
           "qiqi",
           "XALS",
           "YuMi-vip"
-        ]
-      }
+        ],
+   "header": {
+"User-Agent": "Mozilla/5.0"
+       }
+     },
+    "header": {
+     "User-Agent": "Mozilla/5.0"
+    }
     },
 
 
