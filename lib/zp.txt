@@ -8062,4 +8062,18 @@ HZTV2,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=62
 海南卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=60
 新疆卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=61
 
-
+HOY综合,http://xxw.me0.cn/api/caonimei.php?live=hoytv
+HOY资讯,http://xxw.me0.cn/api/caonimei.php?live=hoyhk
+HOY财经,http://xxw.me0.cn/api/caonimei.php?live=hoycaij
+CM+,p2p://216.244.75.178:9906/6606440f000f350e000102ad74ff098b.ts
+CN卡通,http://xxw.me0.cn/api/caonimei.php?live=cnkttw
+AXN HD,http://xxw.me0.cn/api/caonimei.php?live=axntw
+TvN HD,http://xxw.me0.cn/api/caonimei.php?live=tvnhk
+KIX HD,http://xxw.me0.cn/api/caonimei.php?live=kixhk
+GEM HD,http://xxw.me0.cn/api/caonimei.php?live=gemhk
+天映频道,http://xxw.me0.cn/api/caonimei.php?live=celestial
+天映经典(国),http://xxw.me0.cn/api/caonimei.php?live=ccmhk
+美亚电影台(国),http://xxw.me0.cn/api/caonimei.php?live=meiyahkt
+美亚电影台(粤),http://xxw.me0.cn/api/caonimei.php?live=meiyahk
+黄金华剧台(国),http://xxw.me0.cn/api/caonimei.php?live=tvbhyt
+黄金华剧台(粤),http://xxw.me0.cn/api/caonimei.php?live=tvbhyk
