@@ -226,7 +226,7 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 贵州卫视,http://8.134.82.80:32858/ysp666/haiouysp.php?id=59
 海南卫视,http://8.134.82.80:32858/ysp666/haiouysp.php?id=60
 新疆卫视,http://8.134.82.80:32858/ysp666/haiouysp.php?id=61
-山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+
 
 
 
