@@ -8090,42 +8090,26 @@ HZTV2,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=62
 珠海2,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=75
 
 测试3,#genre#
-#北京卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=39
-#东方卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=40
-#湖南卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=41
-#浙江卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=42
-#江苏卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=43
-#山东卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=44
-#安徽卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=45
-#广东卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=46
-天津卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=47
-东南卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=48
-河北卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=49
-河南卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=50
-#辽宁卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=51
-黑龙江卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=52
-深圳卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=53
-湖北卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=54
-江西卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=55
-重庆卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=56
-四川卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=57
-广西卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=58
-贵州卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=59
-海南卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=60
-新疆卫视,http://8.134.82.80:32858/ysp0409/haiouysp.php?id=61
 
-HOY综合,http://xxw.me0.cn/api/caonimei.php?live=hoytv
-HOY资讯,http://xxw.me0.cn/api/caonimei.php?live=hoyhk
-HOY财经,http://xxw.me0.cn/api/caonimei.php?live=hoycaij
-CM+,p2p://216.244.75.178:9906/6606440f000f350e000102ad74ff098b.ts
-CN卡通,http://xxw.me0.cn/api/caonimei.php?live=cnkttw
-AXN HD,http://xxw.me0.cn/api/caonimei.php?live=axntw
-TvN HD,http://xxw.me0.cn/api/caonimei.php?live=tvnhk
-KIX HD,http://xxw.me0.cn/api/caonimei.php?live=kixhk
-GEM HD,http://xxw.me0.cn/api/caonimei.php?live=gemhk
-天映频道,http://xxw.me0.cn/api/caonimei.php?live=celestial
-天映经典(国),http://xxw.me0.cn/api/caonimei.php?live=ccmhk
-美亚电影台(国),http://xxw.me0.cn/api/caonimei.php?live=meiyahkt
-美亚电影台(粤),http://xxw.me0.cn/api/caonimei.php?live=meiyahk
-黄金华剧台(国),http://xxw.me0.cn/api/caonimei.php?live=tvbhyt
-黄金华剧台(粤),http://xxw.me0.cn/api/caonimei.php?live=tvbhyk
+
+东风卫视,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+
+湖南卫视,http://39.135.133.166/wh7f454c46tw2576641530_509099953/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8?icpid=88888888&RTS=1712680915&from=23&hms_devid=1249&online=1712680915&vqe=3
+湖北卫视,http://39.135.133.145:80/wh7f454c46tw3126277939_-1268385368/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8?icpid=88888888&RTS=1712681465&from=23&hms_devid=1237&online=1712681465&vqe=3
+辽宁卫视,http://39.135.133.177:80/wh7f454c46tw3225210887_-1002419951/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?icpid=88888888&RTS=1712681564&from=23&hms_devid=1241&online=1712681564&vqe=3
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+江西卫视,http://39.135.133.166:80/wh7f454c46tw3426898690_-1804820400/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8?icpid=88888888&RTS=1712681765&from=23&hms_devid=1249&online=1712681765&vqe=3
+
+山东卫视,http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225771/index.m3u8
+广东卫视,http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225757/index.m3u8
+重庆卫视,http://39.135.133.169:80/wh7f454c46tw3672506500_-1972527271/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?icpid=88888888&RTS=1712682011&from=23&hms_devid=1243&online=1712682011&vqe=3
+河南卫视,http://39.135.133.157:80/wh7f454c46tw3733779253_-1121315068/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8?icpid=88888888&RTS=1712682072&from=23&hms_devid=1247&online=1712682072&vqe=3
+河北卫视,http://39.135.133.175/wh7f454c46tw3787633118_-566948253/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8?icpid=88888888&RTS=1712682126&from=23&hms_devid=1252&online=1712682126&vqe=3
+贵州卫视,http://39.135.133.161/wh7f454c46tw3895179432_1625125654/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8?icpid=88888888&RTS=1712682233&from=23&hms_devid=1244&online=1712682233&vqe=3
+北京卫视,http://39.135.133.132:80/wh7f454c46tw3986164186_177754831/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8?icpid=88888888&RTS=1712682324&from=23&hms_devid=1239&online=1712682324&vqe=3
+黑龙江卫视,http://39.135.133.181:80/wh7f454c46tw4067101211_-164946325/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8?icpid=88888888&RTS=1712682405&from=23&hms_devid=1250&online=1712682405&vqe=3
+
+浙江卫视,http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+安徽卫视,http://39.135.133.159:80/wh7f454c46tw4187250680_-1126756681/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8?icpid=88888888&RTS=1712682526&from=23&hms_devid=1251&online=1712682526&vqe=3
+
+四川卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
