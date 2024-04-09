@@ -47,16 +47,16 @@
 //},
 
 
- {
-  "key": "玩偶哥哥",
+{
+   "key": "玩偶哥哥",
    "name": "🏆VIP-4k专线1(首选)",
    "type": 3,
-  "api": "csp_WoGG",
-   "searchable": 1,
+ "api": "csp_WoGG",
+  "searchable": 1,
    "quickSearch": 1,
-    "changeable": 0,
-   "jar": "./jar/fan0303.jar",
-  "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+   "changeable": 0,
+    "jar": "./jar/fan0303.jar",
+   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
 
 
@@ -1594,21 +1594,6 @@
  
 
 
-
-
-
-
-
-
-
- 
-
-  
-
-
-
-  
-
 //{"name":"🌎天招VIP","type": 1,"url":"http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
@@ -1619,9 +1604,52 @@
  
 
 
-{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
-}
-},
+//{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
+//}
+//},
+
+
+{
+      "name": "🌎天招VIP2",
+      "type": 1,
+      "url": "http://llyh.xn--yi7aa.top/api/?key=fc82dde9869c739e362a0b6fceb2195b&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+  
+    }
+    },
+
+
+
+
+
 
 
 
@@ -1630,200 +1658,59 @@
       "name": "🌎天招VIP",
       "type": 1,
       "url": "http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=",      
-    "ext": {
+   "ext": {
         "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
+         "qiyi",
+         "imgo",
+         "爱奇艺",
           "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
+         "qq",
+         "腾讯",
+         "youku",
+         "优酷",
+         "pptv",
           "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
+         "letv",
+         "乐视",
+         "leshi",
+         "bilibili",
           "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
+         "哔哩",
+         "mgtv",
+         "芒果",
           "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0"
+         "xigua",
+        "fun",
+         "风行"
+      ],
+      "header": {
+         "User-Agent": "Mozilla/5.0"
         }
       },
       "header": {
         "User-Agent": "Mozilla/5.0"
       }
     },
-    
 
 
 
 
-
-
-    {
-      "name": "左岸🌾",
-      "type": 1,
-      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-      "ext": {
-        "flag": [
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "okhttp/3.12.0"
-        }
-      }
-    },
- {
-      "name": "超解",
-      "type": 1,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-
-    {
-      "name": "杰森",
-      "type": 1,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "战狼",
-      "type": 1,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },
-   {
-      "name": "白茶嗅探",
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "showType": 1
-    },
- {
-      "name": "毛尖嗅探",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        },
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "leshi",
-          "LS",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
- {
-      "name": "青柑嗅探",
-      "type": 0,
-      "url": "http://www.miaoys.cc/vip/?url="
-    },
 {
-      "name": "岩茶嗅探",
+      "name": "🌎天招VIP3",
       "type": 0,
-      "url": "https://jx.ppjbk.cn/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
-
-
-
-
-
-
-
-
-    {
-      "name": "byg解析",
-      "type": 1,
-      "url": "https://byg.ziqj5.shop/?url="
-    },
-    {
-      "name": "xmflv",
-      "type": 1,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "365",
-      "type": 1,
-      "url": "https://chaxun.truechat365.com/?url=",
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
           "qq",
           "腾讯",
           "qiyi",
-          "iqiyi",
           "爱奇艺",
           "奇艺",
           "youku",
           "优酷",
           "mgtv",
           "芒果",
+          "imgo",
           "letv",
           "乐视",
           "pptv",
@@ -1832,29 +1719,25 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ]
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
       }
-    },
-    {
-      "name": "26db",
-      "type": 1,
-      "url": "http://vip.26db.cn/g/?url="
-    },
-    {
-      "name": "看看",
-      "type": 1,
-      "url": "https://jx.m3u8.pw/?url="
-    },
-    {
-      "name": "FreeOK",
-      "type": 1,
-      "url": "https://play.86516.tk/OKPlayer/?url="
-    },
-    {
-      "name": "free",
-      "type": 1,
-      "url": "https://h5.freejson.xyz/player/?url="
     }
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
   ],
     
 
