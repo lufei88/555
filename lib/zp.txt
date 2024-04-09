@@ -723,7 +723,7 @@ J2,http://8.137.59.151:99/haioutz/haiousmttz.php?id=8
 
 翡翠台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=4
 无线新闻,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=5
-无线财经体育,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=6
+无线财经,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=6
 华丽翡翠,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=7
 J2,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=8
 18,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
