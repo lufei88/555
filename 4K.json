@@ -178,18 +178,33 @@
 
 
 
-    {
-      "key": "白嫖",
-      "name": "🥇天招VIP专线7",//小盒白飘
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "./jar/fan0408.jar",
-      "ext": "https://www.baipiaoys.com:9092/"
-    },
+ //   {
+ //     "key": "白嫖",
+ //     "name": "🥇天招VIP专线7",//小盒白飘
+ //     "type": 3,
+ //     "api": "csp_BaiPiao",
+ //     "playerType": 2,
+ //     "searchable": 1,
+ //     "quickSearch": 1,
+ //     "changeable": 1,
+ //     "jar": "./jar/fan0408.jar",
+  //    "ext": "https://www.baipiaoys.com:9092/"
+ //   },
+
+
+
+{
+  "key": "NanGua",   //小盒南瓜
+  "name": "🥇天招VIP专线7",
+  "type": 3,
+  "api": "csp_NanGua",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "null$$$1"
+  },
+
+
+
 
 
 
