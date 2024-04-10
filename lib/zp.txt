@@ -278,6 +278,30 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 卫视频道,#genre#
 
+
+
+
+湖南卫视,http://222.174.140.242:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$
+江苏卫视,http://222.174.140.242:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$
+浙江卫视,http://222.174.140.242:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$
+北京卫视,http://222.174.140.242:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$
+天津卫视,http://222.174.140.242:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$
+湖北卫视,http://222.174.140.242:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$
+山东卫视,http://222.174.140.242:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$
+黑龙江卫视,http://222.174.140.242:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$
+重庆卫视,http://222.174.140.242:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$
+江西卫视,http://222.174.140.242:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$
+贵州卫视,http://222.174.140.242:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$
+河北卫视,http://222.174.140.242:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$
+安徽卫视,http://222.174.140.242:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$
+辽宁卫视,http://222.174.140.242:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$
+吉林卫视,http://222.174.140.242:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$
+河北卫视,http://222.174.140.242:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$
+四川卫视,http://222.174.140.242:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$
+河南卫视,http://222.174.140.242:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$
+
+
+
 北京卫视,http://120.79.4.185/md0410.php?id=bjws
 东方卫视,http://120.79.4.185/md0410.php?id=dfws
 天津卫视,http://120.79.4.185/md0410.php?id=tjws
@@ -304,24 +328,8 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 
 
-湖南卫视,http://222.174.140.242:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$
-江苏卫视,http://222.174.140.242:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$
-浙江卫视,http://222.174.140.242:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$
-北京卫视,http://222.174.140.242:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$
-天津卫视,http://222.174.140.242:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$
-湖北卫视,http://222.174.140.242:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$
-山东卫视,http://222.174.140.242:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$
-黑龙江卫视,http://222.174.140.242:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$
-重庆卫视,http://222.174.140.242:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$
-江西卫视,http://222.174.140.242:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$
-贵州卫视,http://222.174.140.242:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$
-河北卫视,http://222.174.140.242:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$
-安徽卫视,http://222.174.140.242:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$
-辽宁卫视,http://222.174.140.242:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$
-吉林卫视,http://222.174.140.242:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$
-河北卫视,http://222.174.140.242:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$
-四川卫视,http://222.174.140.242:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$
-河南卫视,http://222.174.140.242:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$
+
+
 
 
 
@@ -832,7 +840,107 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
+凤凰中文,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=1
+凤凰资讯,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=2
+凤凰香港,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=3
+翡翠台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=4
+翡翠台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=4
+无线新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=5
+无线财经,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=6
+华丽翡翠,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=7
+J2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=8
+18,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
+亚洲武侠,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=9
 
+千禧经典,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=11
+明珠,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=12
+星河,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=13
+星河粤语,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=14
+天映频道,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=15
+天映经典,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=16
+RHK 31,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=17
+RHK 32,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=18
+VIUTV1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=19
+民视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=26
+台视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=27
+中视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=28
+华视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=29
+TVBSHD,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=30
+TVBS,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=31
+欢乐,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=32
+民视台湾,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=33
+三立综合,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=34
+三立台湾,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=35
+三立都会,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=36
+八大综合,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=37
+爱尔达综,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=38
+中天亚洲,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=39
+中天综合,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=40
+中天娱乐,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=41
+华艺综合,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=42
+东森电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=43
+东森洋片,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=44
+纬来电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=45
+好莱坞电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=46
+AXN 台湾,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=47
+龙华电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=48
+龙华洋片,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=49
+龙华戏剧,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=50
+龙华偶像,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=51
+美亚电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=52
+HBO_HD,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=53
+HBO_HITS,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=54
+HBOSignatureHD,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=55
+HBO温馨家庭,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=56
+TVBS新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=57
+中天新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=58
+台视新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=59
+中视新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=60
+民视新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=61
+东森新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=62
+环宇新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=63
+#非凡新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=64
+#年代新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=65
+东森财经,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=66
+EYETV戏剧,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=67
+EYETV旅游,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=68
+靖天国际,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=69
+靖天卡通,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=70
+东森超视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=71
+#美食星球,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=72
+#亚洲旅游,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=73
+#TLC旅游,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=74
+国家地理野生,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=75
+纬来日本,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=76
+#纬来体育,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=77
+龙华戏剧,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=78
+龙华偶像台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=79
+美亚电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=80
+CINEMAX,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=81
+HBO_HD,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=82
+HBO_HITS,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=83
+HBOSignatureHD,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=84
+HBO温馨家庭,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=85
+爱尔达体育1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=91
+爱尔达体育2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=92
+爱尔达体育3,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=93
+博斯运动1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=94
+博斯运动2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=95
+博斯高球1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=96
+博斯高球2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=97
+博斯网球,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=98
+astr Supersports 1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=99
+astr Supersports 2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=100
+astr Supersports 3,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=101
+astr Supersports 4,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=102
+WWE,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=103
+UFC,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=104
+TNT Sports 1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=105
+TNT Sports 2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=106
+TNT Sports 3,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=107
+TNT Sports 4,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=108
+SONY Sports 1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=109
+SONY Sports 2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=110
 
 
 
