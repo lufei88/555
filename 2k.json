@@ -96,10 +96,24 @@
  },
 
 
+{
+  "key": "芒果",
+  "name": "🥇天招VIP专线2",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/mangguo.js"
+  },
+
+
+
+
+
+
+
 
 {
   "key": "腾讯",
-  "name": "🥇天招VIP专线2",
+  "name": "🥇天招VIP专线3",
   "type": 3,
   "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
   "ext": "./lib/腾讯.js"
@@ -110,7 +124,7 @@
 
 {
   "key": "爱奇异",
-  "name": "🥇天招VIP专线3",
+  "name": "🥇天招VIP专线4",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -120,7 +134,7 @@
 
 {
   "key": "优酷",
-  "name": "🥇天招VIP专线4",
+  "name": "🥇天招VIP专线5",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -140,43 +154,57 @@
 
 
 
-
 {
-  "key": "芒果",
-  "name": "🥇天招VIP专线5",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/mangguo.js"
-  },
-
-
-
-
-
-{
-  "key": "drpy_js_360影视",
-  "name": "🥇天招VIP专线6",
-  "type": 3,
-  //"jar": "./jar/sa0226.jar",
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/360影视.js"
-  },
-
-
-
-
-    {
-      "key": "白嫖",
-      "name": "🥇天招VIP专线7",//小盒白飘
+      "key": "搜狗",
+      "name": "🥇天招VIP专线6",
       "type": 3,
-      "api": "csp_BaiPiao",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "./jar/fan0408.jar",
-      "ext": "https://www.baipiaoys.com:9092/"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/caigou.js"
     },
+
+
+
+
+
+//{
+//  "key": "drpy_js_360影视",
+//  "name": "🥇天招VIP专线6",
+//  "type": 3,
+//  //"jar": "./jar/sa0226.jar",
+//  "api": "./lib/drpy2.min.js",
+//  "ext": "./lib/360影视.js"
+//  },
+
+
+
+
+ //   {
+ //     "key": "白嫖",
+ //     "name": "🥇天招VIP专线7",//小盒白飘
+ //     "type": 3,
+ //     "api": "csp_BaiPiao",
+ //     "playerType": 2,
+ //     "searchable": 1,
+ //     "quickSearch": 1,
+ //     "changeable": 1,
+ //     "jar": "./jar/fan0408.jar",
+  //    "ext": "https://www.baipiaoys.com:9092/"
+ //   },
+
+
+
+{
+  "key": "NanGua",   //小盒南瓜
+  "name": "🥇天招VIP专线7",
+  "type": 3,
+  "api": "csp_NanGua",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "null$$$1"
+  },
+
+
+
 
 
 
