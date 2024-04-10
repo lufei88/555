@@ -69,17 +69,17 @@
 
 
 
-//{"key": "马铃薯",
-//"name": "🏆VIP-4k专线3(首选)",//来自小盒会员
-//"type": 3,
-//"api": "csp_Tudou",
-//"quickSearch": 1,
-//"changeable": 1,
-//"filterable": 1,
-//"timeout": 30,
-//"jar": "./jar/tudou.jar",
-//"ext": "./tvbox/tok.txt$$$https://aliz.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
-//},
+{"key": "马铃薯",
+"name": "🏆VIP-4k专线3(首选)",//来自小盒会员
+"type": 3,
+"api": "csp_Tudou",
+"quickSearch": 1,
+"changeable": 1,
+"filterable": 1,
+"timeout": 30,
+"jar": "./jar/tudou.jar",
+"ext": "./tvbox/tok.txt$$$https://tudou.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
+},
 
 
 
