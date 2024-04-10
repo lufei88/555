@@ -859,7 +859,6 @@ J2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=8
 天映频道,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=15
 天映经典,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=16
 RHK 31,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=17
-RHK 32,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=18
 VIUTV1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=19
 民视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=26
 台视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=27
@@ -941,23 +940,6 @@ TNT Sports 3,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=107
 TNT Sports 4,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=108
 SONY Sports 1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=109
 SONY Sports 2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=110
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
