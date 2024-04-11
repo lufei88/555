@@ -719,6 +719,29 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 [港•澳•台],#genre#
 
+
+凤凰中文,http://8.137.59.151:99/haioutz/haiousmttz.php?id=1
+凤凰资讯,http://8.137.59.151:99/haioutz/haiousmttz.php?id=2
+凤凰香港,http://8.137.59.151:99/haioutz/haiousmttz.php?id=3
+TVB翡翠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=4
+无线新闻,http://8.137.59.151:99/haioutz/haiousmttz.php?id=5
+无线财经,http://8.137.59.151:99/haioutz/haiousmttz.php?id=6
+华丽翡翠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=7
+J2,http://8.137.59.151:99/haioutz/haiousmttz.php?id=8
+18,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
+亚洲武侠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=9
+娱乐新闻,http://8.137.59.151:99/haioutz/haiousmttz.php?id=10
+千禧经典,http://8.137.59.151:99/haioutz/haiousmttz.php?id=11
+天映频道,http://8.137.59.151:99/haioutz/haiousmttz.php?id=15
+
+
+
+
+
+
+
+
+
 凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
 凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 
@@ -759,19 +782,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-凤凰中文,http://8.137.59.151:99/haioutz/haiousmttz.php?id=1
-凤凰资讯,http://8.137.59.151:99/haioutz/haiousmttz.php?id=2
-凤凰香港,http://8.137.59.151:99/haioutz/haiousmttz.php?id=3
-TVB翡翠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=4
-无线新闻,http://8.137.59.151:99/haioutz/haiousmttz.php?id=5
-无线财经,http://8.137.59.151:99/haioutz/haiousmttz.php?id=6
-华丽翡翠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=7
-J2,http://8.137.59.151:99/haioutz/haiousmttz.php?id=8
-18,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
-亚洲武侠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=9
-娱乐新闻,http://8.137.59.151:99/haioutz/haiousmttz.php?id=10
-千禧经典,http://8.137.59.151:99/haioutz/haiousmttz.php?id=11
-天映频道,http://8.137.59.151:99/haioutz/haiousmttz.php?id=15
+
 
 凤凰中文,http://8.137.59.151:99/haioujk04/haiousmtjk666.php?id=1
 凤凰资讯,http://8.137.59.151:99/haioujk04/haiousmtjk666.php?id=2
