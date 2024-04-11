@@ -739,43 +739,10 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-
-
-
-
-
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-
-
-
-
-
-
-
-
-
-凤凰中文,http://ali.hlspull.yximgs.com/live/haiou999phoenixtv_hd.flv
-凤凰资询,http://ali.hlspull.yximgs.com/live/haiou999phoenixinfo_hd.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/haiou999hkphoenix_twn.flv
-翡翠台,http://ali.hlspull.yximgs.com/live/haiou999jade_twn.flv
-无线新闻,http://ali.hlspull.yximgs.com/live/haiou999inews_twn.flv
-无线财经,http://ali.hlspull.yximgs.com/live/haiou999tvbcaijing_twn.flv
-华丽翡翠,http://ali.hlspull.yximgs.com/live/haiou999Wlt.flv
-J2,http://ali.hlspull.yximgs.com/live/haiou999j2_twn.flv
-18,http://ali.hlspull.yximgs.com/live/haiou99918.flv
-亚洲武侠,http://ali.hlspull.yximgs.com/live/haiou999tvbyzwx.flv
-娱乐新闻,http://ali.hlspull.yximgs.com/live/haiou999Tvbentertainment.flv
-千禧经典,http://ali.hlspull.yximgs.com/live/haiou999Tvbclassic.flv
-天映频道,http://ali.hlspull.yximgs.com/live/haiou999Celestial_mega.flv
-
-
-
-
-
-
 
 
 
@@ -789,26 +756,19 @@ J2,http://ali.hlspull.yximgs.com/live/haiou999j2_twn.flv
 
 
 
-无线财经,http://bziyunshao.synology.me:8890/bysid/85
-无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+
+
 无线财经,http://live.cooltv.top/tv/tvb.php?id=3
-无线财经,http://1.65.195.85:9981/stream/channelid/1781676223?
-无线财经,http://1.65.195.85:9981/stream/channelid/1781676223?ticket=1655ad1b29eb46b035d82ca8eace45223640062a&profile=pass
+无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 
 
 
 
-
-
-翡翠台,http://120.84.121.250:808/hls/25/index.m3u8
-翡翠台,http://bziyunshao.synology.me:8889/bysid/1
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 
 翡翠台,https://epg.pw/stream/801a4d6c7df2878951e19be994cbb9ccaef32bfd863db663ee4440375b9e7a70.m3u8
-翡翠台,http://yuju666888.x3322.net:808/hls/105/index.m3u8
-翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+
 
 
 
@@ -826,19 +786,14 @@ AMC电影,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
 
 
 
-明珠台,http://120.84.121.250:808/hls/26/index.m3u8
+
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
-明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
-明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
-明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
-明珠台,http://yuju666888.x3322.net:808/hls/106/index.m3u8
+
+
 
 
 
 娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-
-
-
 星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 
 J2,http://bziyunshao.synology.me:8890/bysid/82
@@ -853,7 +808,7 @@ HOY77,http://223.71.206.22:30080/HK/hoy77/hls.m3u8
 
 
 RTHK32,http://bziyunshao.synology.me:8892/bysid/32
-RTHK32,http://bziyunshao.synology.me:8892/bysid/33
+RTHK33,http://bziyunshao.synology.me:8892/bysid/33
 
 
 
