@@ -7845,4 +7845,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 
 测试2,#genre#
-
+1,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
+2,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+36,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
