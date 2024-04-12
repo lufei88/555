@@ -720,21 +720,65 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 [港•澳•台],#genre#
 
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
+翡翠台,http://mtw.so/6oKvgt
+星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线新闻,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
+
+
+
+中天新闻,http://154.yfvodcdn.com:8080/live/ztylt02/hls.m3u8
+三立新闻,http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
+三立新闻+,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
+民视新闻,http://154.yfvodcdn.com:8080/live/tymsxw1/hls.m3u8
+台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
+中视频道,http://154.yfvodcdn.com:8080/live/ztylt06/hls.m3u8
+
+中天新闻,http://58.87.99.251:8090/HK/ztxw/hls.m3u8
+中视频道,rtmp://220.130.201.73/sat/tv091
+华视频道,rtmp://220.130.201.73/sat/tv111
+台视频道,rtmp://220.130.201.73/sat/tv071
+民视频道,rtmp://220.130.201.73/sat/tv051
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://220.130.201.73/sat/tv701
+纬来日本,rtmp://220.130.201.73/sat/tv771
+东森超视,rtmp://220.130.201.73/sat/tv331
+
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+
+
+
+
+
+
+
 
 
 
 凤凰中文,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=1
 凤凰资讯,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=2
-
 翡翠台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=4
-
 无线新闻,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=5
 无线财经,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=6
 华丽翡翠,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=7
 J2,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=8
 18,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
 亚洲武侠,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=9
-
 千禧经典,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=11
 明珠台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=12
 星河台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=13
@@ -7842,36 +7886,8 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 
 测试2,#genre#
-无线新闻,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
-中天新闻2,http://154.yfvodcdn.com:8080/live/ztylt02/hls.m3u8
-三立新闻,http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
-三立新闻+,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
-民视新闻,http://154.yfvodcdn.com:8080/live/tymsxw1/hls.m3u8
-台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
-中视频道,http://154.yfvodcdn.com:8080/live/ztylt06/hls.m3u8
 
-中天新闻2,http://58.87.99.251:8090/HK/ztxw/hls.m3u8
-中视频道2,rtmp://220.130.201.73/sat/tv091
-华视频道2,rtmp://220.130.201.73/sat/tv111
-台视频道2,rtmp://220.130.201.73/sat/tv071
-民视频道2,rtmp://220.130.201.73/sat/tv051
-纬来体育2,rtmp://220.130.201.73/sat/tv721
-纬来育乐2,rtmp://220.130.201.73/sat/tv701
-纬来日本2,rtmp://220.130.201.73/sat/tv771
-东森超视2,rtmp://220.130.201.73/sat/tv331
 
-民视频道3,rtmp://f13h.mine.nu/sat/tv051
-台视频道3,rtmp://f13h.mine.nu/sat/tv071
-中视频道3,rtmp://f13h.mine.nu/sat/tv091
-华视频道3,rtmp://f13h.mine.nu/sat/tv111
-纬来体育3,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐3,rtmp://f13h.mine.nu/sat/tv701
-纬来日本3,rtmp://f13h.mine.nu/sat/tv771
-东森超视3,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合3,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 
 
