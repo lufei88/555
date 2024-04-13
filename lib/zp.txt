@@ -858,14 +858,7 @@ astr Supersports 1,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=99
 astr Supersports 2,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=100
 astr Supersports 3,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=101
 astr Supersports 4,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=102
-WWE,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=103
-UFC,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=104
-TNT Sports 1,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=105
-TNT Sports 2,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=106
-TNT Sports 3,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=107
-TNT Sports 4,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=108
-SONY Sports 1,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=109
-SONY Sports 2,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=110
+
 
 
 
