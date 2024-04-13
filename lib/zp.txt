@@ -722,7 +722,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
-翡翠台,http://mtw.so/6oKvgt
+
 星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线新闻,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
 
