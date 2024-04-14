@@ -1205,7 +1205,7 @@
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
       "ext": {
-        "aliToken": "tvfan/token.txt",
+        "aliToken": "./tvfan/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -1218,7 +1218,12 @@
       "quickSearch": 1,
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
-       "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      // "ext": "./tvbox/tok.txt+4k|fhd|auto"
+        "ext": {
+        "aliToken": "./tvbox/tok.txt",
+        "from": "4k|auto|fhd"
+      }
+
     },
     {
       "key": "UpYun",
@@ -1243,7 +1248,10 @@
       "quickSearch": 1,
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
-     "ext": "./tvbox/tok.txt+4k|fhd|auto"
+       "ext": {
+        "aliToken": "./tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
     },
 
 
