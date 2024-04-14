@@ -1219,7 +1219,7 @@
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
     "ext": {
-        "aliToken": "tvfan/token.txt",
+        "aliToken": "./tvfan/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -1233,7 +1233,7 @@
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
         "ext": {
-        "aliToken": "tvfan/token.txt",
+        "aliToken": "./tvfan/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -1247,7 +1247,7 @@
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
       "ext": {
-        "aliToken": "./tvbox/tok.txt",
+        "aliToken": "./tvfan/token.txt",
         "from": "4k|auto|fhd"
       }
     },
