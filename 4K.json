@@ -1204,7 +1204,10 @@
       "quickSearch": 1,
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
-     "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "PanSou",
@@ -1215,8 +1218,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
-      "ext": {
-        "aliToken": "./tvbox/tok.txt",
+    "ext": {
+        "aliToken": "tvfan/token.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -1229,8 +1232,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
-      "ext": {
-        "aliToken": "./tvbox/tok.txt",
+        "ext": {
+        "aliToken": "tvfan/token.txt",
         "from": "4k|auto|fhd"
       }
     },
