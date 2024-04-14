@@ -1205,6 +1205,23 @@
 
 
 
+       {
+            "key": "PanSou",
+            "name": "🇹┃盘搜4K┃搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+        },
+
+
+
+
+
+
+
 
 
  
