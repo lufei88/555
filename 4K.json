@@ -1195,13 +1195,20 @@
 
 
 
- 
 
 
 
-
-
-
+         {
+            "key": "YiSo",
+            "name": "🇹┃易搜4K┃搜索",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+             "jar": "./jar/fan0303.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+        },
 
 
 
@@ -1216,6 +1223,35 @@
             "jar": "./jar/fan0303.jar",
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
         },
+
+
+
+    {
+            "key": "UpYun",
+            "name": "🇹┃Up搜4K┃搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+             "jar": "./jar/fan0303.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+        },
+        {
+            "key": "七夜",
+            "name": "🇹┃七夜4K┃搜索",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+             "jar": "./jar/fan0303.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+        },
+        {
+
+
+
 
 
 
