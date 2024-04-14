@@ -72,13 +72,13 @@
 //{"key": "马铃薯",
 //"name": "🏆VIP-4k专线3(首选)",//来自小盒会员
 //"type": 3,
-//"api": "csp_Wobg",
+//"api": "csp_Tudou",
 //"quickSearch": 1,
 //"changeable": 1,
 //"filterable": 1,
 //"timeout": 30,
 //"jar": "./jar/tudou.jar",
-//"ext": "./tvbox/tok.txt$$$https://tudou.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
+//"ext": "./tvbox/tok.txt$$$https://aliz.lvdoui.top/$$$null$$$1$$$./json/wogg.json"
 //},
 
 
@@ -1564,58 +1564,11 @@
     },
 
 
-{
-      "key": "csp_Bili_dashan",
-      "name": "💋┃搭讪┃教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/搭讪.json"
-    },
-    {
-      "key": "csp_Bili__dapei",
-      "name": "💋┃搭配┃教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/搭配.json"
-    },
-
-
-{
-      "key": "csp_Bili_TYjs",
-      "name": "🅱️┃体育┃健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/tiyu.json"
-    },
 
 
 
 
 
-
-{
-      "key": "csp_Bili_zyy",
-      "name": "🅱️┃中医┃药区",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/zyy.json"
-    },
 
 
 
