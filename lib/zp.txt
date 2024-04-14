@@ -755,8 +755,8 @@ J2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=8
 亚洲武侠,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=9
 
 
-#TVB明珠台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=12
-#TVB_星河台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=13
+明珠台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=12
+星河台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=13
 
 天映频道,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=15
 天映经典,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=16
