@@ -1204,10 +1204,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "jar": "./jar/fan0414.jar",
-      "ext": {
-        "aliToken": "./tvbox/tok.txt",
-        "from": "4k|auto|fhd"
-      }
+     "ext": "./tvbox/tok.txt+4k|fhd|auto"
     },
     {
       "key": "PanSou",
