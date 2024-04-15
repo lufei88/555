@@ -1332,9 +1332,11 @@
       "quickSearch": 0,
       "changeable": 0
     },
+
+
     {
       "key": "企鹅体育xp",
-      "name": "🐧鹅鹅┃体育",　　　//饭太硬
+      "name": "🐧鹅鹅┃体育",//饭太硬
       "type": 3,
       "api": "csp_XPath",
       "style": {
@@ -1347,14 +1349,18 @@
     },
 
 
-    {
-      "key": "88js",　　
-      "name": "⚽ 88┃看球",　//饭太硬
+      {
+      "key": "88js",
+      "name": "⚽ 88┃看球",
       "type": 3,
       "api": "csp_Kanqiu",
       "style": {
         "type": "list"
       },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
 
 
 
