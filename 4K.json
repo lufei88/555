@@ -1298,20 +1298,21 @@
 
 
 
+
     {
-      "key": "csp_qiumi",
+      "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-     "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
+      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/jrk.js",
       "style": {
-        "type": "rect",
-        "ratio": 1
+        "type": "list"
       },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+
+
+
+
+
 
 
 
@@ -1328,6 +1329,15 @@
       "quickSearch": 0,
       "changeable": 0
     },
+
+
+
+
+
+
+
+
+
 
 
 
