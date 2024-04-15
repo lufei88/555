@@ -1319,13 +1319,12 @@
 
 
 
-
-    {
-      "key": "csp_310直播",     //饭太硬
-      "name": "⚽310┃看球",
+   {
+      "key": "310js",
+      "name": "⚽310┃看球",　　　//饭太硬
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
+      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js",
       "style": {
         "type": "list"
       },
@@ -1333,32 +1332,30 @@
       "quickSearch": 0,
       "changeable": 0
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "key": "企鹅体育xp",
+      "name": "🐧鹅鹅┃体育",　　　//饭太硬
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
+    },
 
 
     {
-      "key": "py_qie",
-      "name": "🏀┃企鹅┃体育",
+      "key": "88js",　　
+      "name": "⚽ 88┃看球",　//饭太硬
       "type": 3,
-      "api": "py_qie",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/qie.py"
-    },
+      "api": "csp_Kanqiu",
+      "style": {
+        "type": "list"
+      },
+
 
 
 
