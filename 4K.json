@@ -1300,6 +1300,18 @@
 
 
       {
+      "key": "88js",
+      "name": "⚽ 88┃看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
@@ -1312,16 +1324,9 @@
       "quickSearch": 0,
       "changeable": 0
     },
-
-
-
-
-
-
-
-   {
+    {
       "key": "310js",
-      "name": "⚽310┃看球",　　　//饭太硬
+      "name": "⚽310┃看球",
       "type": 3,
       "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js",
@@ -1332,11 +1337,9 @@
       "quickSearch": 0,
       "changeable": 0
     },
-
-
     {
       "key": "企鹅体育xp",
-      "name": "🐧鹅鹅┃体育",//饭太硬
+      "name": "🐧鹅鹅┃体育",
       "type": 3,
       "api": "csp_XPath",
       "style": {
@@ -1347,21 +1350,6 @@
       "changeable": 0,
       "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
     },
-
-
-      {
-      "key": "88js",
-      "name": "⚽ 88┃看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-
 
 
 
