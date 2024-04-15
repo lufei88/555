@@ -1299,7 +1299,7 @@
 
 
 
-    {
+      {
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
@@ -1308,6 +1308,10 @@
       "style": {
         "type": "list"
       },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
 
 
 
