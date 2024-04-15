@@ -1198,77 +1198,69 @@
 
 
 
+         {
+            "key": "YiSo",
+            "name": "🇹┃易搜4K┃搜索",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+             "jar": "./jar/fan0303.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+        },
 
 
+
+       {
+            "key": "PanSou",
+            "name": "🇹┃盘搜4K┃搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar": "./jar/fan0303.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+        },
 
 
 
     {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
-      
-    },
-
-    {
-      "key": "YiSo",
-      "name": "🛎易搜┃云盘",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-
-     // "ext": "./tvbox/tok.txt+4k|fhd|auto"
-
-     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30
-    },
-   
-    {
-      "key": "PanSou",
-      "name": "🔘盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-
-      //"ext": "./tvbox/tok.txt+4k|auto|fhd"
-      "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", 
-      "timeout":30
-     
+            "key": "UpYun",
+            "name": "🇹┃Up搜4K┃搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+             "jar": "./jar/fan0303.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+        },
+        {
+            "key": "PanSearch",
+            "name": "🇹┃盘Se┃搜索",
+            "type": 3,
+             "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+             "jar": "./jar/fan0303.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+        },
+    
 
 
-    },
-
-  
-
-    {
-      "key": "UpYun",
-      "name": "📫Up┃云盘",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
-
-     "ext": "./tvbox/tok.txt+4k|fhd|auto"
-
-    },
 
 
- 
+
+
+
+
+
+
+
+
  
 
 
@@ -1306,29 +1298,12 @@
 
 
 
-    {
-      "key": "csp_qiumi",
-      "name": "⚽ Jrs┃球迷",
+
+      {
+      "key": "88js",
+      "name": "⚽ 88┃看球",
       "type": 3,
-     "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-
-
-
-    {
-      "key": "csp_310直播",     //饭太硬
-      "name": "⚽310┃看球",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
+      "api": "csp_Kanqiu",
       "style": {
         "type": "list"
       },
@@ -1336,22 +1311,44 @@
       "quickSearch": 0,
       "changeable": 0
     },
-
-
-
-
-
-
-
     {
-      "key": "py_qie",
-      "name": "🏀┃企鹅┃体育",
+      "key": "Jrsjs",
+      "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "py_qie",
+      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/jrk.js",
+      "style": {
+        "type": "list"
+      },
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/qie.py"
+      "changeable": 0
+    },
+    {
+      "key": "310js",
+      "name": "⚽310┃看球",
+      "type": 3,
+      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "企鹅体育xp",
+      "name": "🐧鹅鹅┃体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
     },
 
 
