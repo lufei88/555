@@ -25,7 +25,7 @@
 
 
 
-
+{"id":"130","title":"华数TV","logo":"https://img.32r.com/logo/20240126/65d2442046ae5d1b3101baa841caf5c9.png","desc1":"影视应用","desc":"华数TV电视版是一款专门为互联网电视设计制作的影音应用，为用户提供最贴心的视频点播业务。在华数TV全网影视TV版内你可以体验VIP专区的全部资源，全都是高质量内容，画质堪比影院：4K画质，杜比音效、1080P。华数TV以智能化、服务式、多场景的互动模式和超高清的播放体验，向全家人提供“陪伴式运营 管家式服务”看电视的新体验。助您时刻掌握新资讯，尽情点播人气综艺，任意畅享精品影视！","baoming":"cn.com.wasu.main","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/hstv.apk","image1":"https://img.32r.com/uppic/210307/202103070938308572.jpg","image2":"https://img.32r.com/uppic/201230/202012301044514383.jpg","daxiao":"25.8MB","create_time":"3 天以前 "}
 
 
 
