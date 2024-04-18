@@ -1376,6 +1376,17 @@
     },
 
 
+{
+      "key": "csp_Bili_TYjs",
+      "name": "🅱️┃体育┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "http://oneone.dynv6.net:9999/viplib/tiyu.json"
+    },
 
 
 
@@ -1621,17 +1632,6 @@
 
 
 
-{
-      "key": "csp_Bili_TYjs",
-      "name": "🅱️┃体育┃健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/tiyu.json"
-    },
 
 
 
