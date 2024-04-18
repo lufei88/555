@@ -1626,9 +1626,6 @@
  
 
 
-//{"name":"🌎天招VIP","type": 1,"url":"http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-{"name": "📦小盒NBY","type": 1,"url": "http://121.62.61.51:6888/api/?key=0xsJcv8gDw9W9viFCW&url=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 {"name": "📦小盒会员专属","type": 1,"url": "http://124.220.58.210:991/api/?key=dHM99rsoKp6zswsBzH&url=","ext": {"flag": ["FYNB"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
@@ -1730,55 +1727,6 @@
 
 
 
-
-
-
-
-
-
-
-
-//{
-//      "name": "🌎天招VIP",
- //     "type": 1,
- //     "url": "http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=",      
- //  "ext": {
- //       "flag": [
- //        "qiyi",
- //        "imgo",
- //        "爱奇艺",
- //         "奇艺",
- //        "qq",
- //        "腾讯",
-   //      "youku",
-   //      "优酷",
-   //      "pptv",
-   //       "PPTV",
-   //      "letv",
-    //     "乐视",
-   //      "leshi",
-    //     "bilibili",
-   //       "哔哩哔哩",
-    //     "哔哩",
-    //     "mgtv",
-    //     "芒果",
-     //     "sohu",
-    //     "xigua",
-    //    "fun",
-    //     "风行"
-    //  ],
-   //   "header": {
-   //      "User-Agent": "Mozilla/5.0"
-   //     }
-    //  },
-  //    "header": {
-  //      "User-Agent": "Mozilla/5.0"
- //    }
- //   },
-
-
-
-
 {
       "name": "🌎天招VIP6",
       "type": 0,
@@ -1811,22 +1759,11 @@
     }
 
 
-
-
-
-
-
-
-
-
-
- 
-  
   ],
     
 
 
-
+"flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
 
 
