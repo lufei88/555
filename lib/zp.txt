@@ -953,9 +953,9 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线财经,http://live.cooltv.top/tv/tvb.php?id=3
 无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-翡翠台,https://epg.pw/stream/801a4d6c7df2878951e19be994cbb9ccaef32bfd863db663ee4440375b9e7a70.m3u8
-翡翠台,http://bziyunshao.synology.me:8889/bysid/1
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+
+
+
 
 
 
