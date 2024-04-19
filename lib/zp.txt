@@ -729,7 +729,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 翡翠台,http://8.137.59.151:99/haioujk6677/haiousmtjk666.php?id=4
 无线新闻,http://8.137.59.151:99/haioujk6677/haiousmtjk666.php?id=5
 无线财经,http://8.137.59.151:99/haioujk6677/haiousmtjk666.php?id=6
-华丽翡翠,http://8.137.59.151:99/haioujk6677/haiousmtjk666.php?id=7
+
 J2,http://8.137.59.151:99/haioujk6677/haiousmtjk666.php?id=8
 亚洲武侠,http://8.137.59.151:99/haioujk6677/haiousmtjk666.php?id=9
 千禧经典,http://8.137.59.151:99/haioujk6677/haiousmtjk666.php?id=11
