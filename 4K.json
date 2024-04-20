@@ -1930,10 +1930,10 @@
 
   "lives": [
     {
-      "name": "IPv4",
+      "name": "天招智盒",
       "type": 0,
       "url": "http://61.158.166.45:1332/ds.php",
-      "ua": "okhttp/3.12.13",
+      "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
