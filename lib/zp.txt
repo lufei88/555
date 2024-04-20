@@ -712,7 +712,7 @@ CCTV-15,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 
@@ -938,12 +938,6 @@ TNT Sports 4,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=108
 
 
 
-无线新闻,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
-三立新闻,http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
-三立新闻+,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
-民视新闻,http://154.yfvodcdn.com:8080/live/tymsxw1/hls.m3u8
-台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
-中视频道,http://154.yfvodcdn.com:8080/live/ztylt06/hls.m3u8
 
 
 中视新闻,rtmp://220.130.201.73/sat/tv091
@@ -988,8 +982,8 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+
+
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
@@ -1003,29 +997,14 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 
-八大综合,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
-tbvs频道,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
-八大戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
-三立戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
-AMC电影,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
-纬来精彩,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
-八大一台,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
-野生频道,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
-
-
-明珠,http://bziyunshao.synology.me:8890/bysid/2
 
 娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 
 J2,http://bziyunshao.synology.me:8890/bysid/82
 
-HOY76,http://bziyunshao.synology.me:8891/bysid/76
-HOY77,http://bziyunshao.synology.me:8891/bysid/77
-HOY77,http://223.71.206.22:30080/HK/hoy77/hls.m3u8
 
-RTHK32,http://bziyunshao.synology.me:8892/bysid/32
-RTHK33,http://bziyunshao.synology.me:8892/bysid/33
+
 
 
 
@@ -1059,12 +1038,10 @@ cgtn,http://livetv.skycf.eu.org:80/live.m3u8?c=15
 
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 中天新闻,http://s2.pub/cctv-17
-viu,http://bziyunshao.synology.me:8889/bysid/99
-viu,http://223.71.206.22:30080/HK/viu/hls.m3u8
-viu6,http://bziyunshao.synology.me:8889/bysid/96
-viu6,http://223.71.206.22:30080/HK/viu6/hls.m3u8
 
-FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+
+
+
 
 
 欧洲华文教育,http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
@@ -1159,7 +1136,7 @@ CGNTV,http://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 
-香港开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+http://livetv.skycf.eu.org/live.m3u8?c=3
 
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
