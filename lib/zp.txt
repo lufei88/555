@@ -778,100 +778,108 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 翡翠台,http://ali.hlspull.yximgs.com/live/haiou999jade_twn.flv
-翡翠台,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=jade_twn
+翡翠台,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=jade_twn
 无线新闻,http://ali.hlspull.yximgs.com/live/haiou999inews_twn.flv
-无线新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=inews_twn
+无线新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=inews_twn
 无线财经,http://ali.hlspull.yximgs.com/live/haiou999tvbcaijing_twn.flv
-无线财经,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=tvbcaijing_twn
+无线财经,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=tvbcaijing_twn
 J2,http://ali.hlspull.yximgs.com/live/haiou999j2_twn.flv
-J2,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=j2_twn
+J2,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=j2_twn
 亚洲武侠,http://ali.hlspull.yximgs.com/live/haiou999tvbyzwx.flv
 亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 千禧经典,http://ali.hlspull.yximgs.com/live/haiou999Tvbclassic.flv
-千禧经典,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=Tvbclassic
+千禧经典,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=Tvbclassic
 
 
 18,http://ali.hlspull.yximgs.com/live/haiou99918.flv
-娱乐新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=Tvbentertainment
-明珠台,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=pearl_twn
-星河台,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=tvbxinhe_twn
-天映频道,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=Celestial_mega
-天映经典,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=Celestial2_mega
-RHK 31,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=rhk31_twn
-VIUTV1,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=Huahee
+娱乐新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=Tvbentertainment
+明珠台,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=pearl_twn
+星河台,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=tvbxinhe_twn
+天映频道,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=Celestial_mega
+       
+
+
+天映经典,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=Celestial2_mega
+RHK 31,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=rhk31_twn
+VIUTV1,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=Huahee
 
 
 
-民视,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ftvhd_taiwan
-台视,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ttv_taiwan
-中视,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=zhongshihd_twn
-华视,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ctshd_twn
-TVBSHD,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=tvbs
-TVBS,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=Tvbasia
-TVBS欢乐,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=tvbshuanle_twn
-民视台湾,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ftvtaiwan_twn
-三立综合,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=sanlizhonghe
-三立台湾,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=sanlitaiwan
-三立都会,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=sanlidouhui_twn
-八大综合,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=badazhonghe
-爱尔达综,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=eltazonghe
-中天亚洲,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ctiasia_twn
-中天综合,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ctizhonghe
-中天娱乐,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ctient
-华艺综合,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=weishichinese_twn
-东森电影,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ettvmovie
-东森洋片,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ettvwestern
-纬来电影,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=videolandmovie
-好莱坞电影,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=hollywoodmovies_twn
-AXN 台湾,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=axn_twn
-龙华电影,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=xingwei_movie
-龙华洋片,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=lunghuawestern_twn
-龙华戏剧,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=lunghuaxiju_twn
-龙华偶像,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=lunghuaidol_twn
-美亚电影,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=meiyamovie_twn
-HBO_HD,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=Hbo
-HBO_HITS,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=hbohead_twn
-HBOSignatureHD,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=Hbosignature
-HBO温馨家庭,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=fyi_twn
-TVBS新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=tvbs_n
-中天新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ctinews
-台视新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ttvnews_twn
-中视新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=zhongshinews_twn
-民视新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ftvnew_taiwan
-东森新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ettvnews
-环宇新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=huanyuxinwen_twn
-非凡新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=feifannews_twn
-年代新闻,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=niandainews_twn
-东森财经,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ettvcaijing_twn
-EYETV戏剧,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=eyetvxiju_twn
-EYETV旅游,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=eyetvtravel_twn
-靖天国际,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=jingtianintl_twn
-靖天卡通,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=jingtiancartoon_twn
-东森超视,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=ettvsuper
-美食星球,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=foodplanet_twn
-亚洲旅游,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=asiatravel_twn
-TLC旅游,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=tlc_twn
-国家地理野生,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=natgeowild_twn
-纬来日本,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=videolandjapan
-纬来体育,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=videolandsport
-CINEMAX,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=cinemax_twn
-爱尔达体育1,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=eltasport1_twn
-爱尔达体育2,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=eltasport2_twn
-爱尔达体育3,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=eltasport3_twn
-博斯运动1,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=bosisport1_twn
-博斯运动2,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=bosisport2_twn
-博斯高球1,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=bosigolf1_twn
-博斯高球2,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=bosigolf2_twn
-博斯网球,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=bositennis_twn
-astr Supersports 1,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=go_assp1
-astr Supersports 2,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=go_assp2
-astr Supersports 3,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=go_assp3
-astr Supersports 4,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=go_assp4
-WWE,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=Wwe
-TNT Sports 1,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=beeone
-TNT Sports 2,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=beetwo
-TNT Sports 3,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=beethree
-TNT Sports 4,http://61.158.166.45:1301/newsmtjk.php?key=haiou3355&id=beefour
+
+
+
+民视,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ftvhd_taiwan
+台视,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ttv_taiwan
+中视,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=zhongshihd_twn
+华视,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ctshd_twn
+TVBSHD,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=tvbs
+TVBS,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=Tvbasia
+TVBS欢乐,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=tvbshuanle_twn
+民视台湾,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ftvtaiwan_twn
+三立综合,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=sanlizhonghe
+三立台湾,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=sanlitaiwan
+三立都会,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=sanlidouhui_twn
+八大综合,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=badazhonghe
+爱尔达综,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=eltazonghe
+中天亚洲,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ctiasia_twn
+中天综合,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ctizhonghe
+中天娱乐,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ctient
+华艺综合,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=weishichinese_twn
+东森电影,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ettvmovie
+东森洋片,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ettvwestern
+纬来电影,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=videolandmovie
+好莱坞电影,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=hollywoodmovies_twn
+AXN 台湾,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=axn_twn
+龙华电影,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=xingwei_movie
+龙华洋片,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=lunghuawestern_twn
+龙华戏剧,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=lunghuaxiju_twn
+龙华偶像,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=lunghuaidol_twn
+美亚电影,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=meiyamovie_twn
+HBO_HD,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=Hbo
+HBO_HITS,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=hbohead_twn
+HBOSignatureHD,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=Hbosignature
+HBO温馨家庭,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=fyi_twn
+TVBS新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=tvbs_n
+中天新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ctinews
+台视新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ttvnews_twn
+中视新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=zhongshinews_twn
+民视新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ftvnew_taiwan
+东森新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ettvnews
+环宇新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=huanyuxinwen_twn
+非凡新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=feifannews_twn
+年代新闻,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=niandainews_twn
+东森财经,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ettvcaijing_twn
+EYETV戏剧,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=eyetvxiju_twn
+EYETV旅游,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=eyetvtravel_twn
+靖天国际,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=jingtianintl_twn
+靖天卡通,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=jingtiancartoon_twn
+东森超视,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=ettvsuper
+美食星球,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=foodplanet_twn
+亚洲旅游,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=asiatravel_twn
+TLC旅游,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=tlc_twn
+国家地理野生,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=natgeowild_twn
+纬来日本,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=videolandjapan
+纬来体育,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=videolandsport
+CINEMAX,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=cinemax_twn
+爱尔达体育1,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=eltasport1_twn
+爱尔达体育2,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=eltasport2_twn
+爱尔达体育3,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=eltasport3_twn
+博斯运动1,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=bosisport1_twn
+博斯运动2,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=bosisport2_twn
+博斯高球1,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=bosigolf1_twn
+博斯高球2,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=bosigolf2_twn
+博斯网球,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=bositennis_twn
+astr Supersports 1,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=go_assp1
+astr Supersports 2,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=go_assp2
+astr Supersports 3,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=go_assp3
+astr Supersports 4,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=go_assp4
+WWE,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=Wwe
+
+TNT Sports 1,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=beeone
+TNT Sports 2,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=beetwo
+TNT Sports 3,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=beethree
+TNT Sports 4,http://61.158.166.45:1301/newsmts.php?key=haiou678&id=beefour
+
 
 
 
