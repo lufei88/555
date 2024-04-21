@@ -784,15 +784,14 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
-翡翠台,http://ali.hlspull.yximgs.com/live/haiou777jade_twn.flv
-无线新闻,http://ali.hlspull.yximgs.com/live/haiou777inews_twn.flv
-无线财经,http://ali.hlspull.yximgs.com/live/haiou777tvbcaijing_twn.flv
-J2,http://ali.hlspull.yximgs.com/live/haiou777j2_twn.flv
-亚洲武侠,http://ali.hlspull.yximgs.com/live/haiou777tvbyzwx.flv
-亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-千禧经典,http://ali.hlspull.yximgs.com/live/haiou777Tvbclassic.flv
-18,http://ali.hlspull.yximgs.com/live/haiou77718.flv
-娱乐新闻,http://ali.hlspull.yximgs.com/live/haiou777Tvbentertainment.flv   
+
+无线新闻,http://119.23.61.191:8088/HK/wxxw/hls.m3u8
+无线财经,http://119.23.61.191:8088/HK/wxcj/hls.m3u8
+
+TBVS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+
+
+
 
 
 
