@@ -7864,7 +7864,8 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 测试2,#genre#
 
-dkdk,http://61.158.166.45:1301/newsmts.php?key=haiou&id=inews_twn
+dkdk,tvbus://7g18UjwSBWQ3P17bYUPm6C9pck3j7wfPPuY9ub9KeLHVEvBhDJ
+NOW
 
 
 
