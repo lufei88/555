@@ -7887,8 +7887,14 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 测试2,#genre#
 
-dkdk,tvbus://7g18UjwSBWQ3P17bYUPm6C9pck3j7wfPPuY9ub9KeLHVEvBhDJ
-NOW
+大爱,p2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
+中视,p2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
+霹雳台湾,p2p://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
+华视,p2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
+公视,p2p://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
+好消息,p2p://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
+原住民电视,p2p://generationnexxxt.com:19806/cb5b7549e3604100a605ca17c82808f5
+客家电视,p2p://generationnexxxt.com:19806/eafabb6e7c30439b8ecd35ad40a46a96
 
 
 
