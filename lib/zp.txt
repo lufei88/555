@@ -784,9 +784,40 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
+凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
+凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
+凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+
+
+
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
+无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线财经,http://live.cooltv.top/tv/tvb.php?id=3
+无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 
 无线新闻,http://119.23.61.191:8088/HK/wxxw/hls.m3u8
 无线财经,http://119.23.61.191:8088/HK/wxcj/hls.m3u8
+
+
+
+
+
+
+娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+
+J2,http://bziyunshao.synology.me:8890/bysid/82
+
+
+
+
+
+
 
 TBVS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 
@@ -845,33 +876,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 
-凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
-凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
-凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
-凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
-凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 
-
-
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
-无线新闻,http://bziyunshao.synology.me:8890/bysid/83
-无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线财经,http://live.cooltv.top/tv/tvb.php?id=3
-无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-
-
-
-
-
-
-
-
-娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-
-J2,http://bziyunshao.synology.me:8890/bysid/82
 
 
 
