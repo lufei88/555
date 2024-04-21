@@ -791,7 +791,8 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 TBVS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 
 
-
+翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+翡翠台,http://58.87.99.251:8090/HK/tvb/hls.m3u8
 
 
 
