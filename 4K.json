@@ -36,16 +36,9 @@
 
 
 
-{
-  "key": "小盒会员",
-  "name": "🏆VIP-4k专线1(首选)",//来自小盒会员
-  "type": 3,
-  "api": "./lib/AppysV2.js",
-  "ext": {"host": "http://cms.xn--yet226clhctt4b.vip/api.php/app/","*": ["http://27.159.67.238:89/cbcbcb.php?url="]
-  }
-  },
 
 
+{"key": "小盒会员","name": "🏆VIP-4k专线1(首选)","type": 3,"api": "csp_AppYsV2","ext": "http://27.159.67.238:89/api.php/app/"},
 
 //{"key": "小盒会员",
 //"name": "🏆VIP-4k专线1(首选)",//来自小盒会员
