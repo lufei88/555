@@ -778,7 +778,9 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 翡翠台,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=4
 无线新闻,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=5
-无线财经,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=6
+无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+
+
 j2,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=8
 亚洲武侠,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=9
 千禧经典,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=11
