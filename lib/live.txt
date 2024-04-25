@@ -764,8 +764,11 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 [港•澳•台],#genre#
 
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=1
+凤凰资讯,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=2
+
+
+
 凤凰香港,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
