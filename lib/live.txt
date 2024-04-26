@@ -972,9 +972,7 @@ TNT Sports 3,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=107
 TNT Sports 4,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=108
 SONY Sports 1,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=109
 SONY Sports 2,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=110
-
-
-
+NBA,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=120
 
 
 
