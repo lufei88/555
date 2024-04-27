@@ -75,7 +75,7 @@
 
 
 
-{"key": "小盒会员","name": "🏆4k专线3(首选)","type": 3,"api": "csp_AppYsV2","ext": "http://27.159.67.238:89/api.php/app/"},
+//{"key": "小盒会员","name": "🏆4k专线3(首选)","type": 3,"api": "csp_AppYsV2","ext": "http://27.159.67.238:89/api.php/app/"},
 
 
 
@@ -1718,7 +1718,7 @@
 {"name": "📛天招SVIP","type": 1,"url": "http://27.159.67.238:89/bylbyl.php?url=","ext": {"flag": ["4K"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
-{"name": "📛天招会员","type": 1,"url": "http://27.159.67.238:6688/?url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "📛天招会员","type": 1,"url": "http://27.159.67.238:6688/?url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 {"name": "📦天招NBY","type": 1,"url": "http://121.62.61.51:6888/api/?key=0xsJcv8gDw9W9viFCW&url=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
