@@ -20,10 +20,14 @@
 
 //{"key":"豆瓣",
 //"name":"最新影视热剧",
+
 // "type": 3,
 //      "api": "./lib/drpy2.min.js",
 //      "ext": "./lib/douban.js"
+
+
 //},
+
 
 
 {"key": "豆瓣","name": "最新影视热剧","type": 3,"api": "csp_Douban","jar": "./jar/xhpmd.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/xhdb.json"},
@@ -31,14 +35,19 @@
 
 
 
-{
-  "key": "小盒会员",
-  "name": "🏆VIP-4k专线1(首选)",//来自小盒会员
-  "type": 3,
-  "api": "./lib/AppysV2.js",
-  "ext": {"host": "http://cms.xn--yet226clhctt4b.vip/api.php/app/","*": ["http://27.159.67.238:89/cbcbcb.php?url="]
-  }
-  },
+
+
+
+
+{"key": "newyt","name": "🏆4k专线1(首选)","type": 3,"api": "csp_App","jar": "./jar/yt.jar","searchable": 1,"quickSearch": 1,"playerType":1,"filterable": 0,"ext": "W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo"},
+
+
+
+
+
+
+
+
 
 
 
@@ -52,7 +61,7 @@
 
 {
    "key": "玩偶哥哥",
-   "name": "🏆VIP-4k专线2(首选)",
+   "name": "🏆4k专线2(首选)",
    "type": 3,
  "api": "csp_WoGG",
   "searchable": 1,
@@ -66,7 +75,7 @@
 
 
 
-
+{"key": "小盒会员","name": "🏆4k专线3(首选)","type": 3,"api": "csp_AppYsV2","ext": "http://27.159.67.238:89/api.php/app/"},
 
 
 
@@ -1706,7 +1715,31 @@
  
 
 
-{"name": "📦天招智盒会员专属","type": 1,"url": "http://124.220.58.210:991/api/?key=dHM99rsoKp6zswsBzH&url=","ext": {"flag": ["FYNB"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name": "📛天招SVIP","type": 1,"url": "http://27.159.67.238:89/bylbyl.php?url=","ext": {"flag": ["4K"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+{"name": "📛天招会员","type": 1,"url": "http://27.159.67.238:6688/?url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+{"name": "📦天招NBY","type": 1,"url": "http://121.62.61.51:6888/api/?key=0xsJcv8gDw9W9viFCW&url=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+{"name": "📦天招会员专属","type": 1,"url": "http://124.220.58.210:991/api/?key=dHM99rsoKp6zswsBzH&url=","ext": {"flag": ["FYNB"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+
+
+
+{"name":"📦天招在线2","type": 1,"url":"http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+
+{"name": "🌎天招VIP3","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+
+
+
+
 
 
 
@@ -1747,6 +1780,50 @@
   
     }
     },
+
+
+
+
+{
+      "name": "📦天招智盒会员专属1",
+      "type": 1,
+      "url": "http://llyh.xn--yi7aa.top/api/?key=f720d73de1d397d61eb5a82592b670e8&url=", //海鸥
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+
+
+
+
+
 
 
 
@@ -1797,14 +1874,9 @@
 
 
 
-
-
-
-
-
 //{"name":"📦小盒在线","type": 1,"url":"http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
-{"name": "🌎天招VIP3","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
 
 {"name": "🌎天招VIP4","type": 1,"url": "https://ky.dyqufx.com/home/api?type=ys&uid=3612007&key=bdlqrtvCKTVWY02489&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
@@ -1884,10 +1956,10 @@
 
   "lives": [
     {
-      "name": "IPv4",
+      "name": "天招智盒",
       "type": 0,
       "url": "./lib/live.txt",
-      "ua": "okhttp/3.12.13",
+      "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
