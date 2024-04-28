@@ -871,6 +871,24 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
+翡翠台,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=4
+无线新闻,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=5
+无线财经,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=6
+华丽翡翠,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=7
+TVB Plus,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=8
+星河台,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=13
+娱乐新闻,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=10
+千禧经典,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=11
+天映频道,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=15
+天映经典,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=16
+
+
+
+
+
+
+
+
 翡翠台,http://8.137.59.151:99/haioujk7788/haiousmtjk66.php?id=4
 无线新闻,http://8.137.59.151:99/haioujk7788/haiousmtjk66.php?id=5
 无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
@@ -892,6 +910,14 @@ VIUTV6,http://8.137.59.151:99/haioujk7788/haiousmtjk66.php?id=20
 Astro 欢喜台,http://8.137.59.151:99/haioujk7788/haiousmtjk66.php?id=21
 Astro QJ,http://8.137.59.151:99/haioujk7788/haiousmtjk66.php?id=22
 ONe,http://8.137.59.151:99/haioujk7788/haiousmtjk66.php?id=23
+
+
+
+民视,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=26
+台视,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=27
+中视,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=28
+华视,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=29
+TVBSHD,http://8.137.59.151:99/haioutz0909/haiousmttz.php?id=30
 
 
 
