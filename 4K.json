@@ -144,9 +144,18 @@
 
 
 
+
+{"key": "小盒自营","name": "🥇天招VIP专线5","type": 3,"api": "csp_AppYsV2","ext": "http://cms.deeptop.com.cn/api.php/app/"},
+
+
+
+{"key": "XAL","name": "💌XAL┃VIP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
+
+
+
 {
   "key": "优酷",
-  "name": "🥇天招VIP专线5",
+  "name": "🥇天招VIP专线7",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -168,7 +177,7 @@
 
 {
       "key": "搜狗",
-      "name": "🥇天招VIP专线6",
+      "name": "🥇天招VIP专线8",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/caigou.js"
@@ -207,7 +216,7 @@
 
 {
   "key": "NanGua",   //小盒南瓜
-  "name": "🥇天招VIP专线7",
+  "name": "🥇天招VIP专线9",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -222,7 +231,7 @@
 
     {
       "key": "原创",
-      "name": "🥇天招VIP专线8",//小盒原创
+      "name": "🥇天招VIP专线10",//小盒原创
       "type": 3,
       "api": "csp_YCyz",
       "jar": "./jar/fan0408.jar",
@@ -244,7 +253,7 @@
 
 {
   "key": "csp_no",
-  "name": "🥇天招VIP专线9",//小盒novip
+  "name": "🥇天招VIP专线11",//小盒novip
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -256,7 +265,7 @@
 
 {
   "key": "csp_地瓜",
-  "name": "🥇天招VIP专线10",//小盒地瓜
+  "name": "🥇天招VIP专线12",//小盒地瓜
   "type": 3,
   "api": "csp_XYQHiker",
   "jar": "./jar/xyq.jar",
