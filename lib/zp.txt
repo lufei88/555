@@ -864,66 +864,6 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 [港·澳·台],#genre#
 
 
-凤凰中文,http://ali.hlspull.yximgs.com/live/1254cd5c99203c8a6195966ff9bd03ac.flv
-凤凰资询,http://ali.hlspull.yximgs.com/live/e51bb735060276009c9d3f85f01404ba.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/3bf5efaca3190236543ee64b0a4394b3.flv
-香港有线电视,http://ali.hlspull.yximgs.com/live/85b349948b7d385ae183d8d0b50b1003.flv
-有线18台,http://ali.hlspull.yximgs.com/live/2dfac8c9e15ea6229a970a5dfbb28148.flv
-无线新闻,http://ali.hlspull.yximgs.com/live/02c65778c63f41e999a163c81ebccb91.flv
-翡翠台,http://ali.hlspull.yximgs.com/live/37c17e695c59f195397b328fece048df.flv
-明珠台,http://ali.hlspull.yximgs.com/live/4a60536b8042fc31a1fba0e7e0fcadc9.flv
-TVB Plus,http://ali.hlspull.yximgs.com/live/a92aed8aa3f2bb7564a76bfc01138249.flv
-娱乐新闻,http://ali.hlspull.yximgs.com/live/e7ed635889f0483b7c396aa1978e392e.flv
-星河,http://ali.hlspull.yximgs.com/live/6280000f8d114ed6725931459955885c.flv
-myTV SUPER,http://ali.hlspull.yximgs.com/live/2d88895af3f4680f7f8d3bdebf8fcca8.flv
-ViuTV,http://ali.hlspull.yximgs.com/live/1f1dd9d9dc7627c3d1d49075a824dc81.flv
-NOW新闻,http://ali.hlspull.yximgs.com/live/382d1fd8088ff49a927c52662a546f50.flv
-香港国际财经,http://ali.hlspull.yximgs.com/live/b8eed8a8e85738a40896d758fdaf72a6.flv
-HOY,http://ali.hlspull.yximgs.com/live/a99e47f83fda41435b7312ad6a167b16.flv
-HOY资讯,http://ali.hlspull.yximgs.com/live/85b349948b7d385ae183d8d0b50b1003.flv
-港台电视31,http://ali.hlspull.yximgs.com/live/bac53bfd235b86715d41334cbd74a1f5.flv
-港台电视32,http://ali.hlspull.yximgs.com/live/b3173a100f8a66e184d07068957b69e4.flv
-中天新闻,http://ali.hlspull.yximgs.com/live/fc675c82b2dbfed94c63352bff8f8844.flv
-东森新闻,http://ali.hlspull.yximgs.com/live/7de5df09e4cd4aad2d2d22706bcf541b.flv
-东森财经,http://ali.hlspull.yximgs.com/live/56496aa47c39584b0cc4ff21d98fbc93.flv
-环宇新闻,http://ali.hlspull.yximgs.com/live/5981095e78939e0668144c43aa4ed395.flv
-环宇新闻台湾,http://ali.hlspull.yximgs.com/live/af2804f00b6c1e805f3a00386955b5f3.flv
-台视新闻,http://ali.hlspull.yximgs.com/live/351e156a87e291bedffb4fe6480f2a46.flv
-中视新闻,http://ali.hlspull.yximgs.com/live/bf800bcc399af5e97cf191521858c1ce.flv
-华视新闻,http://ali.hlspull.yximgs.com/live/df7866baaa9e6c8939d43c8268ca1533.flv
-TVBS新闻,http://ali.hlspull.yximgs.com/live/8c0072f548d866b578f2d619816c1f7d.flv
-三立新闻,http://ali.hlspull.yximgs.com/live/6f19dcd7b78e80c3d56ec5606f68a263.flv
-三立iNEWS,http://ali.hlspull.yximgs.com/live/c90c9891df8572bab6ee4549aba60526.flv
-镜新闻,http://ali.hlspull.yximgs.com/live/6ce24cff9f49e7ab02cdbecbf2173825.flv
-公视新闻,http://ali.hlspull.yximgs.com/live/ddb375c6feb031636bb50cecf9c5262b.flv
-民视新闻,http://ali.hlspull.yximgs.com/live/665ed829d9010d6fe1a892100298eddb.flv
-民视,http://ali.hlspull.yximgs.com/live/becaa017bd7a3752a3f897f580566e05.flv
-台视,http://ali.hlspull.yximgs.com/live/007fe156c139d7a00aea831ed4810e30.flv
-中视,http://ali.hlspull.yximgs.com/live/18fb0c69d8e550c3447d499291edb90b.flv
-华视,http://ali.hlspull.yximgs.com/live/4d7170552595ca4e341e5e53fc738479.flv
-TVBS HD,http://ali.hlspull.yximgs.com/live/73587eaa6abe7556be1bd3e95542bcb4.flv
-欢乐台,http://ali.hlspull.yximgs.com/live/56edfac396c9a414f96c1b83b65258a7.flv
-中天亚洲,http://ali.hlspull.yximgs.com/live/5759ff334ebd734354ac0aef12fdcac0.flv
-纬来体育,http://ali.hlspull.yximgs.com/live/6a05d758d7ee5dda0994e342937e2f7e.flv
-纬来日本,http://ali.hlspull.yximgs.com/live/6e76e90eece793a610aa86cbdb8a1492.flv
-纬来育乐,http://ali.hlspull.yximgs.com/live/4ca2dda21cff9e3ae8381bc18f357965.flv
-ELEVEN 1,http://ali.hlspull.yximgs.com/live/614f8e53c649fa37a0256250156989b5.flv
-ELEVEN 2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
-爱尔达体育1,http://ali.hlspull.yximgs.com/live/82b188445894f84256fc57e5d8335c04.flv
-爱尔达体育2,http://ali.hlspull.yximgs.com/live/2d58f359d294f14806e2aa1e84f27c61.flv
-爱尔达体育3,http://ali.hlspull.yximgs.com/live/23ff1ce670f773984abdf1b5de9774f3.flv
-大爱1,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
-MOMO综合,http://ali.hlspull.yximgs.com/live/085b2440b064bbd6237615e97f5dd20f.flv
-东森超视,http://ali.hlspull.yximgs.com/live/ee681995eaa5dc2aa8eac222230ab6fd.flv
-CNN新闻,http://ali.hlspull.yximgs.com/live/8e32cc7c3c20a683ffea2ed06151492c.flv
-
-
-
-
-
-
-
 
 
 
