@@ -843,7 +843,14 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 [港·澳·台],#genre#
 
+凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 
+凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+
+凤凰香港,https://vdse.bdstatic.com//21684152dde6c7c43bcb74f4ec44cf76.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-03-14T18%3A00%3A38Z%2F-1%2Fhost%2Fe3fa4e39b578e1ea6a3570ace8d7bb350e84bef4f5150e572039613c5bd931a0
+
+
+香港文旅,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 
