@@ -1,44 +1,24 @@
 
 央视频道,#genre#
 
-CCTV-1,http://61.158.166.45:1301/newysp.php?id=cctv1
-CCTV-2,http://61.158.166.45:1301/newysp.php?id=cctv2
-CCTV-3,http://61.158.166.45:1301/newysp.php?id=cctv3
-CCTV-4,http://61.158.166.45:1301/newysp.php?id=cctv4
-CCTV-5,http://61.158.166.45:1301/newysp.php?id=cctv5
-CCTV-5+,http://61.158.166.45:1301/newysp.php?id=cctv5p
-CCTV-6,http://61.158.166.45:1301/newysp.php?id=cctv6
-CCTV-7,http://61.158.166.45:1301/newysp.php?id=cctv7
-CCTV-8,http://61.158.166.45:1301/newysp.php?id=cctv8
-CCTV-9,http://61.158.166.45:1301/newysp.php?id=cctv9
-CCTV-10,http://61.158.166.45:1301/newysp.php?id=cctv10
-CCTV-11,http://61.158.166.45:1301/newysp.php?id=cctv11
-CCTV-12,http://61.158.166.45:1301/newysp.php?id=cctv12
-CCTV-13,http://61.158.166.45:1301/newysp.php?id=cctv13
-CCTV-14,http://61.158.166.45:1301/newysp.php?id=cctv14
-CCTV-15,http://61.158.166.45:1301/newysp.php?id=cctv15
-CCTV-16,http://61.158.166.45:1301/newysp.php?id=cctv16
-CCTV-17,http://61.158.166.45:1301/newysp.php?id=cctv17
-CCTV-4k,http://61.158.166.45:1301/newysp.php?id=cctv4k
-CCTV-8k,http://61.158.166.45:1301/newysp.php?id=cctv8k
-CGTN,http://61.158.166.45:1301/newysp.php?id=cgtn
-CGTN记录,http://61.158.166.45:1301/newysp.php?id=cgtnjl
-CGTN西语,http://61.158.166.45:1301/newysp.php?id=cgtne
-CGTN法语,http://61.158.166.45:1301/newysp.php?id=cgtnf
-CGTN阿拉伯语,http://61.158.166.45:1301/newysp.php?id=cgtna
-CGTN俄语,http://61.158.166.45:1301/newysp.php?id=cgtnr
-CCTV第一剧场,http://61.158.166.45:1301/newysp.php?id=dyjc
-CCTV怀旧剧场,http://61.158.166.45:1301/newysp.php?id=hjjc
-CCTV兵器科技,http://61.158.166.45:1301/newysp.php?id=bqkj
-CCTV风云音乐,http://61.158.166.45:1301/newysp.php?id=fyyy
-CCTV风云足球,http://61.158.166.45:1301/newysp.php?id=fyzq
-CCTV央视台球,http://61.158.166.45:1301/newysp.php?id=ystq
-CCTV高尔夫网球,http://61.158.166.45:1301/newysp.php?id=gefwq
-CCTV风云剧场,http://61.158.166.45:1301/newysp.php?id=fyjc
-CCTV电视指南,http://61.158.166.45:1301/newysp.php?id=dszn
-CCTV女性时尚,http://61.158.166.45:1301/newysp.php?id=nxss
-CCTV世界地理,http://61.158.166.45:1301/newysp.php?id=sjdl
-CCTV卫生健康,http://61.158.166.45:1301/newysp.php?id=wsjk
+CCTV-1,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+CCTV-2,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
+CCTV-3,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+CCTV-4,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
+CCTV-5,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV-5+,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV-6,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+CCTV-7,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
+CCTV-8,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+CCTV-9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV-10,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+CCTV-11,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv11/1300000/mnf.m3u8
+CCTV-12,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+CCTV-13,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+CCTV-14,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctvse/1300000/mnf.m3u8
+CCTV-15,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctvyy/1300000/mnf.m3u8
+CCTV-16,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575402.m3u8
+CCTV-17,http://49.7.69.154/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 
 
