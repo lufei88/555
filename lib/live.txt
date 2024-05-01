@@ -35,7 +35,7 @@ CCTV风云足球,http://61.158.166.45:1301/newysp.php?id=fyzq
 CCTV央视台球,http://61.158.166.45:1301/newysp.php?id=ystq
 CCTV高尔夫网球,http://61.158.166.45:1301/newysp.php?id=gefwq
 CCTV风云剧场,http://61.158.166.45:1301/newysp.php?id=fyjc
-#CCTV电视指南,http://61.158.166.45:1301/newysp.php?id=dszn
+CCTV电视指南,http://61.158.166.45:1301/newysp.php?id=dszn
 CCTV女性时尚,http://61.158.166.45:1301/newysp.php?id=nxss
 CCTV世界地理,http://61.158.166.45:1301/newysp.php?id=sjdl
 CCTV卫生健康,http://61.158.166.45:1301/newysp.php?id=wsjk
@@ -280,6 +280,29 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 卫视频道,#genre#
 
+北京卫视,http://61.158.166.45:1301/newysp.php?id=bjws
+东方卫视,http://61.158.166.45:1301/newysp.php?id=dfws
+湖南卫视,http://61.158.166.45:1301/newysp.php?id=hunws
+浙江卫视,http://61.158.166.45:1301/newysp.php?id=zjws
+江苏卫视,http://61.158.166.45:1301/newysp.php?id=jsws
+山东卫视,http://61.158.166.45:1301/newysp.php?id=sdws
+安徽卫视,http://61.158.166.45:1301/newysp.php?id=ahws
+广东卫视,http://61.158.166.45:1301/newysp.php?id=gdws
+天津卫视,http://61.158.166.45:1301/newysp.php?id=tjws
+东南卫视,http://61.158.166.45:1301/newysp.php?id=dnws
+河北卫视,http://61.158.166.45:1301/newysp.php?id=hbws
+河南卫视,http://61.158.166.45:1301/newysp.php?id=hnws
+辽宁卫视,http://61.158.166.45:1301/newysp.php?id=lnws
+黑龙江卫视,http://61.158.166.45:1301/newysp.php?id=hljws
+深圳卫视,http://61.158.166.45:1301/newysp.php?id=szws
+湖北卫视,http://61.158.166.45:1301/newysp.php?id=fbws
+江西卫视,http://61.158.166.45:1301/newysp.php?id=jxws
+重庆卫视,http://61.158.166.45:1301/newysp.php?id=cqws
+四川卫视,http://61.158.166.45:1301/newysp.php?id=scws
+广西卫视,http://61.158.166.45:1301/newysp.php?id=gxws
+贵州卫视,http://61.158.166.45:1301/newysp.php?id=gzws
+海南卫视,http://61.158.166.45:1301/newysp.php?id=hinws
+新疆卫视,http://61.158.166.45:1301/newysp.php?id=xjws
 
 北京卫视,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
 东方卫视,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
