@@ -94,7 +94,14 @@
 //},
 
 
-
+		{
+      "key": "热播",
+      "name": "✨网络丨热播",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "http://v.rbotv.cn"
+    },
 
 
 
