@@ -1403,6 +1403,19 @@
 
 
 
+	{
+            "key": "Wexduanjuvop",
+            "name": "✨秒播┃短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "jar":"https://cloud.lxweb.cn/f/apVxt6/fn.jar;md5;18eedce2077dc99c909607aa71ff50ac",
+            "searchable": 1,
+            "changeable": 1
+        },
+
+
+
+
     {
       "key": "种子短剧",
       "name": "💁‍♀️┃短剧┃首选",
