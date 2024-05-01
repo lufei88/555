@@ -94,14 +94,6 @@
 //},
 
 
-		{
-      "key": "热播",
-      "name": "✨网络丨热播",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "http://v.rbotv.cn"
-    },
 
 
 
@@ -156,12 +148,20 @@
 
 
 
+		{
+      "key": "热播",
+      "name": "🥇天招VIP专线7",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "http://v.rbotv.cn"
+    },
 
 
 
 {
   "key": "优酷",
-  "name": "🥇天招VIP专线6",
+  "name": "🥇天招VIP专线8",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -183,7 +183,7 @@
 
 {
       "key": "搜狗",
-      "name": "🥇天招VIP专线7",
+      "name": "🥇天招VIP专线9",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/caigou.js"
@@ -222,7 +222,7 @@
 
 {
   "key": "NanGua",   //小盒南瓜
-  "name": "🥇天招VIP专线8",
+  "name": "🥇天招VIP专线10",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -237,7 +237,7 @@
 
     {
       "key": "原创",
-      "name": "🥇天招VIP专线9",//小盒原创
+      "name": "🥇天招VIP专线11",//小盒原创
       "type": 3,
       "api": "csp_YCyz",
       "jar": "./jar/fan0408.jar",
@@ -259,7 +259,7 @@
 
 {
   "key": "csp_no",
-  "name": "🥇天招VIP专线10",//小盒novip
+  "name": "🥇天招VIP专线12",//小盒novip
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -271,7 +271,7 @@
 
 {
   "key": "csp_地瓜",
-  "name": "🥇天招VIP专线11",//小盒地瓜
+  "name": "🥇天招VIP专线13",//小盒地瓜
   "type": 3,
   "api": "csp_XYQHiker",
   "jar": "./jar/xyq.jar",
