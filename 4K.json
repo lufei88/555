@@ -1768,7 +1768,7 @@
 {
       "name": "🌎天招VIP2",
       "type": 1,
-      "url": "http://llyh.xn--yi7aa.top/api/?key=fc82dde9869c739e362a0b6fceb2195b&url=",//海鸥
+      "url": "http://llyh.xn--yi7aa.top/api/?key=792f2cf4ca4a4919002320480190534a&url=",//海鸥
       "ext": {
         "flag": [
           "qq",
@@ -1806,9 +1806,9 @@
 
 
 {
-      "name": "📦天招智盒会员专属1",
-      "type": 1,
-      "url": "http://llyh.xn--yi7aa.top/api/?key=f720d73de1d397d61eb5a82592b670e8&url=", //海鸥
+      "name": "海鸥直播嗅探",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -1818,31 +1818,23 @@
           "奇艺",
           "youku",
           "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
           "mgtv",
           "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
           "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
       }
     },
-
-
-
 
 
 
