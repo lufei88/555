@@ -23,7 +23,7 @@
 
  "type": 3,
       "api": "./lib/drpy2.min.js",
-     "ext": "./lib/douban.js"
+      "ext": "./lib/douban.js"
 
 
 },
@@ -98,7 +98,6 @@
 
 
 
-
 {
  "key": "QTV",
  "name": "🥇天招VIP专线1",
@@ -144,7 +143,10 @@
 
 
 
+
 {"key": "小盒自营","name": "🥇天招VIP专线5","type": 3,"api": "csp_AppYsV2","ext": "http://cms.deeptop.com.cn/api.php/app/"},
+
+
 
 
 
@@ -1401,6 +1403,19 @@
 
 
 
+	{
+            "key": "Wexduanjuvop",
+            "name": "✨秒播┃短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "jar":"https://cloud.lxweb.cn/f/apVxt6/fn.jar;md5;18eedce2077dc99c909607aa71ff50ac",
+            "searchable": 1,
+            "changeable": 1
+        },
+
+
+
+
     {
       "key": "种子短剧",
       "name": "💁‍♀️┃短剧┃首选",
@@ -1721,125 +1736,29 @@
  
 
 
-{"name": "📛天招SVIP","type": 1,"url": "http://27.159.67.238:89/bylbyl.php?url=","ext": {"flag": ["4K"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "📛天招SVIP","type": 1,"url": "http://27.159.67.238:89/bylbyl.php?url=","ext": {"flag": ["4K"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 //{"name": "📛天招会员","type": 1,"url": "http://27.159.67.238:6688/?url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
-{"name": "📦天招NBY","type": 1,"url": "http://121.62.61.51:6888/api/?key=0xsJcv8gDw9W9viFCW&url=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "📦天招NBY","type": 1,"url": "http://121.62.61.51:6888/api/?key=0xsJcv8gDw9W9viFCW&url=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
-{"name": "📦天招会员专属","type": 1,"url": "http://124.220.58.210:991/api/?key=dHM99rsoKp6zswsBzH&url=","ext": {"flag": ["FYNB"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-
-
-
-
-{"name":"📦天招在线2","type": 1,"url":"http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-
-
-{"name": "🌎天招VIP3","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "📦天招会员专属","type": 1,"url": "http://124.220.58.210:991/api/?key=dHM99rsoKp6zswsBzH&url=","ext": {"flag": ["FYNB"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 
 
 
+//{"name":"📦天招在线2","type": 1,"url":"http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//酷玩
 
 
 
+//{"name": "🌎天招VIP3","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//酷玩
 
 
 {
-      "name": "🌎天招VIP2",
-      "type": 1,
-      "url": "http://llyh.xn--yi7aa.top/api/?key=fc82dde9869c739e362a0b6fceb2195b&url=",//海鸥
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-  
-    }
-    },
-
-
-
-
-{
-      "name": "📦天招智盒会员专属1",
-      "type": 1,
-      "url": "http://llyh.xn--yi7aa.top/api/?key=f720d73de1d397d61eb5a82592b670e8&url=", //海鸥
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-      "name": "🌎天招VIP1",//笑傲
+      "name": "🌎天招VIP2",//笑傲
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
@@ -1880,25 +1799,65 @@
 
 
 
-//{"name":"📦小盒在线","type": 1,"url":"http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=23519&key=deghilnpszBCDHLM48&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+{
+      "name": "🌎天招VIP1",
+      "type": 1,
+      "url": "http://llyh.xn--yi7aa.top/api/?key=792f2cf4ca4a4919002320480190534a&url=",//海鸥
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+  
+    }
+    },
 
 
 
-{"name": "🌎天招VIP4","type": 1,"url": "https://ky.dyqufx.com/home/api?type=ys&uid=3612007&key=bdlqrtvCKTVWY02489&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
-{"name": "🌎天招VIP5","type": 1,"url": "http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+
+
+
+{"name": "🌎天招VIP3","type": 1,"url": "https://ky.dyqufx.com/home/api?type=ys&uid=3612007&key=bdlqrtvCKTVWY02489&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+//{"name": "🌎天招VIP5","type": 1,"url": "http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
  
 
 
-//{"name": "📦天招智盒vip3","type": 1,"url": "http://27.159.67.238:89/ccc.php?url=","ext": {"flag": ["vip_4k"],"header": {"User-Agent": "okhttp/4.1.0"}
-//}
-//},
 
 
 
 {
-      "name": "🌎天招VIP6",
+      "name": "🌎天招VIP4",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
