@@ -18,19 +18,19 @@
 
 
 
-//{"key":"豆瓣",
-//"name":"最新影视热剧",
+{"key":"豆瓣",
+"name":"最新影视热剧",
 
-// "type": 3,
-//      "api": "./lib/drpy2.min.js",
-//      "ext": "./lib/douban.js"
-
-
-//},
+ "type": 3,
+      "api": "./lib/drpy2.min.js",
+     "ext": "./lib/douban.js"
 
 
+},
 
-{"key": "豆瓣","name": "最新影视热剧","type": 3,"api": "csp_Douban","jar": "./jar/xhpmd.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/xhdb.json"},
+
+
+//{"key": "豆瓣","name": "最新影视热剧","type": 3,"api": "csp_Douban","jar": "./jar/xhpmd.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/xhdb.json"},
 
 
 
