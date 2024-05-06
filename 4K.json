@@ -82,7 +82,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-       "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/r.txt",
+       "jar": "./jar/okjpg.jar",
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
