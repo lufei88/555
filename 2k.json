@@ -1,10 +1,8 @@
 {
   
-  //"spider": "./jar/sa0226.jar",
 
-//"spider": "./jar/xiaomi5.jar",
 
- "spider": "./jar/xhkw0306.jar;md5;af839a9c7af3c60a6689b5c2032915eb",
+ "spider": "./jar/wd0506.jar;md5;af839a9c7af3c60a6689b5c2032915eb",
 
     "wallpaper":"http://xn--sss604efuw.top/%E6%B7%B1%E8%89%B2%E5%A3%81%E7%BA%B8/api.php",  
   "warningText": "【天招智盒】提示：每次使用前记得长按主页刷新获取最新数据！感谢您使用天招智盒",
@@ -51,12 +49,7 @@
 
 
 
-//{"key": "小盒会员",
-//"name": "🏆VIP-4k专线1(首选)",//来自小盒会员
-//"type": 3,
-//"api": "csp_AppYsV2",
-//"ext": "http://cms.xn--yet226clhctt4b.vip/api.php/app/"
-//},
+
 
 
 {
@@ -74,15 +67,36 @@
 
 
 
+    {
+      "key": "土豆网盘弹幕",
+      "name": "🏆4k专线3(首选)",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+       "jar": "./jar/okjpg.jar",
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
+      },
+      "timeout": 25
+    },
 
-//{"key": "小盒会员","name": "🏆4k专线3(首选)","type": 3,"api": "csp_AppYsV2","ext": "http://27.159.67.238:89/api.php/app/"},
 
 
 
 
 
-//{"key": "马铃薯",
-//"name": "🏆VIP-4k专线3(首选)",//来自小盒会员
+
+
+
+
+
+//{"key": "8888",
+//"name": "🏆VIP-4k专线3(首选)",
 //"type": 3,
 //"api": "csp_Tudou",
 //"quickSearch": 1,
@@ -162,15 +176,7 @@
 
 
 
-//{
- // "key": "XAL蓝光",
- // "name": "🥇天招VIP专线5",
- // "type": 1,
- // "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
- // "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
- // "searchable": 1,
- // "quickSearch": 1
- // },
+
 
 
 
@@ -200,7 +206,7 @@
 
  //   {
  //     "key": "白嫖",
- //     "name": "🥇天招VIP专线7",//小盒白飘
+ //     "name": "🥇天招VIP专线7",
  //     "type": 3,
  //     "api": "csp_BaiPiao",
  //     "playerType": 2,
@@ -230,7 +236,7 @@
 
     {
       "key": "原创",
-      "name": "🥇天招VIP专线9",//小盒原创
+      "name": "🥇天招VIP专线9",
       "type": 3,
       "api": "csp_YCyz",
       "jar": "./jar/fan0408.jar",
@@ -252,7 +258,7 @@
 
 {
   "key": "csp_no",
-  "name": "🥇天招VIP专线10",//小盒novip
+  "name": "🥇天招VIP专线10",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -264,7 +270,7 @@
 
 {
   "key": "csp_地瓜",
-  "name": "🥇天招VIP专线11",//小盒地瓜
+  "name": "🥇天招VIP专线11",
   "type": 3,
   "api": "csp_XYQHiker",
   "jar": "./jar/xyq.jar",
@@ -393,7 +399,7 @@
 
 {
    "key": "csp_xBPQ_奇优",
-   "name":"🥇天招超快线5",  //小盒奇优
+   "name":"🥇天招超快线5",  
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -447,7 +453,7 @@
 
  {
    "key": "Xinsj",
-   "name": "🥇天招超快线7",//小盒新视觉2 
+   "name": "🥇天招超快线7",
    "type":3,
       "api":"csp_XYQHiker",
          "searchable": 1,
@@ -459,7 +465,7 @@
 
 {
 "key": "csp_新视觉影院",
-"name": "🥇天招超快线4",//小盒新视觉
+"name": "🥇天招超快线4",
 "type": 3,
 "api": "csp_XYQHiker",
 "jar": "./jar/xyq.jar",
@@ -525,7 +531,7 @@
 
 {
   "key":"csp_小盒",
-  "name":"🥇天招超快线10",//来自小盒自营
+  "name":"🥇天招超快线10",
   "type":3,
   "api":"csp_XBPQ",  
   "searchable":1,
@@ -550,7 +556,7 @@
 
 {
   "key":"csp_四客",
-  "name":"🥇天招超快线12",//小盒四客
+  "name":"🥇天招超快线12",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -563,7 +569,7 @@
 
 {
   "key": "csp_btys",
-  "name": "🥇天招超快线13",//小盒BT
+  "name": "🥇天招超快线13",
   "type": 3,
   "playerType": "2",
   "api": "csp_XBPQ",
@@ -581,7 +587,7 @@
 
 {
   "key": "77",
-  "name": "🥈天招快速线1",//小盒77
+  "name": "🥈天招快速线1",
   "type": 3,
   "api": "csp_Kunyu77",
   "jar": "./jar/cally.jar",
@@ -594,7 +600,7 @@
 
 {
   "key": "csp_6080",
-  "name": "🥈天招快速线2",//小盒酷云
+  "name": "🥈天招快速线2",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -606,7 +612,7 @@
 
 {
   "key":"csp_达龟",
-  "name":"🥈天招快速线3",//小盒达龟
+  "name":"🥈天招快速线3",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -1750,54 +1756,50 @@
 
 
 
-//{"name":"📦天招在线2","type": 1,"url":"http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//酷玩
+//{"name":"📦天招在线2","type": 1,"url":"http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 
-//{"name": "🌎天招VIP3","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//酷玩
+//{"name": "🌎天招VIP3","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
-
-
-
-
-//{
-//      "name": "🌎天招VIP2",//笑傲
- //     "type": 1,
- //     "url": "http://119.91.123.253:2345/Api/yun.php?url=",
- //     "ext": {
- //       "flag": [
- //         "qiyi",
- //         "imgo",
- //         "爱奇艺",
- //         "奇艺",
- //         "qq",
- //         "腾讯",
- //         "youku",
- //         "优酷",
- //         "pptv",
- //         "PPTV",
- //         "letv",
- //         "乐视",
- //         "leshi",
- //         "bilibili",
-//          "哔哩哔哩",
-//          "哔哩",
- //         "mgtv",
- //         "芒果",
- //         "sohu",
-//          "xigua",
- //         "fun",
-//          "风行"
- //       ],
- //       "header": {
- //         "User-Agent": "Mozilla/5.0"
- //       }
- //     },
- //     "header": {
- //       "User-Agent": "Mozilla/5.0"
-  //    }
-  //  },
+/*{
+      "name": "🌎天招VIP2",//笑傲
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },*/
 
 
 
