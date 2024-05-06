@@ -158,7 +158,7 @@
 
 
 
-{"key": "小盒自营","name": "🥇天招VIP专线5","type": 3,"api": "csp_AppYsV2","ext": "http://cms.deeptop.com.cn/api.php/app/"},
+//{"key": "xyx","name": "🥇天招VIP专线5","type": 3,"api": "csp_AppYsV2","ext": "http://cms.deeptop.com.cn/api.php/app/"},
 
 
 
@@ -220,7 +220,7 @@
 
 
 {
-  "key": "NanGua",   //小盒南瓜
+  "key": "NanGua",  
   "name": "🥇天招VIP专线8",
   "type": 3,
   "api": "csp_NanGua",
@@ -1763,43 +1763,6 @@
 //{"name": "🌎天招VIP3","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
-/*{
-      "name": "🌎天招VIP2",//笑傲
-      "type": 1,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },*/
 
 
 
