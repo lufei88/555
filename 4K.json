@@ -74,6 +74,26 @@
 
 
 
+    {
+      "key": "土豆网盘弹幕",
+      "name": "🏆4k专线3(首选)",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+
+
+
+
 
 //{"key": "小盒会员","name": "🏆4k专线3(首选)","type": 3,"api": "csp_AppYsV2","ext": "http://27.159.67.238:89/api.php/app/"},
 
