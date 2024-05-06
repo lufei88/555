@@ -82,6 +82,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
+       "jar": "./jar/fan0303.jar",
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
