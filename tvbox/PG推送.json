@@ -1,7 +1,7 @@
 {
 "use_internal_storage":false,
-"token":"http://127.0.0.1:9978/file/tvbox/tok.txt+4k|fhd|auto",
-"open_token":"http://127.0.0.1:9978/file/tvbox/tok.txt+4k|fhd|auto",
+"token":"7fe8d3da335743e5a8cf5d77c3a89d36",
+"open_token":"7fe8d3da335743e5a8cf5d77c3a89d36",
 "thread_limit":96,
 "quark_thread_limit":10,
 "vod_flags":"4kz|4k|auto",
