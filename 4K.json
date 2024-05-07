@@ -77,7 +77,9 @@
       "filterable": 1,
        "jar": "./jar/okjpg.jar",
       "ext": {
-        "token": "file://TV/ali_token.txt",
+        //"token": "file://TV/ali_token.txt",
+        
+        "token": "7fe8d3da335743e5a8cf5d77c3a89d36",
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://tudou.lvdoui.top",
         "danmu": true
