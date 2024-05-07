@@ -52,6 +52,10 @@
 
 
 
+
+
+
+
 {
    "key": "玩偶哥哥",
    "name": "🏆4k专线2(首选)",
@@ -67,6 +71,12 @@
 
 
 
+
+
+
+
+
+
     {
       "key": "土豆网盘弹幕",
       "name": "🏆4k专线3(首选)",
@@ -77,7 +87,9 @@
       "filterable": 1,
        "jar": "./jar/okjpg.jar",
       "ext": {
-        "token": "file://TV/ali_token.txt",
+        //"token": "file://TV/ali_token.txt",
+        
+        "token": "7fe8d3da335743e5a8cf5d77c3a89d36",
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://tudou.lvdoui.top",
         "danmu": true
@@ -86,10 +98,41 @@
     },
 
 
+{
+      "key": "多多网盘",
+      "name": "🏆4k专线4(首选)",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/okjpg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "7fe8d3da335743e5a8cf5d77c3a89d36",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tv.yydsys.top",
+        "danmu": true
+      },
+      "timeout": 25
+    },
 
 
-
-
+{
+      "key": "表哥网盘",
+      "name": "🏆4k专线5(首选)",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/okjpg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "7fe8d3da335743e5a8cf5d77c3a89d36",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://wobge.run.goorm.io/"
+      },
+      "timeout": 25
+    },
 
 
 
@@ -161,6 +204,15 @@
 //{"key": "xyx","name": "🥇天招VIP专线5","type": 3,"api": "csp_AppYsV2","ext": "http://cms.deeptop.com.cn/api.php/app/"},
 
 
+{
+      "key": "白嫖影视",
+      "name": "🥇天招VIP专线5",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "jar": "./jar/PandaQ240408.jar",
+      "playerType": "2"
+    },
+
 
 
 
@@ -192,30 +244,10 @@
 
 
 
-//{
-//  "key": "drpy_js_360影视",
-//  "name": "🥇天招VIP专线6",
-//  "type": 3,
-//  //"jar": "./jar/sa0226.jar",
-//  "api": "./lib/drpy2.min.js",
-//  "ext": "./lib/360影视.js"
-//  },
 
 
 
 
- //   {
- //     "key": "白嫖",
- //     "name": "🥇天招VIP专线7",
- //     "type": 3,
- //     "api": "csp_BaiPiao",
- //     "playerType": 2,
- //     "searchable": 1,
- //     "quickSearch": 1,
- //     "changeable": 1,
- //     "jar": "./jar/fan0408.jar",
-  //    "ext": "https://www.baipiaoys.com:9092/"
- //   },
 
 
 
@@ -257,36 +289,82 @@
 
 
 {
-  "key": "csp_no",
-  "name": "🥇天招VIP专线10",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./json/no.json"
-  },
+      "key": "4K影院",
+      "name": "🥇天招VIP专线10",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/4kvm.json"
+    },
 
 
 {
-  "key": "csp_地瓜",
-  "name": "🥇天招VIP专线11",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar": "./jar/xyq.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./json/地瓜.json"
-  },
+      "key": "csp_Kuaikan",
+      "name": "🥇天招VIP专线11",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "jar": "./jar/PandaQ240216.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
 
 
 
 
 
-
-
+{
+      "key": "乐视",
+      "name": "🥇天招VIP专线12",
+      "type": 1,
+      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
+      "playUrl": "",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "短剧",
+        "泰国剧",       
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日剧",
+        "海外剧",
+        "记录片",
+        "反转爽剧",
+        "女频恋爱",
+        "古装仙侠",
+        "年代穿越",
+        "脑洞悬疑",
+        "现代都市",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "电影解说",
+        "动作片",
+        "冒险片",
+        "动画片",
+        "喜剧片",
+        "爱情片",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "其他片"
+        ]
+    },
 
 
 
@@ -1409,57 +1487,23 @@
 
 
 
-	{
-            "key": "Wexduanjuvop",
-            "name": "✨秒播┃短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvop",
-            "jar":"https://cloud.lxweb.cn/f/apVxt6/fn.jar;md5;18eedce2077dc99c909607aa71ff50ac",
-            "searchable": 1,
-            "changeable": 1
-        },
-
-
-
-
-    {
-      "key": "种子短剧",
+{
+      "key": "夜猫短剧",
       "name": "💁‍♀️┃短剧┃首选",
       "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-        "ext": "./lib/种子短剧.js",
-      "playerType": 2
-    },
-
-
-
-
-
-
-
-{
-			"key": "聚合短剧",
-			"name": "📺短剧┃视频",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://106.52.241.21:83/api.php/app/"
-		},
-
-
-     {
-      "key": "csp_短剧",
-      "name": "📺短剧┃TV",
-      "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_YMduanju",
+      "jar":"./jar/ymz.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/短剧.json",
-      "jar": "./lib/jiaoyu.jar"
+      "filterable": 1
     },
+
+
+
+
+
+
+  
 
 
 
