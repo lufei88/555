@@ -301,17 +301,15 @@
 
 
 {
-  "key": "csp_地瓜",
-  "name": "🥇天招VIP专线11",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar": "./jar/xyq.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./json/地瓜.json"
-  },
-
+      "key": "csp_Kuaikan",
+      "name": "🥇天招VIP专线11",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "jar": "./jar/PandaQ240216.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
 
 
