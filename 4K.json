@@ -289,15 +289,15 @@
 
 
 {
-  "key": "csp_no",
-  "name": "🥇天招VIP专线10",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./json/no.json"
-  },
+      "key": "4K影院",
+      "name": "🥇天招VIP专线10",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/4kvm.json"
+    },
 
 
 {
