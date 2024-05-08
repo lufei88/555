@@ -89,7 +89,7 @@
       "ext": {
         //"token": "file://TV/ali_token.txt",
         
-        "token": "7fe8d3da335743e5a8cf5d77c3a89d36",
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://tudou.lvdoui.top",
         "danmu": true
@@ -108,7 +108,7 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "7fe8d3da335743e5a8cf5d77c3a89d36",
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://tv.yydsys.top",
         "danmu": true
@@ -127,7 +127,7 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "7fe8d3da335743e5a8cf5d77c3a89d36",
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://wobge.run.goorm.io/"
       },
