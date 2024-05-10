@@ -1498,19 +1498,19 @@
 
 
 
+
+
 {
-      "key": "夜猫短剧",
+      "key": "csp_Bili短剧",
       "name": "💁‍♀️┃短剧┃首选",
       "type": 3,
-      "api": "csp_YMduanju",
-      "jar":"./jar/ymz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_Bili",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://rihou.vip:55/lib/Bili短剧.json"
     },
-
-
-
 
 
 
