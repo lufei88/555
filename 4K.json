@@ -145,6 +145,20 @@
 
 
 
+{
+      "key": "Hdhive",
+      "name": "影巢臻享4K",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg2.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "http://kdzj.vip/%E9%85%B7%E7%8E%A9/lib/tokenm.json$$$null$$$1"
+    },
+
+
 
 
 
