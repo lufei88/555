@@ -148,11 +148,11 @@
 
 
 {
-      "key": "Hdhive",
-      "name": "影巢臻享4K",
+     "key": "校长影视",
+      "name": "校长蓝光4K",
       "type": 3,
-      "api": "csp_Hdhive",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg2.jar",
+      "api": "csp_XiaoZhang",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
