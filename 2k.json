@@ -37,9 +37,24 @@
 
 
 
-{"key": "newyt","name": "🏆4k专线1(首选)","type": 3,"api": "csp_App","jar": "./jar/yt.jar","searchable": 1,"quickSearch": 1,"playerType":1,"filterable": 0,"ext": "W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo"},
 
 
+{
+      "key": "表哥网盘",
+      "name": "🏆4k专线1(首选)",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/okjpg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://wobge.run.goorm.io/"
+      },
+      "timeout": 25
+    },
 
 
 
@@ -117,22 +132,25 @@
     },
 
 
-{
-      "key": "表哥网盘",
-      "name": "🏆4k专线5(首选)",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/okjpg.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "193e647de2ca404ca2be6e0a4453f6c3",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://wobge.run.goorm.io/"
-      },
-      "timeout": 25
-    },
+
+
+
+
+{"key": "newyt","name": "🏆4k专线5(首选)","type": 3,"api": "csp_App","jar": "./jar/yt.jar","searchable": 1,"quickSearch": 1,"playerType":1,"filterable": 0,"ext": "W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -204,14 +222,7 @@
 //{"key": "xyx","name": "🥇天招VIP专线5","type": 3,"api": "csp_AppYsV2","ext": "http://cms.deeptop.com.cn/api.php/app/"},
 
 
-{
-      "key": "白嫖影视",
-      "name": "🥇天招VIP专线5",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "jar": "./jar/PandaQ240408.jar",
-      "playerType": "2"
-    },
+
 
 
 
@@ -1487,6 +1498,7 @@
 
 
 
+
 {
       "key": "夜猫短剧",
       "name": "💁‍♀️┃短剧┃首选",
@@ -1497,9 +1509,25 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
 
 
 
+
+
+
+
+{
+      "key": "csp_Bili短剧",
+      "name": "💁‍♀️┃短剧┃bili",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://rihou.vip:55/lib/Bili短剧.json"
+    },
 
 
 
@@ -1804,7 +1832,7 @@
 
 
 
-//{"name": "🌎天招VIP3","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "🌎天招VIP2","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 
@@ -1864,6 +1892,11 @@
 //{"name": "🌎天招VIP5","type": 1,"url": "http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
  
+
+
+
+
+
 
 
 
