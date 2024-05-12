@@ -643,7 +643,7 @@
 
 
 
-{"key": "csp_appys_影盒",
+/*{"key": "csp_appys_影盒",
 "name": "🥇天招超快线11",//影探
 "type": 3,
 "api": "csp_AppYsV2",
@@ -651,7 +651,7 @@
 "quickSearch": 1,
 "filterable": 1,
 "ext": "http://cms-yttv.lyyytv.cn/api.php/app/"
-},
+},*/
 
 
 
