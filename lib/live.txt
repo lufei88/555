@@ -895,8 +895,6 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 [港•澳•台],#genre#
 
 
-凤凰中文,http://61.163.58.154:9088/live/mytv.php?id=3
-凤凰资讯,http://61.163.58.154:9088/live/mytv.php?id=4
 
 
 凤凰中文,http://8.137.59.151:99/haioujk6677/haiousmtjk6666.php?id=1
@@ -914,23 +912,7 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 
-翡翠台,http://61.163.58.154:9088/live/mytv.php?id=2
-无线新闻,http://61.163.58.154:9088/live/mytv.php?id=6
-TVB plus,http://61.163.58.154:9088/live/mytv.php?id=8
-TVB 18,http://61.163.58.154:9088/live/mytv.php?id=1
-千禧经典,http://61.163.58.154:9088/live/mytv.php?id=10
-明珠,http://61.163.58.154:9088/live/mytv.php?id=11
-星河台,http://61.163.58.154:9088/live/mytv.php?id=12
-娱乐新闻,http://61.163.58.154:9088/live/mytv.php?id=9
-华丽翡翠,http://61.163.58.154:9088/live/mytv.php?id=7
-亚洲武侠,http://61.163.58.154:9088/live/mytv.php?id=20
-天映频道,http://61.163.58.154:9088/live/mytv.php?id=13
-天映经典,http://61.163.58.154:9088/live/mytv.php?id=14
-RHK31,http://61.163.58.154:9088/live/mytv.php?id=15
-VIUTV1,http://61.163.58.154:9088/live/mytv.php?id=16
-Viu6,http://61.163.58.154:9088/live/mytv.php?id=17
-Astro 欢喜台,http://61.163.58.154:9088/live/mytv.php?id=18
-Astro QJ,http://61.163.58.154:9088/live/mytv.php?id=19
+
 
 
 
