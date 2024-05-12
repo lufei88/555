@@ -1,5 +1,55 @@
 央视频道,#genre#
 
+CCTV-1,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv1
+CCTV-2,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv2
+CCTV-3,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv3
+CCTV-4,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv4
+CCTV-5,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv5
+CCTV-5+,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv5p
+CCTV-6,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv6
+CCTV-7,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv7
+CCTV-8,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv8
+CCTV-9,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv9
+CCTV-10,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv10
+CCTV-11,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv11
+CCTV-12,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv12
+CCTV-13,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv13
+CCTV-14,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv14
+CCTV-15,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv15
+CCTV-16,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv16
+CCTV-17,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv17
+CCTV-16,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv164k
+CCTV-4K,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cctv4k
+CGTN,http://ali.hlspull.yximgs.top:1341/bsttv.php?id=cgtn
+
+CCTV-1,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv1
+CCTV-2,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv2
+CCTV-3,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv3
+CCTV-4,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv4
+CCTV-5,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv5
+CCTV-5+,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv5p
+CCTV-6,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv6
+CCTV-7,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv7
+CCTV-8,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv8
+CCTV-9,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv9
+CCTV-10,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv10
+CCTV-11,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv11
+CCTV-12,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv12
+CCTV-13,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv13
+CCTV-14,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv14
+CCTV-15,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv15
+CCTV-16,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv16
+CCTV-17,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv17
+CCTV-4k,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv4k
+CCTV-8k,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cctv8k
+CGTN,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cgtn
+CGTN记录,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cgtnjl
+CGTN西语,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cgtne
+CGTN法语,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cgtnf
+CGTN阿拉伯语,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cgtna
+CGTN俄语,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cgtnr
+
+
 
 CCTV-1,http://222.174.140.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://222.174.140.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -209,6 +259,36 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 
 卫视频道,#genre#
+
+北京卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=bjws
+东方卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=dfws
+湖南卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=hunws
+浙江卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=zjws
+江苏卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=jsws
+山东卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=sdws
+安徽卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=ahws
+广东卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=gdws
+天津卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=tjws
+东南卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=dnws
+河北卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=hbws
+河南卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=hnws
+辽宁卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=lnws
+黑龙江卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=hljws
+深圳卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=szws
+湖北卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=fbws
+江西卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=jxws
+重庆卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=cqws
+四川卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=scws
+广西卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=gxws
+贵州卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=gzws
+海南卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=hinws
+新疆卫视,http://ali.hlspull.yximgs.top:1301/ysp.php?id=xjws
+
+
+
+
+
+
 
 北京卫视,http://61.158.166.45:1301/newysp.php?id=bjws
 东方卫视,http://61.158.166.45:1301/newysp.php?id=dfws
@@ -813,6 +893,12 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 [港•澳•台],#genre#
+
+
+凤凰中文,http://61.163.58.154:9088/live/mytv.php?id=3
+凤凰资讯,http://61.163.58.154:9088/live/mytv.php?id=4
+
+
 凤凰中文,http://8.137.59.151:99/haioujk6677/haiousmtjk6666.php?id=1
 凤凰资讯,http://8.137.59.151:99/haioujk6677/haiousmtjk6666.php?id=2
 
@@ -822,6 +908,31 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+
+
+
+
+
+翡翠台,http://61.163.58.154:9088/live/mytv.php?id=2
+无线新闻,http://61.163.58.154:9088/live/mytv.php?id=6
+TVB plus,http://61.163.58.154:9088/live/mytv.php?id=8
+TVB 18,http://61.163.58.154:9088/live/mytv.php?id=1
+千禧经典,http://61.163.58.154:9088/live/mytv.php?id=10
+明珠,http://61.163.58.154:9088/live/mytv.php?id=11
+星河台,http://61.163.58.154:9088/live/mytv.php?id=12
+娱乐新闻,http://61.163.58.154:9088/live/mytv.php?id=9
+华丽翡翠,http://61.163.58.154:9088/live/mytv.php?id=7
+亚洲武侠,http://61.163.58.154:9088/live/mytv.php?id=20
+天映频道,http://61.163.58.154:9088/live/mytv.php?id=13
+天映经典,http://61.163.58.154:9088/live/mytv.php?id=14
+RHK31,http://61.163.58.154:9088/live/mytv.php?id=15
+VIUTV1,http://61.163.58.154:9088/live/mytv.php?id=16
+Viu6,http://61.163.58.154:9088/live/mytv.php?id=17
+Astro 欢喜台,http://61.163.58.154:9088/live/mytv.php?id=18
+Astro QJ,http://61.163.58.154:9088/live/mytv.php?id=19
+
+
 
 
 
