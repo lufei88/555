@@ -1741,7 +1741,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "./jars/蜗牛有广告.jar",
+            "jar": "./jar/蜗牛有广告.jar",
             "ext": "./json/搭讪.json"
         },
         {
@@ -1752,7 +1752,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "./jars/蜗牛有广告.jar",
+            "jar": "./jar/蜗牛有广告.jar",
             "ext": "./json/搭配.json"
         },
 
@@ -1769,7 +1769,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "./jars/蜗牛有广告.jar",
+            "jar": "./jar/蜗牛有广告.jar",
             "ext": "./json/zyy.json"
         },
 
