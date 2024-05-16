@@ -142,6 +142,13 @@
 
 
 
+
+
+
+
+
+
+
 {"key":"影探蓝光","name":"🏆4k专线6(首选)","type":3,"api":"csp_WexYingtan4k","jar": "./jar/og.jar","searchable":1,"changeable":1},
 
 
@@ -1726,28 +1733,28 @@
   
 
 
-{
-      "key": "csp_Bili_dashan",
-      "name": "💋┃搭讪┃教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/搭讪.json"
-    },
-    {
-      "key": "csp_Bili__dapei",
-      "name": "💋┃搭配┃教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/搭配.json"
-    },
+   {
+            "key": "csp_Bili_dashan",
+            "name": "💋搭讪教程",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "./jar/蜗牛有广告.jar",
+            "ext": "./json/搭讪.json"
+        },
+        {
+            "key": "csp_Bili__dapei",
+            "name": "💃搭配教程",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "./jar/蜗牛有广告.jar",
+            "ext": "./json/搭配.json"
+        },
 
 
 
@@ -1755,17 +1762,16 @@
 
 
 {
-      "key": "csp_Bili_zyy",
-      "name": "🅱️┃中医┃药区",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/zyy.json"
-    },
-
+            "key": "csp_Bili_zyy",
+            "name": "🅱️中医药区",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "./jar/蜗牛有广告.jar",
+            "ext": "./json/zyy.json"
+        },
 
 
 
