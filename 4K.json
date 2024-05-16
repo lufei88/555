@@ -59,22 +59,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
    "key": "玩偶哥哥",
    "name": "🏆4k专线2(首选)",
@@ -90,12 +74,15 @@
 
 
 
+
+
+
 {
       "key": "表哥网盘",
       "name": "🏆4k专线3(首选)",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./jar/okjpg.jar",
+      "jar": "./jar/dongchenok.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -108,10 +95,10 @@
     },
 
 
-
-
-
  
+
+
+
 
 
 {
@@ -119,7 +106,7 @@
       "name": "🏆4k专线4(首选)",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./jar/okjpg.jar",
+      "jar": "./jar/dongchenok.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -131,9 +118,6 @@
       },
       "timeout": 25
     },
-
-
-
 
 
 
