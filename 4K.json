@@ -36,18 +36,19 @@
 
 
 
-   {
-      "key": "土豆网盘弹幕",
+
+
+
+{
+      "key": "土豆弹幕版",
       "name": "🏆4k专线1(首选)",
       "type": 3,
       "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
       "filterable": 1,
-       "jar": "./jar/okjpg.jar",
+      "changeable": 1,
       "ext": {
-        //"token": "file://TV/ali_token.txt",
-        
         "token": "193e647de2ca404ca2be6e0a4453f6c3",
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://tudou.lvdoui.top",
@@ -55,9 +56,6 @@
       },
       "timeout": 25
     },
-
-
-
 
 
 
@@ -166,23 +164,6 @@
 
 
 
-{
-      "key": "土豆弹幕版",
-      "name": "土豆弹幕4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/dongchenok.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tudou.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25
-    },
 
 
 
