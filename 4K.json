@@ -137,22 +137,28 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-//"ext":"./json/woj.json"
-
-  "ext": {
-        "token": "193e647de2ca404ca2be6e0a4453f6c3",        
-        "site": "./json/woj.json"
-        
-      }
-
-
-
-
-
+"ext":"./json/woj.json"
 },
 
 
 
+{
+      "key": "多多网盘",
+      "name": "🏆4k专线ttttttttttt",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://woj.nxog.eu.org",
+        "danmu": true
+      },
+      "timeout": 25
+    },
 
 
 
