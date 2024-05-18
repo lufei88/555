@@ -137,7 +137,19 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"./json/woj.json"
+//"ext":"./json/woj.json"
+
+  "ext": {
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "./json/woj.json",
+        "danmu": true
+      }
+
+
+
+
+
 },
 
 
