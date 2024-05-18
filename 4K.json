@@ -140,10 +140,9 @@
 //"ext":"./json/woj.json"
 
   "ext": {
-        "token": "193e647de2ca404ca2be6e0a4453f6c3",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "./json/woj.json",
-        "danmu": true
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",        
+        "site": "./json/woj.json"
+        
       }
 
 
