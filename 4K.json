@@ -129,7 +129,7 @@
 
 
 
-{"key":"️玩偶姐",
+/*{"key":"️玩偶姐",
 "name":"🏆4k专线5(首选)",
 "type":3,
 "api":"csp_XYQHikerAL",
@@ -138,13 +138,13 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"./json/woj.json"
-},
+},*/
 
 
 
 {
-      "key": "多多网盘",
-      "name": "🏆4k专线ttttttttttt",
+      "key": "️玩偶姐",
+      "name": "🏆4k专线5(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -159,6 +159,15 @@
       },
       "timeout": 25
     },
+
+
+
+
+
+
+
+
+
 
 
 
