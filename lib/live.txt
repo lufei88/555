@@ -8164,3 +8164,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 测试2,#genre#
 dsfdsf,http://61.158.166.45:1305/newsmts567.php?key=haiou45&id=Wlt
+
+dsfdsf,http://61.158.166.45:1305/newsmts567.php?key=haiou46&id=Wlt
+
+d2dsf,http://61.158.166.45:1305/newsmts567.php?key=haiou47&id=Wlt
