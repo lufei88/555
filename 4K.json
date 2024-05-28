@@ -32,30 +32,28 @@
 
 
 
-
-
-
-
-
-
-
-{
-      "key": "土豆弹幕版",
+    {
+      "key": "ysc",
       "name": "🏆4k专线1(首选)",
       "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/dongchenok.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
+      "api": "csp_AppYS",
+      "playerType": 1,
+      "changeable": 0,
       "ext": {
-        "token": "193e647de2ca404ca2be6e0a4453f6c3",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tudou.lvdoui.top",
-        "danmu": true
+        "server": "https://cms.ysctv.cn/api.php/app/",
+        "ali": "./tvbox/tok.txt",
+        "quark": "./tvbox/qkcoki.txt",
+        "mackey": "./tvbox/yscki.txt"
       },
-      "timeout": 25
+      "jar": "./jar/ysc.jar"
     },
+
+
+
+
+
+
+
 
 
 
@@ -165,39 +163,35 @@
 //{"key":"影探蓝光","name":"🏆4k专线6(首选)","type":3,"api":"csp_WexYingtan4k","jar": "./jar/og.jar","searchable":1,"changeable":1},
 
 
-
-    {
-      "key": "dy",
-      "name": "🪤我的影视",
-      "type": 3,
-      "api": "./js/tzdi.js",
-      "ext": {
-        "host": "http://dh.li0580.com/api.php/app/",
-        "*": [
-          "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
-        ]
-      }
-    },
-
-
-
-
-
-    {
-      "key": "影视车",
+{
+      "key": "土豆弹幕版",
       "name": "🏆4k专线6(首选)",
       "type": 3,
-      "api": "csp_AppYS",
-      "playerType": 1,
-      "changeable": 0,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
       "ext": {
-        "server": "https://cms.ysctv.cn/api.php/app/",
-        "ali": "./tvbox/tok.txt",
-        "quark": "./tvbox/qkcoki.txt",
-        "mackey": "./tvbox/yscki.txt"
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
       },
-      "jar": "./jar/ysc.jar"
+      "timeout": 25
     },
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -273,7 +267,18 @@
 
 
 
-
+    {
+      "key": "dy",
+      "name": "🥇天招VIP专线5",
+      "type": 3,
+      "api": "./js/tzdi.js",
+      "ext": {
+        "host": "http://dh.li0580.com/api.php/app/",
+        "*": [
+          "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
+        ]
+      }
+    },
 
 
 
@@ -327,7 +332,8 @@
 
 
 
-    {
+
+  /*  {
       "key": "原创",
       "name": "🥇天招VIP专线9",
       "type": 3,
@@ -337,7 +343,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
+    },*/
 
 
 
