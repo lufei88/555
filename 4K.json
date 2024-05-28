@@ -166,7 +166,18 @@
 
 
 
-
+    {
+      "key": "dy",
+      "name": "🪤我的影视",
+      "type": 3,
+      "api": "./js/tzdi.js",
+      "ext": {
+        "host": "http://dh.li0580.com/api.php/app/",
+        "*": [
+          "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
+        ]
+      }
+    },
 
 
 
