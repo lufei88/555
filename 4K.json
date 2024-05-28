@@ -183,6 +183,28 @@
 
 
 
+    {
+      "key": "影视车",
+      "name": "🏆4k专线6(首选)",
+      "type": 3,
+      "api": "csp_AppYS",
+      "playerType": 1,
+      "changeable": 0,
+      "ext": {
+        "server": "https://cms.ysctv.cn/api.php/app/",
+        "ali": "./tvbox/tok.txt",
+        "quark": "./tvbox/qkcoki.txt",
+        "mackey": "./tvbox/yscki.txt"
+      },
+      "jar": "./jar/ysc.jar"
+    },
+
+
+
+
+
+
+
 
 //{"key": "8888",
 //"name": "🏆VIP-4k专线3(首选)",
