@@ -532,6 +532,7 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 凤凰资讯,http://8.137.59.151:99/haiou45smt/haiousmtjk6666.php?id=2
 凤凰香港,http://8.137.59.151:99/haiou45smt/haiousmtjk6666.php?id=3
 无线新闻,http://8.137.59.151:99/haiou45smt/haiousmtjk6666.php?id=5
+无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 无线财经,http://8.137.59.151:99/haiou45smt/haiousmtjk6666.php?id=6
 翡翠台,http://8.137.59.151:99/haiou45smt/haiousmtjk6666.php?id=4
 华丽翡翠,http://8.137.59.151:99/haiou45smt/haiousmtjk6666.php?id=7
