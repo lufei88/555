@@ -51,7 +51,18 @@
 
 
 
-
+   {
+      "key": "0580",
+      "name": "🏆4k专线2(首选)",
+      "type": 3,
+      "api": "./js/tzdi.js",
+      "ext": {
+        "host": "http://dh.li0580.com/api.php/app/",
+        "*": [
+          "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
+        ]
+      }
+    },
 
 
 
@@ -59,7 +70,7 @@
 
 {
    "key": "玩偶哥哥",
-   "name": "🏆4k专线2(首选)",
+   "name": "🏆4k专线3(首选)",
    "type": 3,
  "api": "csp_WoGG",
   "searchable": 1,
@@ -77,7 +88,7 @@
 
 {
       "key": "表哥网盘",
-      "name": "🏆4k专线3(首选)",
+      "name": "🏆4k专线4(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -101,7 +112,7 @@
 
 {
       "key": "多多网盘",
-      "name": "🏆4k专线4(首选)",
+      "name": "🏆4k专线5(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -142,7 +153,7 @@
 
 {
       "key": "️玩偶姐",
-      "name": "🏆4k专线5(首选)",
+      "name": "🏆4k专线6(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -165,7 +176,7 @@
 
 {
       "key": "土豆弹幕版",
-      "name": "🏆4k专线6(首选)",
+      "name": "🏆4k专线7(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -267,18 +278,7 @@
 
 
 
-    {
-      "key": "dy",
-      "name": "🥇天招VIP专线5",
-      "type": 3,
-      "api": "./js/tzdi.js",
-      "ext": {
-        "host": "http://dh.li0580.com/api.php/app/",
-        "*": [
-          "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
-        ]
-      }
-    },
+ 
 
 
 
