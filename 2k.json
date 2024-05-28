@@ -32,30 +32,28 @@
 
 
 
-
-
-
-
-
-
-
-{
-      "key": "土豆弹幕版",
+    {
+      "key": "ysc",
       "name": "🏆4k专线1(首选)",
       "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/dongchenok.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
+      "api": "csp_AppYS",
+      "playerType": 1,
+      "changeable": 0,
       "ext": {
-        "token": "193e647de2ca404ca2be6e0a4453f6c3",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tudou.lvdoui.top",
-        "danmu": true
+        "server": "https://cms.ysctv.cn/api.php/app/",
+        "ali": "./tvbox/tok.txt",
+        "quark": "./tvbox/qkcoki.txt",
+        "mackey": "./tvbox/yscki.txt"
       },
-      "timeout": 25
+      "jar": "./jar/ysc.jar"
     },
+
+
+
+
+
+
+
 
 
 
@@ -88,7 +86,7 @@
       "filterable": 1,
       "ext": {
         "token": "193e647de2ca404ca2be6e0a4453f6c3",
-        "cookie": "file://TV/quark_cookie.txt",
+        "cookie": "_UP_A4A_11_=wb9611f7c23e42f59c2f677a89299629; __wpkreporterwid_=0c31b069-e701-4c11-19de-8dceeb6b6f2e; __itrace_wid=b8034219-1d0c-402e-0aef-daa0c555f399; _UP_30C_6A_=st9626201bdfv7k27fm0gaejx76g8wf2; _UP_TS_=sg17c6e5d8435385a2dc5c6baf7a915801e; _UP_E37_B7_=sg17c6e5d8435385a2dc5c6baf7a915801e; _UP_TG_=st9626201bdfv7k27fm0gaejx76g8wf2; _UP_335_2B_=1; tfstk=eSbyAr1Fr6yYfbo46nYe0kgJy8qJ8U21qw9Bt6fHNLvkNU1h061awB65tpSen9F-PU2--pfOH39ldUMU8t8kvg9BFp8F9OPbCPa1w_LprRw_5u-BVb8H99Ko2_CJJjeRC9-Fw2uedmseCN2YefKTs_pcuBK51vH7RLun-azw2d5qA4g5uQJRT_v2aQ72a3J14EHpiNqfJwUKx3AvgdN4gcBQpRcUSqBovDKR7IJ_iKmKv3AvgdN4gDnpVvR2CSvc.; _UP_F7E_8D_=Rh7BaNhNfs5noY9V7BaO3szbpQJVNadRGUOU%2BWEa1%2FBfVEC7XMN6d4jKLHiThZj4jaLLO9AVQUwLNou9CehuHWlMWS1rXVfbZXRHxH%2Fc5ejTk%2FYYBSlxZ2dk3A9f%2FCMRUH3g%2FeQ%2BM9DpV4OIH2rmX0VF6jsQF6Mjj3zd%2Fr57GvWdSoxLVcoYHu9L%2BUVOOkiwFFRhJeaRkDpsr9k6tq7LhStVUZTyTwSDb3FpMHveDAhANK4v8a%2BQ2MHioDqQO2Iml2%2B2H3zLzMHfdzjPhIn9KLnVmIzq%2FTTa5GH40CMVkY7o01GI0ATtUO91YJ0UKEIX39siXgbW2M9npW%2F75YhAoYvCphdd0pvjAl37%2Fu6rZ9%2BAuY0UFHP8TZpAjXZfykY6Bw2eJBV4FBFSwLwKW%2Fv64A%3D%3D; _UP_D_=pc; __pus=f671fc12ae5f45805f0f4afba2f2c9f2AAQz2Tyvyo4JyF0z5GIUSaQkvQxQfn+7CWMomqiFLrZcy5UhCp070a6SBBgxmLKG4/3cFuStixPQpIfm3B+CeASh; __kp=9c73cc80-d316-11ee-bcf8-6953db77feb5; __kps=AARvVLKJZ0eAdhfpBwaV36IB; __ktd=4vwNTk9DZjOs+zCGZETDSQ==; __uid=AARvVLKJZ0eAdhfpBwaV36IB; __puus=b21f9bf6a5303fb9f7777107b0896732AATZ8Ag/mEsY2Seo4SBS2rLNzpwkAt9eL5hSYvwWly7lR1OKuwrwt/tf0GPEjyNPS62JPXbYBCWdKd/cPIPQcuce0z12wBWE7JFUGLCuMhwM4KqIZtQJDo8cijaWuJ4l9ceeC0M0JNMGwnmq1ygKqayC8/mwyb8lzp3osgmyhJd4IrB9Of5ETKE5wuFMsnBJuoqJ5WaNR0fIVPm6yBxLpfj6",
         "site": "https://wobge.run.goorm.io/"
       },
       "timeout": 25
@@ -129,7 +127,7 @@
 
 
 
-{"key":"️玩偶姐",
+/*{"key":"️玩偶姐",
 "name":"🏆4k专线5(首选)",
 "type":3,
 "api":"csp_XYQHikerAL",
@@ -138,18 +136,56 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"./json/woj.json"
-},
+},*/
+
+
+
+{
+      "key": "️玩偶姐",
+      "name": "🏆4k专线5(首选)",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://woj.nxog.eu.org",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+
+
+
+//{"key":"影探蓝光","name":"🏆4k专线6(首选)","type":3,"api":"csp_WexYingtan4k","jar": "./jar/og.jar","searchable":1,"changeable":1},
+
+
+{
+      "key": "土豆弹幕版",
+      "name": "🏆4k专线6(首选)",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "193e647de2ca404ca2be6e0a4453f6c3",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
+      },
+      "timeout": 25
+    },
 
 
 
 
 
 
-
-
-
-
-{"key":"影探蓝光","name":"🏆4k专线6(首选)","type":3,"api":"csp_WexYingtan4k","jar": "./jar/og.jar","searchable":1,"changeable":1},
 
 
 
@@ -231,7 +267,18 @@
 
 
 
-
+    {
+      "key": "dy",
+      "name": "🥇天招VIP专线5",
+      "type": 3,
+      "api": "./js/tzdi.js",
+      "ext": {
+        "host": "http://dh.li0580.com/api.php/app/",
+        "*": [
+          "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
+        ]
+      }
+    },
 
 
 
@@ -285,7 +332,8 @@
 
 
 
-    {
+
+  /*  {
       "key": "原创",
       "name": "🥇天招VIP专线9",
       "type": 3,
@@ -295,9 +343,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-
-
+    },*/
 
 
 
@@ -1505,6 +1551,7 @@
     },
 
 
+
 {
   "key": "河马短剧",
   "name": "💁‍♀️┃短剧┃首选",
@@ -1514,6 +1561,10 @@
   "searchable": 1,
   "changeable": 1
   }, 
+
+
+
+
 
 
 
@@ -1871,8 +1922,9 @@
 //{"name": "🌎天招VIP2","type": 1,"url": "https://api.json.icu/api/?key=853840fd5b4f33933b11f162f5861987&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
-
 {"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
 
 
 
@@ -1927,7 +1979,6 @@
 
 //{"name": "🌎天招VIP5","type": 1,"url": "http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
- 
 
 
 
