@@ -50,7 +50,7 @@
 
 
 
-     {"key": "qiepian","name": "二一动不动","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/Yoursmile.jar","ext":"http://110.42.3.236:8800/tvjiekou/api.php/app/keyunziyuan/nav?token="},
+     {"key": "qiepian","name": "二一动不动","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/Yoursmile.jar","ext":"http://110.42.3.236:8800/tvjiekou/api.php/app/keyunziyuan/nav?token=5c6ede61b91f203480c043a40ae5572aab81e2326d59eaf023d9ae360f9b8ea54a7a09f2db8a03512904fa82a33890810f4420ad5ec9a4686ab2c59f297d78069ff20aa9103b10ca8f5b90a80647783fc63501c79218db2e30d94230a90e7d36"},
 
 
 
