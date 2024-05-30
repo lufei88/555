@@ -1,0 +1,137 @@
+{
+    
+    "spider":"/tvjiekou/jar/Yoursmile.jar;md5;662AB52101CE4537B8FDBCFB5314EB5A",
+	
+	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+	
+	
+	
+
+    "sites": [
+        {
+            "key": "qiepian",
+            "name": "token“Ï≥£",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"http://110.42.3.236:8800/tvjiekou/api.php/app/xxx//tvjiekou/api.php/app/xxx/"
+        }
+    ],
+	
+	
+	
+	    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": ZHUYUMING."/tvjiekou/jsonfile/1.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    "parses": [
+        {
+            "name": "JSONº”√‹",
+            "type": 4,
+            "url": ZHUYUMING."?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "Ã⁄—∂",
+                    "qiyi",
+                    "∞Æ∆Ê“’",
+                    "∆Ê“’",
+                    "youku",
+                    "”≈ø·",
+                    "mgtv",
+                    "√¢π˚",
+                    "letv",
+                    "¿÷ ”",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "ﬂŸ¡®ﬂŸ¡®",
+                    "xqiqi",
+                    "ppayun",
+                    "qiqithree",
+                    "qiqitwo",
+                    "ﬂŸ¡®"
+                ],
+                "header": {
+                    "user-agent": "Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.199222.002jiami)",
+                    "referer": ZHUYUMING."/",
+                    "origin": "http://110.42.2.68:6688"
+                }
+            }
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "lz",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz"
+            ]
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq"
+    ],
+    "ijk": [
+        {
+            "group": "»ÌΩ‚¬Î",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "group": "”≤Ω‚¬Î",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "iqiyi.hbuioo.com",
+    ]
+}
