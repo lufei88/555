@@ -1,6 +1,6 @@
 {
     
-    "spider":"/tvjiekou/jar/Yoursmile.jar;md5;662AB52101CE4537B8FDBCFB5314EB5A",
+    "spider":"./jar/Yoursmile.jar;md5;662AB52101CE4537B8FDBCFB5314EB5A",
 	
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	
@@ -10,13 +10,13 @@
     "sites": [
         {
             "key": "qiepian",
-            "name": "token“Ï≥£",
+            "name": "‰∫å‰∏ÄÂä®‰∏çÂä®",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"http://110.42.3.236:8800/tvjiekou/api.php/app/xxx//tvjiekou/api.php/app/xxx/"
+            "ext":"http://110.42.3.236:8800/tvjiekou/api.php/app/xxx/tvjiekou/api.php/app/xxx/"
         }
     ],
 	
@@ -50,36 +50,36 @@
 	
     "parses": [
         {
-            "name": "JSONº”√‹",
+            "name": "JSON",
             "type": 4,
-            "url": ZHUYUMING."?url=",
+            "url": "?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "Ã⁄—∂",
+                    "ËÖæËÆØ",
                     "qiyi",
-                    "∞Æ∆Ê“’",
-                    "∆Ê“’",
+                    "Áà±Â•áËâ∫",
+                    "Â•áËâ∫",
                     "youku",
-                    "”≈ø·",
+                    "‰ºòÈÖ∑",
                     "mgtv",
-                    "√¢π˚",
+                    "ËäíÊûú",
                     "letv",
-                    "¿÷ ”",
+                    "‰πêËßÜ",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ﬂŸ¡®ﬂŸ¡®",
+                    "ÂìîÂì©ÂìîÂì©",
                     "xqiqi",
                     "ppayun",
                     "qiqithree",
                     "qiqitwo",
-                    "ﬂŸ¡®"
+                    "ÂìîÂì©"
                 ],
                 "header": {
                     "user-agent": "Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.199222.002jiami)",
-                    "referer": ZHUYUMING."/",
+                    "referer": "/",
                     "origin": "http://110.42.2.68:6688"
                 }
             }
@@ -111,7 +111,7 @@
     ],
     "ijk": [
         {
-            "group": "»ÌΩ‚¬Î",
+            "group": "ËΩØËß£Á†Å",
             "options": [
                 {
                     "category": 4,
@@ -121,7 +121,7 @@
             ]
         },
         {
-            "group": "”≤Ω‚¬Î",
+            "group": "Á°¨Ëß£Á†Å",
             "options": [
                 {
                     "category": 4,
