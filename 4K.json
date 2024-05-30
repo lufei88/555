@@ -32,6 +32,26 @@
 
 
 
+{
+   "key": "玩偶哥哥",
+   "name": "🏆4k专线1(首选)",
+   "type": 3,
+ "api": "csp_WoGG",
+  "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+    "jar": "./jar/fan0303.jar",
+   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
+
+
+
+
+
+
+
+
+
   /*  {
       "key": "ysc",
       "name": "🏆4k专线1(首选)",
@@ -72,40 +92,6 @@
         ]
       }
     },
-
-
-
-
-
-{
-   "key": "玩偶哥哥",
-   "name": "🏆4k专线3(首选)",
-   "type": 3,
- "api": "csp_WoGG",
-  "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 0,
-    "jar": "./jar/fan0303.jar",
-   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-
-
-
-
-{
-      "key": "Hdhive",
-      "name": "影巢🚜臻享4K",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "jar": "https://gitee.com/dongchenvip/ys/raw/master/jar/pg3.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "./tvbox/tok35.json$$$null$$$1"
-    },
-    
-
 
 
 
