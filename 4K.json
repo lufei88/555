@@ -106,6 +106,32 @@
 
 
 
+    {
+      "key": "玩偶",
+      "name": "玩偶 | 饭太硬接口",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "aliToken": "./tvbox/tok.txt",
+        "quarkCookie": "./tvbox/qkcoki.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      },
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716742624054/fan.txt"
+    },
+
+
+
+
+
+
+
+
+
 
 {
       "key": "表哥网盘",
