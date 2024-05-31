@@ -292,7 +292,7 @@
 
 
 
-{"key": "tz","name": "🥇天招VIP专线5","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://php.kdzj.vip/json/小盒会员.json"},
+{"key": "tz","name": "🥇天招VIP专线5","type": 3,"api": "csp_XBPQ","jar": "http://php.kdzj.vip/jar/xhkw0528.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://php.kdzj.vip/json/小盒会员.json"},
 
 
 
