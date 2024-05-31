@@ -17,7 +17,7 @@
         "NBA":"@directory/game/NBA",
         "CBA":"@directory/game/CBA",
         "颜值":"@directory/game/YZ",
-        "棋牌/游戏":"@directory/game/Game"
+        "游戏":"@directory/game/Game"
    
     },
     "homeVodNode": "//a[contains(@href,'/10')]","homeVodName": "/div/following-sibling::p[1]/text()","homeVodId": "/@href","homeVodIdR": "/(\\S+)","homeVodImg": "//div[contains(@style,'http')]/@style","homeVodImgR": "(http.*?jpg)","homeVodMark": "",
