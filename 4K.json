@@ -53,7 +53,7 @@
         "server": "https://cms.ysctv.cn/api.php/app/",
         "ali": "./tvbox/tok.txt",
         "quark": "./tvbox/qkcoki.txt",
-        "mackey": "./tvbox/yscki.json"
+        "mackey": "./tvbox/yscki.txt"
       },
       "jar": "./jar/ysc.jar"
     },
