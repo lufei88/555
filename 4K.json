@@ -1522,7 +1522,10 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
+   
+   
+   
+ /*   {
       "key": "企鹅体育xp",
       "name": "🐧鹅鹅┃体育",
       "type": 3,
@@ -1534,7 +1537,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
-    },
+    },*/
 
 
 
