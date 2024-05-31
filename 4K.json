@@ -1223,7 +1223,16 @@
 
 
 
-
+    {
+      "key": "csp_Bili",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://dp.sxtv.top:88/json/Bili.json"
+    },
 
 
 
