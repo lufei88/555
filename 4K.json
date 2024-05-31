@@ -1533,7 +1533,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
+      "ext": "./js2/企鹅直播.json"
     },
 
 
