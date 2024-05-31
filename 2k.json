@@ -32,7 +32,17 @@
 
 
 
-    {
+
+
+
+
+
+
+
+
+
+
+ {
       "key": "ysc",
       "name": "🏆4k专线1(首选)",
       "type": 3,
@@ -50,16 +60,33 @@
 
 
 
+     
+
+//{"key": "qiepian","name": "二一动不动","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/Yoursmile.jar","ext":"https://www.360zy.com/"},
 
 
 
 
 
+
+
+   {
+      "key": "0580",
+      "name": "🏆4k专线2(首选)",
+      "type": 3,
+      "api": "./js/tzdi.js",
+      "ext": {
+        "host": "http://dh.li0580.com/api.php/app/",
+        "*": [
+          "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
+        ]
+      }
+    },
 
 
 {
    "key": "玩偶哥哥",
-   "name": "🏆4k专线2(首选)",
+   "name": "🏆4k专线3(首选)",
    "type": 3,
  "api": "csp_WoGG",
   "searchable": 1,
@@ -75,9 +102,10 @@
 
 
 
+
 {
       "key": "表哥网盘",
-      "name": "🏆4k专线3(首选)",
+      "name": "🏆4k专线4(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -101,7 +129,7 @@
 
 {
       "key": "多多网盘",
-      "name": "🏆4k专线4(首选)",
+      "name": "🏆4k专线5(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -142,7 +170,7 @@
 
 {
       "key": "️玩偶姐",
-      "name": "🏆4k专线5(首选)",
+      "name": "🏆4k专线6(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -165,7 +193,7 @@
 
 {
       "key": "土豆弹幕版",
-      "name": "🏆4k专线6(首选)",
+      "name": "🏆4k专线7(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -267,18 +295,7 @@
 
 
 
-    {
-      "key": "dy",
-      "name": "🥇天招VIP专线5",
-      "type": 3,
-      "api": "./js/tzdi.js",
-      "ext": {
-        "host": "http://dh.li0580.com/api.php/app/",
-        "*": [
-          "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
-        ]
-      }
-    },
+ 
 
 
 
@@ -1473,12 +1490,15 @@
       "quickSearch": 0,
       "changeable": 0
     },
+
+
+
     {
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/jrk.js",
+      "api": "./js2/drpy2.min.js",
+      "ext": "./js2/jrk.js",
       "style": {
         "type": "list"
       },
@@ -1486,12 +1506,20 @@
       "quickSearch": 0,
       "changeable": 0
     },
+
+
+
+
+
+
+
+
     {
       "key": "310js",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js",
+      "api": "./js2/drpy2.min.js",
+      "ext": "./js2/310直播.js",
       "style": {
         "type": "list"
       },
@@ -1499,7 +1527,10 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
+   
+   
+   
+ /*   {
       "key": "企鹅体育xp",
       "name": "🐧鹅鹅┃体育",
       "type": 3,
@@ -1510,8 +1541,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
-    },
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
+    },*/
 
 
 
