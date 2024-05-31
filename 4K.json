@@ -1589,7 +1589,7 @@
       "name": "💁‍♀️┃短剧┃首选",
       "type": 3,
       "api": "csp_Djuu",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
