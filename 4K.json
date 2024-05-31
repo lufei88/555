@@ -1533,7 +1533,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./js2/企鹅直播.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
     },
 
 
