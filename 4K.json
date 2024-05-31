@@ -1513,8 +1513,8 @@
       "key": "310js",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js",
+      "api": "./js2/drpy2.min.js",
+      "ext": "./js2/310直播.js",
       "style": {
         "type": "list"
       },
