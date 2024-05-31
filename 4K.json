@@ -1485,12 +1485,15 @@
       "quickSearch": 0,
       "changeable": 0
     },
+
+
+
     {
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/jrk.js",
+      "api": "./js2/drpy2.min.js",
+      "ext": "./js2/jrk.js",
       "style": {
         "type": "list"
       },
@@ -1498,6 +1501,14 @@
       "quickSearch": 0,
       "changeable": 0
     },
+
+
+
+
+
+
+
+
     {
       "key": "310js",
       "name": "⚽310┃看球",
