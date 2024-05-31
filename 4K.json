@@ -86,6 +86,19 @@
 
 
 
+ {"key": "csp_XBPQ_6V",
+  "name": "🌙天招|4K",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar" : "./jar/bh.jar",
+  "ext":"./js/bh.json"},
+
+
+
+
 
 
 {
