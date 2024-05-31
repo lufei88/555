@@ -62,6 +62,10 @@ CHC家庭影院,http://dp.sxtv.top:88/2b/cqyx.php?id=chcjt
 
 
 
+
+
+
+
 CCTV-1,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv1
 CCTV-2,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv2
 CCTV-3,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv3
@@ -88,7 +92,34 @@ CCTV-书画频道,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/
 
 
 
-
+CCTV-1,http://ygbh.live/migu.php?id=cctv1
+CCTV-2,http://ygbh.live/migu.php?id=cctv2
+CCTV-3,http://ygbh.live/migu.php?id=cctv3
+CCTV-4,http://ygbh.live/migu.php?id=cctv4
+CCTV-4,http://ygbh.live/migu.php?id=cctv4a
+CCTV-4,http://ygbh.live/migu.php?id=cctv4o
+CCTV-5,http://ygbh.live/migu.php?id=cctv5
+CCTV-5+,http://ygbh.live/migu.php?id=cctv5p
+CCTV-6,http://ygbh.live/migu.php?id=cctv6
+cctv-7,http://ygbh.live/migu.php?id=cctv7
+cctv-8,http://ygbh.live/migu.php?id=cctv8
+CCTV-9,http://ygbh.live/migu.php?id=cctv9
+CCTV-10,http://ygbh.live/migu.php?id=cctv10
+CCTV-11,http://ygbh.live/migu.php?id=cctv11
+CCTV-12,http://ygbh.live/migu.php?id=cctv12
+CCTV-13,http://ygbh.live/migu.php?id=cctv13
+CCTV-14,http://ygbh.live/migu.php?id=cctv14
+CCTV-15,http://ygbh.live/migu.php?id=cctv15
+CCTV-17,http://ygbh.live/migu.php?id=cctv17
+CCTV发现之旅,http://ygbh.live/migu.php?id=fxzl
+CCTV老故事,http://ygbh.live/migu.php?id=lgs
+CCTV中学生,http://ygbh.live/migu.php?id=zxs
+CGTN,http://ygbh.live/migu.php?id=cgtn
+CGTN纪录,http://ygbh.live/migu.php?id=cgtnjl
+CCTV西班牙语,http://ygbh.live/migu.php?id=cgtne
+CCTV法语,http://ygbh.live/migu.php?id=cgtnf
+CCTV阿拉伯语,http://ygbh.live/migu.php?id=cgtna
+CCTV俄语,http://ygbh.live/migu.php?id=cgtnr
 
 
 
@@ -109,17 +140,6 @@ CCTV-12,http://fangke.blueswords.com:9901/tsfile/live/0012_1.m3u8?key=txiptv&pla
 CCTV-13,http://fangke.blueswords.com:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://fangke.blueswords.com:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://fangke.blueswords.com:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -220,6 +240,68 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 新疆卫视,http://dp.sxtv.top:88/2b/migu.php?id=xjws
 西藏卫视,http://dp.sxtv.top:88/2b/migu.php?id=xzws
 海南卫视,http://dp.sxtv.top:88/2b/migu.php?id=hinws
+
+
+
+东方卫视,http://ygbh.live/migu.php?id=dfws
+重庆卫视,http://ygbh.live/migu.php?id=cqws
+吉林卫视,http://ygbh.live/migu.php?id=jlws
+辽宁卫视,http://ygbh.live/migu.php?id=lnws
+内蒙古卫视,http://ygbh.live/migu.php?id=nmws
+宁夏卫视x,http://ygbh.live/migu.php?id=nxws
+甘肃卫视,http://ygbh.live/migu.php?id=gsws
+青海卫视,http://ygbh.live/migu.php?id=qhws
+陕西卫视,http://ygbh.live/migu.php?id=sxws
+山东卫视,http://ygbh.live/migu.php?id=sdws
+河南卫视,http://ygbh.live/migu.php?id=hnws
+湖北卫视,http://ygbh.live/migu.php?id=hubws
+湖南卫视,http://ygbh.live/migu.php?id=hunws
+江西卫视,http://ygbh.live/migu.php?id=jxws
+江苏卫视,http://ygbh.live/migu.php?id=jsws
+东南卫视,http://ygbh.live/migu.php?id=dnws
+海峡卫视,http://ygbh.live/migu.php?id=hxws
+广东卫视,http://ygbh.live/migu.php?id=gdws
+大湾区卫视,http://ygbh.live/migu.php?id=dwqws
+广西卫视,http://ygbh.live/migu.php?id=gxws
+云南卫视,http://ygbh.live/migu.php?id=ynws
+贵州卫视,http://ygbh.live/migu.php?id=gzws
+新疆卫视,http://ygbh.live/migu.php?id=xjws
+西藏卫视,http://ygbh.live/migu.php?id=xzws
+海南卫视,http://ygbh.live/migu.php?id=hinws
+
+
+
+
+
+
+
+浙江卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=zjws
+东方卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=dfws
+辽宁卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=llws
+北京卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=bjws
+贵州卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=gzws
+重庆卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cqws
+云南卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=ynwx
+旅游卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=lyws
+安徽卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=ahws
+优漫卡通,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=ymkt
+江西卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=jxws
+吉林卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=jlws
+四海钓鱼,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=shdy
+天津卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=tjws
+卡酷动画,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=kkdh
+广西卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=gxws
+四川卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=scws
+湖北卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=hbws
+陕西卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=sxws
+江苏卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=jsws
+东南卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=dnws
+黑龙江卫视,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=hljws
+
+
+
+
+
 
 
 
