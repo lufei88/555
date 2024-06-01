@@ -1,39 +1,5 @@
 央视频道,#genre#
 
-CCTV1高清,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv1
-CCTV2,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv2
-CCTV3,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv3
-CCTV4,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv4
-CCTV5高清,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv5
-CCTV5+高清,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv5p
-CCTV6,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv6
-CCTV7,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv7
-CCTV8,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv8
-CCTV9,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv9
-CCTV10,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv10
-CCTV11,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv11
-CCTV12,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv12
-CCTV13,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv13
-CCTV14,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv14
-CCTV15,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv15
-CCTV-16 奥林匹克,https://itv.lat/tv/live.php?&line=1&id=cctv16
-CCTV-17 农业农村,https://itv.lat/tv/live.php?&line=1&id=cctv17
-CCTV-4K 超高清,https://itv.lat/tv/live.php?&line=1&id=cctv4k
-CCTV-16 奥林匹克 4K,https://itv.lat/tv/live.php?&line=1&id=cctv164k
-CCTV-央视台球,http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
-CCTV-书画频道,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11009/index.m3u8
-
-CCTV-央视台球,https://hlsliveali-cdn.ysp.cctv.cn/990B5D33F235E26DCD19C8ABE16C480E80BFB7C1D1E545106894DE8FD7FF74A1E879401F9918A252B9D6C8304BA0AB6C528A3FEAB2DBD35AA5E985AE7E4AC2131BA01FE0BDABDCC3A424923809337FA45CF96E71784FEDEE106F640A9408393A73FE33EA0163ADBF7D1767B4DB25F7FA10E301279D098160465C29A46371D63F/2012513703.m3u8?from=player&svrtime=1715609539&pid=600170344&cdn=5506&revoi=B9BA288C75EEB202B5995B1B53ED51C904715469107D624232B97C1C0F5646527C449A7A722311B56E2548E6B3814C49DCB7358D3B6E526C271963A972BB7B4289A6F0FD1B7327E9694BB00AB512CE7C227919BD83D3305BB6F4B1D98D8B63EE5F98277CC309FB61F911A099050052DA15A64FA4DEE26DA5D1B3C5309CC032D3904538DC5BA128F4928A88E6D701280688C753DE4E78A8D0A855F44227AF798EA813A06A748B3FBCF9304228C4620088
-CCTV-兵器科技,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV-高尔夫网球,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV-卫生健康,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-
-
-
-
-
-
-
 
 CCTV-1,http://dp.sxtv.top:88/2b/migu.php?id=cctv1
 CCTV-2,http://dp.sxtv.top:88/2b/migu.php?id=cctv2
@@ -122,6 +88,41 @@ CCTV-4K 超高清,https://itv.lat/tv/live.php?&line=1&id=cctv4k
 CCTV-16 奥林匹克 4K,https://itv.lat/tv/live.php?&line=1&id=cctv164k
 CCTV-央视台球,http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
 CCTV-书画频道,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11009/index.m3u8
+
+
+
+CCTV-1高清,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv1
+CCTV-2,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv2
+CCTV-3,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv3
+CCTV-4,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv4
+CCTV-5高清,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv5
+CCTV-5+高清,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv5p
+CCTV-6,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv6
+CCTV-7,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv7
+CCTV-8,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv8
+CCTV-9,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv9
+CCTV-10,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv10
+CCTV-11,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv11
+CCTV-12,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv12
+CCTV-13,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv13
+CCTV-14,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv14
+CCTV-15,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv15
+CCTV-16,https://itv.lat/tv/live.php?&line=1&id=cctv16
+CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
+CCTV-4K,https://itv.lat/tv/live.php?&line=1&id=cctv4k
+CCTV-16,https://itv.lat/tv/live.php?&line=1&id=cctv164k
+CCTV-央视台球,http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
+CCTV-书画频道,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11009/index.m3u8
+
+CCTV-央视台球,https://hlsliveali-cdn.ysp.cctv.cn/990B5D33F235E26DCD19C8ABE16C480E80BFB7C1D1E545106894DE8FD7FF74A1E879401F9918A252B9D6C8304BA0AB6C528A3FEAB2DBD35AA5E985AE7E4AC2131BA01FE0BDABDCC3A424923809337FA45CF96E71784FEDEE106F640A9408393A73FE33EA0163ADBF7D1767B4DB25F7FA10E301279D098160465C29A46371D63F/2012513703.m3u8?from=player&svrtime=1715609539&pid=600170344&cdn=5506&revoi=B9BA288C75EEB202B5995B1B53ED51C904715469107D624232B97C1C0F5646527C449A7A722311B56E2548E6B3814C49DCB7358D3B6E526C271963A972BB7B4289A6F0FD1B7327E9694BB00AB512CE7C227919BD83D3305BB6F4B1D98D8B63EE5F98277CC309FB61F911A099050052DA15A64FA4DEE26DA5D1B3C5309CC032D3904538DC5BA128F4928A88E6D701280688C753DE4E78A8D0A855F44227AF798EA813A06A748B3FBCF9304228C4620088
+CCTV-兵器科技,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV-高尔夫网球,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV-卫生健康,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+
+
+
+
+
 
 
 
