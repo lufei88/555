@@ -539,16 +539,6 @@
      
     },*/
 
-  {
-      "key": "meowtv_xxys",
-      "name": "新新┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    },
 
 
 
@@ -654,6 +644,20 @@
 		    "filterable": 1,
 		    "ext": "http://kkwk123.top/api.php/app/"
 		},
+
+
+
+
+  {
+      "key": "meowtv_xxys",
+      "name": "🥇天招超快线8",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
 
 
 
