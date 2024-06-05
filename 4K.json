@@ -635,7 +635,16 @@
 
 
 
-
+{
+		    "key": "csp_xtd",
+		    "name": "🥇天招超快线7",
+		    "type": 3,
+		    "api": "csp_AppYsV2",
+		    "searchable": 1,
+		    "quickSearch": 1,
+		    "filterable": 1,
+		    "ext": "http://kkwk123.top/api.php/app/"
+		},
 
 
 
