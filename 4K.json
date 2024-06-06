@@ -294,7 +294,7 @@
   "name": "🥇天招VIP专线2",
   "type": 3,
   "api": "./lib/drpy2.min.js",
-  "ext": "./lib/mangguo.js"
+  "ext": "./lib/mangguo33.js"
   },
 
 
