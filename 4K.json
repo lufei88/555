@@ -306,6 +306,7 @@
       "key": "drpy_芒果",
       "name": "海鸥┃芒果",
       "type": 3,
+      "jar":"http://103.207.68.131:1322/app/0125.jar",
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
