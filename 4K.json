@@ -293,7 +293,7 @@
   "key": "芒果",
   "name": "🥇天招VIP专线2",
   "type": 3,
-  "api": "./lib/drpy2.min.js",
+  "api": "http://103.207.68.131:1322/app//lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
