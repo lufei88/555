@@ -1226,7 +1226,7 @@
 
 
 
-         {
+     /*    {
             "key": "YiSo",
             "name": "🇹┃易搜4K┃搜索",
             "type": 3,
@@ -1275,7 +1275,7 @@
             "changeable": 0,
              "jar": "./jar/fan0303.jar",
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
-        },
+        },*/
     
 
 
