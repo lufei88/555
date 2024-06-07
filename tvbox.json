@@ -143,7 +143,66 @@
       ]
     }
   ],
-  "flags": [],
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  "flags": [
+
+
+ {
+      "name": "☯️自动解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+
+
+{"name": "🌎天招会员","type": 1,"url": "http://110.40.61.123:7777/api/?key=HPD53GlBluSdNdyzCb&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+{
+      "name": "🌎天招VIP1",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=SH4P5apWCG5xtMCCs9&url=",//海鸥      
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+  
+    }
+    }
+
+
+
+
+  ],
   "parses": [],
   "ijk": [
     {
