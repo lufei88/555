@@ -386,17 +386,6 @@
     },
 
 
-{
-      "key": "csp_Kuaikan",
-      "name": "🥇天招VIP专线10",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "jar": "./jar/PandaQ240216.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
 
 
 
@@ -404,7 +393,7 @@
 
 {
       "key": "乐视",
-      "name": "🥇天招VIP专线11",
+      "name": "🥇天招VIP专线10",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
