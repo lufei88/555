@@ -476,6 +476,8 @@ VIUTV1,http://8.137.59.151:99/haiou45smt/haiousmtjk6666.php?id=19
 
 
 VIUTV6,http://8.137.59.151:99/haiou45smt/haiousmtjk6666.php?id=20
+
+18,http://ali.hlspull.yximgs.com/live/haiou9918.flv
 18,http://8.137.59.151:99/haiou45smt/haiousmtjk6666.php?id=13
 
 
