@@ -281,12 +281,22 @@
 
 
 {
+  "key": "腾讯",
+  "name": "🥇天招VIP专线1",
+  "type": 3,
+  "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
+  "ext": "./lib/腾讯.js"
+  },
+
+
+
+/*{
  "key": "QTV",
  "name": "🥇天招VIP专线1",
  "type": 3,
  "api": "./lib/drpy2.min.js",
  "ext": "./lib/txvip.js"
- },
+ },*/
 
 
 {
@@ -303,20 +313,14 @@
 
 
 
-{
-  "key": "腾讯",
-  "name": "🥇天招VIP专线3",
-  "type": 3,
-  "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
-  "ext": "./lib/腾讯.js"
-  },
+
 
 
 
 
 {
   "key": "爱奇异",
-  "name": "🥇天招VIP专线4",
+  "name": "🥇天招VIP专线3",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -329,7 +333,7 @@
 
 
 
-{"key": "tz","name": "🥇天招VIP专线5","type": 3,"api": "csp_XBPQ","jar": "./jar/tz.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/tz.json"},
+{"key": "tz","name": "🥇天招VIP专线4","type": 3,"api": "csp_XBPQ","jar": "./jar/tz.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/tz.json"},
 
 
 
@@ -341,7 +345,7 @@
 
 {
   "key": "优酷",
-  "name": "🥇天招VIP专线6",
+  "name": "🥇天招VIP专线5",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -355,7 +359,7 @@
 
 {
       "key": "搜狗",
-      "name": "🥇天招VIP专线7",
+      "name": "🥇天招VIP专线6",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/caigou.js"
@@ -365,7 +369,7 @@
 
 {
   "key": "NanGua",  
-  "name": "🥇天招VIP专线8",
+  "name": "🥇天招VIP专线7",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -376,7 +380,7 @@
 
 {
       "key": "4K影院",
-      "name": "🥇天招VIP专线9",
+      "name": "🥇天招VIP专线8",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -393,7 +397,7 @@
 
 {
       "key": "乐视",
-      "name": "🥇天招VIP专线10",
+      "name": "🥇天招VIP专线9",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
