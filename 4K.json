@@ -276,13 +276,22 @@
 //},
 
 
-
+{
+  "key": "芒果",
+  "name": "🥇天招VIP专线1",
+  "type": 3,
+  "api": "http://103.207.68.131:1322/app//lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/mangguo.js"
+  },
 
 
 
 {
   "key": "腾讯",
-  "name": "🥇天招VIP专线1",
+  "name": "🥇天招VIP专线2",
   "type": 3,
   "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
   "ext": "./lib/腾讯22.js"
@@ -299,16 +308,7 @@
  },*/
 
 
-{
-  "key": "芒果",
-  "name": "🥇天招VIP专线2",
-  "type": 3,
-  "api": "http://103.207.68.131:1322/app//lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/mangguo.js"
-  },
+
 
 
 
