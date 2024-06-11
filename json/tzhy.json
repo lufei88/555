@@ -44,7 +44,7 @@
 
 "线路数组":"\"code\":\"&&,[替换:4k>>天招在线#JZTV>>天招自营#NVB>>天招追剧#qq>>天招蓝光#qiyi>>天招官方#mgtv>>天招秒播#youku>>天招高清#bilibili>>天招备用]",
 
-"线路标题":"题&&\"[排序:天招在线>天招追剧>天招蓝光>天招官方>天招秒播>天招高清>天招备用>天招自营]",
+"线路标题":"题&&\"[排序:天招追剧>天招蓝光>天招官方>天招秒播>天招高清>天招备用>天招在线>天招自营]",
 
 "播放二次截取":"vod_url_with_player\":\\[{&&}\\]",
 
@@ -58,9 +58,9 @@
 
 "播放链接":"urlDecode(接&&接)",
 
-//"解析":"默认$http://39.107.152.173:112/api/?key=508Rndi8W0ShnKJtZr&url=",
+"解析":"默认$http://39.107.152.173:112/api/?key=508Rndi8W0ShnKJtZr&url=",
 
-"解析":"默认$http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=#天招追剧$http://39.107.152.173:112/api/jsonindex.php/?key=1b46GCm0CKXZHDhCfB&url=#天招VIP$http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=",
+//"解析":"默认$http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=#天招追剧$http://39.107.152.173:112/api/jsonindex.php/?key=1b46GCm0CKXZHDhCfB&url=#天招VIP$http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=",
 
 //"跳转播放链接":"url\":\"&&\"",
 
