@@ -40,7 +40,7 @@
 
 
 
-{"id":"113","title":"我的电视-1.86","logo":"http://zibb2024.tdddz.cn/upload/images/20240117/170549297565a7c1efa776b.png","desc1":"直播应用","desc":"我的电视TV精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.lizongying.mytv","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/my-tv-v1.8.6.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"10.74MB","create_time":"2 月以前 "}
+{"id":"113","title":"我的电视-2.16","logo":"http://zibb2024.tdddz.cn/upload/images/20240117/170549297565a7c1efa776b.png","desc1":"直播应用","desc":"我的电视TV精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.lizongying.mytv","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/my-tv-v2.1.6.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"10.74MB","create_time":"2 月以前 "}
 
 
 
