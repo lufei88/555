@@ -301,6 +301,8 @@ RHK 32,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=18
 VIUTV1,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=19
 VIUTV6,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=20
 
+
+18,http://8.137.59.151:3000/live.php?key=hello&id=5
 18,http://ali.hlspull.yximgs.com/live/haiou9918.flv
 18,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=24
 
