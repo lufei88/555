@@ -1141,6 +1141,32 @@ hbo hd,https://histar.zapi.us.kg/?id=hbo-hd
 hbo family,https://histar.zapi.us.kg/?id=hbo-family
 hbo signature,https://histar.zapi.us.kg/?id=hbo-signature
 
+爱尔达体育1台,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=91
+爱尔达体育2台,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=92
+爱尔达体育3台,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=93
+爱尔达体育4台,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=112
+博斯运动1,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=94
+博斯运动2,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=95
+博斯高球1,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=96
+博斯高球2,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=97
+博斯网球,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=98
+博斯无限,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=78
+Astr Supersports 1,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=99
+Astr Supersports 2,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=100
+Astr Supersports 3,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=101
+Astr Supersports 4,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=102
+Astro Cricket,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=116
+Astr GOLF,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=117
+TNT Sports 1,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=105
+TNT Sports 2,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=106
+TNT Sports 3,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=107
+TNT Sports 4,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=108
+WWE,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=103
+UFC,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=104
+NBA,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=120
+
+SONY Sports 1,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=109
+SONY Sports 2,http://8.137.59.151:99/haiou45smt/haiousmt.php?id=110
 
 
 
