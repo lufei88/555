@@ -1073,6 +1073,8 @@ CNN新闻,http://8.137.59.151:3000/laoshu.php?key=hello&id=57
 
 
 
+
+
 国际台,#genre#
 
 CGTN,https://cntv.sbs/tv?auth=2310201855&id=cgtn
@@ -1093,6 +1095,53 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
  
+体育频道,#genre#
+
+
+CCTV-5,http://58.248.112.230:8114/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141993662&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9d32fa20cc6a&FvSeid=88fe5578aeee6593&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18135&Fsv_chan_hls_se_idx=58&Fsv_TBt=8468304&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-5-CQ&Fsv_CMSID=GD_CUCC
+CCTV-5+,http://58.248.112.229:8114/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142067736&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9dc7161f6f45&FvSeid=88fe5578aeef8e53&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18140&Fsv_chan_hls_se_idx=58&Fsv_TBt=8466448&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-5PLUS-CQ&Fsv_CMSID=GD_CUCC
+
+
+五星体育,https://histar.zapi.us.kg/?id=wxty
+劲爆体育,https://histar.zapi.us.kg/?id=jbty
+广东体育,https://histar.zapi.us.kg/?id=gdty
+辽宁体育,https://histar.zapi.us.kg/?id=lnty
+天津体育,https://histar.zapi.us.kg/?id=tjty
+
+
+
+beinsports,https://histar.zapi.us.kg/?id=beinsports
+beinsports2,https://histar.zapi.us.kg/?id=beinsports2
+beinsports3,https://histar.zapi.us.kg/?id=beinsports3
+elta 体育1,https://histar.zapi.us.kg/?id=elta-sport1
+elta 体育2,https://histar.zapi.us.kg/?id=elta-sport2
+elta 体育3,https://histar.zapi.us.kg/?id=elta-sport3
+elta 体育4,https://histar.zapi.us.kg/?id=elta-sport4
+博斯网球,https://histar.zapi.us.kg/?id=sportcast-tennis
+博斯运动1,https://histar.zapi.us.kg/?id=sportcast1
+博斯运动2,https://histar.zapi.us.kg/?id=sportcast2
+博斯无限,https://histar.zapi.us.kg/?id=sportcast-wx
+博斯高球1,https://histar.zapi.us.kg/?id=sportcast-golf1
+博斯高球2,https://histar.zapi.us.kg/?id=sportcast-golf2
+博斯魅力,https://histar.zapi.us.kg/?id=sportcast-meili
+直播足球1,https://histar.zapi.us.kg/?id=mytv-super-soccer1
+直播足球2,https://histar.zapi.us.kg/?id=mytv-super-soccer2
+直播足球3,https://histar.zapi.us.kg/?id=mytv-super-soccer3
+直播足球4,https://histar.zapi.us.kg/?id=mytv-super-soccer4
+mytvsuper18,https://histar.zapi.us.kg/?id=mytvsuper-18
+纬来体育,https://histar.zapi.us.kg/?id=videoland-sport
+DAZN1,https://histar.zapi.us.kg/?id=eleven-sport1
+DAZN2,https://histar.zapi.us.kg/?id=eleven-sport2
+eurosports-1,https://histar.zapi.us.kg/?id=eurosports-1
+spotv,https://histar.zapi.us.kg/?id=spotv
+spotv2,https://histar.zapi.us.kg/?id=spotv2
+w sport,https://histar.zapi.us.kg/?id=w-sport
+premiersports,https://histar.zapi.us.kg/?id=premiersports
+hbo hd,https://histar.zapi.us.kg/?id=hbo-hd
+hbo family,https://histar.zapi.us.kg/?id=hbo-family
+hbo signature,https://histar.zapi.us.kg/?id=hbo-signature
+
+
 
 
 广东地方台,#genre#
