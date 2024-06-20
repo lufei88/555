@@ -1152,13 +1152,6 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 
-深圳都市,http://dp.sxtv.top:88/live/yfy.php?id=46
-深圳电视剧,http://dp.sxtv.top:88/live/yfy.php?id=47
-深圳财经生活,http://dp.sxtv.top:88/live/yfy.php?id=48
-深圳娱乐,http://dp.sxtv.top:88/live/yfy.php?id=49
-深圳体育健康,http://dp.sxtv.top:88/live/yfy.php?id=50
-深圳少儿,http://dp.sxtv.top:88/live/yfy.php?id=51
-深圳公共,http://dp.sxtv.top:88/live/yfy.php?id=52
 
 
 
@@ -1169,10 +1162,12 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
 
+汕头综合,http://119.125.135.202:11/udp/239.253.43.45:5146
+汕头生活,http://119.125.135.202:11/udp/239.77.1.131:5146
+汕头文体,http://119.125.135.202:11/udp/239.253.43.47:5146
 
 
 
-汕头综合,http://120.84.121.250:808/hls/171/index.m3u8
 
 
 
@@ -1183,9 +1178,9 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 汕头文旅体育,https://stqznews.top/tv/live/stwlhd.php
 汕头文旅体育,http://ha.hahomes.net:9981/stream/channelid/1411725568?ticket=c420b302f6b12405e4d514ead4c21643ad257987&profile=pass
 
-汕头经济生活,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=38
-汕头文旅体育,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=39
-汕头综合,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=40
+
+
+
 
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州综合,http://120.84.121.250:808/hls/20/index.m3u8
