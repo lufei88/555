@@ -279,353 +279,356 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 [港•澳•台高清],#genre#
 
-翡翠台,https://histar.zapi.us.kg/?id=feicui
-无线新闻,https://histar.zapi.us.kg/?id=tvb-news
-tvb plus,https://histar.zapi.us.kg/?id=tvb-plus
-黄金翡翠,https://histar.zapi.us.kg/?id=golden-jade
-黄金华剧,https://histar.zapi.us.kg/?id=golden-chinese-drama
-千禧经典,https://histar.zapi.us.kg/?id=tvb-classic
-粤语片,https://histar.zapi.us.kg/?id=tvb-yueyu
-星河台,https://histar.zapi.us.kg/?id=tvb-xinghe
-亚洲剧,https://histar.zapi.us.kg/?id=tvb-asia-drama
-J2,https://histar.zapi.us.kg/?id=j2
-华语剧,https://histar.zapi.us.kg/?id=tvb-drama
-凤凰资讯,https://histar.zapi.us.kg/?id=phtv-info
+凤凰卫视,http://ali.hlspull.yximgs.com/live/fenghuangweishil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文,https://histar.zapi.us.kg/?id=phtv-cn
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
-凤凰香港,https://histar.zapi.us.kg/?id=phtv-hk
-HOY资讯,https://histar.zapi.us.kg/?id=hoy-info
-HOYTV,https://histar.zapi.us.kg/?id=hoytv
-HOY国际财经,https://histar.zapi.us.kg/?id=hoy-ibc
-Viutv,https://histar.zapi.us.kg/?id=viutv
-香港卫视,https://histar.zapi.us.kg/?id=hks
-澳亚卫视,https://histar.zapi.us.kg/?id=mastv
-澳门卫视,https://histar.zapi.us.kg/?id=mstv
-澳门资讯,https://histar.zapi.us.kg/?id=tdm-information
-18,https://histar.zapi.us.kg/?id=hkc18
-RTHK 31,https://histar.zapi.us.kg/?id=rthk31
-RTHK 32,https://histar.zapi.us.kg/?id=rthk32
-NOW SPORTS618,https://histar.zapi.us.kg/?id=now-sports-618
-NOW 华剧,https://histar.zapi.us.kg/?id=now-chinese-drama
-HBO now115,https://histar.zapi.us.kg/?id=Now-HBO
-NOW HBO Hits,https://histar.zapi.us.kg/?id=now-hbo-hits
-NOW hbo Family,https://histar.zapi.us.kg/?id=now-hbof-amily
-now hbo signature,https://histar.zapi.us.kg/?id=now-hbo-signature
-moviemovi,https://histar.zapi.us.kg/?id=moviemovie
-Viu剧场,https://histar.zapi.us.kg/?id=now-viu-drama
-now sports prime,https://histar.zapi.us.kg/?id=now-sports-prime
-now sports1,https://histar.zapi.us.kg/?id=now-sports-1
-now sports2,https://histar.zapi.us.kg/?id=now-sports-2
-now sports3,https://histar.zapi.us.kg/?id=now-sports-3
-now sports4,https://histar.zapi.us.kg/?id=now-sports-4
-now sports5,https://histar.zapi.us.kg/?id=now-sports-5
-now sports6,https://histar.zapi.us.kg/?id=now-sports-6
-now sports7,https://histar.zapi.us.kg/?id=now-sports-7
-now sports plus,https://histar.zapi.us.kg/?id=now-sports-plus
-now 英超1,https://histar.zapi.us.kg/?id=now-sports-premier-league1
-bein sports1,https://histar.zapi.us.kg/?id=now-bein-sports1
-bein sports2,https://histar.zapi.us.kg/?id=now-bein-sports2
-668,https://histar.zapi.us.kg/?id=now-668
-民视台湾台,https://histar.zapi.us.kg/?id=ftv-tw
-民视第一台,https://histar.zapi.us.kg/?id=ftv-one
-纬来日本,https://histar.zapi.us.kg/?id=videoland-japan
-纬来综合,https://histar.zapi.us.kg/?id=videoland
+凤凰资讯,http://ali.hlspull.yximgs.com/live/fhzxteqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
-精彩台,https://histar.zapi.us.kg/?id=tvbs-jc
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
-欢乐台,https://histar.zapi.us.kg/?id=tvbs-huanle
-Asia,https://histar.zapi.us.kg/?id=tvbs-asia
-三立台湾台,https://histar.zapi.us.kg/?id=settv-taiwan
+凤凰香港,http://ali.hlspull.yximgs.com/live/gASKsKSHlsLSll00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
-三立综合台,https://histar.zapi.us.kg/?id=settv-zonghe
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
+TVB 翡翠台,http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
+
+TVB 华丽翡翠台,http://ali.hlspull.yximgs.com/live/hualifct218700eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVBplus,http://ali.hlspull.yximgs.com/live/TTvbjjjj2l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+18,http://ali.hlspull.yximgs.com/live/TVBmyTVSUPERtytytl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+美亚电影,http://ali.hlspull.yximgs.com/live/mydyl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVB明珠台,http://ali.hlspull.yximgs.com/live/sgAKDsj00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVB无线新闻,http://ali.hlspull.yximgs.com/live/puxianxwt548700eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVB 亚洲剧,http://ali.hlspull.yximgs.com/live/TTvbyazhoujul00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVB 千禧经典,http://ali.hlspull.yximgs.com/live/TTvbqxjjjdd00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVB 娱乐新闻,http://ali.hlspull.yximgs.com/live/TTvbyulxwwwwl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVB 星河台,http://ali.hlspull.yximgs.com/live/TTvbxhhhhhhhl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVB 华语剧,http://ali.hlspull.yximgs.com/live/TTvbhuayujl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVB 儿童节目,http://ali.hlspull.yximgs.com/live/XVAjkdK00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVBFREE,http://ali.hlspull.yximgs.com/live/TVBSUPERl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVBFREE2,http://ali.hlspull.yximgs.com/live/TVBSUPER-FREEl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVB 功夫台,http://ali.hlspull.yximgs.com/live/gfYYY00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+Now 星影台,http://ali.hlspull.yximgs.com/live/nnnowxyyty00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+Now 爆谷台,http://ali.hlspull.yximgs.com/live/nnnowbggtl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+Now 爆谷台,http://ali.hlspull.yximgs.com/live/nnnowbggtl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+Now 财经,http://ali.hlspull.yximgs.com/live/nnnowcjjl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+Now 英超,http://ali.hlspull.yximgs.com/live/nnnowycl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+天映经典,http://ali.hlspull.yximgs.com/live/TTianyingjingdiant300eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+天映频道,http://ali.hlspull.yximgs.com/live/TTianyingpd00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+欢喜台,http://ali.hlspull.yximgs.com/live/xHuaheel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+Popc,http://ali.hlspull.yximgs.com/live/AnimaxH264HKBGl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+民视,http://ali.hlspull.yximgs.com/live/minshil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+台视,http://ali.hlspull.yximgs.com/live/TTaishil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+中视,http://ali.hlspull.yximgs.com/live/zhongshil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+华视,http://ali.hlspull.yximgs.com/live/huahsil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+公视,http://ali.hlspull.yximgs.com/live/ctv_taiwanl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+龙翔时代,http://ali.hlspull.yximgs.com/live/jixianeqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+东森电影,https://histar.zapi.us.kg/?id=ebc-movie
+
+好莱坞电影,http://154.9.228.245:852/smt.php?id=hollywoodmovies_twn
+   
+纬来电影台,https://histar.zapi.us.kg/?id=videoland-movie
+
+龙华戏剧,http://ali.hlspull.yximgs.com/live/lunghuaxijul00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+龙华偶像,http://ali.hlspull.yximgs.com/live/lunghuaidol_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+东森洋片,http://ali.hlspull.yximgs.com/live/ettvwesternl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+龙华电影,http://ali.hlspull.yximgs.com/live/longhuadyl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+动物星球,http://154.12.50.54:123/smt.php?id=AnimalPlanet
+
+国家地理,http://154.12.50.54:123/smt.php?id=Natgeo
+
+野生动物,http://154.12.50.54:123/smt.php?id=natgeowild_twn
+
+TLC 旅游生活,http://154.12.50.54:123/smt.php?id=tlc_twn
+
+台视综合,http://ali.hlspull.yximgs.com/live/TTtvzhonghel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+民视台湾,http://ali.hlspull.yximgs.com/live/xftvtaiwan_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+民视第一,http://ali.hlspull.yximgs.com/live/lunghuajingdian_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+三立综合,http://154.12.50.54:123/smt.php?id=sanlizhonghe
+
+三立台湾,http://154.12.50.54:123/smt.php?id=sanlitaiwan
+
+靖洋戏剧,http://ali.hlspull.yximgs.com/live/sanlixiju_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+三立都会,http://ali.hlspull.yximgs.com/live/sanlidouhui_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+八大综合,http://154.12.50.54:123/smt.php?id=badazhonghe
+
+八大第一,http://154.12.50.54:123/smt.php?id=badafirst
+
+八大戏剧,http://154.12.50.54:123/smt.php?id=badadrama
+
+中天亚洲,http://ali.hlspull.yximgs.com/live/ctiasia_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+中天综合,http://154.12.50.54:123/smt.php?id=ctizhonghe
+
+爱尔达综合,http://ali.hlspull.yximgs.com/live/eltazonghel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+爱尔达影剧,http://ali.hlspull.yximgs.com/live/eltayingju_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+台视新闻,http://ali.hlspull.yximgs.com/live/TTaishi88822378889gdkagdakdbsavfcjdsfjs.flv
+
+中视新闻,http://ali.hlspull.yximgs.com/live/abc888445889889gdkagdakdbsavfcjdsfjs.flv
+
+民视新闻,http://ali.hlspull.yximgs.com/live/msxwtbbbst885231889gdkagdakdbsavfcjdsfjs.flv
+
+东森新闻,http://ali.hlspull.yximgs.com/live/dsxwtbbbttbteqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+TVBHD,http://ali.hlspull.yximgs.com/live/TTvbsmytv6peqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+三立新闻,http://ali.hlspull.yximgs.com/live/sanlixw8886755464889eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+EYE 旅游,http://ali.hlspull.yximgs.com/live/eyetvtravel_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+EYE 戏剧,http://ali.hlspull.yximgs.com/live/eyetvxiju_twl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
 东森综合台,https://histar.zapi.us.kg/?id=ebc-ettv
 
-菁采台,https://histar.zapi.us.kg/?id=bravo
+东森戏剧,http://154.12.50.54:123/smt.php?id=ettvdrama
 
-ELTA综合,https://histar.zapi.us.kg/?id=elta-zonghe
-公视3,https://histar.zapi.us.kg/?id=pts-3
-公视台语,https://histar.zapi.us.kg/?id=pts-ty
-靖天日本,https://histar.zapi.us.kg/?id=jtrb
-大爱1台,https://histar.zapi.us.kg/?id=daai1
-大爱2台，https://histar.zapi.us.kg/?id=daai2
-TVBS新闻,https://histar.zapi.us.kg/?id=tvbs-news
-TVBS HD,https://histar.zapi.us.kg/?id=tvbs-hd
-东森财经,https://histar.zapi.us.kg/?id=ebc-finance
+东森超视,http://ali.hlspull.yximgs.com/live/ettvsupel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
-环宇财经,https://histar.zapi.us.kg/?id=global-finance
-环宇新闻台湾,https://histar.zapi.us.kg/?id=global-news-tw
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
-壹新闻,https://histar.zapi.us.kg/?id=nexttv
-三立新闻,https://histar.zapi.us.kg/?id=settv-inews
-非凡新闻,https://histar.zapi.us.kg/?id=unique-business-news
+美食星球,http://ali.hlspull.yximgs.com/live/foodplanet_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
-年代新闻,https://histar.zapi.us.kg/?id=era-news
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
-民视新闻,https://histar.zapi.us.kg/?id=ftv-news
-纬来电影,https://histar.zapi.us.kg/?id=videoland-movie
-纬来戏剧,https://histar.zapi.us.kg/?id=videoland-drama
-TVBS综艺,https://histar.zapi.us.kg/?id=tvbs-zongyi
-TVBS台剧,https://histar.zapi.us.kg/?id=tvbs-taiju
-龙祥电影,https://histar.zapi.us.kg/?id=lstime
-龙华电影,https://histar.zapi.us.kg/?id=ltv-movies
+亚洲美食,http://ali.hlspull.yximgs.com/live/afc_twnol00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
-龙华戏剧,https://histar.zapi.us.kg/?id=ltv-xiju
-龙华日韩,https://histar.zapi.us.kg/?id=ltv-rihan
-八大精彩,https://histar.zapi.us.kg/?id=gtv-jct
+亚洲旅游,http://ali.hlspull.yximgs.com/live/asiatravel_twnol00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
-八大娱乐,https://histar.zapi.us.kg/?id=gtv-86
-八大综艺,https://histar.zapi.us.kg/?id=grt
+爱达尔体育4,http://ali.hlspull.yximgs.com/live/aierdty4l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
-美亚电影,https://histar.zapi.us.kg/?id=meiah-movies
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
-民视综艺,https://histar.zapi.us.kg/?id=ftv-reality
-民视影剧,https://histar.zapi.us.kg/?id=ftv-drama
-三立戏剧,https://histar.zapi.us.kg/?id=settv-drama
-中天娱乐,https://histar.zapi.us.kg/?id=cti-yule
-靖天电影,https://histar.zapi.us.kg/?id=jtdy
-靖天戏剧,https://histar.zapi.us.kg/?id=jtxjt
+WWE,http://ali.hlspull.yximgs.com/live/xWwel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
+KIX,http://ali.hlspull.yximgs.com/live/kix264l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
 
-东森幼幼,https://histar.zapi.us.kg/?id=ebc-yoyo
-Boomerang HD,https://histar.zapi.us.kg/?id=boomerang-hd
-探索频道,https://histar.zapi.us.kg/?id=discovery
-探索科学,https://histar.zapi.us.kg/?id=discovery-sci
-探索亚洲,https://histar.zapi.us.kg/?id=discovery-asia
-dmax,https://histar.zapi.us.kg/?id=dmax
-history,https://histar.zapi.us.kg/?id=history
-国家地址,https://histar.zapi.us.kg/?id=natgeo-wild
-民视旅游,https://histar.zapi.us.kg/?id=ftv-travel
-美食星球,https://histar.zapi.us.kg/?id=food-planet
-动物星球,https://histar.zapi.us.kg/?id=animal-planet
-TLC旅游,https://histar.zapi.us.kg/?id=tlc
-亚洲旅游台,https://histar.zapi.us.kg/?id=asia-travel
-AFN,https://histar.zapi.us.kg/?id=asian-food-network
-罪案侦查频道,https://histar.zapi.us.kg/?id=ci
-nhk-ghttps://histar.zapi.us.kg/?id=nhk-g
-nhk-e,https://histar.zapi.us.kg/?id=nhk-e
-nippontv,https://histar.zapi.us.kg/?id=nippon-tv
-tbstv,https://histar.zapi.us.kg/?id=tbs-tv
-富士电视台,https://histar.zapi.us.kg/?id=fujitv
-朝日电视台,https://histar.zapi.us.kg/?id=tv-asahi
-东京电视台,https://histar.zapi.us.kg/?id=tv-tokyo
-jsports1,https://histar.zapi.us.kg/?id=jsports1
-jsports2,https://histar.zapi.us.kg/?id=jsports2
-jsports3,https://histar.zapi.us.kg/?id=jsports3
-jsports4,https://histar.zapi.us.kg/?id=jsports4
-kbs-1,https://histar.zapi.us.kg/?id=kbs-1
-kbs-2,https://histar.zapi.us.kg/?id=kbs-2
-kbs drama,https://histar.zapi.us.kg/?id=kbs-drama
-kbs story,https://histar.zapi.us.kg/?id=kbs-story
-kbs lifehttps://histar.zapi.us.kg/?id=kbs-life
-kbs joy,https://histar.zapi.us.kg/?id=kbs-joy
-https://histar.zapi.us.kg/?id=kbs-kids
-kbsworld,https://histar.zapi.us.kg/?id=kbsworld
-kbs news,https://histar.zapi.us.kg/?id=kbs-news
-sbs,https://histar.zapi.us.kg/?id=sbs
-sbs plus,https://histar.zapi.us.kg/?id=sbs-plus
-sbs fune,https://histar.zapi.us.kg/?id=sbs-fune
-sbs m,https://histar.zapi.us.kg/?id=sbs-m
-天映频道,https://histar.zapi.us.kg/?id=celestial
-天映经典,https://histar.zapi.us.kg/?id=cccm
-thrill,https://histar.zapi.us.kg/?id=thrill
-NOW财经,https://histar.zapi.us.kg/?id=now-finance
-NOW爆谷,https://histar.zapi.us.kg/?id=baogu-movies
-NOW星影,https://histar.zapi.us.kg/?id=now-baogu-superstars
-NOW新闻,https://histar.zapi.us.kg/?id=now-news
-NOW直播,https://histar.zapi.us.kg/?id=now-direct
-紫金国际,https://histar.zapi.us.kg/?id=now-jelli
-民视,https://histar.zapi.us.kg/?id=ftv
-八大综合,https://histar.zapi.us.kg/?id=gtv28
-八大第一,https://histar.zapi.us.kg/?id=gtv27
-台视,https://histar.zapi.us.kg/?id=ttv
-东森超视,https://histar.zapi.us.kg/?id=ebc-super
-中视,https://histar.zapi.us.kg/?id=ctv
-中天亚洲,https://histar.zapi.us.kg/?id=cti-asia
-中天综合,https://histar.zapi.us.kg/?id=ctitv36
-华视,https://histar.zapi.us.kg/?id=cts
-公视,https://histar.zapi.us.kg/?id=pts
-中天新闻,https://histar.zapi.us.kg/?id=cti-news
-东森新闻,https://histar.zapi.us.kg/?id=cti-news0
-环宇新闻,https://histar.zapi.us.kg/?id=ebc-news
-三立新闻,https://histar.zapi.us.kg/?id=global-news
-中视新闻,https://histar.zapi.us.kg/?id=settv-news
-台视新闻,https://histar.zapi.us.kg/?id=ctv-news
-东森电影,https://histar.zapi.us.kg/?id=ebc-movie
-东森戏剧,https://histar.zapi.us.kg/?id=ebc-drama
-东森洋片,https://histar.zapi.us.kg/?id=ebc-emovie
-八大戏剧,https://histar.zapi.us.kg/?id=gtv-41
-AXN,https://histar.zapi.us.kg/?id=axn
-TVN,https://histar.zapi.us.kg/?id=tvn
-WWE,https://histar.zapi.us.kg/?id=wwe
-好莱坞电影,https://histar.zapi.us.kg/?id=hollywood-movie
-CN卡通,https://histar.zapi.us.kg/?id=cn-cartoon
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+AXN,http://ali.hlspull.yximgs.com/live/axn264l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+（时装） Fashionbox,http://ali.hlspull.yximgs.com/live/fashionboxl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+Thrill,http://ali.hlspull.yximgs.com/live/ThrillH264l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+Aninmax,http://ali.hlspull.yximgs.com/live/Animax364l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+tvN,http://ali.hlspull.yximgs.com/live/TTvnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+DiscoveryHD,http://ali.hlspull.yximgs.com/live/discoveryhd_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+BBCHD,http://ali.hlspull.yximgs.com/live/bbcearth_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+MTV Live,https://histar.zapi.us.kg/?id=mtv
+
+CINEMAX,http://154.12.50.54:123/smt.php?id=cinemax_twn
+
+HBOHD,http://ali.hlspull.yximgs.com/live/hbohd_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+HBOHITS,http://ali.hlspull.yximgs.com/live/hbohead_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+HBO 家庭温馨,http://ali.hlspull.yximgs.com/live/xhbojtl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+AXNHD,http://ali.hlspull.yximgs.com/live/axxxnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+StarMHD,http://ali.hlspull.yximgs.com/live/starmovies_raj200eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+CN 卡通,http://ali.hlspull.yximgs.com/live/xcnkatongl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
+
+Rock Action,http://ali.hlspull.yximgs.com/live/ROCKActionttl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-
+
+52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 
 
+CINEMAX电影,http://117.114.153.1:8180/TV00000000000000000109@HHZT
+华文5,https://livees.cgtn.com/1000e/prog_index.m3u8
+华文5,https://liveru.cgtn.com/1000r/prog_index.m3u8
+华文6,http://vvlive.eztv.vip/ctvsnew/ctvsnew.m3u8?auth_key=1710810919-0-0-50aa348ab0ba1386377aafc10877062f
 
+华文7,https://livear.cgtn.com/1000a/prog_index.m3u8
+华文8,https://livefr.cgtn.com/1000f/prog_index.m3u8
+HBO HD,https://histar.zapi.us.kg/?id=hbo-hd
+HBO HitS HD,https://histar.zapi.us.kg/?id=hbo-hits-hd
+HBO Family HD,https://histar.zapi.us.kg/?id=hbo-family
+HBO Signature HD,https://histar.zapi.us.kg/?id=hbo-signature
 
+Cinemax,https://histar.zapi.us.kg/?id=cinemax
 
+CNN International,https://histar.zapi.us.kg/?id=cnn-international
 
+Bloomberg,https://histar.zapi.us.kg/?id=bloomberg
 
-
-
-
-
-
-
-MTV LIVE HD,https://histar.zapi.us.kg/?id=mtv
-channel 5,https://histar.zapi.us.kg/?id=channel-5
-channel8,https://histar.zapi.us.kg/?id=channel8
-channel-u,https://histar.zapi.us.kg/?id=channel-u
-8tv,https://histar.zapi.us.kg/?id=8tv
-9tv,https://histar.zapi.us.kg/?id=tv9
-tv1,https://histar.zapi.us.kg/?id=tv1-my
-TV2,https://histar.zapi.us.kg/?id=tv2-my
-TV3,https://histar.zapi.us.kg/?id=tv3-my
-channelnewsasia,https://histar.zapi.us.kg/?id=channelnewsasia
-okey,https://histar.zapi.us.kg/?id=okey
-
-tvb magic,https://histar.zapi.us.kg/?id=tvb-magic
-
-tvn movies,https://histar.zapi.us.kg/?id=tvn-movies
-TV alhijrah,https://histar.zapi.us.kg/?id=tv-alhijrah
-colorshindi,https://histar.zapi.us.kg/?id=colorshindi
-tvs,https://histar.zapi.us.kg/?id=tvs
-beritartm,https://histar.zapi.us.kg/?id=beritartm
-sukanrtm,https://histar.zapi.us.kg/?id=sukanrtm
-hitsmovies,https://histar.zapi.us.kg/?id=hitsmovies
-showcase,https://histar.zapi.us.kg/?id=showcase
-bbcearth,https://histar.zapi.us.kg/?id=bbcearth
-mediacorp suria,https://histar.zapi.us.kg/?id=mediacorp-suria
-mediacorp vasantham,https://histar.zapi.us.kg/?id=mediacorp-vasantham
-gem,https://histar.zapi.us.kg/?id=gem
-globaltrekker,https://histar.zapi.us.kg/?id=globaltrekker
-
-dramasangat,https://histar.zapi.us.kg/?id=dramasangat
-
-
-suntv,https://histar.zapi.us.kg/?id=suntv
-sunmusic,https://histar.zapi.us.kg/?id=sunmusic
-sunnews,https://histar.zapi.us.kg/?id=sunnews
-didiktv7,https://histar.zapi.us.kg/?id=didiktv7
-adithya,https://histar.zapi.us.kg/?id=adithya
-ktvhd,https://histar.zapi.us.kg/?id=ktvhd
-sunlifehttps://histar.zapi.us.kg/?id=sunlife
-starvijay,https://histar.zapi.us.kg/?id=starvijay
-colorstamil,https://histar.zapi.us.kg/?id=colorstamil
-zeetamil,https://histar.zapi.us.kg/?id=zeetamil
-zeecinemahd,https://histar.zapi.us.kg/?id=zeecinemahd
-boo,https://histar.zapi.us.kg/?id=boo
-mtvlive,https://histar.zapi.us.kg/?id=mtvlive
-bernama,https://histar.zapi.us.kg/?id=bernama
-bernama,https://histar.zapi.us.kg/?id=bernama
-moonbug,https://histar.zapi.us.kg/?id=moonbug
-
-
-HUB都会,https://histar.zapi.us.kg/?id=HubECity
-Hub 娱家,https://histar.zapi.us.kg/?id=HubVVDrama
-hubsports1,https://histar.zapi.us.kg/?id=hubsports1
-hubsports2,https://histar.zapi.us.kg/?id=hubsports2
-hubsports3,https://histar.zapi.us.kg/?id=hubsports3
-hubsports4,https://histar.zapi.us.kg/?id=hubsports4
-hubsports-plus,https://histar.zapi.us.kg/?id=hubsports-plus
-hubpremier1,https://histar.zapi.us.kg/?id=hubpremier1
-hubpremier2,https://histar.zapi.us.kg/?id=hubpremier2
-hubpremier3,https://histar.zapi.us.kg/?id=hubpremier3
-hubpremier4,https://histar.zapi.us.kg/?id=hubpremier4
-
-hubpremier5,https://histar.zapi.us.kg/?id=hubpremier5
-
-hub-sensasi,https://histar.zapi.us.kg/?id=hub-sensasi
-tvnhd,https://histar.zapi.us.kg/?id=tvnhd
-astro warna hub,https://histar.zapi.us.kg/?id=astro-warna-hub
-one malay,https://histar.zapi.us.kg/?id=one-malay
-
-
-astro aec,https://histar.zapi.us.kg/?id=astro-aec
-欢喜台,https://histar.zapi.us.kg/?id=astro-huaheedai
-
-super sports1,https://histar.zapi.us.kg/?id=super-sports1
-
-super sports2,https://histar.zapi.us.kg/?id=super-sports2
-super sports3,https://histar.zapi.us.kg/?id=super-sports3
-super sports4,https://histar.zapi.us.kg/?id=super-sports4
-arena bola,https://histar.zapi.us.kg/?id=arena-bola
-arena bola2,https://histar.zapi.us.kg/?id=arena-bola2
-爱奇艺,https://histar.zapi.us.kg/?id=astro-iqiyi
-astro-aod,https://histar.zapi.us.kg/?id=astro-aod
-astro aod311HK,https://histar.zapi.us.kg/?id=astro-aod-311-hk
-astro quanjia,https://histar.zapi.us.kg/?id=astro-quanjia
-astro awani,https://histar.zapi.us.kg/?id=astro-awani
-astro arena2,https://histar.zapi.us.kg/?id=astro-arena2
-astro aura,https://histar.zapi.us.kg/?id=astro-aura
-astro one,https://histar.zapi.us.kg/?id=astro-one
-astropremier,https://histar.zapi.us.kg/?id=astropremier
-astro ceria,https://histar.zapi.us.kg/?id=astro-ceria
-astro vinmeen,https://histar.zapi.us.kg/?id=astro-vinmeen
-astro warna,https://histar.zapi.us.kg/?id=astro-warna
-astro vellithirai,https://histar.zapi.us.kg/?id=astro-vellithirai
-astro rania,https://histar.zapi.us.kg/?id=astro-rania
-astro oasis,https://histar.zapi.us.kg/?id=astro-oasis
-astro tutor tv,https://histar.zapi.us.kg/?id=astro-tutor-tv
-astro golfchannel,https://histar.zapi.us.kg/?id=astro-golfchannel
-
-
-beinsports,https://histar.zapi.us.kg/?id=beinsports
-beinsports2,https://histar.zapi.us.kg/?id=beinsports2
-beinsports3,https://histar.zapi.us.kg/?id=beinsports3
-elta 体育1,https://histar.zapi.us.kg/?id=elta-sport1
-elta 体育2,https://histar.zapi.us.kg/?id=elta-sport2
-elta 体育3,https://histar.zapi.us.kg/?id=elta-sport3
-elta 体育4,https://histar.zapi.us.kg/?id=elta-sport4
-博斯网球,https://histar.zapi.us.kg/?id=sportcast-tennis
-博斯运动1,https://histar.zapi.us.kg/?id=sportcast1
-博斯运动2,https://histar.zapi.us.kg/?id=sportcast2
-博斯无限,https://histar.zapi.us.kg/?id=sportcast-wx
-博斯高球1,https://histar.zapi.us.kg/?id=sportcast-golf1
-博斯高球2,https://histar.zapi.us.kg/?id=sportcast-golf2
-博斯魅力,https://histar.zapi.us.kg/?id=sportcast-meili
-直播足球1,https://histar.zapi.us.kg/?id=mytv-super-soccer1
-直播足球2,https://histar.zapi.us.kg/?id=mytv-super-soccer2
-直播足球3,https://histar.zapi.us.kg/?id=mytv-super-soccer3
-直播足球4,https://histar.zapi.us.kg/?id=mytv-super-soccer4
-mytvsuper18,https://histar.zapi.us.kg/?id=mytvsuper-18
-纬来体育,https://histar.zapi.us.kg/?id=videoland-sport
-DAZN1,https://histar.zapi.us.kg/?id=eleven-sport1
-DAZN2,https://histar.zapi.us.kg/?id=eleven-sport2
-eurosports-1,https://histar.zapi.us.kg/?id=eurosports-1
-spotv,https://histar.zapi.us.kg/?id=spotv
-spotv2,https://histar.zapi.us.kg/?id=spotv2
-w sport,https://histar.zapi.us.kg/?id=w-sport
-premiersports,https://histar.zapi.us.kg/?id=premiersports
-hbo hd,https://histar.zapi.us.kg/?id=hbo-hd
-hbo family,https://histar.zapi.us.kg/?id=hbo-family
-hbo signature,https://histar.zapi.us.kg/?id=hbo-signature
-
-五星体育,https://histar.zapi.us.kg/?id=wxty
-劲爆体育,https://histar.zapi.us.kg/?id=jbty
-广东体育,https://histar.zapi.us.kg/?id=gdty
-
-
-
-
-
-
-
-cinemax,https://histar.zapi.us.kg/?id=cinemax
-cnn international,https://histar.zapi.us.kg/?id=cnn-international
-bloomberg,https://histar.zapi.us.kg/?id=bloomberg
 美国中文电视,https://histar.zapi.us.kg/?id=sinovision
-HLN,https://histar.zapi.us.kg/?id=cnn-hln
-euronews,https://histar.zapi.us.kg/?id=euronews
-cnbc,https://histar.zapi.us.kg/?id=cnbc
 
+HLI,https://histar.zapi.us.kg/?id=cnn-hln
+
+Euronews,https://histar.zapi.us.kg/?id=euronews
 
 
 
