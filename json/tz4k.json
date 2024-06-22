@@ -58,10 +58,9 @@
 
 "播放链接":"urlDecode(接&&接)",
 
-//"解析":"默认$http://php.kdzj.vip/bulei/ryjx2.php?apikey=m68finBDES3icV5ZeV7YDmhgzThSiR1s&cmskey=weZtRbfJDgzyvHiGYLdoqhUccdDmEPQU&api=http%3A%2F%2Fblts.x3322.net%2Fapi%2Findex%3FparsesId%3D4%26parsesUrl%3D&v=",
+"解析":"默认$http://php.kdzj.vip/bulei/ryjx2.php?apikey=m68finBDES3icV5ZeV7YDmhgzThSiR1s&cmskey=weZtRbfJDgzyvHiGYLdoqhUccdDmEPQU&api=http%3A%2F%2Fblts.x3322.net%2Fapi%2Findex%3FparsesId%3D4%26parsesUrl%3D&v=",
 
 
-"解析":"默认$http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=",
 
 //"跳转播放链接":"url\":\"&&\"",
 
