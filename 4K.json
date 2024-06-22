@@ -276,9 +276,26 @@
 //},
 
 
+
+  {
+      "key": "tz",
+      "name": "🥇天招VIP专线1",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz0622.json"
+    },
+
+
+
+
+
 {
   "key": "芒果",
-  "name": "🥇天招VIP专线1",
+  "name": "🥇天招VIP专线2",
   "type": 3,
   "api": "http://103.207.68.131:1322/app//lib/drpy2.min.js",
   "searchable": 1,
@@ -291,7 +308,7 @@
 
 {
   "key": "腾讯",
-  "name": "🥇天招VIP专线2",
+  "name": "🥇天招VIP专线3",
   "type": 3,
   "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
   "ext": "./lib/腾讯22.js"
@@ -320,7 +337,7 @@
 
 {
   "key": "爱奇异",
-  "name": "🥇天招VIP专线3",
+  "name": "🥇天招VIP专线4",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -335,18 +352,7 @@
 
 //{"key": "tz","name": "🥇天招VIP专线4","type": 3,"api": "csp_XBPQ","jar": "./jar/tz.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/tz.json"},
 
-    {
-      "key": "tz",
-      "name": "🥇天招VIP专线4",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tz0622.json"
-    },
-
+  
 
 
 
