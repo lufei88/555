@@ -333,7 +333,20 @@
 
 
 
-{"key": "tz","name": "🥇天招VIP专线4","type": 3,"api": "csp_XBPQ","jar": "./jar/tz.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/tz.json"},
+//{"key": "tz","name": "🥇天招VIP专线4","type": 3,"api": "csp_XBPQ","jar": "./jar/tz.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/tz.json"},
+
+    {
+      "key": "tz",
+      "name": "🥇天招VIP专线4",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz0622.json"
+    },
+
+
 
 
 
