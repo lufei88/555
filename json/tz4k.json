@@ -24,7 +24,7 @@
 
 "分类url":"http://bl4k.x3322.net/api.php/app/video?tid={cateId}&class={class}&area={area}&year={year}&limit=18&pg={catePg};;mr",
 
-"分类": "天招4K&热门电影&热播剧集&热播综艺&经典动漫",
+"分类": "柒汐4K&热门电影&热播剧集&热播综艺&经典动漫",
 
 "分类值": "24&1&2&3&4",
 
@@ -42,7 +42,7 @@
 
 "线路二次截取":"vod_url_with_player\":\\[{&&}\\][替换:\"code\":\">>\"code\":\"题]",
 
-"线路数组":"\"code\":\"&&,[替换:BLTV>>天招4k#TIME>>天招蓝光#BLHD>>天招蓝光#BL4K>>天招4K#qq>>请更换线路1#qiyi>>请更换线路2#youku>>请更换线路3#bfzym3u8>>请更换线路4#ffm3u8>>请更换线路5#FYNB>>请更换线路6#FYNB>>请更换线路7#bilibili>>请更换线路8#NBY>>请更换线路9#mgtv>>请更换线路10#okm3u8>>请更换线路11#seven>>请更换线路12#heimuer>>请更换线路13#BLYK>>柒汐4k]",
+"线路数组":"\"code\":\"&&,[替换:BLTV>>小雪4k#TIME>>柒汐蓝光#BLHD>>小盒蓝光#BL4K>>小盒4K#qq>>请更换线路1#qiyi>>请更换线路2#youku>>请更换线路3#bfzym3u8>>请更换线路4#ffm3u8>>请更换线路5#FYNB>>请更换线路6#FYNB>>请更换线路7#bilibili>>请更换线路8#NBY>>请更换线路9#mgtv>>请更换线路10#okm3u8>>请更换线路11#seven>>请更换线路12#heimuer>>请更换线路13#BLYK>>柒汐4k]",
 
 "线路标题":"题&&\"[不包含:请更换线路1#请更换线路2#请更换线路3#请更换线路4#请更换线路5#请更换线路6#请更换线路7#请更换线路8#请更换线路9#请更换线路10#请更换线路11#请更换线路12#请更换线路13#baicao#caihongyun#BTOL#WOYK]",
 
@@ -75,7 +75,7 @@
 
 "主演": "vod_actor\":\"&&\"",
 
-"简介":"【天招智盒】提示：视频卡顿可手动换源！影片介绍：+vod_content\":\"&&\"",
+"简介":"【小盒酷玩】提示：视频卡顿可手动换源！影片介绍：+vod_content\":\"&&\"",
 
 
 "搜索url":"http://bl4k.x3322.net/api.php/app/search?text={wd}",
