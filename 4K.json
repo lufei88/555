@@ -34,7 +34,17 @@
 
 
 
-
+  {
+      "key": "tz",
+      "name": "🥇VIP专用",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz0622.json"
+    },
 
 
 
@@ -70,7 +80,7 @@
 
 
 
-  /* {
+  {
       "key": "0580",
       "name": "🏆4k专线2(首选)",
       "type": 3,
@@ -81,11 +91,11 @@
           "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
         ]
       }
-    },*/
+    },
 
 
 
-    {
+  /*  {
       "key": "tz4k",
       "name": "🏆4k专线2(首选)",
       "type": 3,
@@ -95,7 +105,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/tz4k.json"
-    },
+    },*/
 
 
 
@@ -295,17 +305,7 @@
 
 
 
-  {
-      "key": "tz",
-      "name": "🥇天招VIP专线1",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tz0622.json"
-    },
+
 
 
 
