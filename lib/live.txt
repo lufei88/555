@@ -384,21 +384,8 @@ StarMHD,http://ali.hlspull.yximgs.com/live/starmovies_raj200eqokljhdvJVDjJbvjDbc
 CN 卡通,http://ali.hlspull.yximgs.com/live/xcnkatongl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 Rock Action,http://ali.hlspull.yximgs.com/live/ROCKActionttl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99fb-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflhhjlfhopuiyrurieytieytoefghl.flv
 CINEMAX电影,http://117.114.153.1:8180/TV00000000000000000109@HHZT
-华文5,https://livees.cgtn.com/1000e/prog_index.m3u8
-华文5,https://liveru.cgtn.com/1000r/prog_index.m3u8
-华文6,http://vvlive.eztv.vip/ctvsnew/ctvsnew.m3u8?auth_key=1710810919-0-0-50aa348ab0ba1386377aafc10877062f
-华文7,https://livear.cgtn.com/1000a/prog_index.m3u8
-华文8,https://livefr.cgtn.com/1000f/prog_index.m3u8
-HBO HD,https://histar.zapi.us.kg/?id=hbo-hd
-HBO HitS HD,https://histar.zapi.us.kg/?id=hbo-hits-hd
-HBO Family HD,https://histar.zapi.us.kg/?id=hbo-family
-HBO Signature HD,https://histar.zapi.us.kg/?id=hbo-signature
-Cinemax,https://histar.zapi.us.kg/?id=cinemax
-CNN International,https://histar.zapi.us.kg/?id=cnn-international
-Bloomberg,https://histar.zapi.us.kg/?id=bloomberg
-美国中文电视,https://histar.zapi.us.kg/?id=sinovision
-HLI,https://histar.zapi.us.kg/?id=cnn-hln
-Euronews,https://histar.zapi.us.kg/?id=euronews
+
+
 
 
 
