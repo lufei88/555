@@ -36,7 +36,7 @@
 
   {
       "key": "tz",
-      "name": "🥇VIP专用",
+      "name": "🏆点播首选",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz.jar",
@@ -80,7 +80,7 @@
 
 
 
-  {
+  /*  {
       "key": "0580",
       "name": "🏆4k专线2(首选)",
       "type": 3,
@@ -91,7 +91,7 @@
           "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
         ]
       }
-    },
+    },*/
 
 
 
@@ -123,7 +123,7 @@
 
 {
    "key": "玩偶哥哥",
-   "name": "🏆4k专线3(首选)",
+   "name": "🏆4k专线2(首选)",
    "type": 3,
  "api": "csp_WoGG",
   "searchable": 1,
@@ -168,7 +168,7 @@
 
 {
       "key": "表哥网盘",
-      "name": "🏆4k专线4(首选)",
+      "name": "🏆4k专线3(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -192,7 +192,7 @@
 
 {
       "key": "多多网盘",
-      "name": "🏆4k专线5(首选)",
+      "name": "🏆4k专线4(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -233,7 +233,7 @@
 
 {
       "key": "️玩偶姐",
-      "name": "🏆4k专线6(首选)",
+      "name": "🏆4k专线5(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -256,7 +256,7 @@
 
 {
       "key": "土豆弹幕版",
-      "name": "🏆4k专线7(首选)",
+      "name": "🏆4k专线6(首选)",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -313,7 +313,7 @@
 
 {
   "key": "芒果",
-  "name": "🥇天招VIP专线2",
+  "name": "🥇天招VIP专线1",
   "type": 3,
   "api": "http://103.207.68.131:1322/app//lib/drpy2.min.js",
   "searchable": 1,
@@ -326,7 +326,7 @@
 
 {
   "key": "腾讯",
-  "name": "🥇天招VIP专线3",
+  "name": "🥇天招VIP专线2",
   "type": 3,
   "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
   "ext": "./lib/腾讯22.js"
@@ -355,7 +355,7 @@
 
 {
   "key": "爱奇异",
-  "name": "🥇天招VIP专线4",
+  "name": "🥇天招VIP专线3",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -377,7 +377,7 @@
 
    {
       "key": "tzhy",
-      "name": "🥇天招VIP专线5",
+      "name": "🥇天招VIP专线4",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0611.jar",
@@ -393,7 +393,7 @@
 
 {
   "key": "优酷",
-  "name": "🥇天招VIP专线6",
+  "name": "🥇天招VIP专线5",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -407,7 +407,7 @@
 
 {
       "key": "搜狗",
-      "name": "🥇天招VIP专线7",
+      "name": "🥇天招VIP专线6",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/caigou.js"
@@ -417,7 +417,7 @@
 
 {
   "key": "NanGua",  
-  "name": "🥇天招VIP专线8",
+  "name": "🥇天招VIP专线7",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
