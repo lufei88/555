@@ -408,16 +408,7 @@
   },
 
 
-{
-      "key": "4K影院",
-      "name": "🥇天招VIP专线9",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/4kvm.json"
-    },
+
 
 
 
@@ -427,7 +418,7 @@
 
 {
       "key": "乐视",
-      "name": "🥇天招VIP专线10",
+      "name": "🥇天招VIP专线9",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
