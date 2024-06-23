@@ -1886,7 +1886,7 @@
 
 
 
-{"name": "🌎天招VIP2","type": 1,"url": "http://39.107.152.173:112/api/?key=508Rndi8W0ShnKJtZr&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "🌎天招VIP2","type": 1,"url": "http://39.107.152.173:112/api/?key=508Rndi8W0ShnKJtZr&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
                                      
 {"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
@@ -1948,7 +1948,7 @@
 
 
 
-{"name": "🌎天招VIP3","type": 1,"url": "https://ky.dyqufx.com/home/api?type=ys&uid=3612007&key=bdlqrtvCKTVWY02489&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "🌎天招VIP3","type": 1,"url": "https://ky.dyqufx.com/home/api?type=ys&uid=3612007&key=bdlqrtvCKTVWY02489&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 //{"name": "🌎天招VIP5","type": 1,"url": "http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
@@ -1963,7 +1963,7 @@
 
 
 {
-      "name": "🌎天招VIP4",
+      "name": "🌎天招VIP3",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
