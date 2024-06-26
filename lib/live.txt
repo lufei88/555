@@ -647,6 +647,16 @@ http://livetv.skycf.eu.org/live.m3u8?c=3
 
 [港•澳•台备用],#genre#
 
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
+
+
+
+
+
+
 凤凰中文,http://8.137.59.151:3000/laoshu.php?key=hello&id=1
 凤凰资讯,http://8.137.59.151:3000/laoshu.php?key=hello&id=2
 凤凰香港,http://8.137.59.151:3000/laoshu.php?key=hello&id=3
@@ -655,6 +665,7 @@ HOY78,http://8.137.59.151:3000/laoshu.php?key=hello&id=4
 有线18（普通话）,http://8.137.59.151:3000/laoshu.php?key=hello&id=6
 无线新闻,http://8.137.59.151:3000/laoshu.php?key=hello&id=7
 翡翠台,http://8.137.59.151:3000/laoshu.php?key=hello&id=8
+翡翠台,http://121.40.63.193:81/tvb翡翠/香蕉哥专用.live.ts
 明珠台,http://8.137.59.151:3000/laoshu.php?key=hello&id=10
 mytv super,http://8.137.59.151:3000/laoshu.php?key=hello&id=11
 娱乐新闻台,http://8.137.59.151:3000/laoshu.php?key=hello&id=12
