@@ -728,7 +728,7 @@ CNN新闻,http://8.137.59.151:3000/laoshu.php?key=hello&id=57
 
 [港•澳•台快速],#genre#
 
-
+凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视,http://ali.hlspull.yximgs.com/live/fenghuangweishil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/fhzxteqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/gASKsKSHlsLSll00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
