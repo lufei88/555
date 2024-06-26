@@ -739,14 +739,14 @@ TVBplus,http://ali.hlspull.yximgs.com/live/TTvbjjjj2l00eqokljhdvJVDjJbvjDbcJMSkd
 18,http://ali.hlspull.yximgs.com/live/TVBmyTVSUPERtytytl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 美亚电影,http://ali.hlspull.yximgs.com/live/mydyl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 
-TVB明珠台,http://154.12.50.54:123/smt.php?id=pearl_twn
+TVB明珠台,http://154.12.40.124:300/smt2.php?id=8
 TVB明珠台,http://ali.hlspull.yximgs.com/live/sgAKDsj00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 TVB无线新闻,http://ali.hlspull.yximgs.com/live/puxianxwt548700eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 TVB 亚洲剧,http://ali.hlspull.yximgs.com/live/TTvbyazhoujul00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 TVB 千禧经典,http://ali.hlspull.yximgs.com/live/TTvbqxjjjdd00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 TVB 娱乐新闻,http://ali.hlspull.yximgs.com/live/TTvbyulxwwwwl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 
-TVB 星河台,http://154.12.50.54:123/smt.php?id=Xinhe
+TVB 星河台,http://154.12.40.124:300/smt.php?id=Xinhe
 TVB 星河台,http://ali.hlspull.yximgs.com/live/TTvbxhhhhhhhl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 TVB 华语剧,http://ali.hlspull.yximgs.com/live/TTvbhuayujl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 TVB 儿童节目,http://ali.hlspull.yximgs.com/live/XVAjkdK00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
@@ -777,20 +777,20 @@ Popc,http://ali.hlspull.yximgs.com/live/AnimaxH264HKBGl00eqokljhdvJVDjJbvjDbcJMS
 龙华偶像,http://ali.hlspull.yximgs.com/live/lunghuaidol_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 东森洋片,http://ali.hlspull.yximgs.com/live/ettvwesternl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 龙华电影,http://ali.hlspull.yximgs.com/live/longhuadyl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-动物星球,http://154.12.50.54:123/smt.php?id=AnimalPlanet
-国家地理,http://154.12.50.54:123/smt.php?id=Natgeo
-野生动物,http://154.12.50.54:123/smt.php?id=natgeowild_twn
+动物星球,http://154.12.40.124:300/smt.php?id=AnimalPlanet
+国家地理,http://154.12.40.124:300/smt.php?id=Natgeo
+野生动物,http://154.12.40.124:300/smt.php?id=natgeowild_twn
 TLC 旅游生活,http://154.12.50.54:123/smt.php?id=tlc_twn
 台视综合,http://ali.hlspull.yximgs.com/live/TTtvzhonghel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 民视台湾,http://ali.hlspull.yximgs.com/live/xftvtaiwan_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 民视第一,http://ali.hlspull.yximgs.com/live/lunghuajingdian_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-三立综合,http://154.12.50.54:123/smt.php?id=sanlizhonghe
-三立台湾,http://154.12.50.54:123/smt.php?id=sanlitaiwan
+三立综合,http://154.12.40.124:300/smt.php?id=sanlizhonghe
+三立台湾,http://154.12.40.124:300/smt.php?id=sanlitaiwan
 靖洋戏剧,http://ali.hlspull.yximgs.com/live/sanlixiju_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 三立都会,http://ali.hlspull.yximgs.com/live/sanlidouhui_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-八大综合,http://154.12.50.54:123/smt.php?id=badazhonghe
-八大第一,http://154.12.50.54:123/smt.php?id=badafirst
-八大戏剧,http://154.12.50.54:123/smt.php?id=badadrama
+八大综合,http://154.12.40.124:300/smt.php?id=badazhonghe
+八大第一,http://154.12.40.124:300/smt.php?id=badafirst
+八大戏剧,http://154.12.40.124:300/smt.php?id=badadrama
 中天亚洲,http://ali.hlspull.yximgs.com/live/ctiasia_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 中天综合,http://154.12.50.54:123/smt.php?id=ctizhonghe
 爱尔达综合,http://ali.hlspull.yximgs.com/live/eltazonghel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
@@ -803,7 +803,7 @@ TVBHD,http://ali.hlspull.yximgs.com/live/TTvbsmytv6peqokljhdvJVDjJbvjDbcJMSkdgs-
 三立新闻,http://ali.hlspull.yximgs.com/live/sanlixw8886755464889eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 EYE 旅游,http://ali.hlspull.yximgs.com/live/eyetvtravel_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 EYE 戏剧,http://ali.hlspull.yximgs.com/live/eyetvxiju_twl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-东森戏剧,http://154.12.50.54:123/smt.php?id=ettvdrama
+东森戏剧,http://154.12.40.124:300/smt.php?id=ettvdrama
 东森超视,http://ali.hlspull.yximgs.com/live/ettvsupel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 美食星球,http://ali.hlspull.yximgs.com/live/foodplanet_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 亚洲美食,http://ali.hlspull.yximgs.com/live/afc_twnol00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
@@ -819,7 +819,7 @@ tvN,http://ali.hlspull.yximgs.com/live/TTvnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958
 DiscoveryHD,http://ali.hlspull.yximgs.com/live/discoveryhd_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 BBCHD,http://ali.hlspull.yximgs.com/live/bbcearth_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 
-CINEMAX,http://154.12.50.54:123/smt.php?id=cinemax_twn
+CINEMAX,http://154.12.40.124:300/smt.php?id=cinemax_twn
 HBOHD,http://ali.hlspull.yximgs.com/live/hbohd_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 HBOHITS,http://ali.hlspull.yximgs.com/live/hbohead_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 HBO 家庭温馨,http://ali.hlspull.yximgs.com/live/xhbojtl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
@@ -828,9 +828,6 @@ StarMHD,http://ali.hlspull.yximgs.com/live/starmovies_raj200eqokljhdvJVDjJbvjDbc
 CN 卡通,http://ali.hlspull.yximgs.com/live/xcnkatongl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 Rock Action,http://ali.hlspull.yximgs.com/live/ROCKActionttl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 CINEMAX电影,http://117.114.153.1:8180/TV00000000000000000109@HHZT
-
-
-
 
 
 
