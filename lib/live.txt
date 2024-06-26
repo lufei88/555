@@ -795,9 +795,9 @@ TLC 旅游生活,http://154.12.50.54:123/smt.php?id=tlc_twn
 中天综合,http://154.12.50.54:123/smt.php?id=ctizhonghe
 爱尔达综合,http://ali.hlspull.yximgs.com/live/eltazonghel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 爱尔达影剧,http://ali.hlspull.yximgs.com/live/eltayingju_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-台视新闻,http://ali.hlspull.yximgs.com/live/TTaishi88822378889gdkagdakdbsavfcjdsfjs.flv
-中视新闻,http://ali.hlspull.yximgs.com/live/abc888445889889gdkagdakdbsavfcjdsfjs.flv
-民视新闻,http://ali.hlspull.yximgs.com/live/msxwtbbbst885231889gdkagdakdbsavfcjdsfjs.flv
+台视新闻,http://154.12.40.124:300/smt.php?id=ttvnews_twn
+中视新闻,http://154.12.40.124:300/smt.php?id=zhongshinews_twn
+民视新闻,http://154.12.40.124:300/smt.php?id=ftvnew_taiwan
 东森新闻,http://ali.hlspull.yximgs.com/live/dsxwtbbbttbteqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 TVBHD,http://ali.hlspull.yximgs.com/live/TTvbsmytv6peqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
 三立新闻,http://ali.hlspull.yximgs.com/live/sanlixw8886755464889eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
