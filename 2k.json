@@ -31,20 +31,17 @@
 //{"key": "豆瓣","name": "最新影视热剧","type": 3,"api": "csp_Douban","jar": "./jar/xhpmd.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/xhdb.json"},
 
 
+{
+  "key": "芒果",
+  "name": "🏆点播首选",
+  "type": 3,
+  "api": "./js2/drpy2.min.js",  
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/mangguo.js"
+  },
 
-
-
-  {
-      "key": "tz",
-      "name": "🏆点播首选",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tz0622.json"
-    },
 
 
 
@@ -361,23 +358,38 @@
 
 
 
-
-
 {
-  "key": "芒果",
+  "key": "腾讯",
   "name": "🥇天招VIP专线1",
   "type": 3,
-  "api": "http://103.207.68.131:1322/app//lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/mangguo.js"
+  "api": "./js2/drpy2.min.js",
+  "ext": "./lib/腾讯22.js"
   },
 
 
-    {
-      "key": "tz66",
+
+
+
+  {
+      "key": "tz",
       "name": "🥇天招VIP专线2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz0622.json"
+    },
+
+
+
+
+
+
+  {
+      "key": "tz66",
+      "name": "🥇天招VIP专线3",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -389,15 +401,31 @@
 
 
 
-
-
 {
-  "key": "腾讯",
-  "name": "🥇天招VIP专线3",
-  "type": 3,
-  "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
-  "ext": "./lib/腾讯22.js"
-  },
+      "key": "saohuo",
+      "name": "🥇天招VIP专线4",//小米 骚火
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "playerType": "1",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
+
+
 
 
 
@@ -422,7 +450,7 @@
 
 {
   "key": "爱奇异",
-  "name": "🥇天招VIP专线4",
+  "name": "🥇天招VIP专线5",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -444,7 +472,7 @@
 
    {
       "key": "tzhy",
-      "name": "🥇天招VIP专线5",
+      "name": "🥇天招VIP专线6",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0611.jar",
@@ -460,7 +488,7 @@
 
 {
   "key": "优酷",
-  "name": "🥇天招VIP专线6",
+  "name": "🥇天招VIP专线7",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -474,7 +502,7 @@
 
 {
       "key": "搜狗",
-      "name": "🥇天招VIP专线7",
+      "name": "🥇天招VIP专线8",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/caigou.js"
@@ -484,7 +512,7 @@
 
 {
   "key": "NanGua",  
-  "name": "🥇天招VIP专线8",
+  "name": "🥇天招VIP专线9",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -503,7 +531,7 @@
 
 {
       "key": "乐视",
-      "name": "🥇天招VIP专线9",
+      "name": "🥇天招VIP专线10",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
@@ -555,29 +583,6 @@
 
 
 
-  /*  {
-      "key": "原创",
-      "name": "🥇天招VIP专线9",
-      "type": 3,
-      "api": "csp_YCyz",
-      "jar": "./jar/fan0408.jar",
-      "timeout": 30,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },*/
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -589,44 +594,11 @@
 //快速线路一///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-{
-      "key": "saohuo",
-      "name": "🥇天招超快线1",//小米 骚火
-      "type": 3,
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "playerType": "2",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-        "数组二次截取": "class=\"v_list\">&&</ul>",
-        "数组": "\"v_img\"&&/div>",
-        "标题": "title=\"&&\"",
-        "副标题": "v_note\"&&</div",
-        "跳转播放链接": "<iframe*src=\"&&\"",
-        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
 
 
 
-/*{
-      "key": "csp_农民",
-      "name": "🥇天招超快线2",//来自笑傲
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar": "./jar/sa0226.jar",
-      "ext": "./lib/农民影视.json"
-     
-    },*/
+
+
 
 
 
@@ -634,7 +606,7 @@
 
 {
   "key":"csp_CandyMuj_taoju",
-  "name":"🥇天招超快线2",//来自笑傲
+  "name":"🥇天招超快线1",//来自笑傲
   "type":3,"api":"csp_CandyMuj_taoju",
   "jar":"./jar/candymuj.jar",
   "searchable":1,
@@ -647,7 +619,7 @@
 
 {
       "key": "csp_LiangZi",
-      "name": "🥇天招超快线3",//来自笑傲
+      "name": "🥇天招超快线2",//来自笑傲
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -686,7 +658,7 @@
 
 {
    "key": "csp_xBPQ_奇优",
-   "name":"🥇天招超快线4",  
+   "name":"🥇天招超快线3",  
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -697,7 +669,7 @@
 
 {
 "key": "csp_新视觉影院",
-"name": "🥇天招超快线5",
+"name": "🥇天招超快线4",
 "type": 3,
 "api": "csp_XYQHiker",
 "jar": "./jar/xyq.jar",
@@ -712,7 +684,7 @@
 
 {
   "key":"csp_四客",
-  "name":"🥇天招超快线6",
+  "name":"🥇天招超快线5",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -725,7 +697,7 @@
 
 {
 		    "key": "csp_xtd",
-		    "name": "🥇天招超快线7",
+		    "name": "🥇天招超快线6",
 		    "type": 3,
 		    "api": "csp_AppYsV2",
 		    "searchable": 1,
@@ -739,7 +711,7 @@
 
   {
       "key": "meowtv_xxys",
-      "name": "🥇天招超快线8",
+      "name": "🥇天招超快线7",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -754,91 +726,12 @@
 
 
 
-/*{
-      "key": "csp_非凡资源",
-      "name": "🥇天招超快线6",//来自笑傲
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
 
 
 
 
 
- {
-   "key": "Xinsj",
-   "name": "🥇天招超快线7",
-   "type":3,
-      "api":"csp_XYQHiker",
-         "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "jar":"./jar/xyq.jar",
-   "ext":"./json/新视觉影院2.json"
-   },
-   
-   
-  {
-      "key": "zy_新浪",
-      "name": "🥇天招超快线9",//来自笑傲　新浪直连　　有广告
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
-    }, */
+
 
 
 
@@ -1953,17 +1846,10 @@
 
 
 
-{"name": "🌎天招VIP2","type": 1,"url": "http://39.107.152.173:112/api/?key=508Rndi8W0ShnKJtZr&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "🌎天招VIP2","type": 1,"url": "http://39.107.152.173:112/api/?key=508Rndi8W0ShnKJtZr&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
                                      
 {"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-
-
-
-
-
-
 
 
 
