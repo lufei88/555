@@ -31,20 +31,17 @@
 //{"key": "豆瓣","name": "最新影视热剧","type": 3,"api": "csp_Douban","jar": "./jar/xhpmd.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/xhdb.json"},
 
 
+{
+  "key": "芒果",
+  "name": "🏆点播首选",
+  "type": 3,
+  "api": "./js2/drpy2.min.js",  
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/mangguo.js"
+  },
 
-
-
-  {
-      "key": "tz",
-      "name": "🏆点播首选",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tz0622.json"
-    },
 
 
 
@@ -361,43 +358,52 @@
 
 
 
-
-
 {
-  "key": "芒果",
+  "key": "腾讯",
   "name": "🥇天招VIP专线1",
   "type": 3,
-  "api": "./js2/drpy2.min.js",  
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/mangguo.js"
+  "api": "./js2/drpy2.min.js",
+  "ext": "./lib/腾讯22.js"
   },
 
 
- /*   {
-      "key": "tz66",
+
+
+
+  {
+      "key": "tz",
       "name": "🥇天招VIP专线2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz0622.json"
+    },
+
+
+
+
+
+
+  {
+      "key": "tz66",
+      "name": "🥇天招VIP专线9",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/tz66.json"
-    },*/
+    },
 
 
 
 
 
 
-{
-  "key": "腾讯",
-  "name": "🥇天招VIP专线2",
-  "type": 3,
-  "api": "./js2/drpy2.min.js",
-  "ext": "./lib/腾讯22.js"
-  },
+
 
 
 
