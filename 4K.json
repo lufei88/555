@@ -389,7 +389,7 @@
 
   {
       "key": "tz66",
-      "name": "🥇天招VIP专线9",
+      "name": "🥇天招VIP专线3",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -428,7 +428,7 @@
 
 {
   "key": "爱奇异",
-  "name": "🥇天招VIP专线3",
+  "name": "🥇天招VIP专线4",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
@@ -450,7 +450,7 @@
 
    {
       "key": "tzhy",
-      "name": "🥇天招VIP专线4",
+      "name": "🥇天招VIP专线5",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0611.jar",
@@ -466,7 +466,7 @@
 
 {
   "key": "优酷",
-  "name": "🥇天招VIP专线5",
+  "name": "🥇天招VIP专线6",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/youku.js"
@@ -480,7 +480,7 @@
 
 {
       "key": "搜狗",
-      "name": "🥇天招VIP专线6",
+      "name": "🥇天招VIP专线7",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/caigou.js"
@@ -490,7 +490,7 @@
 
 {
   "key": "NanGua",  
-  "name": "🥇天招VIP专线7",
+  "name": "🥇天招VIP专线8",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -509,7 +509,7 @@
 
 {
       "key": "乐视",
-      "name": "🥇天招VIP专线8",
+      "name": "🥇天招VIP专线9",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
