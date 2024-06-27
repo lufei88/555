@@ -35,7 +35,7 @@
 
 
 
-{"id":"127","title":"抖音","logo":"http://pic.j9p.com/up/2022-6/202261082358114.png","desc1":"直播应用","desc":"总是用手机看抖音不爽不过瘾那就试试这款由吾爱大神打造的抖音TV小書版app，软件在手机上和电视上都可以运行播放，支持自动播放功能，可以自由的设置，软件没有广告，支持账号登录，很干净清爽，十分好用。","baoming":"com.ss.android.ugc.aweme","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/dyzp.apk","image1":"http://pic.j9p.com/up/2024-3/2024030513405074604.jpg","image2":"http://pic.j9p.com/up/2024-3/2024030513405055106.jpg","daxiao":"13.17MB","create_time":"2 日以前 "}
+{"id":"127","title":"抖音","logo":"http://pic.j9p.com/up/2022-6/202261082358114.png","desc1":"直播应用","desc":"总是用手机看抖音不爽不过瘾那就试试这款由吾爱大神打造的抖音TV小書版app，软件在手机上和电视上都可以运行播放，支持自动播放功能，可以自由的设置，软件没有广告，支持账号登录，很干净清爽，十分好用。","baoming":"com.ss.android.ugc.aweme","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/dy9.9.apk","image1":"http://pic.j9p.com/up/2024-3/2024030513405074604.jpg","image2":"http://pic.j9p.com/up/2024-3/2024030513405055106.jpg","daxiao":"13.17MB","create_time":"2 日以前 "}
 
 
 
