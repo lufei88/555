@@ -728,306 +728,209 @@ CNN新闻,http://8.137.59.151:3000/laoshu.php?key=hello&id=57
 
 [港•澳•台快速],#genre#
 
-凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰卫视,http://ali.hlspull.yximgs.com/live/fenghuangweishil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/fhzxteqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/gASKsKSHlsLSll00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
-TVB 翡翠台,http://121.40.63.193:81/tvb翡翠/香蕉哥专用.live.ts
-TVB 华丽翡翠台,http://ali.hlspull.yximgs.com/live/hualifct218700eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVBplus,http://ali.hlspull.yximgs.com/live/TTvbjjjj2l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-18,http://ali.hlspull.yximgs.com/live/TVBmyTVSUPERtytytl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-美亚电影,http://ali.hlspull.yximgs.com/live/mydyl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
+HOY77,http://today.hslive.store/url/live.php?id=1
+翡翠台,http://today.hslive.store/url/live.php?id=2
+明珠台,http://today.hslive.store/url/live.php?id=3
+星河台,http://today.hslive.store/url/live.php?id=4
+J2,http://today.hslive.store/url/live.php?id=5
+SUPER1,http://today.hslive.store/url/live.php?id=6
+SUPER2,http://today.hslive.store/url/live.php?id=7
+SUPER3,http://today.hslive.store/url/live.php?id=8
+美亚电影,http://today.hslive.store/url/live.php?id=9
+娱乐新闻,http://today.hslive.store/url/live.php?id=10
+SUPER4,http://today.hslive.store/url/live.php?id=11
+亚洲武侠,http://today.hslive.store/url/live.php?id=12
+无线新闻,http://today.hslive.store/url/live.php?id=13
+ELTA体育4,http://today.hslive.store/url/live.php?id=14
+HOY78,http://today.hslive.store/url/live.php?id=15
+HOY76,http://today.hslive.store/url/live.php?id=16
+澳门莲花,http://today.hslive.store/url/live.php?id=17
+18,http://today.hslive.store/url/live.php?id=18
+viu,http://today.hslive.store/url/live.php?id=19
+viu6,http://today.hslive.store/url/live.php?id=20
+now新闻,http://today.hslive.store/url/live.php?id=21
+nowsports1,http://today.hslive.store/url/live.php?id=22
+now财经,http://today.hslive.store/url/live.php?id=23
+super娱乐,http://today.hslive.store/url/live.php?id=24
+super 儿童,http://today.hslive.store/url/live.php?id=25
+三立都会,http://today.hslive.store/url/live.php?id=26
+now直播,http://today.hslive.store/url/live.php?id=27
+黄金华剧,http://today.hslive.store/url/live.php?id=28
+RHK31,http://today.hslive.store/url/live.php?id=29
+RHK32,http://today.hslive.store/url/live.php?id=30
+欢乐台,http://today.hslive.store/url/live.php?id=31
+中天娱乐,http://today.hslive.store/url/live.php?id=32
+中天综合,http://today.hslive.store/url/live.php?id=33
+中天亚洲,http://today.hslive.store/url/live.php?id=34
+中视,http://today.hslive.store/url/live.php?id=35
+民视,http://today.hslive.store/url/live.php?id=36
+民视台湾,http://today.hslive.store/url/live.php?id=37
+华视,http://today.hslive.store/url/live.php?id=38
+公视,http://today.hslive.store/url/live.php?id=39
+八大第一台,http://today.hslive.store/url/live.php?id=40
+八大综合,http://today.hslive.store/url/live.php?id=41
+八大戏剧,http://today.hslive.store/url/live.php?id=42
+八大精彩,http://today.hslive.store/url/live.php?id=43
+三立台湾,http://today.hslive.store/url/live.php?id=44
+民视第一,http://today.hslive.store/url/live.php?id=45
+三立综合,http://today.hslive.store/url/live.php?id=46
+三立戏剧,http://today.hslive.store/url/live.php?id=47
+东森综合,http://today.hslive.store/url/live.php?id=48
+东森超视,http://today.hslive.store/url/live.php?id=49
+龙华戏剧,http://today.hslive.store/url/live.php?id=50
+龙华经典,http://today.hslive.store/url/live.php?id=51
+龙华偶像,http://today.hslive.store/url/live.php?id=52
+靖天国际,http://today.hslive.store/url/live.php?id=53
+纬来日本,http://today.hslive.store/url/live.php?id=54
+靖天卡通,http://today.hslive.store/url/live.php?id=55
+Korea,http://today.hslive.store/url/live.php?id=56
+ELTA影剧,http://today.hslive.store/url/live.php?id=57
+纬来体育,http://today.hslive.store/url/live.php?id=58
+DAZN1,http://today.hslive.store/url/live.php?id=59
+DAZN2,http://today.hslive.store/url/live.php?id=60
+博斯运动1,http://today.hslive.store/url/live.php?id=61
+博斯运动2,http://today.hslive.store/url/live.php?id=62
+博斯高球1,http://today.hslive.store/url/live.php?id=63
+博斯运动2,http://today.hslive.store/url/live.php?id=64
+博斯网球,http://today.hslive.store/url/live.php?id=65
+SPORTS1,http://today.hslive.store/url/live.php?id=66
+SPORTS2,http://today.hslive.store/url/live.php?id=67
+68,http://today.hslive.store/url/live.php?id=68
+SPORTSBOOK,http://today.hslive.store/url/live.php?id=69
+EUROSPORT1,http://today.hslive.store/url/live.php?id=70
+SN,http://today.hslive.store/url/live.php?id=71
+TSN1,http://today.hslive.store/url/live.php?id=72
+TSN2,http://today.hslive.store/url/live.php?id=73
+TSN3,http://today.hslive.store/url/live.php?id=74
+THE BIG IVENT,http://today.hslive.store/url/live.php?id=75
+76,http://today.hslive.store/url/live.php?id=76
+Z,http://today.hslive.store/url/live.php?id=77
+GOLF,http://today.hslive.store/url/live.php?id=78
+TNT SPORTS1,http://today.hslive.store/url/live.php?id=79
+TNT SPORTS2,http://today.hslive.store/url/live.php?id=80
+TNT SPORTS3,http://today.hslive.store/url/live.php?id=81
+82,http://today.hslive.store/url/live.php?id=82
+astro arena1,http://today.hslive.store/url/live.php?id=83
+astro arena2,http://today.hslive.store/url/live.php?id=84
+astro arena3,http://today.hslive.store/url/live.php?id=85
+fox,http://today.hslive.store/url/live.php?id=86
+champlons,http://today.hslive.store/url/live.php?id=87
+博斯无限1,http://today.hslive.store/url/live.php?id=88
+博斯无限2,http://today.hslive.store/url/live.php?id=89
+90,http://today.hslive.store/url/live.php?id=90
+ufc,http://today.hslive.store/url/live.php?id=91
+premiersports,http://today.hslive.store/url/live.php?id=92
+nba,http://today.hslive.store/url/live.php?id=93
+sky sports,http://today.hslive.store/url/live.php?id=94
+95,http://today.hslive.store/url/live.php?id=95
+hbo,http://today.hslive.store/url/live.php?id=96
+hbo ignature,http://today.hslive.store/url/live.php?id=97
+hbo hits,http://today.hslive.store/url/live.php?id=98
+hbo family,http://today.hslive.store/url/live.php?id=99
+好莱坞电影,http://today.hslive.store/url/live.php?id=100
+101,http://today.hslive.store/url/live.php?id=101
+AXN,http://today.hslive.store/url/live.php?id=102
+纬来电影,http://today.hslive.store/url/live.php?id=103
+104,http://today.hslive.store/url/live.php?id=104
+东森洋片,http://today.hslive.store/url/live.php?id=105
+106,http://today.hslive.store/url/live.php?id=106
+龙华洋片,http://today.hslive.store/url/live.php?id=107
+龙祥时代,http://today.hslive.store/url/live.php?id=108
+私人影院,http://today.hslive.store/url/live.php?id=109
+天映频道,http://today.hslive.store/url/live.php?id=110
+天映经典,http://today.hslive.store/url/live.php?id=111
+龙华电影,http://today.hslive.store/url/live.php?id=112
+美亚电影,http://today.hslive.store/url/live.php?id=113
+采昌,http://today.hslive.store/url/live.php?id=114
+电影台,http://today.hslive.store/url/live.php?id=115
+MOVIES NOW,http://today.hslive.store/url/live.php?id=116
+ASTRO,http://today.hslive.store/url/live.php?id=117
+KIX,http://today.hslive.store/url/live.php?id=118
+119,http://today.hslive.store/url/live.php?id=119
+壹电视,http://today.hslive.store/url/live.php?id=120
+thrill,http://today.hslive.store/url/live.php?id=121
+122,http://today.hslive.store/url/live.php?id=122
+tv电影,http://today.hslive.store/url/live.php?id=123
+124,http://today.hslive.store/url/live.php?id=124
+美食星球,http://today.hslive.store/url/live.php?id=125
+动物星球,http://today.hslive.store/url/live.php?id=126
+探索科学,http://today.hslive.store/url/live.php?id=127
+128,http://today.hslive.store/url/live.php?id=128
+129,http://today.hslive.store/url/live.php?id=129
+discovery,http://today.hslive.store/url/live.php?id=130
+亚洲旅游,http://today.hslive.store/url/live.php?id=131
+crime investi,http://today.hslive.store/url/live.php?id=132
+tlc,http://today.hslive.store/url/live.php?id=133
+mtv,http://today.hslive.store/url/live.php?id=134
+bbc,http://today.hslive.store/url/live.php?id=135
+h history,http://today.hslive.store/url/live.php?id=136
+bbc first,http://today.hslive.store/url/live.php?id=137
+hgtv,http://today.hslive.store/url/live.php?id=138
+tvbs新闻,http://today.hslive.store/url/live.php?id=139
+TVBS HD,http://today.hslive.store/url/live.php?id=140
+中天新闻,http://today.hslive.store/url/live.php?id=141
+中天儿童,http://today.hslive.store/url/live.php?id=142
+中视新闻,http://today.hslive.store/url/live.php?id=143
+民视新闻,http://today.hslive.store/url/live.php?id=144
+东森LIVE,http://today.hslive.store/url/live.php?id=145
+东森财经,http://today.hslive.store/url/live.php?id=146
+,http://today.hslive.store/url/live.php?id=147
+环宇新闻,http://today.hslive.store/url/live.php?id=148
+台视新闻,http://today.hslive.store/url/live.php?id=149
+壹新闻,http://today.hslive.store/url/live.php?id=150
+sky,http://today.hslive.store/url/live.php?id=151
+三立新闻,http://today.hslive.store/url/live.php?id=152
+华视新闻,http://today.hslive.store/url/live.php?id=153
+非凡新闻,http://today.hslive.store/url/live.php?id=154
+年代新闻,http://today.hslive.store/url/live.php?id=155
+newslive,http://today.hslive.store/url/live.php?id=156
+cbs news,http://today.hslive.store/url/live.php?id=157
+环宇新闻台湾,http://today.hslive.store/url/live.php?id=158
+arts24,http://today.hslive.store/url/live.php?id=159
+dw,http://today.hslive.store/url/live.php?id=160
+cnn live,http://today.hslive.store/url/live.php?id=161
+162,http://today.hslive.store/url/live.php?id=162
+bbc news,http://today.hslive.store/url/live.php?id=163
+164,http://today.hslive.store/url/live.php?id=164
+cgtn,http://today.hslive.store/url/live.php?id=165
+jastream,http://today.hslive.store/url/live.php?id=166
+167,http://today.hslive.store/url/live.php?id=167
+nhk world,http://today.hslive.store/url/live.php?id=168
+fox raw,http://today.hslive.store/url/live.php?id=169
+新唐人,http://today.hslive.store/url/live.php?id=170
+华藏,http://today.hslive.store/url/live.php?id=171
+172,http://today.hslive.store/url/live.php?id=172
+rob strano,http://today.hslive.store/url/live.php?id=173
+onegolf,http://today.hslive.store/url/live.php?id=174
+175,http://today.hslive.store/url/live.php?id=175
+176,http://today.hslive.store/url/live.php?id=176
+177,http://today.hslive.store/url/live.php?id=177
+华丽翡翠,http://today.hslive.store/url/live.php?id=178
+astro aod,http://today.hslive.store/url/live.php?id=179
+180,http://today.hslive.store/url/live.php?id=180
 
-TVB明珠台,http://154.12.40.124:300/smt2.php?id=8
-TVB明珠台,http://ali.hlspull.yximgs.com/live/sgAKDsj00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVB无线新闻,http://ali.hlspull.yximgs.com/live/puxianxwt548700eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVB 亚洲剧,http://ali.hlspull.yximgs.com/live/TTvbyazhoujul00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVB 千禧经典,http://ali.hlspull.yximgs.com/live/TTvbqxjjjdd00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVB 娱乐新闻,http://ali.hlspull.yximgs.com/live/TTvbyulxwwwwl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-
-TVB 星河台,http://154.12.40.124:300/smt.php?id=Xinhe
-TVB 星河台,http://ali.hlspull.yximgs.com/live/TTvbxhhhhhhhl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVB 华语剧,http://ali.hlspull.yximgs.com/live/TTvbhuayujl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVB 儿童节目,http://ali.hlspull.yximgs.com/live/XVAjkdK00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVBFREE,http://ali.hlspull.yximgs.com/live/TVBSUPERl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVBFREE2,http://ali.hlspull.yximgs.com/live/TVBSUPER-FREEl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVB 功夫台,http://ali.hlspull.yximgs.com/live/gfYYY00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-
-
-Now 星影台,http://111.160.76.101:80/%E9%A6%99%E8%95%89%E5%93%A5/now%E6%98%9F%E5%BD%B1.live.flv
-Now 星影台,http://ali.hlspull.yximgs.com/live/nnnowxyyty00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-
-Now 爆谷台,http://111.160.76.101:80/%E9%A6%99%E8%95%89%E5%93%A5/now%E7%88%86%E8%B0%B7.live.flv
-Now 爆谷台,http://ali.hlspull.yximgs.com/live/nnnowbggtl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-Now 爆谷台,http://ali.hlspull.yximgs.com/live/nnnowbggtl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-Now 财经,http://ali.hlspull.yximgs.com/live/nnnowcjjl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-Now 英超,http://ali.hlspull.yximgs.com/live/nnnowycl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-天映经典,http://ali.hlspull.yximgs.com/live/TTianyingjingdiant300eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-天映频道,http://ali.hlspull.yximgs.com/live/TTianyingpd00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-欢喜台,http://ali.hlspull.yximgs.com/live/xHuaheel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-Popc,http://ali.hlspull.yximgs.com/live/AnimaxH264HKBGl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-民视,http://ali.hlspull.yximgs.com/live/minshil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-台视,http://ali.hlspull.yximgs.com/live/TTaishil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-中视,http://ali.hlspull.yximgs.com/live/zhongshil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-华视,http://ali.hlspull.yximgs.com/live/huahsil00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-公视,http://ali.hlspull.yximgs.com/live/ctv_taiwanl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-龙翔时代,http://ali.hlspull.yximgs.com/live/jixianeqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-龙华戏剧,http://ali.hlspull.yximgs.com/live/lunghuaxijul00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-龙华偶像,http://ali.hlspull.yximgs.com/live/lunghuaidol_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-东森洋片,http://ali.hlspull.yximgs.com/live/ettvwesternl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-龙华电影,http://ali.hlspull.yximgs.com/live/longhuadyl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-动物星球,http://154.12.40.124:300/smt.php?id=AnimalPlanet
-国家地理,http://154.12.40.124:300/smt.php?id=Natgeo
-野生动物,http://154.12.40.124:300/smt.php?id=natgeowild_twn
-TLC 旅游生活,http://154.12.50.54:123/smt.php?id=tlc_twn
-台视综合,http://ali.hlspull.yximgs.com/live/TTtvzhonghel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-民视台湾,http://ali.hlspull.yximgs.com/live/xftvtaiwan_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-民视第一,http://ali.hlspull.yximgs.com/live/lunghuajingdian_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-三立综合,http://154.12.40.124:300/smt.php?id=sanlizhonghe
-三立台湾,http://154.12.40.124:300/smt.php?id=sanlitaiwan
-靖洋戏剧,http://ali.hlspull.yximgs.com/live/sanlixiju_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-三立都会,http://ali.hlspull.yximgs.com/live/sanlidouhui_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-八大综合,http://154.12.40.124:300/smt.php?id=badazhonghe
-八大第一,http://154.12.40.124:300/smt.php?id=badafirst
-八大戏剧,http://154.12.40.124:300/smt.php?id=badadrama
-中天亚洲,http://ali.hlspull.yximgs.com/live/ctiasia_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-中天综合,http://154.12.50.54:123/smt.php?id=ctizhonghe
-爱尔达综合,http://ali.hlspull.yximgs.com/live/eltazonghel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-爱尔达影剧,http://ali.hlspull.yximgs.com/live/eltayingju_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-台视新闻,http://154.12.40.124:300/smt.php?id=ttvnews_twn
-中视新闻,http://154.12.40.124:300/smt.php?id=zhongshinews_twn
-民视新闻,http://154.12.40.124:300/smt.php?id=ftvnew_taiwan
-东森新闻,http://ali.hlspull.yximgs.com/live/dsxwtbbbttbteqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-TVBHD,http://ali.hlspull.yximgs.com/live/TTvbsmytv6peqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-三立新闻,http://ali.hlspull.yximgs.com/live/sanlixw8886755464889eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-EYE 旅游,http://ali.hlspull.yximgs.com/live/eyetvtravel_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-EYE 戏剧,http://ali.hlspull.yximgs.com/live/eyetvxiju_twl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-东森戏剧,http://154.12.40.124:300/smt.php?id=ettvdrama
-东森超视,http://ali.hlspull.yximgs.com/live/ettvsupel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-美食星球,http://ali.hlspull.yximgs.com/live/foodplanet_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-亚洲美食,http://ali.hlspull.yximgs.com/live/afc_twnol00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-亚洲旅游,http://ali.hlspull.yximgs.com/live/asiatravel_twnol00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-爱达尔体育4,http://ali.hlspull.yximgs.com/live/aierdty4l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-WWE,http://ali.hlspull.yximgs.com/live/xWwel00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-KIX,http://ali.hlspull.yximgs.com/live/kix264l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-AXN,http://ali.hlspull.yximgs.com/live/axn264l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-（时装） Fashionbox,http://ali.hlspull.yximgs.com/live/fashionboxl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-Thrill,http://ali.hlspull.yximgs.com/live/ThrillH264l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-Aninmax,http://ali.hlspull.yximgs.com/live/Animax364l00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-tvN,http://ali.hlspull.yximgs.com/live/TTvnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-DiscoveryHD,http://ali.hlspull.yximgs.com/live/discoveryhd_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-BBCHD,http://ali.hlspull.yximgs.com/live/bbcearth_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-
-CINEMAX,http://154.12.40.124:300/smt.php?id=cinemax_twn
-HBOHD,http://ali.hlspull.yximgs.com/live/hbohd_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-HBOHITS,http://ali.hlspull.yximgs.com/live/hbohead_twnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-HBO 家庭温馨,http://ali.hlspull.yximgs.com/live/xhbojtl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-AXNHD,http://ali.hlspull.yximgs.com/live/axxxnl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-StarMHD,http://ali.hlspull.yximgs.com/live/starmovies_raj200eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-CN 卡通,http://ali.hlspull.yximgs.com/live/xcnkatongl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-Rock Action,http://ali.hlspull.yximgs.com/live/ROCKActionttl00eqokljhdvJVDjJbvjDbcJMSkdgs-409958-88hb-99ff-52540Odfb345liLecbncdncnpj9p9pclcglivccctv1HDopdefaultfindetokenhsfklshslfksfhghjglhhjlflYuijhflhjlvsnfsmfjhdfkjshfsl.flv
-CINEMAX电影,http://117.114.153.1:8180/TV00000000000000000109@HHZT
-
-
-
-[港•澳•台测试],#genre#
-
-凤凰资讯,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/871a556a/index.m3u8
-凤凰中文,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/b41asd11/index.m3u8
-凤凰香港,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/vfhd84ad/index.m3u8
-翡翠台,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/b3ce88a4/index.m3u8
-翡翠台,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/5tg7hf6c/index.m3u8
-无线新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/2f290875/index.m3u8
-无线新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/g9wq1prh/index.m3u8
-J2,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/0087ab5b/index.m3u8
-J2,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/0087ab5b/index.m3u8
-凤凰香港,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/c3c07777/index.m3u8
-星河,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/amlxy034/index.m3u8
-星河国语,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/oihnjdjd/index.m3u8
-TVBUS1,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/1d21a59c/index.m3u8
-TVB娱乐,http://154.9.228.245:9969/dibo2.php/?url=/live/8c33fa9b/qz897rqx/index.m3u8
-TVB经典,http://154.9.228.245:9969/dibo2.php/?url=/live/8c33fa9b/b57abdaa/index.m3u8
-明珠,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/2d901758/index.m3u8
-Viutv,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/zbjk0cj6/index.m3u8
-viutv6,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/1cbda838/index.m3u8
-NOW直播,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/fc132now/index.m3u8
-NOW新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/b215381c/index.m3u8
-天映频道,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/amlxy027/index.m3u8
-有线新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/b215381c/index.m3u8
-有线603,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/fppmma23/index.m3u8
-HBO,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/84wnpj8g/index.m3u8
-RHK31,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/ee649933/index.m3u8
-RHK32,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/506cb6da/index.m3u8
-卫视中文,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/a121q1cc/index.m3u8
-香港卫视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/89n4xz21/index.m3u8
-香港开电视,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/4c55d1cc/index.m3u8
-KTSF26,http://154.9.228.245:9969/dibo2.php/?url=/live/8c33fa9b/dxhen221/index.m3u8
-CP24,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/1cb2229c/index.m3u8
-新时代多伦多,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/d0a1b9c3/index.m3u8
-新时代温哥华,http://154.9.228.245:9969/dibo2.php/?url=/live/e95cebf9/csxjcxnx/index.m3u8
-新时代2,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/53e9c80f/index.m3u8
-城市电视,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/81636a3e/index.m3u8
-澳门莲花,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/cs7rpncg/index.m3u8
-珠江台,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/cb4ebf16/index.m3u8
-南方卫视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/sg4fx9qp/index.m3u8
-华纳电影,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/c8853895/index.m3u8
-爱尔达综合,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/q35stj9m/index.m3u8
-台视综合,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/vj16g6fs/index.m3u8
-CNN,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/03int077/index.m3u8
-民视,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/7c4f853f/index.m3u8
-人间卫视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/ee1501bd/index.m3u8
-台视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/c05pm3s2/index.m3u8
-大爱1,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/tcs89msv/index.m3u8
-中视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/0fjz7px1/index.m3u8
-霹雳台,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/d1ffefce/index.m3u8
-华视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/hmrmw2mj/index.m3u8
-公视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/j44fm83f/index.m3u8
-好消息1,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/x4qgwt3s/index.m3u8
-好消息2,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/h8w5891c/index.m3u8
-原住民,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/ddzd126a/index.m3u8
-客家电视,http://154.9.228.245:9969/dibo2.php/?url=/live/8c33fa9b/asdx02tr/index.m3u8
-国家地理,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/nvhgfr5c/index.m3u8
-discovery,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/nvhgfr5c/index.m3u8
-travelchannel,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/059c6cgh/index.m3u8
-动物星球,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/13t5w6zc/index.m3u8
-CN卡通,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/0jqsx5tg/index.m3u8
-迪士尼,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/tnv75740/index.m3u8
-MOMO,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/877sd556/index.m3u8
-东森幼幼,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/31t5z7bp/index.m3u8
-纬合综合,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/3qct536g/index.m3u8
-八大第一,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/jz8wfhfv/index.m3u8
-八大综合,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/nh14pm05/index.m3u8
-三立台湾,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/66e1dd5c/index.m3u8
-三台都会,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/04bd1e96/index.m3u8
-东森超视,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/996eaed4/index.m3u8
-中天综合,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/975ffqpt/index.m3u8
-东风卫视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/6b13bb2f/index.m3u8
-年代MUCH,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/e1e0abbd/index.m3u8
-中天娱乐,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/pg9ccptv/index.m3u8
-东森戏剧,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/g5n3j8kx/index.m3u8
-八大戏剧,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/1gx47f4w/index.m3u8
-欢乐台,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/503d4280/index.m3u8
-纬来戏剧,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/ncgscv3r/index.m3u8
-高点综合,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/fmqkc4bh/index.m3u8
-三立INEWS,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/zhjnc3xr/index.m3u8
-壹电视,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/fkb23jwt/index.m3u8
-年代新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/67f088a8/index.m3u8
-东森新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/94zf0c2v/index.m3u8
-中天新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/8j108vcc/index.m3u8
-民视新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/thkmtv99/index.m3u8
-三立新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/5890d7c4/index.m3u8
-TVB新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/1b82cf55/index.m3u8
-TVBS HD,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/qb4zc9s7/index.m3u8
-东森财经,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/1cj0fxmv/index.m3u8
-非凡新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/569f8eea/index.m3u8
-探索TV,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/wm8wzgxz/index.m3u8
-探索HD,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/fvptsnk3/index.m3u8
-电影台,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/63t80c5p/index.m3u8
-东森电影,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/q6t7f6hg/index.m3u8
-纬来电影,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/q9p24xqk/index.m3u8
-龙祥时代,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/0xz20xk6/index.m3u8
-东森洋片,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/0kxhqv8q/index.m3u8
-AXN,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/q1t3r233/index.m3u8
-好莱坞电影,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/q0rskj6h/index.m3u8
-星空电影,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/6s69fnjz/index.m3u8
-CINEMAX,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/w6stt0q8/index.m3u8
-纬来育乐,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/w6stt0q8/index.m3u8
-纬来体育,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/spvjqjn9/index.m3u8
-FOXSPORTS1,http://154.9.228.245:9969/dibo2.php/?url=/live/e95cebf9/1a74fff3/index.m3u8
-FOXSPORTS2,http://154.9.228.245:9969/dibo2.php/?url=/live/e95cebf9/55de631b/index.m3u8
-ELEVEN SPORT,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/svs9236c/index.m3u8
-三立综合,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/8sw4bfgq/index.m3u8
-纬来日本,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/5bd6dfb8/index.m3u8
-FOX,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/agdc1y5c/index.m3u8
-JET综合,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/07t8z33z/index.m3u8
-TVN,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/8wk7r3sc/index.m3u8
-DISCOVERY科学,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/0j9wgpsb/index.m3u8
-EYE戏剧,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/rg68vjj0/index.m3u8
-壹电视新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/69a0087b/index.m3u8
-爱尔达体育1,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/xx8jfqc9/index.m3u8
-爱尔达体育2,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/bxjgvrj3/index.m3u8
-爱尔达体育3,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/47ac82d6/index.m3u8
-爱尔达体育4,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/w7tx0758/index.m3u8
-三立戏剧,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/k4bszph7/index.m3u8
-博斯高球1,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/13k597n4/index.m3u8
-博斯高球2,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/p41p0chp/index.m3u8
-博斯魅力,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/sq7kwzwq/index.m3u8
-博斯网球,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/xvtbpnqp/index.m3u8
-欧洲体育,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/jjf48w4x/index.m3u8
-HBO HITS,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/invnbjaa/index.m3u8
-HBO SIGNATURE,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/8as1d3as/index.m3u8
-HBO FAMILY,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/61br3tqt/index.m3u8
-非凡商业,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/1b1653b5/index.m3u8
-SKY SPORTS,http://154.9.228.245:9969/dibo2.php/?url=/live/e95cebf9/9fda35b6/index.m3u8
-NHK,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/mn4r6rh7/index.m3u8
-MTV,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/a7939dbd/index.m3u8
-ANIMAX,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/zmz9k2hc/index.m3u8
-靖天国际,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/hxrr1s5b/index.m3u8
-靖天卡通,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/vx4hx0m7/index.m3u8
-靖天资讯,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/hdfg57df/index.m3u8
-EYE旅游,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/sphg8nq9/index.m3u8
-信大,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/hdfg61df/index.m3u8
-星卫娱乐,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/sps6gxp6/index.m3u8
-博思音乐,http://154.9.228.245:9969/dibo2.php/?url=/live/8c33fa9b/a4b55248/index.m3u8
-亚洲美食,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/2fdxafax/index.m3u8
-美亚电影,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/4vphhg1h/index.m3u8
-Z频道,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/bcv2rznr/index.m3u8
-龙华洋片,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/gs7wj4b5/index.m3u8
-龙华戏剧,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/48g9v95h/index.m3u8
-龙华偶像,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/v43bw7s8/index.m3u8
-公视2,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/8x1bt2hg/index.m3u8
-公视3,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/324wyz1f/index.m3u8
-CHANNEL,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/00xjp004/index.m3u8
-阿里郎,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/h6h1s2j5/index.m3u8
-TV5,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/9nk93b9c/index.m3u8
-靖洋卡通,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/f97qhzsw/index.m3u8
-人间卫视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/ee1501bd/index.m3u8
-momo综合,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/6s69fxz2/index.m3u8
-环宇新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/mxrsjhxp/index.m3u8
-龙华影剧,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/vj16g6fs/index.m3u8
-靖天电影,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/h25ntcr8/index.m3u8
-靖天日本,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/n7s1fwk8/index.m3u8
-ELTA影剧,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/vvhpg8t8/index.m3u8
-台湾戏剧,http://154.9.228.245:9969/dibo2.php/?url=/live/fadh3ct5/k75nw13p/index.m3u8
-壹电影,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/agdc1y5c/index.m3u8
-ELEVEN SPOROT2,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/d41d8cd9/index.m3u8
-NATGEO,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/06cth043/index.m3u8
-NICK JR,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/tnv75740/index.m3u8
-卫视西片,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/1vnt5wqn/index.m3u8
-ANIMAL,http://154.9.228.245:9969/dibo2.php/?url=/live/e95cebf9/63f6f7c7/index.m3u8
-BABY,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/0j9wgpsb/index.m3u8
-BLOOMBERG,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/v6g923kv/index.m3u8
-CATCHPLAY,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/f1mb4n6x/index.m3u8
-CINEMAWORLD,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/wrn6wjz7/index.m3u8
-DW,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/5g2z36jg/index.m3u8
-E!,http://154.9.228.245:9969/dibo2.php/?url=/live/e95cebf9/71f4470d/index.m3u8
-BBC,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/93n722x2/index.m3u8
-BBC EARTH,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/cbpz1qrf/index.m3u8
-BBC LIFESTYLE,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/wq2z42th/index.m3u8
-CNBC,http://154.9.228.245:9969/dibo2.php/?url=/live/e95cebf9/d04b6786/index.m3u8
-HISTORY,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/4m124k0n/index.m3u8
-HISTORY 2,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/hdfg61df/index.m3u8
-FASHIONTV,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/7xkr4spr/index.m3u8
-COMEDY,http://154.9.228.245:9969/dibo2.php/?url=/live/e95cebf9/3e8e3616/index.m3u8
-WARNER BROS,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/c8853895/index.m3u8
-BOOMERANG,http://154.9.228.245:9969/dibo2.php/?url=/live/8c33fa9b/asdxxx21/index.m3u8
-DW,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/5g2z36jg/index.m3u8
-TCL旅游,http://154.9.228.245:9969/dibo2.php/?url=/live/t6u5b1q4/03int018/index.m3u8
-华视教育,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/fj3mtgtj/index.m3u8
-中视,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/0fjz7px1/index.m3u8
-中视菁采,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/84zr1797/index.m3u8
-环宇新闻2,http://154.9.228.245:9969/dibo2.php/?url=/live/8c33fa9b/nvmhcffx/index.m3u8
-台视综合,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/vj16g6fs/index.m3u8
-民视第一台,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/ggvhjzxt/index.m3u8
-民视台,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/bh0x57p4/index.m3u8
-海豚,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/6s69fxz2/index.m3u8
-东森新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/94zf0c2v/index.m3u8
-美食星球,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/45c2r1kr/index.m3u8
-亚洲旅游,http://154.9.228.245:9969/dibo2.php/?url=/live/kwzq1rse/jhmt4rc8/index.m3u8
-东森新闻,http://154.9.228.245:9969/dibo2.php/?url=/live/fchcah3u/94zf0c2v/index.m3u8
-TVBS HD,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/qb4zc9s7/index.m3u8
-
+凤凰中文,http://today.hslive.store/url/live.php?id=182
+凤凰资讯,http://today.hslive.store/url/live.php?id=183
+凤凰香港,http://today.hslive.store/url/live.php?id=184
+cn卡通,http://today.hslive.store/url/live.php?id=185
+now星影台,http://today.hslive.store/url/live.php?id=186
+now爆谷,http://today.hslive.store/url/live.php?id=187
+ELAT体育1,http://today.hslive.store/url/live.php?id=188
+ELAT体育2,http://today.hslive.store/url/live.php?id=189
+ELAT体3,http://today.hslive.store/url/live.php?id=190
+yoyo,http://today.hslive.store/url/live.php?id=191
+mutv,http://today.hslive.store/url/live.php?id=192
+viu,http://today.hslive.store/url/live.php?id=193
+now sports prime,http://today.hslive.store/url/live.php?id=194
+195,http://today.hslive.store/url/live.php?id=195
+sky sports,http://today.hslive.store/url/live.php?id=196
+locky688,http://today.hslive.store/url/live.php?id=197
+千禧经典,http://today.hslive.store/url/live.php?id=198
+公视3,http://today.hslive.store/url/live.php?id=199
+super 戏剧,http://today.hslive.store/url/live.php?id=200
+super 电影,http://today.hslive.store/url/live.php?id=201
+明珠 drama,http://today.hslive.store/url/live.php?id=202
+203,http://today.hslive.store/url/live.php?id=203
 
 
 
