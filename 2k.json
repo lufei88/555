@@ -1849,8 +1849,8 @@
   
  "parses": [
     
-    {
-      "name": "☯️聚合",
+     {
+      "name": "聚合",
       "type": 3,
       "url": "Demo"
     },
@@ -1885,7 +1885,7 @@
 
 
 
-{
+/*{
       "name": "🌎天招VIP1",
       "type": 1,
       "url": "http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=",//海鸥      
@@ -1920,7 +1920,7 @@
         ]
   
     }
-    },
+    },*/
 
 
 
@@ -1943,7 +1943,7 @@
 
 
 
-  {
+ /* {
       "name": "🌎天招VIP3",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
@@ -1972,7 +1972,76 @@
           "User-Agent": "okhttp/4.1.0"
         }
       }
+    }*/
+
+ {
+      "name": "海鸥直播解析",
+      "type": 1,
+      "url": "http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+    {
+      "name": "海鸥直播嗅探",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
     }
+
+
+
 
 
   ],
