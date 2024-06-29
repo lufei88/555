@@ -448,8 +448,8 @@
 
 
    {
-      "key": "drpy_爱奇艺",
-      "name": "海鸥┃爱奇艺",
+      "key": "爱奇异",
+      "name": "🥇天招VIP专线5",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -461,13 +461,6 @@
 
 
 
-{
-  "key": "爱奇异",
-  "name": "🥇天招VIP专线5",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/aiqiyi.js"
-  },
 
 
 
@@ -1920,42 +1913,6 @@
 
 
 
-{
-      "name": "🌎天招VIP5555",
-      "type": 1,
-      "url": "https://jx.m3u8.pw/?url=",//海鸥      
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-  
-    }
-    },
 
 
 
@@ -1964,8 +1921,8 @@
 
 
   {
-      "name": "海鸥直播嗅探",
-      "type": 0,
+      "name": "🌎天招VIP3",
+      "type": 1,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
