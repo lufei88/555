@@ -1963,11 +1963,10 @@
 
 
 
-{
-      "name": "🌎天招VIP3",
-      "type": 1,
-     // "url": "https://jx.xmflv.com/?url=",
-     "url": "https://jx.xmflv.com/?url=",
+  {
+      "name": "海鸥直播嗅探",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
           "qq",
