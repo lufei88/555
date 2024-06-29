@@ -503,7 +503,7 @@
       "name": "海鸥┃优酷",
       "type": 3,
       "api": "http://47.242.63.189:1322/app/lib/drpy2.min.js",
-      //"jar":"http://47.242.63.189:1322/app/0125.jar",
+      "jar":"http://47.242.63.189:1322/app/0125.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
