@@ -58,8 +58,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": {
-       // "server": "https://cms.ysctv.cn/api.php/app/",
-       "server": "https://jx.ysctv.cn/api.php/app/",             
+       "server": "https://cms.ysctv.cn/api.php/app/",                   
         "ali": "./tvbox/tok.txt",
         "quark": "./tvbox/qkcoki.txt",
         "mackey": "./tvbox/yscki.txt"
