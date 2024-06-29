@@ -1,5 +1,5 @@
 {
-  "spider": "http://47.242.63.189:1322/app/0125.jar",
+  "spider": "./jar/wd0506.jar;md5;af839a9c7af3c60a6689b5c2032915eb",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
