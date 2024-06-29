@@ -7,6 +7,8 @@
 {"id":"124","title":"天招智盒","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tupi.png","desc1":"影视应用","desc":"天招智盒是TV端影视应用，为用户提供多条真正4K影片观影线路，4K高清流畅体验、个性贴心服务的基础上，在内容充实、首页界面等方面进行了全方位优化，提供海量而精彩的影视内容：从影视剧、综艺、新闻、动漫、体育、抖音短剧和全网歌曲等热门内容，再到演唱会、纪录片、生活、游戏等几十个细分类目一应俱全。","baoming":"com.xhkw.Player","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/tzzh.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh1.jpg","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/tzzh2.jpg","daxiao":"25.8MB","create_time":"1 天以前 "}
 
 
+{"id":"147","title":"看看影院","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/icon.png","desc1":"影视应用","desc":"看看影院是TV端影视应用，为用户提供多条真正4K影片观影线路，4K高清流畅体验、个性贴心服务的基础上，在内容充实、首页界面等方面进行了全方位优化，提供海量而精彩的影视内容：从影视剧、综艺、新闻、动漫、体育、抖音短剧和全网歌曲等热门内容，再到演唱会、纪录片、生活、游戏等几十个细分类目一应俱全。","baoming":"com.kankan.tv","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/kkyy.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/kkyy1.png","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/kkyy2.png","daxiao":"25.8MB","create_time":"1 天以前 "}
+
 
 
 
