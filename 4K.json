@@ -1224,7 +1224,8 @@
     },*/
 
 
-
+{"key":"良品短剧","name":"🐞良品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"./jar/ymz.jar","searchable":1,"changeable":1},    
+{"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"./jar/ymz.jar","searchable":1,"changeable":1},
 
 
 
@@ -1264,44 +1265,6 @@
       "changeable": 1,
       "jar": "./xiaomi.jar"
     },
-
-
-
-
-
-/* {
-      "key": "meowtv_txdh",
-      "name": "腾讯┃动画",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/腾讯动画.js"
-    },
-    {
-      "key": "meowtv_qydh",
-      "name": "奇艺┃动画",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/奇艺动画.js"
-    },
-    {
-      "key": "meowtv_mgdh",
-      "name": "芒果┃动画",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/芒果动画.js"
-    },*/
-
-
-
 
 
 
