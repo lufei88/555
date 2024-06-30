@@ -32,6 +32,27 @@
 //{"key": "豆瓣","name": "最新影视热剧","type": 3,"api": "csp_Douban","jar": "./jar/xhpmd.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/xhdb.json"},
 
 
+
+
+
+  {
+      "key": "tz",
+      "name": "🏆点播主页",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz0622.json"
+    },
+
+
+
+
+
+
+
 {
   "key": "芒果",
   "name": "🏆点播首选",
@@ -370,18 +391,6 @@
 
 
 
-
-  {
-      "key": "tz",
-      "name": "🥇天招VIP专线2",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tz0622.json"
-    },
 
 
 
