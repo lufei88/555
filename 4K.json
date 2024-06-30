@@ -1042,7 +1042,7 @@
 
     {
       "key": "csp_Bili",
-      "name": "哔哩哔哩",
+      "name": "🅰️哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1059,16 +1059,7 @@
  
 
 
-{
-  "key":"动漫巴士",
-  "name":"🚌动漫┃巴士",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./json/dmbs.json"
-  },
+
 
 
 
@@ -1172,43 +1163,6 @@
     },
 
 
-{
-      "key": "csp_Bili_TYjs",
-      "name": "🅱️┃体育┃健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/tiyu.json"
-    },
-
-
-
-    {
-      "key": "csp_Djuu",
-      "name": "💁‍♀️┃短剧┃首选",
-      "type": 3,
-      "api": "csp_Djuu",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1224,8 +1178,8 @@
     },*/
 
 
-{"key":"良品短剧","name":"🐞良品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"http://1.t.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","searchable":1,"changeable":1},    
-{"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","jar":"http://1.t.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","searchable":1,"changeable":1},
+{"key":"良品短剧","name":"💁‍♀️┃短剧┃首选","type":3,"api":"csp_Wexduanjuvip","jar":"http://1.t.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","searchable":1,"changeable":1},    
+{"key":"精品短剧","name":"💁‍♀️┃短剧┃首选","type":3,"api":"csp_Wexduanjuvip","jar":"http://1.t.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","searchable":1,"changeable":1},
 
 
 
