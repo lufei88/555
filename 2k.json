@@ -108,9 +108,9 @@
 
 
 
-    /*{
+    {
       "key": "tz77",
-      "name": "🏆4k专线2(首选)",
+      "name": "🏆4k专线999(首选)",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz.jar",
@@ -118,7 +118,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/tz77.json"
-    },*/
+    },
 
 
 
