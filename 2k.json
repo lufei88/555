@@ -151,18 +151,27 @@
 
 
 
-{
-   "key": "玩偶哥哥66",
-   "name": "🏆4k专线12(首选)",
+/*{
+   "key": "玩偶哥哥",
+   "name": "🏆4k专线2(首选)",
    "type": 3,
    "api": "csp_WoGG",
   "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
     "jar": "./jar/fan0303.jar",
-   //"ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$http://www.kxys.网络:7728/$$$弹"
-    },
+   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+   
+    },*/
+
+
+{"key":"️玩偶弟","name":"❤️玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"token": "81b3ba2884a84feaa6d5356c634614ae","site":"https://xn--xft-mf3g9f.v.xn--dkw.xn--6qq986b3xl/m/json/wod.json"},
+
+
+
+
+
+
 
 
 
