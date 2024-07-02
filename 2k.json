@@ -99,7 +99,7 @@
 
 
 
- /*{
+ {
       "key": "0580",
       "name": "🏆4k专线9(首选)",
       "type": 3,
@@ -110,10 +110,10 @@
          // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
 
          //"http://xjkjysapp.tpddns.cn:5200/home/api?type=ys&uid=2712055&key=lmnoruxCFGKOY01457&url="
-
+        "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
         ]
       }
-    },*/
+    },
 
 
   /*  {
