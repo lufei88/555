@@ -32,7 +32,7 @@
 
 //{"key": "豆瓣","name": "最新影视热剧","type": 3,"api": "csp_Douban","jar": "./jar/xhpmd.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/xhdb.json"},
 
-
+{"key":"阿里云盘登录","name":"🐲阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"./tvbox/tok.txt"},
 
 {"key":"️玩偶歌","name":"❤️玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--xft-mf3g9f.v.xn--dkw.xn--6qq986b3xl/m/json/wou.json"},
 
