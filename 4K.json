@@ -330,7 +330,24 @@
 
 
 
-
+  {
+      "key": "360",
+      "name": "🥇天招VIP专线2",
+      "type": 1,
+      "api": " http://liu.li0580.com:2607/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url=",
+      "categories": [
+        "路人甲-电影资源",
+        "电视剧资源",
+        "动漫",
+        "综艺",
+        "海外剧",
+        "短剧"
+      ]
+    },
 
 
 
