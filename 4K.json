@@ -284,7 +284,7 @@
       "name": "🏭️纯净",
       "type": 3,
       "api": "csp_NewCz",
-     // "jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php",
+       "jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
