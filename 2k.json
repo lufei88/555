@@ -45,7 +45,7 @@
       "filterable": 1,
       "playurl": "json:https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url=",
       "categories": [
-        "路人甲-电影资源",
+        "电影资源",
         "电视剧资源",
         "动漫",
         "综艺",
@@ -148,7 +148,10 @@
          // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
 
          //"http://xjkjysapp.tpddns.cn:5200/home/api?type=ys&uid=2712055&key=lmnoruxCFGKOY01457&url="
-        "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
+       // "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
+       "https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url="
+           
+
         ]
       }
     },
