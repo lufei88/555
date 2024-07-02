@@ -35,24 +35,7 @@
     },
 
 
-  {
-      "key": "360",
-      "name": "🚀蓝光360",
-      "type": 1,
-      "api": " http://liu.li0580.com:2607/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "json:https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url=",
-      "categories": [
-        "路人甲-电影资源",
-        "电视剧资源",
-        "动漫",
-        "综艺",
-        "海外剧",
-        "短剧"
-      ]
-    },
+
 
 
 /*{"key":"豆瓣",
@@ -1932,7 +1915,7 @@
 //{"name": "🌎天招VIP2","type": 1,"url": "http://39.107.152.173:112/api/?key=508Rndi8W0ShnKJtZr&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
                                      
-{"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 
