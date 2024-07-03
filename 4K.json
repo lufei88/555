@@ -38,7 +38,7 @@
 
 
 
- {
+ /*{
       "key": "ysc",
       "name": "🏆4k专线99999(首选)",
       "type": 3,
@@ -46,14 +46,13 @@
       "playerType": 1,
       "changeable": 0,
       "ext": {
-       // "server": "https://cms.ysctv.cn/api.php/app/",
-       "server": "https://svip.ysctv.cn/api.php/app/",
+       "server": "https://cms.ysctv.cn/api.php/app/",
         "ali": "./tvbox/tok.txt",
         "quark": "./tvbox/qkcoki.txt",
         "mackey": "./tvbox/yscki.txt"
       },
       "jar": "./jar/ysc.jar"
-    },
+    },*/
 
 
 
