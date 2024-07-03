@@ -38,9 +38,9 @@
 
 
 
- /*{
+ {
       "key": "ysc",
-      "name": "🏆4k专线1(首选)",
+      "name": "🏆4k专线99999(首选)",
       "type": 3,
       "api": "csp_AppYS",
       "playerType": 1,
@@ -52,7 +52,7 @@
         "mackey": "./tvbox/yscki.txt"
       },
       "jar": "./jar/ysc.jar"
-    },*/
+    },
 
 
 
