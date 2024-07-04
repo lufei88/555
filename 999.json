@@ -292,9 +292,8 @@
     },
 
 
-//{"name": "📦4k","type": 1,"url": "http://122.228.84.103:5829/qq1234/?url=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name": "📦4k","type": 1,"url": "http://122.228.84.103:5829/qq1234/?url=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
-{"name": "📦4k","type": 1,"url": "http://xysjtv.yy365.vip/api.php/provide/vod/?ac=list&wd=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 
