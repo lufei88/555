@@ -9,17 +9,6 @@
     
     
 
-{
-      "key": "tz77",
-      "name": "🏆4kkkkkkkkk",
-      "type": 3,
-      "api": "csp_XBPQ",
-      //"jar":"./jar/tz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tz88.json"
-    },
 
 
 
@@ -32,15 +21,13 @@
 
 
 {
-      "key": "0580",
-      "name": "🏆4k专线9(首选)",
+      "key": "qq4k",
+      "name": "🏆6666666k",
       "type": 3,
       "api": "./js/tz4kdi.js",
       "ext": {
         "host": "http://122.228.84.103:5825/api.php/app/",
-        "*": [
-         // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
-         //"http://xjkjysapp.tpddns.cn:5200/home/api?type=ys&uid=2712055&key=lmnoruxCFGKOY01457&url="
+        "*": [        
           "http://122.228.84.103:5829/qq1234/?url="          
         ]
       }
