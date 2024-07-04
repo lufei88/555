@@ -11,6 +11,27 @@
 
 
 
+    {
+      "key": "麒麟资源",
+      "name": "🎬企鹅4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:5825/api.php/app/"
+    },
+
+
+
+
+
+
+
+
+
+
  {
       "key": "飞云资源",
       "name": "📺自营蓝光",
@@ -1908,7 +1929,7 @@
 
 
 
-//{"name":"📦天招在线2","type": 1,"url":"http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name":"📦天招在线2","type": 1,"url":"http://xysjtv.yy365.vip/api.php/provide/vod/?ac=list&wd=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 
