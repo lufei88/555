@@ -1,3 +1,23 @@
+
+{
+      "key": "0580",
+      "name": "🏆4k专线9(首选)",
+      "type": 3,
+      "api": "./js/tzdi.js",
+      "ext": {
+        "host": "http://122.228.84.103:5825/api.php/app/",
+        "*": [
+         // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
+         //"http://xjkjysapp.tpddns.cn:5200/home/api?type=ys&uid=2712055&key=lmnoruxCFGKOY01457&url="
+          "http://154.201.80.59:6666/api.php/app/search?text="          
+        ]
+      }
+    },
+
+
+
+
+
 {
   "sites": [
     {
