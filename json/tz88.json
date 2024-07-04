@@ -14,13 +14,13 @@
 
 "直接播放": "0",
 
-"主页url": "http://122.228.84.103:5825/api.php/app//index_video",
+"主页url": "http://122.228.84.103:5825/api.php/app/index_video",
 
 "首页": "40",
 
 "起始页": "1",
 
-"分类url":"http://122.228.84.103:5825/api.php/app//video?tid={cateId}&class={class}&area={area}&year={year}&limit=18&pg={catePg};;mr",
+"分类url":"http://122.228.84.103:5825/api.php/app/video?tid={cateId}&class={class}&area={area}&year={year}&limit=18&pg={catePg};;mr",
 
 "分类": "电影&电视剧&动漫&综艺",
 //&美剧&韩剧&港剧
@@ -37,7 +37,7 @@
 
 "副标题": "vod_remarks\":\"&&\"",
 
-"链接": "http://122.228.84.103:5825/api.php/app//video_detail?id=+vod_id\":&&,",
+"链接": "http://122.228.84.103:5825/api.php/app/video_detail?id=+vod_id\":&&,",
 
 "线路二次截取":"vod_url_with_player\":\\[{&&}\\][替换:\"code\":\">>\"code\":\"题]",
 
@@ -79,7 +79,7 @@
 "简介":"vod_content\":\"&&\"",
 
 
-"搜索url":"http://122.228.84.103:5825/api.php/app//search?text={wd}",
+"搜索url":"http://122.228.84.103:5825/api.php/app/search?text={wd}",
 
 "搜索模式":"1",
 
@@ -93,7 +93,7 @@
 
 "搜索副标题": "vod_remarks\":\"&&\"",
 
-"搜索链接": "http://122.228.84.103:5825/api.php/app//video_detail?id=+vod_id\":&&,",
+"搜索链接": "http://122.228.84.103:5825/api.php/app/video_detail?id=+vod_id\":&&,",
 
 
 "筛选": "1",
