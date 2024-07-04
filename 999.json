@@ -248,6 +248,24 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     }
   ],
+
+"parses": [
+    
+    {
+      "name": "☯️自动解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+
+{"name":"📦天招在线2","type": 1,"url":"http://154.201.80.59:6666/api.php/app/search?text=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}}
+
+
+
+],
+
+
+
+
   "lives": [
     {
       "name": "live",
@@ -273,6 +291,8 @@
     "bilibili",
     "renrenmi"
   ],
+
+  
   "ijk": [
     {
       "group": "硬解码",
