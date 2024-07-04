@@ -291,6 +291,14 @@
       "url": "Demo"
     },
 
+
+{"name": "📦4k","type": 1,"url": "http://122.228.84.103:5829/qq1234/?url=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+
+
+
+
 {"name":"📦天招在线2","type": 1,"url":"http://154.201.80.59:6666/api.php/app/search?text=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}}
 
 
