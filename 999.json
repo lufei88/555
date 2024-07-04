@@ -76,7 +76,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://122.228.84.103:5825/api.php/app/"
+      "ext": "http://122.228.84.103:5825/api.php/app/",
+      "timeout": 30
     },
     {
       "key": "360",
