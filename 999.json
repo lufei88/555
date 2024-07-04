@@ -12,7 +12,7 @@
       "key": "0580",
       "name": "🏆4k专线9(首选)",
       "type": 3,
-      "api": "./js/tzdi.js",
+      "api": "./js/tz4kdi.js",
       "ext": {
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [
