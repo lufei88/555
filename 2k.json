@@ -3,7 +3,9 @@
 
 
  //"spider": "./jar/wd0506.jar;md5;af839a9c7af3c60a6689b5c2032915eb",
- "spider": "http://47.242.63.189:1322/app/0125.jar",
+ //"spider": "http://47.242.63.189:1322/app/0125.jar",
+
+ "spider":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar;md5;a8b67c6e7ae00f56c43f6946764f0102",
 
     "wallpaper":"http://xn--sss604efuw.top/%E6%B7%B1%E8%89%B2%E5%A3%81%E7%BA%B8/api.php",  
   "warningText": "【天招智盒】提示：每次使用前记得长按主页刷新获取最新数据！感谢您使用天招智盒",
@@ -18,7 +20,7 @@
       "type": 3,
       "api": "csp_AppYsV2",
    
-      "jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
+      //"jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
