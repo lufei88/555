@@ -163,7 +163,7 @@
     },
 
 
-  {
+/*  {
       "key": "tz4k",
       "name": "🏆4k专线2(首选)",
       "type": 3,
@@ -173,7 +173,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/tz4k.json"
-    },
+    },*/
 
 
 
