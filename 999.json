@@ -14,7 +14,7 @@
       "name": "🏆4kkkkkkkkk",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jar/tz.jar",
+      //"jar":"./jar/tz.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
