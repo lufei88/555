@@ -132,7 +132,8 @@
       "ext": {
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [            
-          "http://122.228.84.103:5829/txqe/?url="       
+          //"http://122.228.84.103:5829/txqe/?url="    
+          "http://ldhz.li0580.com//api/jsonindex.php/?key=rcXQsB0ijCuYJl0p0f&url="
         ]
       }
     },
@@ -1542,7 +1543,7 @@
 
 
 
-{"name": "🌎天招777","type": 1,"url": "http://43.240.156.201:6633/caihong/qq_301/5201938da64d4eb6af8dc6da6ba975.mp4?vkey=51473c4b3703f6daf35dfbe4a0e79702","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "🌎天招777","type": 1,"url": "http://43.240.156.201:6633/caihong/qq_301/5201938da64d4eb6af8dc6da6ba975.mp4?vkey=51473c4b3703f6daf35dfbe4a0e79702","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
                                      
 {"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
