@@ -175,6 +175,8 @@
         "*": [
          // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
          "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
+
+　　　　　//备用,http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=
         ]
       }
     },
@@ -1610,7 +1612,7 @@
 {
       "name": "🌎天招VIP2",
       "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url=",//蓝鹰
+      "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",//蓝鹰
       "ext": {
         "flag": [
           "qq",
@@ -1639,6 +1641,7 @@
           "qiqi",
           "XALS",
           "YuMi-vip"
+          "ST4K"
         ]
   
     }
