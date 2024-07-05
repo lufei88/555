@@ -181,7 +181,7 @@
       "name": "🏆4k专线2(首选)",
       "type": 3,
       //"api": "./js/tzdi.js",
-       "api":"qq4k.js",
+      "api": "./js/qq4k.js",
       "ext": {
         "host": "http://dh.li0580.com/api.php/app/",
         "*": [
