@@ -323,17 +323,6 @@
     },*/
 
 
-{
-      "key": "飞云资源",
-      "name": "📺自营蓝光",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.84.103:6117/api.php/app/"
-    },
 
 
 {
