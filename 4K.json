@@ -177,10 +177,11 @@
 
 
  {
-      "key": "0580",
+      "key": "0508甲",
       "name": "🏆4k专线2(首选)",
       "type": 3,
-      "api": "./js/tzdi.js",
+      //"api": "./js/tzdi.js",
+       "api":"qq4k.js",
       "ext": {
         "host": "http://dh.li0580.com/api.php/app/",
         "*": [
