@@ -33,12 +33,22 @@
 //{"key": "豆瓣","name": "最新影视热剧","type": 3,"api": "csp_Douban","jar": "./jar/xhpmd.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/xhdb.json"},
 
 
+{
+      "key": "飞云资源",
+      "name": "📺自营蓝光",
+      "playerType": 2,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:6117/api.php/app/"
+    },
 
 
 
 
-
- {
+ /*{
       "key": "ysc",
       "name": "🏆4k专线99999(首选)",
       "type": 3,
@@ -52,7 +62,7 @@
         "mackey": "./tvbox/yscki.txt"
       },
       "jar": "./jar/ysc.jar"
-    },
+    },*/
 
 
 
@@ -118,22 +128,33 @@
     },*/
 
 
-
+{
+      "key": "qq4k1",
+      "name": "🏆4kvip专线一",
+      "type": 3,
+      //"jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
+      "api": "./js/qq4k.js",
+      "ext": {
+        "host": "http://122.228.84.103:5825/api.php/app/",
+        "*": [        
+          "http://ldhz.li0580.com//api/jsonindex.php/?key=rcXQsB0ijCuYJl0p0f&url="
+        ]
+      }
+    },
 
 
 
 
 {
-      "key": "qq4k",
-      "name": "🏆4kvip专线",
+      "key": "qq4k2",
+      "name": "🏆4kvip专线二",
       "type": 3,
       //"jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
       "api": "./js/qq4k.js",
       "ext": {
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [            
-          //"http://122.228.84.103:5829/txqe/?url="    
-          "http://ldhz.li0580.com//api/jsonindex.php/?key=rcXQsB0ijCuYJl0p0f&url="
+          "http://122.228.84.103:5829/txqe/?url="       
         ]
       }
     },
@@ -166,17 +187,16 @@
 
 
  {
-      "key": "0580",
+      "key": "0508甲",
       "name": "🏆4k专线2(首选)",
       "type": 3,
-      "api": "./js/tzdi.js",
+      //"api": "./js/tzdi.js",
+      "api": "./js/qq4k.js",
       "ext": {
         "host": "http://dh.li0580.com/api.php/app/",
         "*": [
          // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
          "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
-
-　　　　　//备用,http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=
         ]
       }
     },
@@ -321,7 +341,6 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },*/
-
 
 
 
@@ -1546,12 +1565,13 @@
 
 
 
-{"name": "🌎天招777","type": 1,"url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}}, 
+
+
                                      
-{"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name": "🌎天招会员1","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
-
+{"name": "🌎天招会员2","type": 1,"url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 {
@@ -1612,7 +1632,7 @@
 {
       "name": "🌎天招VIP2",
       "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
+      "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",//蓝鹰
       "ext": {
         "flag": [
           "qq",
@@ -1641,7 +1661,7 @@
           "qiqi",
           "XALS",
           "YuMi-vip"
-          ]
+        ]
   
     }
     },
