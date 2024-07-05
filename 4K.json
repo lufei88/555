@@ -1619,51 +1619,6 @@
 
 
 
-{
-      "name": "🌎天招VIP2",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url=",//蓝鹰
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-  
-    }
-    },
-
-
-
-
-
-
-
-
-
 
 {
       "name": "🌎天招VIP3",
