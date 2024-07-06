@@ -118,7 +118,7 @@
     },*/
 
 
-{
+/*{
       "key": "qq4k1",
       "name": "🏆4kvip专线一",
       "type": 3,
@@ -130,16 +130,15 @@
           "http://ldhz.li0580.com//api/jsonindex.php/?key=rcXQsB0ijCuYJl0p0f&url="
         ]
       }
-    },
+    },*/
 
 
 
 
 {
       "key": "qq4k2",
-      "name": "🏆4kvip专线二",
-      "type": 3,
-      //"jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
+      "name": "🏆4kvip专线",
+      "type": 3,      
       "api": "./js/qq4k.js",
       "ext": {
         "host": "http://122.228.84.103:5825/api.php/app/",
