@@ -380,23 +380,11 @@
     },
 
 
-
-
-{
-  "key": "腾讯",
-  "name": "🥇天招VIP专线4",
-  "type": 3,
-  "api": "./js2/drpy2.min.js",
-  "ext": "./lib/腾讯22.js"
-  },
-
-
-
-  {
+ {
       "key": "360",
-      "name": "🥇天招VIP专线5",
+      "name": "🥇天招VIP专线4",
       "type": 1,
-      "api": " http://liu.li0580.com:2607/api.php/provide/vod/",
+      "api": " http://liu.li0580.com:8965/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -411,6 +399,23 @@
       ]
     },
 
+
+
+
+
+
+
+{
+  "key": "腾讯",
+  "name": "🥇天招VIP专线5",
+  "type": 3,
+  "api": "./js2/drpy2.min.js",
+  "ext": "./lib/腾讯22.js"
+  },
+
+
+
+ 
 
 
 
@@ -1557,10 +1562,10 @@
 
 
                                      
-{"name": "🌎天招会员1","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
-{"name": "🌎天招会员2","type": 1,"url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name": "🌎天招会员2","type": 1,"url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 {
