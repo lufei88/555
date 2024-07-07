@@ -120,7 +120,7 @@
 
 {
       "key": "qq4k1",
-      "name": "🏆4k-vip①",
+      "name": "🏆4k-vip¹",
       "type": 3,
       //"jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
       "api": "./js/qq4k.js",
@@ -137,7 +137,7 @@
 
 {
       "key": "qq4k2",
-      "name": "🏆4k-vip①",
+      "name": "🏆4k-vip²",
       "type": 3,      
       "api": "./js/qq4k.js",
       "ext": {
@@ -158,7 +158,7 @@
 
   {
       "key": "玩偶哥哥",
-      "name": "🥇4k-专线1",
+      "name": "🥇4k-专线¹",
       "type": 3,
       "api": "csp_Wogg",
       "jar":"./jar/tz.jar",
@@ -177,7 +177,7 @@
 
  {
       "key": "0508甲",
-      "name": "🥇4k-专线2",
+      "name": "🥇4k-专线²",
       "type": 3,
       //"api": "./js/tzdi.js",
       "api": "./js/qq4k.js",
@@ -196,7 +196,7 @@
 
 {
       "key": "表哥网盘",
-      "name": "🥇4k-专线3",
+      "name": "🥇4k-专线³",
       "type": 3,
       "api": "csp_Wobg",
       //"jar": "./jar/dongchenok.jar",
@@ -221,7 +221,7 @@
 
 {
       "key": "多多网盘",
-      "name": "🥇4k-专线4",
+      "name": "🥇4k-专线⁴",
       "type": 3,
       "api": "csp_Wobg",
       //"jar": "./jar/dongchenok.jar",
@@ -254,7 +254,7 @@
 
 {
       "key": "️玩偶姐",
-      "name": "🥇4k-专线5",
+      "name": "🥇4k-专线⁵",
       "type": 3,
       "api": "csp_Wobg",
       //"jar": "./jar/dongchenok.jar",
@@ -278,7 +278,7 @@
 
 {
       "key": "土豆弹幕版",
-      "name": "🥇4k-专线6",
+      "name": "🥇4k-专线⁶",
       "type": 3,
       "api": "csp_Wobg",
       //"jar": "./jar/dongchenok.jar",
@@ -299,7 +299,7 @@
 
     {
       "key": "lp66",
-      "name": "🥇4k-专线7",
+      "name": "🥇4k-专线⁷",
       "type": 3,
       "api": "csp_Wobg",
       "jar":"./jar/tz.jar",
@@ -335,7 +335,7 @@
 
 {
   "key": "芒果",
-  "name": "🥈2k-VIP1",
+  "name": "🥈2k-VIP¹",
   "type": 3,
   "api": "./js2/drpy2.min.js",  
   "searchable": 1,
@@ -351,7 +351,7 @@
 
     {
       "key": "tz01",
-      "name": "🥈2k-VIP2",
+      "name": "🥈2k-VIP²",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz.jar",
@@ -369,7 +369,7 @@
 
   {
       "key": "tz",
-      "name": "🥈2k-VIP3",
+      "name": "🥈2k-VIP³",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz.jar",
@@ -382,7 +382,7 @@
 
  {
       "key": "360",
-      "name": "🥈2k-VIP4",
+      "name": "🥈2k-VIP⁴",
       "type": 1,
       "api": " http://liu.li0580.com:8965/api.php/provide/vod/",
       "searchable": 1,
@@ -407,7 +407,7 @@
 
 {
   "key": "腾讯",
-  "name": "🥈2k-VIP5",
+  "name": "🥈2k-VIP⁵",
   "type": 3,
   "api": "./js2/drpy2.min.js",
   "ext": "./lib/腾讯22.js"
@@ -424,7 +424,7 @@
 
   {
       "key": "tz66",
-      "name": "🥈2k-VIP6",
+      "name": "🥈2k-VIP⁶",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -438,7 +438,7 @@
 
 {
       "key": "saohuo",
-      "name": "🥈2k-VIP7",//小米 骚火
+      "name": "🥈2k-VIP⁷",//小米 骚火
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -475,7 +475,7 @@
 
 {
   "key": "NanGua",  
-  "name": "🥈2k-VIP8",
+  "name": "🥈2k-VIP⁸",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -514,7 +514,7 @@
 
 {
   "key": "优酷",
-  "name": "🥈2k-VIP9",  
+  "name": "🥈2k-VIP⁹",  
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "searchable": 1,
@@ -564,7 +564,7 @@
 
 {
       "key": "乐视",
-      "name": "🥈2k-VIP10",
+      "name": "🥈2k-VIP¹⁰",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
