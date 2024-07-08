@@ -1129,7 +1129,7 @@
 
 {
       "key": "拳皇争霸",
-      "name": "🐆拳皇争霸",
+      "name": "🥊拳皇争霸",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/quanhuang.js"
@@ -1137,29 +1137,15 @@
 
 
 
-
-
-
- /*  {
-      "key": "秒播短剧",
-      "name": "💁‍♀️┃短剧┃首选",
-      "type": 3,
-      "api": "csp_Wexduanjuvop",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-      "searchable": 1,
-      "changeable": 1
-    },*/
-
-
-{"key":"良品短剧","name":"💁‍♀️┃短剧┃首选","type":3,"api":"csp_Wexduanjuvip","jar":"http://1.t.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","searchable":1,"changeable":1},    
-{"key":"精品短剧","name":"💁‍♀️┃短剧┃首选","type":3,"api":"csp_Wexduanjuvip","jar":"http://1.t.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","searchable":1,"changeable":1},
+{"key":"良品短剧","name":"💁‍♀️短剧┃首选","type":3,"api":"csp_Wexduanjuvip","jar":"http://1.t.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","searchable":1,"changeable":1},    
+{"key":"精品短剧","name":"💁‍♀️短剧┃首选","type":3,"api":"csp_Wexduanjuvip","jar":"http://1.t.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","searchable":1,"changeable":1},
 
 
 
 
 {
       "key": "夜猫短剧",
-      "name": "💁‍♀️┃短剧",
+      "name": "💁‍♀️短剧┃经典",
       "type": 3,
       "api": "csp_YMduanju",
       "jar":"./jar/ymz.jar",
@@ -1217,7 +1203,7 @@
 
   {
       "key": "js_baby",
-      "name": "🫅宝宝┃合集",
+      "name": "👶宝宝┃合集",
       "type": 3,
       "api": "./lib/apiv15drpy2.min.js",
       "searchable": 1,
@@ -1228,7 +1214,7 @@
     },
     {
       "key": "js_童趣",
-      "name": "🫅童趣┃搜视",
+      "name": "👶童趣┃搜视",
       "type": 3,
       "api": "./lib/apiv15drpy2.min.js",
       "searchable": 1,
@@ -1242,7 +1228,7 @@
 
     {
       "key": "相声小品",
-      "name": "😍┃相声┃小品",
+      "name": "😍相声┃小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1252,7 +1238,7 @@
     },
     {
       "key": "戏 曲",
-      "name": "👵┃老年┃戏曲",
+      "name": "👵老年┃戏曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1331,7 +1317,7 @@
 
    {
             "key": "csp_Bili_dashan",
-            "name": "💋搭讪教程",
+            "name": "💋搭讪┃教程",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1342,7 +1328,7 @@
         },
         {
             "key": "csp_Bili__dapei",
-            "name": "💃搭配教程",
+            "name": "💃搭配┃教程",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1359,7 +1345,7 @@
 
 {
             "key": "csp_Bili_zyy",
-            "name": "🅱️中医药区",
+            "name": "🅱️中医┃药区",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
