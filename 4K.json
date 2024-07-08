@@ -632,7 +632,7 @@
 
 {
   "key":"csp_CandyMuj_taoju",
-  "name":"🥉2k-快线1",//来自笑傲
+  "name":"🥉2k-专线¹",//来自笑傲
   "type":3,"api":"csp_CandyMuj_taoju",
   "jar":"./jar/candymuj.jar",
   "searchable":1,
@@ -645,7 +645,7 @@
 
 {
       "key": "csp_LiangZi",
-      "name": "🥉2k-快线2",//来自笑傲
+      "name": "🥉2k-专线²",//来自笑傲
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -699,7 +699,7 @@
 
 {
 		    "key": "csp_xtd",
-		    "name": "🥉2k-快线3",
+		    "name": "🥉2k-专线³",
 		    "type": 3,
 		    "api": "csp_AppYsV2",
 		    "searchable": 1,
@@ -713,7 +713,7 @@
 
   {
       "key": "meowtv_xxys",
-      "name": "🥉2k-快线4",
+      "name": "🥉2k-专线⁴",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -754,7 +754,7 @@
 
 {
       "key": "csp_xml_ikun",
-      "name": "🥉2k-快线5",//来自笑傲爱坤直连
+      "name": "🥉2k-专线⁵",//来自笑傲爱坤直连
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -802,7 +802,7 @@
 
 {
   "key": "csp_qx", 
-    "name": "🥉2k-快线6",//来自笑傲七新影视
+    "name": "🥉2k-专线⁶",//来自笑傲七新影视
     "type": 3,
     "api": "csp_XBPQ",
     "playerType":1,
@@ -832,7 +832,7 @@
 
 {
   "key": "光速资源",
-  "name": "🥉2k-快线7",//来自仓鼠光速
+  "name": "🥉2k-专线⁷",//来自仓鼠光速
   "type": 1,
   "api": "http://api.guangsuapi.com/api.php/provide/vod/",
   "searchable": 1,
@@ -864,7 +864,7 @@
 
 {
       "key": "csp_xml_优质",
-      "name": "🥉2k-快线8",//来自笑傲
+      "name": "🥉2k-专线⁸",//来自笑傲
       "type": 1,
       "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
       "searchable": 1,
@@ -907,7 +907,7 @@
 
 {
       "key": "freeok",
-      "name": "🥉2k-快线9",//来自小米FROK
+      "name": "🥉2k-专线⁹",//来自小米FROK
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "2",
@@ -929,7 +929,7 @@
 
 {
   "key": "js_changmeng",
-  "name": "🥉2k-快线10",//畅梦影视壹梦加入
+  "name": "🥉2k-专线¹⁰",//畅梦影视壹梦加入
   "type": 3,
   "api": "./lib/apiv15drpy2.min.js",
   "searchable": 1,
