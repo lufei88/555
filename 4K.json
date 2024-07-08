@@ -1117,7 +1117,7 @@
 
 {
       "key": "足球",
-      "name": "⚽️足球合集",
+      "name": "⚽️足球┃合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1129,7 +1129,7 @@
 
 {
       "key": "拳皇争霸",
-      "name": "🥊拳皇争霸",
+      "name": "🥊拳皇┃争霸",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/quanhuang.js"
@@ -1251,7 +1251,20 @@
 
 
 
-
+    {
+      "key": "MTV",
+      "name": "🎧明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/MTV.json"
+    },
 
 
 
