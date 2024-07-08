@@ -1022,38 +1022,29 @@
 
 
 
-    {
-      "key": "csp_Bili",
-      "name": "🅰️哔哩哔哩",
+
+
+
+
+
+{
+      "key": "路漫漫动漫",
+      "name": "🐾动漫┃全部",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/Bili.json"
+      "ext": "./js/lu.js"
     },
-
-
-
 
 
 
  
 
-
-
-
-
-
-
-
-
-
-
-
     {
       "key": "csp_Anime1",
-      "name": "🐾日本┃动漫",
+      "name": "🐾动漫┃日本",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -1186,14 +1177,23 @@
 
 
 
-
+    {
+      "key": "csp_Bili",
+      "name": "💃直播┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/Bili.json"
+    },
 
 
 
 
     {
       "key": "csp_Yj1211",
-      "name": "📽️网红┃直播",
+      "name": "💃直播┃网红",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -1207,8 +1207,8 @@
 
 
 
-{"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/兔小贝.js"},
-{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/少儿教育.json"},
+{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/兔小贝.js"},
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/少儿教育.json"},
 
 
 
@@ -1217,7 +1217,7 @@
 
   {
       "key": "js_baby",
-      "name": "👶┃宝宝┃合集",
+      "name": "🫅宝宝┃合集",
       "type": 3,
       "api": "./lib/apiv15drpy2.min.js",
       "searchable": 1,
@@ -1228,7 +1228,7 @@
     },
     {
       "key": "js_童趣",
-      "name": "👼┃童趣┃搜视",
+      "name": "🫅童趣┃搜视",
       "type": 3,
       "api": "./lib/apiv15drpy2.min.js",
       "searchable": 1,
