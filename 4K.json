@@ -30,6 +30,42 @@
 
 
 
+
+
+
+
+
+
+
+{
+      "key": "玩偶弹幕版",
+      "name": "玩偶弹幕4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/wangou.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "81b3ba2884a84feaa6d5356c634614ae",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://www.wogg.net",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+
+
+
+
+
+
+
+
+
+
+
+
 //{"key": "豆瓣","name": "最新影视热剧","type": 3,"api": "csp_Douban","jar": "./jar/xhpmd.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/xhdb.json"},
 
 
