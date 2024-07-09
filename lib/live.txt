@@ -291,6 +291,43 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
+翡翠台,http://8.134.82.80:777/dianshimi/kdsm.php?id=1
+明珠台,http://8.134.82.80:777/dianshimi/kdsm.php?id=2
+无线新闻,http://8.134.82.80:777/dianshimi/kdsm.php?id=3
+4,http://8.134.82.80:777/dianshimi/kdsm.php?id=4
+J2,http://8.134.82.80:777/dianshimi/kdsm.php?id=5
+MYTV SUPER,http://8.134.82.80:777/dianshimi/kdsm.php?id=6
+18,http://8.134.82.80:777/dianshimi/kdsm.php?id=7
+MYTV SUPER2,http://8.134.82.80:777/dianshimi/kdsm.php?id=8
+MYTV SUPER3,http://8.134.82.80:777/dianshimi/kdsm.php?id=9
+MYTV SUPER4,http://8.134.82.80:777/dianshimi/kdsm.php?id=10
+KIX,http://8.134.82.80:777/dianshimi/kdsm.php?id=11
+娱乐新闻,http://8.134.82.80:777/dianshimi/kdsm.php?id=12
+MYTV SUPER5,http://8.134.82.80:777/dianshimi/kdsm.php?id=13
+MYTV SUPER6,http://8.134.82.80:777/dianshimi/kdsm.php?id=14
+MYTV SUPER7,http://8.134.82.80:777/dianshimi/kdsm.php?id=15
+16,http://8.134.82.80:777/dianshimi/kdsm.php?id=16
+美亚电影,http://8.134.82.80:777/dianshimi/kdsm.php?id=17
+ANIMAX,http://8.134.82.80:777/dianshimi/kdsm.php?id=18
+19,http://8.134.82.80:777/dianshimi/kdsm.php?id=19
+NOW1,http://8.134.82.80:777/dianshimi/kdsm.php?id=20
+NICKELODEON,http://8.134.82.80:777/dianshimi/kdsm.php?id=21
+NICKJR,http://8.134.82.80:777/dianshimi/kdsm.php?id=22
+THRILLGD,http://8.134.82.80:777/dianshimi/kdsm.php?id=23
+天映经典,http://8.134.82.80:777/dianshimi/kdsm.php?id=24
+ACTION,http://8.134.82.80:777/dianshimi/kdsm.php?id=25
+LOVE NATURE,http://8.134.82.80:777/dianshimi/kdsm.php?id=26
+LOVE NATURE2,http://8.134.82.80:777/dianshimi/kdsm.php?id=27
+GLOBAL TREKKER,http://8.134.82.80:777/dianshimi/kdsm.php?id=28
+ROOCK,http://8.134.82.80:777/dianshimi/kdsm.php?id=29
+AXN,http://8.134.82.80:777/dianshimi/kdsm.php?id=30
+TVN,http://8.134.82.80:777/dianshimi/kdsm.php?id=31
+
+
+
+
+
+
 无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 星空卫视频道,http://wouu.net:9977/udp/239.93.0.156:2193
 无线娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
