@@ -175,6 +175,39 @@
 
 
 
+
+
+
+{
+      "key": "玩偶哥哥",
+      "name": "饭偶扫码4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      //"jar": "./jar/fan0708.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "Cloud-drive":"./tvbox/tok.txt",
+        "from":"4k|auto",
+        "siteUrl":"https://www.wogg.link/",
+        "danMu":"弹"
+        }
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  {
       "key": "0508甲",
       "name": "🥇4k-专线²",
