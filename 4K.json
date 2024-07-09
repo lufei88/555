@@ -42,7 +42,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "./tvbox/tok.txt",
+        "token": "file://tvbox/tok.txt",
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://www.wogg.net",
         "danmu": true
