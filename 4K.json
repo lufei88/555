@@ -167,7 +167,7 @@
       "name": "🥇4k-专线¹",
       "type": 3,
       "api": "csp_Wogg",
-      "jar":"./jar/tz.jar",
+      "jar":"./jar/tz2.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
