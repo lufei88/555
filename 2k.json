@@ -48,7 +48,7 @@
       "ext": {
        //"server": "https://cms.ysctv.cn/api.php/app/",
 
-       "server":"https://xn--mmo-mf3g9f.v.nxog.top/m/json/wod.json",
+       "server":"http://www.kxys.xn--io0a7i:7728/",
         "ali": "./tvbox/tok.txt",
         "quark": "./tvbox/qkcoki.txt",
         "mackey": "./tvbox/yscki.txt"
