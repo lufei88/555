@@ -152,7 +152,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/tz4k.json"
-    },*/
+    },
 
 
 
@@ -165,9 +165,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-     // "ext": "./json/tz77.json"
-      "ext": "https://xn--mmo-mf3g9f.v.nxog.top/m/json/wod.json"
-    },
+       "ext": "./json/tz77.json"
+     
+    },*/
 
 
 
