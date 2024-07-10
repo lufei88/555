@@ -70,8 +70,7 @@
       "ext": {
         "token": "0b1c0519e80c4e83aab2eb6158f81a8e",
         "cookie": "file://TV/quark_cookie.txt",
-        //"site": "https://www.wogg.net",
-        "site":"http://www.kxys.xn--io0a7i:7728/",
+         "site": "https://www.wogg.net",       
         "danmu": true
       },
       "timeout": 25
@@ -179,7 +178,7 @@
 
 
 
-/*{
+{
    "key": "玩偶",
    "name": "🏆78978",
    "type": 3,
@@ -188,8 +187,10 @@
    "quickSearch": 1,
    "changeable": 0,
     "jar": "./jar/fan0303.jar",
-   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.net/$$$弹"
-    },*/
+  // "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.net/$$$弹"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://xn--mmo-mf3g9f.v.nxog.top/m/json/wod.json/$$$弹"
+
+    },
 
 
 {
