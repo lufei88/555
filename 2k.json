@@ -94,25 +94,21 @@
 
 
 {
-      "key": "阿里合集",
-      "name": "云盘臻享4K",
+      "key": "蜡笔网盘",
+      "name": "9999999",
       "type": 3,
-      "api": "csp_AliShare",
+      "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
+      "searchable": 0,
+      "changeable": 1,
+      "filterable": 1,
       "ext": {
-        "token": "0b1c0519e80c4e83aab2eb6158f81a8e",
-        "share": "https://xn--mmo-mf3g9f.v.nxog.top/m/json/wod.json"
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "http://www.kxys.xn--io0a7i:7728/"
       },
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
+      "timeout": 25
     },
-
 
 
 
