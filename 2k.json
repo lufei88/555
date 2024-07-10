@@ -156,7 +156,7 @@
 
 
 
-    /*{
+    {
       "key": "tz77",
       "name": "🏆4k专线2(首选)",
       "type": 3,
@@ -165,8 +165,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/tz77.json"
-    },*/
+     // "ext": "./json/tz77.json"
+      "ext": "https://xn--mmo-mf3g9f.v.nxog.top/m/json/wod.json"
+    },
 
 
 
@@ -178,7 +179,7 @@
 
 
 
-{
+/*{
    "key": "玩偶",
    "name": "🏆78978",
    "type": 3,
@@ -187,10 +188,8 @@
    "quickSearch": 1,
    "changeable": 0,
     "jar": "./jar/fan0303.jar",
-  // "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.net/$$$弹"
-      "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://xn--mmo-mf3g9f.v.nxog.top/m/json/wod.json$$$弹"
-
-    },
+    "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.net/$$$弹"
+    },*/
 
 
 {
