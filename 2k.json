@@ -93,22 +93,6 @@
 
 
 
-{
-      "key": "蜡笔网盘",
-      "name": "9999999",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/dongchenok.jar",
-      "searchable": 0,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://xn--mmo-mf3g9f.v.nxog.top/m/json/wod.json"
-      },
-      "timeout": 25
-    },
 
 
 
