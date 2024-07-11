@@ -728,7 +728,7 @@ super 电影,http://today.hslive.store/url/live.php?id=201
 203,http://today.hslive.store/url/live.php?id=203
 
 
-香港备用,#genre#
+[香港备用],#genre#
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
