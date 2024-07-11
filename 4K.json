@@ -132,7 +132,8 @@
       "ext": {
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [        
-          "http://ldhz.li0580.com//api/jsonindex.php/?key=rcXQsB0ijCuYJl0p0f&url="
+          "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url="
+          
         ]
       }
     },
