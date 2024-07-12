@@ -939,45 +939,7 @@ super 电影,http://today.hslive.store/url/live.php?id=201
 203,http://today.hslive.store/url/live.php?id=203
 
 
-[香港备用],#genre#
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-翡翠台,http://8.134.82.80:777/dianshimi/fenghuang.php?id=1
-明珠台,http://8.134.82.80:777/dianshimi/fenghuang.php?id=2
-无线新闻,http://8.134.82.80:777/dianshimi/fenghuang.php?id=3
-4,http://8.134.82.80:777/dianshimi/fenghuang.php?id=4
-J2,http://8.134.82.80:777/dianshimi/fenghuang.php?id=5
-MYTV SUPER,http://8.134.82.80:777/dianshimi/fenghuang.php?id=6
-18,http://8.134.82.80:777/dianshimi/fenghuang.php?id=7
-MYTV SUPER2,http://8.134.82.80:777/dianshimi/fenghuang.php?id=8
-MYTV SUPER3,http://8.134.82.80:777/dianshimi/fenghuang.php?id=9
-MYTV SUPER4,http://8.134.82.80:777/dianshimi/fenghuang.php?id=10
-KIX,http://8.134.82.80:777/dianshimi/fenghuang.php?id=11
-娱乐新闻,http://8.134.82.80:777/dianshimi/fenghuang.php?id=12
-MYTV SUPER5,http://8.134.82.80:777/dianshimi/fenghuang.php?id=13
-MYTV SUPER6,http://8.134.82.80:777/dianshimi/fenghuang.php?id=14
-MYTV SUPER7,http://8.134.82.80:777/dianshimi/fenghuang.php?id=15
-16,http://8.134.82.80:777/dianshimi/fenghuang.php?id=16
-美亚电影,http://8.134.82.80:777/dianshimi/fenghuang.php?id=17
-ANIMAX,http://8.134.82.80:777/dianshimi/fenghuang.php?id=18
-19,http://8.134.82.80:777/dianshimi/fenghuang.php?id=19
-NOW1,http://8.134.82.80:777/dianshimi/fenghuang.php?id=20
-NICKELODEON,http://8.134.82.80:777/dianshimi/fenghuang.php?id=21
-NICKJR,http://8.134.82.80:777/dianshimi/fenghuang.php?id=22
-THRILLGD,http://8.134.82.80:777/dianshimi/fenghuang.php?id=23
-天映经典,http://8.134.82.80:777/dianshimi/fenghuang.php?id=24
-ACTION,http://8.134.82.80:777/dianshimi/fenghuang.php?id=25
-LOVE NATURE,http://8.134.82.80:777/dianshimi/fenghuang.php?id=26
-LOVE NATURE2,http://8.134.82.80:777/dianshimi/fenghuang.php?id=27
-GLOBAL TREKKER,http://8.134.82.80:777/dianshimi/fenghuang.php?id=28
-ROOCK,http://8.134.82.80:777/dianshimi/fenghuang.php?id=29
-AXN,http://8.134.82.80:777/dianshimi/fenghuang.php?id=30
-TVN,http://8.134.82.80:777/dianshimi/fenghuang.php?id=31
-
-
-
-
+[港•澳•台备用],#genre#
 
 
 凤凰中文,http://8.137.59.151:3000/kdsm.php?key=hello&id=1
