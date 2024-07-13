@@ -213,7 +213,7 @@
       "ext": {
         //"host": "http://dh.li0580.com/api.php/app/",
          
-         "host": "http://122.228.84.103:6118/api.php/app/ ",
+         "host":" http://122.228.84.103:6118/api.php/app/",
         "*": [
          // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
          "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
