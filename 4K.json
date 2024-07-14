@@ -432,29 +432,6 @@
 
 
 
-{
-      "key": "0508甲555",
-      "name": "🥇4k-9999²",
-      "type": 3,      
-      "api": "./js/qq4k.js",
-      "ext": {
-        //"host": "http://dh.li0580.com/api.php/app/",
-         
-         "host":" http://liu.li0580.com:5365/api.php/provide/vod/",
-        "*": [
-         // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
-         "https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url="
-        ]
-      }
-    },
-
-
-
-
-
-
-
-
 
 
 
