@@ -35,7 +35,15 @@
 
  
 
-
+{
+      "key":"农民影视",
+      "name":"💡农民┃紫气东来数码",
+      "type":3,
+      "api":"csp_WexNmys",
+      "searchable":1,
+      "changeable":1,
+     // "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+      },
 
 
  {
