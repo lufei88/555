@@ -133,7 +133,7 @@
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [        
          // "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url="
-         "https://jx.m3u8.biz/gg.php?url="
+         "http://180.188.45.67:5762/api?key=6f2431ed4325464497de5420d391938d&url="
           
         ]
       }
