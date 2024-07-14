@@ -125,19 +125,40 @@
 
 {
       "key": "qq4k1",
-      "name": "🏆4k-vip¹",
+      "name": "🏆4k-vip",
       "type": 3,
       //"jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
       "api": "./js/qq4k.js",
       "ext": {
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [        
-         // "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url="
-         "http://180.188.45.67:5762/api?key=6f2431ed4325464497de5420d391938d&url="
+          //"https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url="
+         "https://jx.m3u8.biz/gg.php?url="
           
         ]
       }
     },
+
+
+ {
+      "key": "0508甲",
+      "name": "🏆4k-vip¹",
+      //"name": "🥇4k-专线²",
+      "type": 3,
+      //"api": "./js/tzdi.js",
+      "api": "./js/qq4k.js",
+      "ext": {
+        //"host": "http://dh.li0580.com/api.php/app/",
+         
+         "host":" http://122.228.84.103:6118/api.php/app/",
+        "*": [
+         // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
+         "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
+        ]
+      }
+    },
+
+
 
 
 
@@ -157,78 +178,9 @@
 
 
 
-
-
-
-
-
-
- /* {
-      "key": "玩偶哥哥",
-      "name": "🥇4k-专线¹",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "0b1c0519e80c4e83aab2eb6158f81a8e",
-        "cookie": "_UP_A4A_11_=wb966102730441db96b5808dbadfb55c; _UP_D_=pc; _UP_F7E_8D_=n17N9usEVYcHt6nTkSoKVgkjxQVHZKJArtOFmrP%2F5Q50XQzuJBCvaVLDDVA7JqQdKWRvQZKRMx2pcUe9jZI%2Bxpr1WkQL6QwPm1P4sD4fnHqwPMpd0%2B7BZarlx5I0Wl5nDsG05Cf8pRZwZDzB3oYCMgaosSF9ajIt6RoHEkf8wVft05k05ngkGyHsIakZbjBMQlwW1OikDv7TECWq5XRMuahgUeLSqOJanyuoOAOJbsHnFCTolWbXC18IaiP9jBN5rPsU17bDenKj%2Bhm3mVYTBSQI4DlGUbtPZ%2FGA1kMkAh0jtD9ufGqk79Uxi0xHOqsZoAg3J36dS9adhc5VTnv%2BjWSpj%2B0v9aqQoAg3J36dS9ZU25CTU1P0WsIDEnp%2BzT9l6QFa%2Funqf%2BpNktF%2FskRKCJPGNxq9uNZW; __pus=87e8ea9c6da7efa446a6247fc9f38f3dAARvrGPJ85uQAfWRmLFt9TxTzouZZ7Ait8G2C9LWUM1hJHRMdWuGwFp8+rGAKjIRsFQAchGFHm6ctxV5EVW2yPLp; __kp=6686ea30-20d7-11ef-ad49-45dac7d27115; __kps=AAQDbLYhadoCS1281S4cUz/D; __ktd=GZM+Rsteyuduy5ey/TxpAw==; __uid=AAQDbLYhadoCS1281S4cUz/D; __puus=fa12fb2d0d88c97a0b835e2aec08d633AATWJnf+W9k7d1t2t9D1M646NBkjRANsdPNNDHwikM57E+RvQ8RpSfSOEzpQcD2/pvoK7ptkRg9XFG1pU8eumWd7nIFxD9ZZjDnN+M5ONeXZ/m+DfnRU9+1gqa/EIOhg+d3ShBW4JYozWcIK4xCJHZhNip2OZHv/EE/yhYeU1pS0XOaK5cFeQ0d5f1hj4uogAe5UFggMb08e/5c9PF00sjwn",
-        "site": "https://www.wogg.net",
-        "wogg": true
-      },
-      "timeout": 25
-    },*/
-
-{
-      "key":"玩偶弹幕版",
-      "name": "🥇4k-专线¹",
-      "type": 3,
-      "api":"csp_Wogg",
-      //"jar": "https://gitee.com/dodboy/88/raw/master/jar/dongchenok.jar",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token":"0b1c0519e80c4e83aab2eb6158f81a8e",
-        "cookie":"_UP_A4A_11_=wb966102730441db96b5808dbadfb55c; _UP_D_=pc; _UP_F7E_8D_=n17N9usEVYcHt6nTkSoKVgkjxQVHZKJArtOFmrP%2F5Q50XQzuJBCvaVLDDVA7JqQdKWRvQZKRMx2pcUe9jZI%2Bxpr1WkQL6QwPm1P4sD4fnHqwPMpd0%2B7BZarlx5I0Wl5nDsG05Cf8pRZwZDzB3oYCMgaosSF9ajIt6RoHEkf8wVft05k05ngkGyHsIakZbjBMQlwW1OikDv7TECWq5XRMuahgUeLSqOJanyuoOAOJbsHnFCTolWbXC18IaiP9jBN5rPsU17bDenKj%2Bhm3mVYTBSQI4DlGUbtPZ%2FGA1kMkAh0jtD9ufGqk79Uxi0xHOqsZoAg3J36dS9adhc5VTnv%2BjWSpj%2B0v9aqQoAg3J36dS9ZU25CTU1P0WsIDEnp%2BzT9l6QFa%2Funqf%2BpNktF%2FskRKCJPGNxq9uNZW; __pus=87e8ea9c6da7efa446a6247fc9f38f3dAARvrGPJ85uQAfWRmLFt9TxTzouZZ7Ait8G2C9LWUM1hJHRMdWuGwFp8+rGAKjIRsFQAchGFHm6ctxV5EVW2yPLp; __kp=6686ea30-20d7-11ef-ad49-45dac7d27115; __kps=AAQDbLYhadoCS1281S4cUz/D; __ktd=GZM+Rsteyuduy5ey/TxpAw==; __uid=AAQDbLYhadoCS1281S4cUz/D; __puus=fa12fb2d0d88c97a0b835e2aec08d633AATWJnf+W9k7d1t2t9D1M646NBkjRANsdPNNDHwikM57E+RvQ8RpSfSOEzpQcD2/pvoK7ptkRg9XFG1pU8eumWd7nIFxD9ZZjDnN+M5ONeXZ/m+DfnRU9+1gqa/EIOhg+d3ShBW4JYozWcIK4xCJHZhNip2OZHv/EE/yhYeU1pS0XOaK5cFeQ0d5f1hj4uogAe5UFggMb08e/5c9PF00sjwn",
-        "site":"https://www.wogg.net",
-        "danmu":true
-      },
-      "timeout": 25
-    },
-
-
-
-
-
-
- {
-      "key": "0508甲",
-      "name": "🥇4k-专线²",
-      "type": 3,
-      //"api": "./js/tzdi.js",
-      "api": "./js/qq4k.js",
-      "ext": {
-        //"host": "http://dh.li0580.com/api.php/app/",
-         
-         "host":" http://122.228.84.103:6118/api.php/app/",
-        "*": [
-         // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
-         "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
-        ]
-      }
-    },
-
-
-
-
-
 {
       "key": "表哥网盘",
-      "name": "🥇4k-专线³",
+      "name": "🥇4k-专线¹",
       "type": 3,
       "api": "csp_Wobg",
       //"jar": "./jar/dongchenok.jar",
@@ -249,11 +201,31 @@
 
 
 
+{
+      "key":"玩偶弹幕版",
+      "name": "🥇4k-专线²",
+      "type": 3,
+      "api":"csp_Wogg",
+      //"jar": "https://gitee.com/dodboy/88/raw/master/jar/dongchenok.jar",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token":"0b1c0519e80c4e83aab2eb6158f81a8e",
+        "cookie":"_UP_A4A_11_=wb966102730441db96b5808dbadfb55c; _UP_D_=pc; _UP_F7E_8D_=n17N9usEVYcHt6nTkSoKVgkjxQVHZKJArtOFmrP%2F5Q50XQzuJBCvaVLDDVA7JqQdKWRvQZKRMx2pcUe9jZI%2Bxpr1WkQL6QwPm1P4sD4fnHqwPMpd0%2B7BZarlx5I0Wl5nDsG05Cf8pRZwZDzB3oYCMgaosSF9ajIt6RoHEkf8wVft05k05ngkGyHsIakZbjBMQlwW1OikDv7TECWq5XRMuahgUeLSqOJanyuoOAOJbsHnFCTolWbXC18IaiP9jBN5rPsU17bDenKj%2Bhm3mVYTBSQI4DlGUbtPZ%2FGA1kMkAh0jtD9ufGqk79Uxi0xHOqsZoAg3J36dS9adhc5VTnv%2BjWSpj%2B0v9aqQoAg3J36dS9ZU25CTU1P0WsIDEnp%2BzT9l6QFa%2Funqf%2BpNktF%2FskRKCJPGNxq9uNZW; __pus=87e8ea9c6da7efa446a6247fc9f38f3dAARvrGPJ85uQAfWRmLFt9TxTzouZZ7Ait8G2C9LWUM1hJHRMdWuGwFp8+rGAKjIRsFQAchGFHm6ctxV5EVW2yPLp; __kp=6686ea30-20d7-11ef-ad49-45dac7d27115; __kps=AAQDbLYhadoCS1281S4cUz/D; __ktd=GZM+Rsteyuduy5ey/TxpAw==; __uid=AAQDbLYhadoCS1281S4cUz/D; __puus=fa12fb2d0d88c97a0b835e2aec08d633AATWJnf+W9k7d1t2t9D1M646NBkjRANsdPNNDHwikM57E+RvQ8RpSfSOEzpQcD2/pvoK7ptkRg9XFG1pU8eumWd7nIFxD9ZZjDnN+M5ONeXZ/m+DfnRU9+1gqa/EIOhg+d3ShBW4JYozWcIK4xCJHZhNip2OZHv/EE/yhYeU1pS0XOaK5cFeQ0d5f1hj4uogAe5UFggMb08e/5c9PF00sjwn",
+        "site":"https://www.wogg.net",
+        "danmu":true
+      },
+      "timeout": 25
+    },
+
+
 
 
 {
       "key": "多多网盘",
-      "name": "🥇4k-专线⁴",
+      "name": "🥇4k-专线³",
       "type": 3,
       "api": "csp_Wobg",
       //"jar": "./jar/dongchenok.jar",
@@ -378,9 +350,6 @@
 
 
 
-
-
-
     {
       "key": "tz01",
       "name": "🥈2k-VIP²",
@@ -394,12 +363,80 @@
     },
 
 
+{
+      "key": "cjzy_360资源",
+      "name": "🥈2k-VIP³",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playUrl": "",
+      "categories": [
+          "国产剧",
+          "国产动漫",
+          "香港剧",
+          "台湾剧",
+          "欧美剧",
+          "日韩动漫",
+          "NBA",
+          "短片",
+          "西部片",
+          "综艺片",
+          "动漫片",
+          "动作片",
+          "喜剧片",
+          "爱情片",
+          "科幻片",
+          "恐怖片",
+          "惊悚片",
+          "悬疑片",
+          "犯罪片",
+          "剧情片",
+          "战争片",
+          "家庭篇",
+          "记录片",
+          "历史片",
+          "动漫片",
+          "大陆综艺",
+          "港台综艺"
+      ]
+  },
 
 
 
 
 
-  {
+
+
+
+
+
+{
+      "key":"农民影视",
+      "name":"🥈2k-VIP⁴",
+      "type":3,
+      "api":"csp_WexNmys",
+      "searchable":1,
+      "changeable":1,
+      "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar"
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* {
       "key": "tz",
       "name": "🥈2k-VIP³",
       "type": 3,
@@ -409,12 +446,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/tz0622.json"
-    },
+    },*/
 
 
  {
       "key": "360",
-      "name": "🥈2k-VIP⁴",
+      "name": "🥈2k-VIP⁵",
       "type": 1,
       "api": " http://liu.li0580.com:5365/api.php/provide/vod/",              
       "searchable": 1,
@@ -438,7 +475,7 @@
 
 {
   "key": "腾讯",
-  "name": "🥈2k-VIP⁵",
+  "name": "🥈2k-VIP⁶",
   "type": 3,
   "api": "./js2/drpy2.min.js",
   "ext": "./lib/腾讯22.js"
@@ -455,7 +492,7 @@
 
   {
       "key": "tz66",
-      "name": "🥈2k-VIP⁶",
+      "name": "🥈2k-VIP⁷",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -469,7 +506,7 @@
 
 {
       "key": "saohuo",
-      "name": "🥈2k-VIP⁷",//小米 骚火
+      "name": "🥈2k-VIP⁸",//小米 骚火
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -506,7 +543,7 @@
 
 {
   "key": "NanGua",  
-  "name": "🥈2k-VIP⁸",
+  "name": "🥈2k-VIP⁹",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -545,7 +582,7 @@
 
 {
   "key": "优酷",
-  "name": "🥈2k-VIP⁹",  
+  "name": "🥈2k-VIP¹⁰",  
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "searchable": 1,
@@ -595,7 +632,7 @@
 
 {
       "key": "乐视",
-      "name": "🥈2k-VIP¹⁰",
+      "name": "🥈2k-VIP¹¹",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
