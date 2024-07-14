@@ -133,7 +133,7 @@
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [        
          // "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url="
-         "https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url="
+         "https://jx.m3u8.biz/gg.php?url="
           
         ]
       }
@@ -420,7 +420,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playurl": "json:https://jx.huohua.vip/api/?key=Ea1nPrTOcNUChM7oRB&url=",
+      "playurl": "json:https://jx.m3u8.biz/gg.php?url=",
       "categories": [
         "路人甲影视(电影)",
         "Q群573489929（电视剧）",
