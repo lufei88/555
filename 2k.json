@@ -143,7 +143,7 @@
       "name": "❤️玩偶弟┃4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-     "jar": "https://gitee.com/dodboy/88/raw/master/jar/dongchen.jar",
+     "jar": "./jar/dongchen.jar",
       //"jar":"./jar/tz.jar",
       "searchable": 1,
       "quickSearch": 1,
