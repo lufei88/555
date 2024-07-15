@@ -96,9 +96,7 @@
       "playerType": 1,
       "changeable": 0,
       "ext": {
-       //"server": "https://cms.ysctv.cn/api.php/app/",       
-       
-       "server": "http://ttkx.live:7728",
+       "server": "https://cms.ysctv.cn/api.php/app/",              
         "ali": "./tvbox/tok.txt",
         "quark": "./tvbox/qkcoki.txt",
         "mackey": "./tvbox/yscki.txt"
@@ -147,12 +145,12 @@
       "name": "❤️玩偶弟┃4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-     "jar": "http://www.wya6.cn/tz/wyog.php",
+     "jar": "https://gitee.com/dodboy/88/raw/master/jar/dongchen.jar",
       //"jar":"./jar/tz.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xn--mmo-mf3g9f.v.nxog.top/m/json/wod.json"
+      "ext": "https://gitee.com/dodboy/88/raw/master/json/kaixin.json"
     },
 
 
