@@ -131,25 +131,6 @@
 
 
 
-{
-      "key": "8888",
-      "name": "8888888",
-      "type": 3,
-      "api": "csp_Wogg",
-      //"jar": "https://gitee.com/dodboy/88/raw/master/jar/dongchenok.jar",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "0b1c0519e80c4e83aab2eb6158f81a8e",
-        "cookie": "file://TV/quark_cookie.txt",
-         "site": "http://ttkx.live:7728",       
-        "danmu": true
-      },
-      "timeout": 25
-    },
-
 
 
 
@@ -167,7 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dodboy/88/raw/master/json/kaixin.json"
+      "ext": "./json/kaixin.json"
     },
 
 
