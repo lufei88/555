@@ -101,7 +101,7 @@
 
 
 
-    /*{
+    {
       "key": "tz77",
       "name": "🏆4k专线2(首选)",
       "type": 3,
@@ -110,8 +110,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/tz77.json"
-    },*/
+      "ext": "./json/qq4k.json"
+    },
 
 
 
