@@ -945,7 +945,6 @@ super 电影,http://today.hslive.store/url/live.php?id=201
 
 [港•澳•台备用],#genre#
 
-
 凤凰中文,http://8.137.59.151:3000/laoshu.php?key=hello&id=1
 凤凰资讯,http://8.137.59.151:3000/laoshu.php?key=hello&id=2
 凤凰香港,http://8.137.59.151:3000/laoshu.php?key=hello&id=3
@@ -1000,9 +999,103 @@ CNN新闻,http://8.137.59.151:3000/laoshu.php?key=hello&id=57
 
 
 
+凤凰中文,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=1
+凤凰资讯,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=2
+凤凰香港,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=3
+HOY78,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=4
+18,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=5
+18,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=6
+无线新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=7
+翡翠台,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=8
+mytv super1,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=9
+明珠台,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=10
+J2,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=11
+娱乐新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=12
+星河台,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=13
+viutv,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=14
+WELEND,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=15
+HOY76,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=16
+HOY77,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=17
+有线新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=18
+RHK31,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=19
+RHK32,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=20
+中天新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=21
+东森LIVE,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=22
+东森财经,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=23
+环宇新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=24
+环宇新闻台湾,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=25
+台视新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=26
+中视新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=27
+华视新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=28
+TVBS 新闻台,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=29
+三立新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=30
+三立新闻2,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=31
+镜新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=32
+公视,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=33
+民视新闻,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=34
+民视第一台,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=35
+民视台湾台,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=36
+影剧,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=37
+旅游,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=38
+综艺,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=39
+民视,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=40
+台视,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=41
+中视,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=42
+华视,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=43
+TVBS HD,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=44
+欢乐台,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=45
+中天亚洲,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=46
+纬来体育,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=47
+纬来日醚,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=48
+纬来育乐,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=49
+
+爱尔达体育1,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=52
+爱尔达体育2,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=53
+爱尔达体育3,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=54
+MOMO,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=55
+东森超视,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=56
+CNN,http://8.137.59.151:3000/laoshu1.php?key=haiou&id=57
 
 
 
+
+
+
+
+
+
+[香港备用2],#genre#
+翡翠台,http://8.134.82.80:777/dianshimi/fenghuang.php?id=1
+明珠台,http://8.134.82.80:777/dianshimi/fenghuang.php?id=2
+无线新闻,http://8.134.82.80:777/dianshimi/fenghuang.php?id=3
+4,http://8.134.82.80:777/dianshimi/fenghuang.php?id=4
+J2,http://8.134.82.80:777/dianshimi/fenghuang.php?id=5
+MYTV SUPER,http://8.134.82.80:777/dianshimi/fenghuang.php?id=6
+18,http://8.134.82.80:777/dianshimi/fenghuang.php?id=7
+MYTV SUPER2,http://8.134.82.80:777/dianshimi/fenghuang.php?id=8
+MYTV SUPER3,http://8.134.82.80:777/dianshimi/fenghuang.php?id=9
+MYTV SUPER4,http://8.134.82.80:777/dianshimi/fenghuang.php?id=10
+KIX,http://8.134.82.80:777/dianshimi/fenghuang.php?id=11
+娱乐新闻,http://8.134.82.80:777/dianshimi/fenghuang.php?id=12
+MYTV SUPER5,http://8.134.82.80:777/dianshimi/fenghuang.php?id=13
+MYTV SUPER6,http://8.134.82.80:777/dianshimi/fenghuang.php?id=14
+MYTV SUPER7,http://8.134.82.80:777/dianshimi/fenghuang.php?id=15
+16,http://8.134.82.80:777/dianshimi/fenghuang.php?id=16
+美亚电影,http://8.134.82.80:777/dianshimi/fenghuang.php?id=17
+ANIMAX,http://8.134.82.80:777/dianshimi/fenghuang.php?id=18
+19,http://8.134.82.80:777/dianshimi/fenghuang.php?id=19
+NOW1,http://8.134.82.80:777/dianshimi/fenghuang.php?id=20
+NICKELODEON,http://8.134.82.80:777/dianshimi/fenghuang.php?id=21
+NICKJR,http://8.134.82.80:777/dianshimi/fenghuang.php?id=22
+THRILLGD,http://8.134.82.80:777/dianshimi/fenghuang.php?id=23
+天映经典,http://8.134.82.80:777/dianshimi/fenghuang.php?id=24
+ACTION,http://8.134.82.80:777/dianshimi/fenghuang.php?id=25
+LOVE NATURE,http://8.134.82.80:777/dianshimi/fenghuang.php?id=26
+LOVE NATURE2,http://8.134.82.80:777/dianshimi/fenghuang.php?id=27
+GLOBAL TREKKER,http://8.134.82.80:777/dianshimi/fenghuang.php?id=28
+ROOCK,http://8.134.82.80:777/dianshimi/fenghuang.php?id=29
+AXN,http://8.134.82.80:777/dianshimi/fenghuang.php?id=30
+TVN,http://8.134.82.80:777/dianshimi/fenghuang.php?id=31
 
 
 
