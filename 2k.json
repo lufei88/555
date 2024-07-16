@@ -1531,7 +1531,7 @@
 
 
 
-{"name": "🌎99999","type": 1,"url": "https://v.ysctv.cn/api/index?parsesId=11&appid=10001&videoUrl=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name": "🌎99999","type": 1,"url": "https://v.ysctv.cn/api/index?parsesId=2&appid=10001&videoUrl=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
                                      
 {"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
