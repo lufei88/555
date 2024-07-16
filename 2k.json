@@ -51,7 +51,7 @@
         "json": "./json/bili_ys.json",
         "cookie": "./tvbox/bili.txt"
       },
-      "jar": "./lib/bili2.jar"
+      "jar": "./jar/bili2.jar"
     },
 
 
