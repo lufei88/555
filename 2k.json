@@ -39,7 +39,20 @@
 
 
 
-
+   {
+      "key": "哔哩影视",
+      "name": "❤哔哩┃影视",
+      "type": 3,
+      "api": "csp_Bili_YS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "json": "./json/bili_ys.json",
+        "cookie": "./tvbox/bili.txt"
+      },
+      "jar": "./lib/bili2.jar"
+    },
 
 
 
