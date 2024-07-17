@@ -24,7 +24,7 @@
 
 "分类url":"http://122.228.84.103:6119/api.php/app/video?tid={cateId}&class={class}&area={area}&year={year}&limit=18&pg={catePg};;mr",
 
-"分类": "热门电影&热播剧集&经典动漫&热播综艺&纪录片&少儿动画",
+"分类": "热门电影&热播剧集&热播综艺&经典动漫&B站专区",
 
 "分类值": "1&2&3&4&5&6",
 
