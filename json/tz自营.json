@@ -44,7 +44,7 @@
 
 "线路数组":"\"code\":\"&&,[替换:4k>>天招在线#JZTV>>天招自营#qq>>天招蓝光#qiyi>>天招官方#youku>>天招高清#mgtv>>天招速播#bilibili>>天招备用]",
 
-"线路标题":"题&&\"[排序:天招在线>天招自营>天招蓝光>天招官方>天招高清>天招速播>天招备用]",
+"线路标题":"题&&\"[排序:天招官方>天招在线>天招自营>天招蓝光>天招高清>天招速播>天招备用]",
 
 "播放二次截取":"vod_url_with_player\":\\[{&&}\\]",
 
@@ -58,7 +58,7 @@
 
 "播放链接":"urlDecode(接&&接)",
 
-"解析":"默认$http://qq4k.jingyang.design/api/?key=jMyWlgJaouTA98vZ91&url=#天招蓝光$http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url=#天招vip3$http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=",
+"解析":"默认$http://qq4k.jingyang.design/api/?key=jMyWlgJaouTA98vZ91&url=#天招蓝光$http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url=#默认3$http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=",
 
 //"跳转播放链接":"url\":\"&&\"",
 
