@@ -30,6 +30,23 @@
 
 
 
+ {
+      "key": "蚂蚁资源",
+      "name": "🎀自营高清",
+      "playerType": 2,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:5822/api.php/app/"
+    },
+
+
+
+
+
+
     {
       "key": "tz自营",
       "name": "🥈天招自营",
