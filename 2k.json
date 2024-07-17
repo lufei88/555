@@ -30,7 +30,17 @@
 
 
 
-
+    {
+      "key": "tz自营",
+      "name": "🥈天招自营",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,      
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz天招自营.json"
+    },
 
 
 
