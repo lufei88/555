@@ -40,20 +40,16 @@
 
 
    {
-      "key": "哔哩影视",
-      "name": "❤哔哩┃影视",
+      "key": "csp_gczy",
+      "name": "🕵自营官方",
+      "playerType": 1,
       "type": 3,
-      "api": "csp_Bili_YS",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "json": "./json/bili_ys.json",
-        "cookie": "./tvbox/bili.txt"
-      },
-      "jar": "./jar/bili2.jar"
+      "filterable": 1,
+      "ext": "http://122.228.84.103:6119/api.php/app/"
     },
-
 
 
 {
