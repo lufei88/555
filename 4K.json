@@ -187,7 +187,7 @@
         "*": [
          // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
          //"http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
-          "http://ysyjx.jingyang.design/api/?key=pWdBTj5Oj0RlNOa1mV&url="//无广1
+          "http://ysyjx.jingyang.design/api/?key=pWdBTj5Oj0RlNOa1mV&url="//蓝鹰解析
          
 
         ]
@@ -204,10 +204,8 @@
       "ext": {
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [            
-          //"https://ldhz.li0580.com/api/jsonindex.php/?key=XoDTtyOvAv6BFMkFGV&url="  
-          "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url="
-        
-
+          "https://ldhz.li0580.com/api/jsonindex.php/?key=XoDTtyOvAv6BFMkFGV&url="  //星光影集解析
+          
         ]
       }
     },
