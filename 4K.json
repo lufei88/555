@@ -205,8 +205,8 @@
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [            
           //"https://ldhz.li0580.com/api/jsonindex.php/?key=XoDTtyOvAv6BFMkFGV&url="  
-          //"http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url="
-        "https://api.yesapi.cn/?service=App.Scws.GetWords&app_key=CEE4B8A091578B252AC4C92FB4E893C3&text="
+          "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url="
+        
 
         ]
       }
@@ -511,40 +511,6 @@
         "短剧"
       ]
     },
-
-
-
-
-{
-      "key": "路人",
-      "name": "🥈2k-VIP696",
-      "type": 1,
-      "api": " http://dh.li0580.com:6532/api.php/app/index_video?token=",              
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      
-      "playurl": "json:http://jx.li0580.com/home/api?type=ys&uid=2712055&key=aefopruBDFINOPST47&url=",
-      //"playurl": "json:https://api.yesapi.cn/?service=App.Scws.GetWords&app_key=CEE4B8A091578B252AC4C92FB4E893C3&text=",//可以用但慢
-      "categories": [
-        "路人甲 蓝鹰 锐星 晓强(电影)",
-        "Q群573489929（电视剧）",
-        "动漫",
-        "综艺",
-        "海外剧",
-        "短剧"
-      ]
-    },
-
-
-
-
-
-
-
- 
-
-
 
 
 
