@@ -207,8 +207,8 @@
       "ext": {
         "host": "http://122.228.84.103:5825/api.php/app/",
         "*": [            
-          //"http://122.228.84.103:5829/txqe/?url="       
-          "http://ysyjx.jingyang.design/api/?key=pWdBTj5Oj0RlNOa1mV&url="
+          "http://122.228.84.103:5829/txqe/?url="       
+          
         ]
       }
     },
