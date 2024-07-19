@@ -176,8 +176,7 @@
 
  {
       "key": "0508甲",
-      "name": "🏆4k-vip³",
-      //"name": "🥇4k-专线²",
+      "name": "🏆4k-vip³",      
       "type": 3,
       //"api": "./js/tzdi.js",
       "api": "./js/qq4k.js",
@@ -187,7 +186,10 @@
          "host":" http://122.228.84.103:6118/api.php/app/",
         "*": [
          // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
-         "http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
+         //"http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
+         "http://ysyjx.jingyang.design/api/?key=pWdBTj5Oj0RlNOa1mV&url="
+
+
         ]
       }
     },
