@@ -499,7 +499,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playurl": "json:https://jx.m3u8.biz/gg.php?url=",
+      
+      //"playurl": "json:https://jx.m3u8.biz/gg.php?url=",
+
+
+      "playurl": "json:https://api.yesapi.cn/?service=App.Scws.GetWords&app_key=CEE4B8A091578B252AC4C92FB4E893C3&text=",
       "categories": [
         "路人甲影视(电影)",
         "Q群573489929（电视剧）",
