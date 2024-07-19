@@ -187,8 +187,8 @@
         "*": [
          // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
          //"http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
-         "http://ysyjx.jingyang.design/api/?key=pWdBTj5Oj0RlNOa1mV&url="
-
+         //"http://ysyjx.jingyang.design/api/?key=pWdBTj5Oj0RlNOa1mV&url="//无广1
+         "https://api.yesapi.cn/?service=App.Scws.GetWords&app_key=CEE4B8A091578B252AC4C92FB4E893C3&text="
 
         ]
       }
