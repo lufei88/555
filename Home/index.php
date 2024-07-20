@@ -17,7 +17,7 @@
 
 
 
-{"id":"129","title":"我要看直播语音版","logo":"http://zibb2024.tdddz.cn/upload/images/20240217/170815559765d062cd5a35d.png","desc1":"直播应用","desc":"秒看HD精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzbyyp.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"8.58MB","create_time":"1 天以前 "}
+{"id":"129","title":"我要看直播语音版","logo":"http://zibb2024.tdddz.cn/upload/images/20240217/170815559765d062cd5a35d.png","desc1":"直播应用","desc":"秒看HD精简版，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.kklive.sun","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/wykzpyyp.apk","image1":"http://zibb2024.tdddz.cn/upload/images/20240117/170548512765a7a347e6af7.jpg","image2":"http://zibb2024.tdddz.cn/upload/images/20240117/170548513365a7a34d25529.jpg","daxiao":"8.58MB","create_time":"1 天以前 "}
 
 
 {"id":"145","title":"悠享直播","logo":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/jy.png","desc1":"直播应用","desc":"悠享直播，高清流畅看电视节目，让大家享受观影体验。","baoming":"com.audiovisual.live","url":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/app/yxzp.apk","image1":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/ys1.png","image2":"https://jihulab.com/ss3234741/sj/-/raw/main/Home/tu/ys2.png","daxiao":"8.58MB","create_time":"1 天以前 "}
