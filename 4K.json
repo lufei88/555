@@ -1556,7 +1556,12 @@
 //{"name":"📦天招在线2","type": 1,"url":"http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
-{"name":"📦天招vip4K","type": 1,"url":"http://qq4k.jingyang.design/api/?key=jMyWlgJaouTA98vZ91&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+//{"name":"📦天招vip4K","type": 1,"url":"http://qq4k.jingyang.design/api/?key=jMyWlgJaouTA98vZ91&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+
+
+
+{"name":"📦天招vip4K","type": 1,"url":"http://ysyjx.jingyang.design/api/?key=pWdBTj5Oj0RlNOa1mV&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
                                      
