@@ -390,17 +390,7 @@
 
 
 
- /*   {
-      "key": "tz01",
-      "name": "🥈2k-VIP²",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,      
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tz0702.json"
-    },*/
+
 
 
 {
@@ -725,7 +715,17 @@
 
 
 
-
+  {
+      "key": "tz01",
+      "name": "🥈2k-VIP¹¹",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,      
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz0702.json"
+    },
 
 
 
