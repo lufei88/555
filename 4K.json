@@ -483,7 +483,9 @@
       "key": "360",
       "name": "🥈2k-VIP⁴",
       "type": 1,
-      "api": " http://liu.li0580.com:5365/api.php/provide/vod/",              
+      //"api": " http://liu.li0580.com:5365/api.php/provide/vod/",
+      "api": " http://liu.li0580.com:7785/api.php/app/",      
+                 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -491,7 +493,7 @@
       "playurl": "json:https://jx.m3u8.biz/gg.php?url=",
       //"playurl": "json:https://api.yesapi.cn/?service=App.Scws.GetWords&app_key=CEE4B8A091578B252AC4C92FB4E893C3&text=",//可以用但慢
       "categories": [
-        "路人甲影视(电影)",
+        "所有广告请勿相信(电影)",
         "Q群573489929（电视剧）",
         "动漫",
         "综艺",
