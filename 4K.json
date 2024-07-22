@@ -484,7 +484,7 @@
       "name": "🥈2k-VIP⁴",
       "type": 1,
       //"api": " http://liu.li0580.com:5365/api.php/provide/vod/",
-      "api": " http://liu.li0580.com:7785/api.php/app/",      
+      "api": "http://liu.li0580.com:7785/api.php/provide/vod/",      
                  
       "searchable": 1,
       "quickSearch": 1,
