@@ -31,15 +31,23 @@
 
 
 
+
+
+
+
+
 {
       "key": "锐星4kc",
-      "name": "🥈锐星4kc",
+      "name": "🥈锐星",
       "type": 1,
-      //"api": "https://leshiapi.com/api.php/provide/vod/at/json/",
-      "api":"https://www.xb6v.com/xijupian/",
-      "playUrl": "",
+      //"api": " http://liu.li0580.com:5365/api.php/provide/vod/",
+      "api": "https://www.xb6v.com/xijupian/",      
+                 
       "searchable": 1,
-      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,      
+      "playurl": "json:https://jx.m3u8.biz/gg.php?url=",
+      //"playurl": "json:https://api.yesapi.cn/?service=App.Scws.GetWords&app_key=CEE4B8A091578B252AC4C92FB4E893C3&text=",//可以用但慢
       "categories": [
         "喜剧片",
         "动作片",
@@ -53,9 +61,22 @@
         "国剧",
         "日韩剧",
         "欧美剧"
-       
-        ]
+      ]
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
