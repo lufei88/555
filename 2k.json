@@ -205,10 +205,6 @@
 
 
 
-
-
-
-
 {
       "key": "qq4k2",
       "name": "🏆4k-vip²",
@@ -216,9 +212,7 @@
       "api": "./js/qq4k.js",
       "ext": {
         //"host": "http://122.228.84.103:5825/api.php/app/",
-　　　　　
-　　　　　"host": "http://dh.li0580.com:6532/api.php/app/",
-
+        "host": "http://dh.li0580.com:6532/api.php/app/",
         "*": [            
           "http://122.228.84.103:5829/txqe/?url="       
         ]
