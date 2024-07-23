@@ -672,14 +672,7 @@
       "ext": "./lib/iqy.js"
     },*/
 
-
-
-
-
-
-
-
-
+ 
 
 
   {
@@ -693,6 +686,21 @@
       "filterable": 1,
       "ext": "./json/tz0702.json"
     },
+
+
+   {
+      "key": "csp_味精自营",
+      "name": "🥈2k-VIP¹¹",
+      "type": 1,
+      "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
+      "filterable": 1
+    },
+
+
+
+
+
 
 
 /*{
