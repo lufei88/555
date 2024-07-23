@@ -660,7 +660,8 @@
       "key": "乐视",
       "name": "🥈2k-VIP¹¹",
       "type": 1,
-      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
+      //"api": "https://leshiapi.com/api.php/provide/vod/at/json/",
+      "api":"https://bfzyapi.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "changeable": 1,
@@ -818,16 +819,6 @@
 
 
 
-  {
-      "key": "暴风",
-      "name": "🥉暴风",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bfzyapi.com/api.php/provide/vod/"
-    },
 
 
 
