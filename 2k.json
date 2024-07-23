@@ -35,6 +35,7 @@
             "name": "🧲新6V┃磁力",
             "type": 3,
             "api": "csp_SixV",
+            "jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
