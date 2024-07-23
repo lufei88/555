@@ -43,36 +43,55 @@
         },
 
 
+{
+            "key": "csp_New6v",
+            "name": "🧲 | 新6V",
+            "type": 3,
+            "api": "csp_New6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xb6v.com"
+        },
+
+
+
+
+
+
+
+ {
+      "key": "dfgrfg",
+      "name": "🏆fgffffffffffffff",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/3602k.json"
+    },
+
+
+
+
+
 
 
 {
-      "key": "锐星4kc",
-      "name": "🥈锐星",
-      "type": 1,
-      //"api": " http://liu.li0580.com:5365/api.php/provide/vod/",
-      "api": "https://www.xb6v.com/xijupian/",      
-                 
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,      
-      "playurl": "json:https://jx.m3u8.biz/gg.php?url=",
-      //"playurl": "json:https://api.yesapi.cn/?service=App.Scws.GetWords&app_key=CEE4B8A091578B252AC4C92FB4E893C3&text=",//可以用但慢
-      "categories": [
-        "喜剧片",
-        "动作片",
-        "爱情片",
-        "科幻片",       
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "动画片",
-        "国剧",
-        "日韩剧",
-        "欧美剧"
-      ]
+      "key": "路人甲蓝鹰",
+      "name": "🏆4k-vip²",
+      "type": 3,      
+      "api": "./js/qq4k.js",
+      "ext": {
+        //"host": "http://122.228.84.103:5825/api.php/app/",
+        "host": "http://dh.li0580.com:6532/api.php/app/",
+        "*": [            
+          //"http://122.228.84.103:5829/txqe/?url="
+          "http://ysyjx.jingyang.design/api/?key=RDdLeEOeGnNxHppyyy&url="       
+        ]
+      }
     },
-
 
 
 
@@ -241,38 +260,6 @@
 
 
 
- {
-      "key": "dfgrfg",
-      "name": "🏆fgffffffffffffff",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/tz0629.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/3602k.json"
-    },
-
-
-
-
-
-
-
-{
-      "key": "路人甲蓝鹰",
-      "name": "🏆4k-vip²",
-      "type": 3,      
-      "api": "./js/qq4k.js",
-      "ext": {
-        //"host": "http://122.228.84.103:5825/api.php/app/",
-        "host": "http://dh.li0580.com:6532/api.php/app/",
-        "*": [            
-          //"http://122.228.84.103:5829/txqe/?url="
-          "http://ysyjx.jingyang.design/api/?key=RDdLeEOeGnNxHppyyy&url="       
-        ]
-      }
-    },
 
 
 
