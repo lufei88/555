@@ -41,106 +41,6 @@
 
 
 
-
-
- /*{
-      "key": "ysc",
-      "name": "🏆4k专线99999(首选)",
-      "type": 3,
-      "api": "csp_AppYS",
-      "playerType": 1,
-      "changeable": 0,
-      "ext": {
-       "server": "https://cms.ysctv.cn/api.php/app/",
-        "ali": "./tvbox/tok.txt",
-        "quark": "./tvbox/qkcoki.txt",
-        "mackey": "./tvbox/yscki.txt"
-      },
-      "jar": "./jar/ysc.jar"
-    },*/
-
-
-
-     
-
-//{"key": "qiepian","name": "二一动不动","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/Yoursmile.jar","ext":"https://www.360zy.com/"},
-
-
-
-
-
-
-
-
-
-
-  /*  {
-      "key": "tz4k",
-      "name": "🏆4k专线2(首选)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tz4k.json"
-    },*/
-
-
-
-    /*{
-      "key": "tz77",
-      "name": "🏆4k专线2(首选)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"./jar/tz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tz77.json"
-    },*/
-
-
-
-
-
-
-
-
-
-
-
-/*{
-   "key": "玩偶哥哥",
-   "name": "🏆4k专线2(首选)",
-   "type": 3,
-   "api": "csp_WoGG",
-  "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 0,
-    "jar": "./jar/fan0303.jar",
-   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },*/
-
-
-/*{
-      "key": "qq4k1",
-      "name": "🏆4k-vip",
-      "type": 3,
-      //"jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
-      "api": "./js/qq4k.js",
-      "ext": {
-        "host": "http://122.228.84.103:5825/api.php/app/",
-        "*": [        
-          //"https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url="
-         "http://xysjtv.yy365.vip/api.php/provide/vod/?ac=list&wd="
-          
-        ]
-      }
-    },*/
-
-
-
 {
   "key": "腾讯",
   "name": "🏆4k-vip¹",
@@ -218,7 +118,7 @@
 
 
 
-{
+/*{
       "key": "表哥网盘",
       "name": "🥇4k-专线¹",
       "type": 3,
@@ -235,9 +135,6 @@
       },
       "timeout": 25
     },
-
-
-
 
 
 
@@ -284,18 +181,6 @@
 
 
 
-//{"key": "newyt","name": "🏆4k专线5(首选)","type": 3,"api": "csp_App","jar": "./jar/yt.jar","searchable": 1,"quickSearch": 1,"playerType":1,"filterable": 0,"ext": "W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo"},
-
-
-//{"key": "csp_appys_影盒","name": "🏆4k专线6(首选)","type": 3,"api": "csp_AppYsV2","jar": "./jar/yt22.jar","searchable": 1,"quickSearch": 1,"playerType":1,"filterable": 1,"ext": "http://cms-ytmh.lyyytv.cn/api.php/app/"},
-
-
-
-
-
-
-
-
 {
       "key": "️玩偶姐",
       "name": "🥇4k-专线⁵",
@@ -314,11 +199,6 @@
       },
       "timeout": 25
     },
-
-
-
-//{"key":"影探蓝光","name":"🏆4k专线6(首选)","type":3,"api":"csp_WexYingtan4k","jar": "./jar/og.jar","searchable":1,"changeable":1},
-
 
 {
       "key": "土豆弹幕版",
@@ -356,7 +236,118 @@
         "site": "https://duopan.fun/"
       },
       "timeout": 25
-    },
+    },*/
+
+
+
+
+//以上之前在用
+
+
+
+
+
+
+
+
+
+
+
+/*{
+      "key": "ysc",
+      "name": "🏆4k专线99999(首选)",
+      "type": 3,
+      "api": "csp_AppYS",
+      "playerType": 1,
+      "changeable": 0,
+      "ext": {
+       "server": "https://cms.ysctv.cn/api.php/app/",
+        "ali": "./tvbox/tok.txt",
+        "quark": "./tvbox/qkcoki.txt",
+        "mackey": "./tvbox/yscki.txt"
+      },
+      "jar": "./jar/ysc.jar"
+    },*/
+
+
+
+     
+
+//{"key": "qiepian","name": "二一动不动","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/Yoursmile.jar","ext":"https://www.360zy.com/"},
+
+
+
+
+
+
+
+
+
+
+  /*  {
+      "key": "tz4k",
+      "name": "🏆4k专线2(首选)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz4k.json"
+    },*/
+
+
+
+    /*{
+      "key": "tz77",
+      "name": "🏆4k专线2(首选)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tz77.json"
+    },*/
+
+
+
+
+/*{
+   "key": "玩偶哥哥",
+   "name": "🏆4k专线2(首选)",
+   "type": 3,
+   "api": "csp_WoGG",
+  "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+    "jar": "./jar/fan0303.jar",
+   "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },*/
+
+
+/*{
+      "key": "qq4k1",
+      "name": "🏆4k-vip",
+      "type": 3,
+      //"jar":"http://122.228.84.103:5820/uploads/tvbox/Yoursmile.jar",
+      "api": "./js/qq4k.js",
+      "ext": {
+        "host": "http://122.228.84.103:5825/api.php/app/",
+        "*": [        
+          //"https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url="
+         "http://xysjtv.yy365.vip/api.php/provide/vod/?ac=list&wd="
+          
+        ]
+      }
+    },*/
+
+
+
+
+//{"key":"影探蓝光","name":"🏆4k专线6(首选)","type":3,"api":"csp_WexYingtan4k","jar": "./jar/og.jar","searchable":1,"changeable":1},
+
+
 
 
 
@@ -454,7 +445,7 @@
 
     {
       "key": "看看影视",
-      "name": "🥈2k-VIP4",
+      "name": "🥈2k-VIP⁴",
       "type": 3,
       "api": "csp_WebIV",
       "searchable": 1,
@@ -490,7 +481,7 @@
 
  {
       "key": "360",
-      "name": "🥈2k-VIP⁴",
+      "name": "🥈2k-VIP⁵",
       "type": 1,
       //"api": " http://liu.li0580.com:5365/api.php/provide/vod/",
       "api": "http://liu.li0580.com:7785/api.php/provide/vod/",      
@@ -530,7 +521,7 @@
 
   {
       "key": "tz66",
-      "name": "🥈2k-VIP⁵",
+      "name": "🥈2k-VIP⁶",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -543,7 +534,7 @@
 
   {
       "key": "路人甲",
-      "name": "🥈2k-VIP⁶",
+      "name": "🥈2k-VIP⁷",
       "type": 1,
       "api": "http://xysjtv.yy365.vip/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -562,7 +553,7 @@
 
 {
       "key": "saohuo",
-      "name": "🥈2k-VIP⁷",//小米 骚火
+      "name": "🥈2k-VIP⁸",//小米 骚火
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -599,7 +590,7 @@
 
 {
   "key": "NanGua",  
-  "name": "🥈2k-VIP⁸",
+  "name": "🥈2k-VIP⁹",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -638,7 +629,7 @@
 
 {
   "key": "优酷",
-  "name": "🥈2k-VIP⁹",  
+  "name": "🥈2k-VIP¹⁰",  
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "searchable": 1,
@@ -686,7 +677,7 @@
 
   {
       "key": "tz01",
-      "name": "🥈2k-VIP¹⁰",
+      "name": "🥈2k-VIP¹¹",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz.jar",
@@ -699,7 +690,7 @@
 
    {
       "key": "csp_味精自营",
-      "name": "🥈2k-VIP¹¹",
+      "name": "🥈2k-VIP¹²",
       "type": 1,
       "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
       "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
