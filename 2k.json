@@ -661,7 +661,7 @@
       "name": "🥈2k-VIP¹¹",
       "type": 1,
       //"api": "https://leshiapi.com/api.php/provide/vod/at/json/",
-      "api":"https://bfzyapi.com/api.php/provide/vod/at/json/",
+      "api":"https://bfzyapi.com/api.php/provide/vod/h2/",
       "playUrl": "",
       "searchable": 1,
       "changeable": 1,
