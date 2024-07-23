@@ -818,6 +818,16 @@
 
 
 
+  {
+      "key": "暴风",
+      "name": "🥉暴风",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bfzyapi.com/api.php/provide/vod/"
+    },
 
 
 
