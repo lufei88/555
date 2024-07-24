@@ -554,19 +554,7 @@ http://livetv.skycf.eu.org/live.m3u8?c=3
 
 [港•澳•台快速],#genre#
 
-凤凰资讯,https://ali.hlspull.yximgs.com/live/650ba9f79ae60afdaa99ebe2484f2488.flv
-凤凰香港,https://ali.hlspull.yximgs.com/live/ee5bc88d7e68d2a2ee7f5b396c8e0a3b.flv
-18,https://ali.hlspull.yximgs.com/live/c83045c737624f962fcb786b002fef11.flv
-NOW新闻,https://ali.hlspull.yximgs.com/live/7976a5885d362d275d5072705bb70458.flv
-NOW财经,https://ali.hlspull.yximgs.com/live/40898fbd0735bb1f3d35531852f7b851.flv
-娱乐新闻,https://ali.hlspull.yximgs.com/live/577043829ad40c36fea2bc0393fbe898.flv
-功夫国语,https://ali.hlspull.yximgs.com/live/7a3cf54da948a3bcc990f6c6b38c3c5a.flv
-黄金翡翠,https://ali.hlspull.yximgs.com/live/d299b09c97af86715af19fc36541f947.flv
-黄金华剧,https://ali.hlspull.yximgs.com/live/ec147f729a37b69766b7720f9848702a.flv
-戏曲,https://ali.hlspull.yximgs.com/live/725e9c9a55232584f9f6e91c93785d9d.flv
-粤语片,https://ali.hlspull.yximgs.com/live/029991ea6d492d336de9d072cd78c48a.flv
-天映CM+,https://ali.hlspull.yximgs.com/live/0cc895f9e847fe76d68afc74e07aa06a.flv
-HBOHITS,https://ali.hlspull.yximgs.com/live/028d35edd8331c4284a12dd80a937423.flv
+
 中视,https://ali.hlspull.yximgs.com/live/16094f81ed7a79376aa9677f31d24595.flv
 民视,https://ali.hlspull.yximgs.com/live/7701f1235d45d394e6803dd416c9b32c.flv
 台视,https://ali.hlspull.yximgs.com/live/68f2768b93b2e7350bfdf5467282654a.flv
