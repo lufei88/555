@@ -57,8 +57,8 @@
 
 
  {
-      "key": "路人甲集中",
-      "name": "🏆路人甲集中",
+      "key": "路人甲自建高清",
+      "name": "🏆路人甲自建高清",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0629.jar",
@@ -67,6 +67,27 @@
       "filterable": 1,
       "ext": "./json/路人甲2k.json"
     },
+
+
+
+
+
+ {
+      "key": "路人甲HDR",
+      "name": "🏆路人甲HDR",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/星光HDR2k.json"
+    },
+
+
+
+
+
 
 
 
