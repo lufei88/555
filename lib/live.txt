@@ -624,81 +624,123 @@ http://livetv.skycf.eu.org/live.m3u8?c=3
 
 
 [港•澳•台快速],#genre#
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
+凤凰电影,http://117.114.153.1:8180/TV00000000000000000072@HHZT
+星空卫视,http://117.114.153.1:8180/TV00000000000000000071@HHZT
+凤凰资讯,https://ali.hlspull.yximgs.com/live/9d19c0d6e1a958e2291d8fea3d3720ea.flv
+凤凰香港,https://ali.hlspull.yximgs.com/live/f3bd1debd6967bf1e107cdb06f877795.flv
+18,https://ali.hlspull.yximgs.com/live/a60201a3edec65d339c0e2f7822369cf.flv
+NOW新闻,https://ali.hlspull.yximgs.com/live/87e8b5bd3832e1599d8e9a6f62b7df5a.flv
+NOW财经,https://ali.hlspull.yximgs.com/live/3ebc81bb437352d59a7360d48d382d05.flv
+娱乐新闻,https://ali.hlspull.yximgs.com/live/14e0ecdaa366d79a3082c85bcb93aa8d.flv
+功夫国语,https://ali.hlspull.yximgs.com/live/cffa436a7b45de2f68aa9fb5e1e8d90d.flv
+黄金翡翠,https://ali.hlspull.yximgs.com/live/658a60334c505cfe6abb922150a05046.flv
+黄金华剧,https://ali.hlspull.yximgs.com/live/27dfd580812724f47e403b01fcdf16bf.flv
+戏曲,https://ali.hlspull.yximgs.com/live/47a8067c6a9d9b61224efdb2e6c3b27c.flv
 
-凤凰资讯,https://ali.hlspull.yximgs.com/live/f817305209ddc0af3868e09b96c54f8e.flv
-凤凰香港,https://ali.hlspull.yximgs.com/live/0545f9c7bc32b6f5c3ad1fe3dd929afb.flv
-18,https://ali.hlspull.yximgs.com/live/7dd176133a4d1f9e55a0668beb3a34f7.flv
-NOW新闻,https://ali.hlspull.yximgs.com/live/cb02a5cde9f17c2413882dd11db2855a.flv
-NOW财经,https://ali.hlspull.yximgs.com/live/34756a10e8aa0b87ce74c13148f701a2.flv
-娱乐新闻,https://ali.hlspull.yximgs.com/live/9b57be08b02d2714ecdd6df18115244a.flv
-功夫国语,https://ali.hlspull.yximgs.com/live/84583018c486ad0a3208e0fdd2dbc450.flv
-黄金翡翠,https://ali.hlspull.yximgs.com/live/7658ed536e25d7b5ad75f5cb1aa606ea.flv
-黄金华剧,https://ali.hlspull.yximgs.com/live/85bd6d77c03c446b375222e979538183.flv
-戏曲,https://ali.hlspull.yximgs.com/live/9214ecd9729204b4821362c68059ec11.flv
-粤语片,https://ali.hlspull.yximgs.com/live/6c24c46975922f535563c37c340bd2f6.flv
-天映CM+,https://ali.hlspull.yximgs.com/live/027474d5b198628089c0b225f91cc92c.flv
-HBOHITS,https://ali.hlspull.yximgs.com/live/2ef79a7c97f495abf0b7e0bb4a271ab1.flv
-中视,https://ali.hlspull.yximgs.com/live/f33ace0c494d01fcbd157608eae7fc58.flv
+粤语片,https://ali.hlspull.yximgs.com/live/80ebdeb5f13ef275e91ccfd3835edc68.flv
+天映CM+,https://ali.hlspull.yximgs.com/live/ce0d27f9cdbb6087f7d143b275b71505.flv
+HBOHITS,https://ali.hlspull.yximgs.com/live/8a31c2d25a19492a7d0a3b47a90278ea.flv
+
+中视,https://ali.hlspull.yximgs.com/live/1240b15e0be4486f6490f494fa005b62.flv
 民视,https://ali.hlspull.yximgs.com/live/769a352d37c4a496b9b28db472399af4.flv
+
 台视,https://ali.hlspull.yximgs.com/live/ddc7bc95269a3598d1c90f32d9cb9364.flv
-公视,https://ali.hlspull.yximgs.com/live/eedecea10cbb70d7f52f508d96394c66.flv
-TVBS,https://ali.hlspull.yximgs.com/live/438525ee3938ed5a6a2b63815c2a5377.flv　　　　　
-中天综合,https://ali.hlspull.yximgs.com/live/8b4639dd202bacb78ab25becccce205b.flv
-中天娱乐,https://ali.hlspull.yximgs.com/live/24d6260e9ce973c9abd0157bf77e6a4f.flv
-中天亚洲,https://ali.hlspull.yximgs.com/live/a160f62ab5ba4ab3c282bc9ac86c4f0e.flv
-八大综合,https://ali.hlspull.yximgs.com/live/9616d20478563251b791164c2fe229c3.flv
-八大第一,https://ali.hlspull.yximgs.com/live/3e4184f94c7fcefc9a3842166a09bf5b.flv
-八大戏剧,https://ali.hlspull.yximgs.com/live/bc40b9d829ba3fb77d5c30e6a3bbd152.flv
-八大精彩,https://ali.hlspull.yximgs.com/live/34b04bb5d78567f0f20e0e8725979e31.flv
-东森综合,https://ali.hlspull.yximgs.com/live/5f98470781a30baea9099c4392333880.flv
-东森超视,https://ali.hlspull.yximgs.com/live/e5d6192538d634d36c530393c5db8839.flv
-东森戏剧,https://ali.hlspull.yximgs.com/live/231ae31cb8f6eb5d3414852d669442c4.flv
-纬来综合,https://ali.hlspull.yximgs.com/live/410cadeccfbe2868d4a02ae830bcbf91.flv
-纬来戏剧,https://ali.hlspull.yximgs.com/live/940d41f54d4338ece70901ef63d212d1.flv
-纬来育乐,https://ali.hlspull.yximgs.com/live/f7725e9387a1c7f15b662bc43e7f4509.flv
-纬来日本,https://ali.hlspull.yximgs.com/live/c8c327cf3faf45f7ca65dc3da808fc6f.flv
-纬来体育,https://ali.hlspull.yximgs.com/live/836adfdf3032c713b6db235077eb0a87.flv
-龙华偶像,https://ali.hlspull.yximgs.com/live/46e0fecafd74b7e1bca2647777910a20.flv
-龙华戏剧,https://ali.hlspull.yximgs.com/live/d77f2dedb42a58612fdd9b0330c0e160.flv
-龙华电影,https://ali.hlspull.yximgs.com/live/4b3e769c549e751f696a08da1cb552b5.flv
-龙华卡通,https://ali.hlspull.yximgs.com/live/39cdc33bc65621da618c37378004235c.flv
-龙华经典,https://ali.hlspull.yximgs.com/live/265d70c2c8b2b1f5649d0218f132cff9.flv
-龙华洋片,https://ali.hlspull.yximgs.com/live/37600966017dfb2217c40d90d836dee8.flv
-爱尔达影剧,https://ali.hlspull.yximgs.com/live/dbb2b2e6ba0b1e31457241117dd5a0bd.flv
-爱尔达戏剧,https://ali.hlspull.yximgs.com/live/14050ba08d5d8e1f78e633116286e073.flv
+
+公视,https://ali.hlspull.yximgs.com/live/d054f2ba66e4f0b9a98db4fbd5ace4ab.flv
+
+TVBS,https://ali.hlspull.yximgs.com/live/1ce7e855b51360f0ad6b4139d81e1778.flv
+　　　　　
+中天综合,https://ali.hlspull.yximgs.com/live/29e5b1e6ef3325e12d9f234c7717f6a9.flv
+
+中天娱乐,https://ali.hlspull.yximgs.com/live/4460b02087c3d89ab8287ff4ad2e8b76.flv
+
+中天亚洲,https://ali.hlspull.yximgs.com/live/fd68332e8ae76053b744bb0df81706e5.flv
+
+八大综合,https://ali.hlspull.yximgs.com/live/e648028d361bf2e670f9eb661fda18a7.flv
+
+八大第一,https://ali.hlspull.yximgs.com/live/a1e4dbe28a578f7d7f267ee03d0ad373.flv
+
+八大戏剧,https://ali.hlspull.yximgs.com/live/e94cf481af3ff3457c6a7aa85acd8c04.flv
+
+八大精彩,https://ali.hlspull.yximgs.com/live/e1c47c7c241561628313586d8d155002.flv
+
+东森综合,https://ali.hlspull.yximgs.com/live/e5d6890fee45bc80f66664e16604e70b.flv
+
+东森超视,https://ali.hlspull.yximgs.com/live/aac3a071a7e083da451dd71eace319f0.flv
+
+东森戏剧,https://ali.hlspull.yximgs.com/live/098cf774bce804303045f1dc6c303fa9.flv
+
+
+
+纬来综合,https://ali.hlspull.yximgs.com/live/784fb70c3b808dfc9210e0c1f4f25fe1.flv
+
+
+
+纬来戏剧,https://ali.hlspull.yximgs.com/live/9247368620c4b9bee7df94da7b2bf444.flv
+
+纬来育乐,https://ali.hlspull.yximgs.com/live/5db7bdc287ed4521f5e1211bfc509410.flv
+
+纬来日本,https://ali.hlspull.yximgs.com/live/b739add43ac68337c7f85c8391054b62.flv
+
+纬来体育,https://ali.hlspull.yximgs.com/live/71df09084d05ebd5be5d2ee594edd95d.flv
+
+龙华偶像,https://ali.hlspull.yximgs.com/live/1be9cfe3afdb93c4b7a07ab401f460cb.flv
+
+龙华戏剧,https://ali.hlspull.yximgs.com/live/5a80389e573acbcbdeef9e81ad6ec1eb.flv
+
+龙华电影,https://ali.hlspull.yximgs.com/live/711c81422badd59e557406f3e9cc60a9.flv
+
+龙华卡通,https://ali.hlspull.yximgs.com/live/110e43083518ac08eb5470133cebf513.flv
+
+龙华经典,https://ali.hlspull.yximgs.com/live/3935b74075908df7ba431fce9598830e.flv
+
+龙华洋片,https://ali.hlspull.yximgs.com/live/923a79ed961d11a7789d648cc2dc57c2.flv
+
+爱尔达影剧,https://ali.hlspull.yximgs.com/live/a76262a8cb2240af2d8b117cd505080a.flv
+
+爱尔达戏剧,https://ali.hlspull.yximgs.com/live/7bbec891e74cf3116707a790730e2b16.flv
+
 靖天日本,https://ali.hlspull.yximgs.com/live/24051ad48574d4384e1ac164817db00d.flv
-靖天综合,https://ali.hlspull.yximgs.com/live/46d9b56033716d8a65ebab783f7fe743.flv
-靖天育乐,https://ali.hlspull.yximgs.com/live/684c31c4729c7590742a28b89d7fea90.flv
+
+靖天综合,https://ali.hlspull.yximgs.com/live/b84b11a98064ddd99aaa79b3fdb305a5.flv
+
+靖天育乐,https://ali.hlspull.yximgs.com/live/707baa22213e21a8a3b3b1c8bbf1a790.flv
+
 靖洋戏剧,https://ali.hlspull.yximgs.com/live/23cd719cc13917475de068c1970cccaa.flv
+
 靖洋卡通,https://ali.hlspull.yximgs.com/live/1135c59f4724a5a8891a25869f17e2db.flv
-台视综合,https://ali.hlspull.yximgs.com/live/afd56fe36bc11d95f00cbe9af1988880.flv
 
-好消息,https://ali.hlspull.yximgs.com/live/a23b77ce1c83cac0a4116c461c20f385.flv
+台视综合,https://ali.hlspull.yximgs.com/live/908da5aaf9682fee0dde951267fd29ad.flv
 
-好消息2,https://ali.hlspull.yximgs.com/live/b425b115e97e0e5157ac144d4b610e5b.flv
+好消息,https://ali.hlspull.yximgs.com/live/5ed074d344749435d33fd9cdda94130e.flv
 
-中天新闻,https://ali.hlspull.yximgs.com/live/97ec2ab227063e2c9d9288b0738cee80.flv
+好消息2,https://ali.hlspull.yximgs.com/live/d78ee1225a9943d47237d487c0332b77.flv
 
-东森新闻,https://ali.hlspull.yximgs.com/live/9672aad8b24806af9b9beb25f11b67da.flv
+中天新闻,https://ali.hlspull.yximgs.com/live/d97d9f8c0cc2a0650325cc986681b029.flv
 
-环宇新闻,https://ali.hlspull.yximgs.com/live/b27e8850e5412c93c71836012826bcde.flv
+东森新闻,https://ali.hlspull.yximgs.com/live/ca5ba2768667a28e7fdb2173d15a6270.flv
 
-华视新闻,https://ali.hlspull.yximgs.com/live/596bb3f2fec8fa0dadbec06f31da0408.flv
+环宇新闻,https://ali.hlspull.yximgs.com/live/9fa57e5ee6aef8b0e833cb5cbd121fb7.flv
 
-中视新闻,https://ali.hlspull.yximgs.com/live/9398d10b1beb0ac2198c4d3a913fe43c.flv
+华视新闻,https://ali.hlspull.yximgs.com/live/6b2fee13f2e1836f70516aa1de527bcd.flv
 
-台视新闻,https://ali.hlspull.yximgs.com/live/e4dba01286fe636f5144d32d216a2b5f.flv
+中视新闻,https://ali.hlspull.yximgs.com/live/a49710fd835215a8c017f43b4c2a35ad.flv
+
+台视新闻,https://ali.hlspull.yximgs.com/live/67e8e9dfe01579b27b983f4f1671f5f4.flv
 
 民视新闻,https://ali.hlspull.yximgs.com/live/3480b83912fbb00eb1a17b4ee7031185.flv
 
-TVBS新闻,https://ali.hlspull.yximgs.com/live/a8416166873cac0302bf4115e17734a7.flv
+TVBS新闻,https://ali.hlspull.yximgs.com/live/fa59fef067b03de6952fd80c1fe14bc3.flv
 
-三立新闻,https://ali.hlspull.yximgs.com/live/37467105095dbfcedc2d2f8fd3bdbf2f.flv
+三立新闻,https://ali.hlspull.yximgs.com/live/131ee6b22b79b2e4a8bbf2a2f5f0fd1f.flv
 
-年代新闻,https://ali.hlspull.yximgs.com/live/8db22557d9c71f4757a1f17824a38302.flv
+年代新闻,https://ali.hlspull.yximgs.com/live/a49b59742da42f7d40c8020d84131bab.flv
 
-壹新闻,https://ali.hlspull.yximgs.com/live/ad4962b232127c38cf744c040d5c0ad5.flv
+壹新闻,https://ali.hlspull.yximgs.com/live/87487e073e8729ad1bdb5431c7b837d1.flv
 
 
 
