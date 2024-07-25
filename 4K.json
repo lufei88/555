@@ -57,7 +57,7 @@
 
 
   {
-      "key": "腾讯4k",
+      "key": "腾讯4k",//蓝鹰
       "name": "🏆4k-vip²",
       "type": 3,
       "api": "csp_XBPQ",
@@ -70,13 +70,23 @@
 
 
 
-
+{
+      "key": "路人甲自建高清",//星光的
+      "name": "🏆4k-vip³",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/路人甲2k.json"
+    },
 
 
 
  {
-      "key": "0508甲",
-      "name": "🏆4k-vip³",      
+      "key": "0508甲",//蓝鹰
+      "name": "🏆4k-vip⁴",      
       "type": 3,     
       "api": "./js/qq4k.js",
       "ext": {    
@@ -95,8 +105,8 @@
 
 
 {
-      "key": "qq4k2",
-      "name": "🏆4k-vip⁴",
+      "key": "qq4k2",//蓝鹰
+      "name": "🏆4k-vip⁵",
       "type": 3,      
       "api": "./js/qq4k.js",
       "ext": { 
