@@ -5601,7 +5601,10 @@ mey green、bob garcia｜ is this love,https://15799848.s21v.faiusr.com/58/ABUIA
 
 
 
-
+TVB-PLUS,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6&fbl=$QWDX高清
+TVB-PLUS,http://tv.op6.top:1000/php/xgxl.php?id=62826&f49f54434808473=68af21a18461f8f&fbl=$XGXL超清
+TVB-PLUS,http://123.60.137.42:1000/php/httpplay.php?id=pl_gq&7b8b3bd4e61bff6=c294ac2fbb71c75&fbl=$GWXL高清
+TVB-PLUS,http://123.60.137.42:1000/php/httpplay.php?id=pl_cq&2d6768a0be07ba9=592c27e5ad43db4&fbl=$GWXL超清
 
 
 
