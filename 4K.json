@@ -77,13 +77,11 @@
  {
       "key": "0508甲",
       "name": "🏆4k-vip³",      
-      "type": 3,
-      //"api": "./js/tzdi.js",
+      "type": 3,     
       "api": "./js/qq4k.js",
-      "ext": {
-        //"host": "http://dh.li0580.com/api.php/app/",
+      "ext": {    
          
-         "host":" http://122.228.84.103:6118/api.php/app/",
+         "host":"http://st.jingyang.design:1105/api.php/app/",//蓝鹰自营
         "*": [
          // "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
          //"http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url="
@@ -101,16 +99,10 @@
       "name": "🏆4k-vip⁴",
       "type": 3,      
       "api": "./js/qq4k.js",
-      "ext": {
-
-        //"host": "http://122.228.84.103:5825/api.php/app/",
-
-        "host": "http://tx.jingyang.design:1102/api.php/app/",
-
-
+      "ext": { 
+        "host": "http://tx.jingyang.design:1102/api.php/app/",//蓝鹰腾讯4k        
         "*": [            
          // "https://ldhz.li0580.com//api/jsonindex.php/?key=7jaNh1pTt8L2YmleQw&url="  //星光影集解析
-
          "http://122.228.85.203:6789/api/?key=4ad1dbd25a4c3723d98aaff3ae2b8020&url="   //影酷解析
           
         ]
