@@ -5952,7 +5952,52 @@ super 电影,http://today.hslive.store/url/live.php?id=201
 203,http://today.hslive.store/url/live.php?id=203
 
 
+测试3,#genre#
+凤凰香港,http://123.60.137.42:1000/php/feng.php?id=phk&28bface45b392fc=22c6b7bd46490fa&fbl=$QWDX高清
+凤凰香港http://123.60.137.42:1000/php/hls_jydx.php?id=38&5e84bc1f08f6659=c3ccad4bbee1d53&fbl=$JYDX超清
+凤凰香港,http://tv.op6.top:1000/php/xgxl.php?id=62816&9820178d4148b02=22be37b2a95a465&fbl=$XGXL超清
+凤凰香港,http://123.60.137.42:1000/php/httpplay.php?id=fhxg_gq&c88bf56b2c189d7=0f77834d9e8bfe8&fbl=$GWXL高清
+凤凰香港,http://123.60.137.42:1000/php/httpplay.php?id=fhxg_cq&aef8774a8f22759=6177e31d850d7e7&fbl=$GWXL超清
 
+凤凰中文,http://123.60.137.42:1000/php/feng.php?id=pcc&cb15ff545de0351=093c064cbe9cdf6&fbl=$QWDX高清
+凤凰中文http://123.60.137.42:1000/php/otvcloud.php?id=52003&0dc2cbf0ca108a5=4342c99845c741f&fbl=$YFY标清
+凤凰中文,http://123.60.137.42:1000/php/gdwlcloud.php?id=3221226317&660dd34fb2a7ead=f0f6c33df45f514&fbl=$QLY标清
+凤凰中文http://123.60.137.42:1000/php/hls_jydx.php?id=37&469bbdfed564e0e=0da2723695fafcf&fbl=$JYDX超清
+凤凰中文http://123.60.137.42:1000/php/hls_jylt.php?id=29&8c08374725c6f23=99c80df8d348ea0&fbl=$JYLT标清
+凤凰中文,http://tv.op6.top:1000/php/xgxl.php?id=62830&48571308dea9299=f63f590c39a6abe&fbl=$XGXL高清
+凤凰中文,http://123.60.137.42:1000/php/httpplay.php?id=fhzw_gq&416c41147d77e2b=e8980ad7124ff9a&fbl=$GWXL高清
+凤凰中文,http://123.60.137.42:1000/php/httpplay.php?id=fhzw_cq&b0531fe8e8268b8=15d0c4099b6c057&fbl=$GWXL超清
 
+凤凰资讯,http://123.60.137.42:1000/php/feng.php?id=pin&a5bb3802fc8acd9=8413a3906783d46&fbl=$QWDX高清
+凤凰资讯http://123.60.137.42:1000/php/otvcloud.php?id=52002&b68095aa95e9726=df74a10acd6ae0d&fbl=$YFY标清
+凤凰资讯,http://123.60.137.42:1000/php/gdwlcloud.php?id=3221226320&66d683459583c95=25615b82eb8171d&fbl=$QLY标清
+凤凰资讯http://123.60.137.42:1000/php/hls_jydx.php?id=36&a8ae9433ea868fc=4d20825c5158c34&fbl=$JYDX超清
+凤凰资讯http://123.60.137.42:1000/php/hls_jylt.php?id=28&dab6d475e0657b6=f6af0191f11f492&fbl=$JYLT标清
+凤凰资讯,http://tv.op6.top:1000/php/xgxl.php?id=62829&c1e89e1432b16c9=9c7af5dce80ee62&fbl=$XGXL超清
+凤凰资讯,http://123.60.137.42:1000/php/httpplay.php?id=fhzx_gq&f991679051d028e=8a51414de4660d2&fbl=$GWXL高清
+凤凰资讯,http://123.60.137.42:1000/php/httpplay.php?id=fhzx_cq&576a0be5d51db65=1400df6cb3154bb&fbl=$GWXL超清
+
+TVB-翡翠http://123.60.137.42:1000/php/hls_jylt.php?id=25&8d90cc2cda1d595=0a3aced1095f822&fbl=$JYLT标清
+TVB-翡翠,http://tv.op6.top:1000/php/xgxl.php?id=62827&19b1aba72a1a6be=d9cc827885acd0b&fbl=$XGXL超清
+TVB-翡翠,http://123.60.137.42:1000/php/httpplay.php?id=fc_gq&e4bd4e60538935a=beb4309cbca17b4&fbl=$GWXL高清
+TVB-翡翠,http://123.60.137.42:1000/php/httpplay.php?id=fc_cq&3080429d758afba=65e902f58ab8197&fbl=$GWXL超清
+
+TVB-明珠,http://tv.op6.top:1000/php/xgxl.php?id=62823&a181391ddb60e46=43a09616e2a8ef5&fbl=$XGXL高清
+TVB-明珠,http://123.60.137.42:1000/php/httpplay.php?id=mz_gq&7d20ec101758cea=52efc6c62c89115&fbl=$GWXL高清
+TVB-明珠,http://123.60.137.42:1000/php/httpplay.php?id=mz_cq&ba6a350ee786003=3d4e8b7ac3bb513&fbl=$GWXL超清
+
+TVB-星河http://123.60.137.42:1000/php/hls_jydx.php?id=135&e00646a695d18d0=221f3905a855655&fbl=$JYDX超清
+TVB-星河http://123.60.137.42:1000/php/hls_jylt.php?id=26&50ff52677f0dddd=6fb5195d83a2ef4&fbl=$JYLT标清
+TVB-星河,http://123.60.137.42:1000/php/httpplay.php?id=xh_gq&5ac55cb5e629f63=09bee6ff1859756&fbl=$GWXL高清
+TVB-星河,http://123.60.137.42:1000/php/httpplay.php?id=xh_cq&8ba5432435dc8de=031f3f721dd1e46&fbl=$GWXL超清
+
+TVB-PLUS,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6&fbl=$QWDX高清
+TVB-PLUS,http://tv.op6.top:1000/php/xgxl.php?id=62826&f49f54434808473=68af21a18461f8f&fbl=$XGXL超清
+TVB-PLUS,http://123.60.137.42:1000/php/httpplay.php?id=pl_gq&7b8b3bd4e61bff6=c294ac2fbb71c75&fbl=$GWXL高清
+TVB-PLUS,http://123.60.137.42:1000/php/httpplay.php?id=pl_cq&2d6768a0be07ba9=592c27e5ad43db4&fbl=$GWXL超清
+
+TVB-无线新闻,http://tv.op6.top:1000/php/xgxl.php?id=62824&8a272b889b05621=a0157af1b3828ca&fbl=$XGXL高清
+TVB-无线新闻,http://123.60.137.42:1000/php/httpplay.php?id=wx_gq&9f2ffe6728c006d=8bf62e3054da4c3&fbl=$GWXL高清
+TVB-无线新闻,http://123.60.137.42:1000/php/httpplay.php?id=wx_cq&b4dc63954958d40=21b640e98834ab3&fbl=$GWXL超清
 
 
