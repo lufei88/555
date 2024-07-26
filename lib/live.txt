@@ -333,122 +333,138 @@ CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 
 
 
-凤凰中文,https://strie.petrel-live.xyz/live.m3u8?token=zYGVsgUn4&c=32
-凤凰资讯,https://strie.petrel-live.xyz/live.m3u8?token=bwOxMtb7X&c=1
-凤凰香港,https://strie.petrel-live.xyz/live.m3u8?token=CzmBEAyE3&c=34
-翡翠台,https://strie.petrel-live.xyz/live.m3u8?token=pAte21wYR&c=35
-翡翠华丽,https://strie.petrel-live.xyz/live.m3u8?token=KJExCSqp8&c=37
-明珠台,https://strie.petrel-live.xyz/live.m3u8?token=E7C0DZKb9&c=38
-TVB PLUS,https://strie.petrel-live.xyz/live.m3u8?token=R4DT4ZePE&c=39
-星河台,https://strie.petrel-live.xyz/live.m3u8?token=ucTuwaPXn&c=40
-千禧经典,https://strie.petrel-live.xyz/live.m3u8?token=8Ie_TttSv&c=41
-无线新闻,https://strie.petrel-live.xyz/live.m3u8?token=Ner8vraDG&c=42
-VivTV,https://strie.petrel-live.xyz/live.m3u8?token=c92VEO4kW&c=43
-RTHK31,https://strie.petrel-live.xyz/live.m3u8?token=O9kL6I1s8&c=45
-RTHK32,https://strie.petrel-live.xyz/live.m3u8?token=VHZEdl9Qp&c=46
-镜新闻,https://strie.petrel-live.xyz/live.m3u8?token=qse-RdzXI&c=95
-TVBS,https://strie.petrel-live.xyz/live.m3u8?token=_q6LzHhN8&c=89
-TVBS NEWS,https://strie.petrel-live.xyz/live.m3u8?token=WKbl58B70&c=4
-TVBS新闻,https://strie.petrel-live.xyz/live.m3u8?token=NVF6-OmvD&c=5
-台视新闻,https://strie.petrel-live.xyz/live.m3u8?token=acywMLPzL&c=74
-中视新闻,https://strie.petrel-live.xyz/live.m3u8?token=zT-xn4LBf&c=94
-民视新闻,https://strie.petrel-live.xyz/live.m3u8?token=K9j5zVIw_&c=113
-华视新闻,https://strie.petrel-live.xyz/live.m3u8?token=GKz396r0U&c=10
-公视新闻,https://strie.petrel-live.xyz/live.m3u8?token=Cx0X_Ib38&c=11
-东森新闻,https://strie.petrel-live.xyz/live.m3u8?token=Wl7mvQScR&c=12
-东森财经,https://strie.petrel-live.xyz/live.m3u8?token=NY5ka59n3&c=14
-中天新闻,https://strie.petrel-live.xyz/live.m3u8?token=VrXnv43ZO&c=15
-中天新闻2,https://strie.petrel-live.xyz/live.m3u8?token=I1_e-hQlB&c=16
-环宇新闻,https://strie.petrel-live.xyz/live.m3u8?token=PN7Adjije&c=17
-环宇财经,https://strie.petrel-live.xyz/live.m3u8?token=U8N6WaBXQ&c=18
-环宇新闻台湾,https://strie.petrel-live.xyz/live.m3u8?token=JcO9ymqvF&c=19
-三立LIVE,https://strie.petrel-live.xyz/live.m3u8?token=hSlkUTiRv&c=20
-三立INEWS,https://strie.petrel-live.xyz/live.m3u8?token=sEfbHSXSI&c=21
-三立INEWS+,https://strie.petrel-live.xyz/live.m3u8?token=g1pIwYmDe&c=22
-新唐人亚太,https://strie.petrel-live.xyz/live.m3u8?token=9_PvT4ATg&c=23
-韩国娱乐,https://strie.petrel-live.xyz/live.m3u8?token=AWrYQmbs6&c=26
-民视,https://strie.petrel-live.xyz/live.m3u8?token=gdznJgZUo&c=48
-民视台湾,https://strie.petrel-live.xyz/live.m3u8?token=NnXem2Qex&c=49
-民视第一台,https://strie.petrel-live.xyz/live.m3u8?token=-sAiu5TtJ&c=50
-民视综艺台,https://strie.petrel-live.xyz/live.m3u8?token=DG4eodfbg&c=52
-猪哥亮歌厅秀,https://strie.petrel-live.xyz/live.m3u8?token=cf9530xLh&c=53
-非凡新闻,https://strie.petrel-live.xyz/live.m3u8?token=as_Q7UA2i&c=55
-影迷数位,https://strie.petrel-live.xyz/live.m3u8?token=rTcaVpPfC&c=56
-视纳华仁纪实,https://strie.petrel-live.xyz/live.m3u8?token=bSHyYnmJD&c=57
-时尚运动,https://strie.petrel-live.xyz/live.m3u8?token=TbiLJjDVf&c=58
-GLOBETROTTER,https://strie.petrel-live.xyz/live.m3u8?token=JJmhm42Ff&c=59
-AMC电影,https://strie.petrel-live.xyz/live.m3u8?token=akEmxJMEK&c=60
-达文西,https://strie.petrel-live.xyz/live.m3u8?token=F8ln6Rokm&c=61
-八大精彩,https://strie.petrel-live.xyz/live.m3u8?token=kMKjPWZl9&c=62
-八大综艺,https://strie.petrel-live.xyz/live.m3u8?token=jDaS9VG9_&c=63
+凤凰中文,https://strie.petrel-live.xyz/live.m3u8?token=bNizCL9kG&c=1
+凤凰资讯,https://strie.petrel-live.xyz/live.m3u8?token=Ie9Lv2jOA&c=3
+凤凰香港,https://strie.petrel-live.xyz/live.m3u8?token=qfUYNaMVS&c=4       
+翡翠台,https://strie.petrel-live.xyz/live.m3u8?token=tsfpDcOlf&c=5
+翡翠华丽,https://strie.petrel-live.xyz/live.m3u8?token=lF-z_uvNQ&c=7
+明珠台,https://strie.petrel-live.xyz/live.m3u8?token=4UserBm5m&c=8
+TVB PLUS,https://strie.petrel-live.xyz/live.m3u8?token=vZM90KvWX&c=9
+星河台,https://strie.petrel-live.xyz/live.m3u8?token=peWlGxlme&c=10
+千禧经典,https://strie.petrel-live.xyz/live.m3u8?token=cBTuBZVDX&c=11
+无线新闻,https://strie.petrel-live.xyz/live.m3u8?token=vu5LwH25W&c=12
+VivTV,https://strie.petrel-live.xyz/live.m3u8?token=yn0hfUn88&c=13
+RTHK31,https://strie.petrel-live.xyz/live.m3u8?token=emjmXQSzU&c=14
+RTHK32,https://strie.petrel-live.xyz/live.m3u8?token=vRL9CzNVi&c=15
+大爱,https://strie.petrel-live.xyz/live.m3u8?token=0WHzf2j5j&c=16
+大家2,https://strie.petrel-live.xyz/live.m3u8?token=nWPj8j7hF&c=17
+好消息,https://strie.petrel-live.xyz/live.m3u8?token=I4jOBb1xr&c=18
+好消息2,https://strie.petrel-live.xyz/live.m3u8?token=_VEKfhLMX&c=19
+人间卫视,https://strie.petrel-live.xyz/live.m3u8?token=Jd9fRQZWv&c=20
+客家电视台,https://strie.petrel-live.xyz/live.m3u8?token=Wex4zwzCE&c=21
+原住民族,https://strie.petrel-live.xyz/live.m3u8?token=zefrvwhyZ&c=22
+台视,https://strie.petrel-live.xyz/live.m3u8?token=zs_bz7_f6&c=23
+台视新闻,https://strie.petrel-live.xyz/live.m3u8?token=ql7zX9FeD&c=25
+台视财经,https://strie.petrel-live.xyz/live.m3u8?token=dpq2yf3P3&c=26
+中视,https://strie.petrel-live.xyz/live.m3u8?token=IZtql0OmT&c=27
+中视新闻,https://strie.petrel-live.xyz/live.m3u8?token=JLkBZa8nf&c=30
+中视经典,https://strie.petrel-live.xyz/live.m3u8?token=V3gp6i14m&c=31
+中视菁采,https://strie.petrel-live.xyz/live.m3u8?token=_5Td0kSwZ&c=32
+
+民视,https://strie.petrel-live.xyz/live.m3u8?token=UQP4QwiUr&c=33
+民视新闻,https://strie.petrel-live.xyz/live.m3u8?token=2Hm9sKNTJ&c=34
+民视台湾,https://strie.petrel-live.xyz/live.m3u8?token=xXMpBJZdm&c=36
+民视第一,https://strie.petrel-live.xyz/live.m3u8?token=bmZ7Df-h3&c=37
+民视综艺,https://strie.petrel-live.xyz/live.m3u8?token=maPr4N6a_&c=38
+民视影剧,https://strie.petrel-live.xyz/live.m3u8?token=bkQSQbXaY&c=39
+民视旅游,https://strie.petrel-live.xyz/live.m3u8?token=im51xEowf&c=40
+华视,https://strie.petrel-live.xyz/live.m3u8?token=BRqdoJPAI&c=41
+华视新闻,https://strie.petrel-live.xyz/live.m3u8?token=CkEK5O4mM&c=42
+公视新闻,https://strie.petrel-live.xyz/live.m3u8?token=NHzeETqYu&c=44
+TVBS,https://strie.petrel-live.xyz/live.m3u8?token=aO9S001Yk&c=45
+TVBS NEWS,https://strie.petrel-live.xyz/live.m3u8?token=KFdBgdLdR&c=47
+TVBS新闻,https://strie.petrel-live.xyz/live.m3u8?token=zCcN3UwkC&c=48
+TVBS精采,https://strie.petrel-live.xyz/live.m3u8?token=tJLx0oSib&c=50
+TVBS欢乐,https://strie.petrel-live.xyz/live.m3u8?token=EQ3HbAWqW&c=51
+TVBS综艺,https://strie.petrel-live.xyz/live.m3u8?token=XuqgTzsSe&c=52
+TVBS台剧,https://strie.petrel-live.xyz/live.m3u8?token=AidKtEWQo&c=53
+东森live,https://strie.petrel-live.xyz/live.m3u8?token=SMA-moZS_&c=55
+东森新闻,
+东森财经,https://strie.petrel-live.xyz/live.m3u8?token=5OsIsNrDE&c=57
+镜新闻,https://strie.petrel-live.xyz/live.m3u8?token=4pSDvAMUC&c=59
+中天新闻,https://strie.petrel-live.xyz/live.m3u8?token=DckCy3DiI&c=63
+中天新闻2,https://strie.petrel-live.xyz/live.m3u8?token=ymfHVYYpM&c=64
+中天亚洲台,https://strie.petrel-live.xyz/live.m3u8?token=ymfHVYYpM&c=64
+环宇新闻,https://strie.petrel-live.xyz/live.m3u8?token=EFgQfjpiJ&c=65
+环宇新闻台湾,https://strie.petrel-live.xyz/live.m3u8?token=JYF1-2Xg5&c=67
+环宇财经,https://strie.petrel-live.xyz/live.m3u8?token=qt-6qL9vW&c=69
+非凡新闻,https://strie.petrel-live.xyz/live.m3u8?token=Ppu0TVT0_&c=71
+非凡商业,https://strie.petrel-live.xyz/live.m3u8?token=E6mXYMCto&c=72
+三立LIVE,https://strie.petrel-live.xyz/live.m3u8?token=VkFfxz5RG&c=73
+三立INEWS,https://strie.petrel-live.xyz/live.m3u8?token=O76hMYvHk&c=74
+三立INEWS+,https://strie.petrel-live.xyz/live.m3u8?token=yHX4XRxyW&c=75
+新唐人亚太,https://strie.petrel-live.xyz/live.m3u8?token=Ty108GIBe&c=78
+第一商业台,https://strie.petrel-live.xyz/live.m3u8?token=HqBJAmeqR&c=79
+cnbc asia财经,https://strie.petrel-live.xyz/live.m3u8?token=rvMusebhW&c=80
+BLOOMBERT TV,https://strie.petrel-live.xyz/live.m3u8?token=x4QpPThXW&c=81
+美国之音,https://strie.petrel-live.xyz/live.m3u8?token=SkwcLA151&c=82
+德国之音,https://strie.petrel-live.xyz/live.m3u8?token=7Rq1HrZtw&c=83
+全球财经,
+半鸟新闻,https://strie.petrel-live.xyz/live.m3u8?token=I3QPCgyDP&c=85
+八大精彩,https://strie.petrel-live.xyz/live.m3u8?token=zxsQ4lvlW&c=86
+八大综艺,https://strie.petrel-live.xyz/live.m3u8?token=7gUaNr6kd&c=87
 
 
 
-
-
-中视,https://strie.petrel-live.xyz/live.m3u8?token=KFeFdEDVj&c=64
-华视新闻,https://strie.petrel-live.xyz/live.m3u8?token=SAi5tR-Nd&c=65
-公视戏剧,https://strie.petrel-live.xyz/live.m3u8?token=G0zQ8x1iz&c=66
-客家电视,https://strie.petrel-live.xyz/live.m3u8?token=Zk04s-Kvk&c=67
-靖天卡通,https://strie.petrel-live.xyz/live.m3u8?token=xkuL9s2jZ&c=68
-靖洋戏剧,https://strie.petrel-live.xyz/live.m3u8?token=zPIFMZyw9&c=69
-靖天综合,https://strie.petrel-live.xyz/live.m3u8?token=5SEd81zW6&c=70
-靖天日本,https://strie.petrel-live.xyz/live.m3u8?token=9bghwJAMh&c=71
-非凡商业,https://strie.petrel-live.xyz/live.m3u8?token=RJdORGDj4&c=72
-采昌影剧,https://strie.petrel-live.xyz/live.m3u8?token=BidNKFrzS&c=73
-GINXTV,https://strie.petrel-live.xyz/live.m3u8?token=vyjFXh6rj&c=76
-靖天欢乐,https://strie.petrel-live.xyz/live.m3u8?token=vVYfFArAJ&c=77
-靖天映画,https://strie.petrel-live.xyz/live.m3u8?token=gFvPgwLki&c=78
-台视财经,https://strie.petrel-live.xyz/live.m3u8?token=-tHRJJCGh&c=79
-靖洋卡通,https://strie.petrel-live.xyz/live.m3u8?token=8mgh8By6Y&c=80
-靖天戏剧,https://strie.petrel-live.xyz/live.m3u8?token=d5NOCjGPe&c=81
-古典音乐,https://strie.petrel-live.xyz/live.m3u8?token=fOdfTQYtT&c=82
-靖天电影,https://strie.petrel-live.xyz/live.m3u8?token=qnoibatQg&c=83
-靖天育乐,https://strie.petrel-live.xyz/live.m3u8?token=alXMsZ2gP&c=84
-靖天国际,https://strie.petrel-live.xyz/live.m3u8?token=gYUSxGrNx&c=85
-中视菁采,https://strie.petrel-live.xyz/live.m3u8?token=CgGvp7i47&c=86
-靖天资讯,https://strie.petrel-live.xyz/live.m3u8?token=RoWgTsJkQ&c=87
-台视,https://strie.petrel-live.xyz/live.m3u8?token=sEPqtDtQJ&c=88
-TVBS新闻台,https://strie.petrel-live.xyz/live.m3u8?token=gpOjOaT2k&c=90
-TVBS精采台,https://strie.petrel-live.xyz/live.m3u8?token=re-N7beUY&c=91
-TVBS欢乐台,https://strie.petrel-live.xyz/live.m3u8?token=OB4_K0xuG&c=92
-爱尔达娱乐,https://strie.petrel-live.xyz/live.m3u8?token=iLjyiFZwh&c=93
-CATCHPLAY电影台,https://strie.petrel-live.xyz/live.m3u8?token=47mg9iDZv&c=96
-TRACE SPORT STARS,https://strie.petrel-live.xyz/live.m3u8?token=pkZ08zJOE&c=97
-阿里郎,https://strie.petrel-live.xyz/live.m3u8?token=JiwVJxlmR&c=98
-中视经典,https://strie.petrel-live.xyz/live.m3u8?token=4fZLV63lc&c=99
-TRACE URBAN,https://strie.petrel-live.xyz/live.m3u8?token=qVj0UiwXy&c=100
-MEZZO LIVE,https://strie.petrel-live.xyz/live.m3u8?token=pxM96TqYW&c=101
-智林体育,https://strie.petrel-live.xyz/live.m3u8?token=4tS4VVlGo&c=102
-国际财经,https://strie.petrel-live.xyz/live.m3u8?token=1yb6P9N1j&c=103
-中天亚洲台,https://strie.petrel-live.xyz/live.m3u8?token=pV79tith_&c=104
-东森新闻,https://strie.petrel-live.xyz/live.m3u8?token=lZtP1UNGO&c=105
-民视台湾,https://strie.petrel-live.xyz/live.m3u8?token=EQ8maLeo-&c=108
-美国之音,https://strie.petrel-live.xyz/live.m3u8?token=ph8S2nGoX&c=109
-民视旅游,https://strie.petrel-live.xyz/live.m3u8?token=Ezdqyfn64&c=110
-民视影剧,https://strie.petrel-live.xyz/live.m3u8?token=Zu0HWIsh7&c=111
-半鸟新闻,https://strie.petrel-live.xyz/live.m3u8?token=UTfwzg5fP&c=112
-爱放动漫,https://strie.petrel-live.xyz/live.m3u8?token=SF7Iw5DFY&c=114
-好消息,https://strie.petrel-live.xyz/live.m3u8?token=B9U3MKNHV&c=115
-好消息2,https://strie.petrel-live.xyz/live.m3u8?token=HgaMmE4fr&c=116
-龙华卡通,https://strie.petrel-live.xyz/live.m3u8?token=y_dTKgQbO&c=117
-龙华电影,https://strie.petrel-live.xyz/live.m3u8?token=X1O2tQYqH&c=118
-博斯魅力,https://strie.petrel-live.xyz/live.m3u8?token=oQEwZdlXg&c=119
-博斯高球1,https://strie.petrel-live.xyz/live.m3u8?token=DqZzHo51q&c=120
-博斯高球2,https://strie.petrel-live.xyz/live.m3u8?token=1l3a_hxjt&c=121
-博斯运动1,https://strie.petrel-live.xyz/live.m3u8?token=U4y06J8NX&c=122
-博斯运动2,https://strie.petrel-live.xyz/live.m3u8?token=_NmyISj_v&c=123
-博斯网球,https://strie.petrel-live.xyz/live.m3u8?token=6-Te182Uw&c=124
-博斯无限,https://strie.petrel-live.xyz/live.m3u8?token=o_zq1BvY9&c=125
-博斯无限2,https://strie.petrel-live.xyz/live.m3u8?token=YYOSnrzEB&c=126
-龙华日韩,https://strie.petrel-live.xyz/live.m3u8?token=2UIwCuaEq&c=127
-龙华偶像,https://strie.petrel-live.xyz/live.m3u8?token=qI8xg2HXy&c=128
-亚洲旅游,https://strie.petrel-live.xyz/live.m3u8?token=0jInI0OQO&c=131
-龙华戏剧,https://strie.petrel-live.xyz/live.m3u8?token=bZMpcIU-k&c=132
-smart知识,https://strie.petrel-live.xyz/live.m3u8?token=LBeq9NNDg&c=133
-生活英语,https://strie.petrel-live.xyz/live.m3u8?token=hkfZj0jpV&c=134
-龙华经典,https://strie.petrel-live.xyz/live.m3u8?token=Za0kYyKbq&c=135
-台湾戏剧,https://strie.petrel-live.xyz/live.m3u8?token=CASF4wTO3&c=136
+靖天综合,https://strie.petrel-live.xyz/live.m3u8?token=v9zpbpblW&c=88
+靖天资讯,https://strie.petrel-live.xyz/live.m3u8?token=rSs6SpAMj&c=89
+靖天国际,https://strie.petrel-live.xyz/live.m3u8?token=aiM28oP66&c=90
+靖天欢乐,https://strie.petrel-live.xyz/live.m3u8?token=Mjr9aAken&c=91
+靖天戏剧,https://strie.petrel-live.xyz/live.m3u8?token=jVLCwb0y0&c=92
+靖天日本,https://strie.petrel-live.xyz/live.m3u8?token=-XrBOqN5E&c=93
+靖天电影,https://strie.petrel-live.xyz/live.m3u8?token=HnjajvIWt&c=94
+靖天映画,https://strie.petrel-live.xyz/live.m3u8?token=P_wkG940u&c=95
+靖天卡通,https://strie.petrel-live.xyz/live.m3u8?token=iNG8ILb9Q&c=96
+靖天育乐,https://strie.petrel-live.xyz/live.m3u8?token=r4VlxG11t&c=97
+龙华日韩,https://strie.petrel-live.xyz/live.m3u8?token=CiCgos0tS&c=98
+龙华偶像,https://strie.petrel-live.xyz/live.m3u8?token=mPyLJGLRu&c=99
+龙华经典,https://strie.petrel-live.xyz/live.m3u8?token=1gxTRpoJD&c=100
+龙华电影,https://strie.petrel-live.xyz/live.m3u8?token=R-aQEqe4U&c=101
+龙华卡通,https://strie.petrel-live.xyz/live.m3u8?token=syuUniGUb&c=102
+龙华戏剧,https://strie.petrel-live.xyz/live.m3u8?token=weDOv0i-M&c=103
+靖洋戏剧,https://strie.petrel-live.xyz/live.m3u8?token=SfCXIyCEe&c=104
+靖洋卡通,https://strie.petrel-live.xyz/live.m3u8?token=tI73PdQt5&c=138
+ELTA娱乐台,https://strie.petrel-live.xyz/live.m3u8?token=zgmwgEjvH&c=106
+ELTA生活旅游,https://strie.petrel-live.xyz/live.m3u8?token=4-jz9Vtdn&c=107
+ELTA生活英语,https://strie.petrel-live.xyz/live.m3u8?token=WK_sLy5tO&c=108
+亚洲旅游,https://strie.petrel-live.xyz/live.m3u8?token=sFVPf53zs&c=109
+ginx esports tv,https://strie.petrel-live.xyz/live.m3u8?token=HJi_TdFsP&c=110
+techstorm,https://strie.petrel-live.xyz/live.m3u8?token=_06PA3lvB&c=111
+影迷纪实,https://strie.petrel-live.xyz/live.m3u8?token=nqXlRsnDa&c=112
+AMC电影,https://strie.petrel-live.xyz/live.m3u8?token=GbNHDrrD3&c=113
+CATCHPLAY电影台,https://strie.petrel-live.xyz/live.m3u8?token=t_dEAYm4f&c=114
+my cinema europe,https://strie.petrel-live.xyz/live.m3u8?token=7Kb6CAm9G&c=115
+公视戏剧,https://strie.petrel-live.xyz/live.m3u8?token=9iZTTNLR8&c=116
+采昌影剧,https://strie.petrel-live.xyz/live.m3u8?token=-GUgoAbU-&c=117
+台湾戏剧,https://strie.petrel-live.xyz/live.m3u8?token=6YMZnUfLv&c=118
+免费戏剧,https://strie.petrel-live.xyz/live.m3u8?token=OQmTzUi4u&c=119
+免费戏剧2,https://strie.petrel-live.xyz/live.m3u8?token=GchpnRyZk&c=120
+经典电影,https://strie.petrel-live.xyz/live.m3u8?token=FYRqtlW3b&c=121
+免费电影,https://strie.petrel-live.xyz/live.m3u8?token=Y92L2ofSV&c=122
+电影原声,https://strie.petrel-live.xyz/live.m3u8?token=NlJrA-EaB&c=123
+花系列,https://strie.petrel-live.xyz/live.m3u8?token=g3Zvdh_P7&c=124
+cinemaworl,https://strie.petrel-live.xyz/live.m3u8?token=Z5OO5db8Q&c=125
+hits频道,https://strie.petrel-live.xyz/live.m3u8?token=8hkaXLMcX&c=126
+rock action,https://strie.petrel-live.xyz/live.m3u8?token=7apaQFtvl&c=127
+rock entertainment,https://strie.petrel-live.xyz/live.m3u8?token=JMyTb2hlm&c=128
+金光布袋戏,https://strie.petrel-live.xyz/live.m3u8?token=X_fNVaJKO&c=129
+布袋戏,https://strie.petrel-live.xyz/live.m3u8?token=qW7PPtaFX&c=130
+dreamworks,https://strie.petrel-live.xyz/live.m3u8?token=N-11VO9-c&c=131
+nickelodeon,https://strie.petrel-live.xyz/live.m3u8?token=AwcsTSehP&c=132
+nick jr,https://strie.petrel-live.xyz/live.m3u8?token=DAe7fqlGm&c=133
+i-fun动漫,https://strie.petrel-live.xyz/live.m3u8?token=9a45OHjT7&c=134
+儿童卡通,https://strie.petrel-live.xyz/live.m3u8?token=TR-tt18p6&c=135
+精选动漫,https://strie.petrel-live.xyz/live.m3u8?token=kIiypUrQi&c=136
+达文西,https://strie.petrel-live.xyz/live.m3u8?token=1g8lhgYqB&c=137
+奥特曼,https://strie.petrel-live.xyz/live.m3u8?token=tI73PdQt5&c=138
+momo亲子,https://strie.petrel-live.xyz/live.m3u8?token=SsJBljpzg&c=139
+liveabc,https://strie.petrel-live.xyz/live.m3u8?token=HOfjFM1B3&c=140
+classica,https://strie.petrel-live.xyz/live.m3u8?token=ghEALEEio&c=141
+lifetime,https://strie.petrel-live.xyz/live.m3u8?token=gzUVONql4&c=142
+mtv live,https://strie.petrel-live.xyz/live.m3u8?token=MZa5ptP1t&c=143
+mezzo live,https://strie.petrel-live.xyz/live.m3u8?token=C6m_yVYDz&c=144
+猪哥亮歌厅秀,https://strie.petrel-live.xyz/live.m3u8?token=j3DJPk8qN&c=145
+韩国娱乐,https://strie.petrel-live.xyz/live.m3u8?token=Y-EfM000V&c=146
 
 
 
