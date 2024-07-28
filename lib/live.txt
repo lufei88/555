@@ -391,6 +391,130 @@ AMC电影频道,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 
+
+
+中天新闻,http://extraott.com:80/live/7921751389/6097373662/5553.m3u8
+环宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
+年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
+TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+EYE戏剧,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
+阿里郎,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
+中天亚洲台,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
+爱尔达影剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+卡通,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
+EYE旅游台,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
+民视,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
+民视台湾台,http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
+台视财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
+龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
+年代电视,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
+三立都会,http://extraott.com:80/live/7921751389/6097373662/5506.m3u8
+三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
+三立戏剧,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
+三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
+台视,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
+台视综合台,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
+TVBS,http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
+龙华电影,http://extraott.com:80/live/7921751389/6097373662/5488.m3u8
+纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
+纬来精彩,http://extraott.com:80/live/7921751389/6097373662/5494.m3u8
+纬来体育,http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
+纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
+纬来戏剧,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
+纬来电影,http://extraott.com:80/live/7921751389/6097373662/5493.m3u8
+东风37,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
+民视第一,http://extraott.com:80/live/7921751389/6097373662/5517.m3u8
+靖天国际,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
+YOYO TV,http://extraott.com:80/live/7921751389/6097373662/473533.m3u8
+SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
+天下卫视,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/473537.m3u8
+东森美洲,http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
+ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8
+东森美洲戏剧,http://extraott.com:80/live/7921751389/6097373662/473540.m3u8
+
+
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+民视闽南台,rtmp://f13h.mine.nu/sat/tv051
+中视闽南台,rtmp://f13h.mine.nu/sat/tv091
+台视闽南台,rtmp://f13h.mine.nu/sat/tv071
+华视闽南台,rtmp://f13h.mine.nu/sat/tv111
+东森超视台,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+纬来日本台,rtmp://f13h.mine.nu/sat/tv771
+纬来日本备,https://bsex.serv00.net/Smart.php?id=videolandjapan
+纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
+纬来体育台,rtmp://f13h.mine.nu/sat/tv721
+纬来体育备,https://bsex.serv00.net/Smart.php?id=videolandsport
+ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
+
+
+TVBS　NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+
+
+
+
+中视新闻,rtmp://220.130.201.73/sat/tv091
+华视新闻,rtmp://220.130.201.73/sat/tv111
+台视新闻,rtmp://220.130.201.73/sat/tv071
+民视新闻,rtmp://220.130.201.73/sat/tv051
+伟来体育,rtmp://220.130.201.73/sat/tv721
+伟来育乐,rtmp://220.130.201.73/sat/tv701
+伟来日本,rtmp://220.130.201.73/sat/tv771
+东森超视,rtmp://220.130.201.73/sat/tv331
+
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+MOMO综合,rtmp://f13h.mine.nu/sat/tv761
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+伟来体育,rtmp://f13h.mine.nu/sat/tv721
+伟来日本,rtmp://f13h.mine.nu/sat/tv771
+伟来育乐,rtmp://f13h.mine.nu/sat/tv701
+伟来体育,rtmp://f13h.mine.nu/sat/tv721
+伟来来育乐,rtmp://f13h.mine.nu/sat/tv701
+伟来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
 民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
 民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
@@ -486,116 +610,11 @@ momo,http://37.27.111.214:8080/live/3/hls.m3u8
 
 
 
-中天新闻,http://extraott.com:80/live/7921751389/6097373662/5553.m3u8
-环宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
-台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
-年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
-民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
-TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
-EYE戏剧,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
-阿里郎,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
-中天亚洲台,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
-爱尔达影剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
-卡通,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
-EYE旅游台,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
-民视,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
-民视台湾台,http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
-台视财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
-龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
-年代电视,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
-三立都会,http://extraott.com:80/live/7921751389/6097373662/5506.m3u8
-三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
-三立戏剧,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
-三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
-台视,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
-台视综合台,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
-TVBS,http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
-龙华电影,http://extraott.com:80/live/7921751389/6097373662/5488.m3u8
-纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
-纬来精彩,http://extraott.com:80/live/7921751389/6097373662/5494.m3u8
-纬来体育,http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
-纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
-纬来戏剧,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
-纬来电影,http://extraott.com:80/live/7921751389/6097373662/5493.m3u8
-东风37,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
-民视第一,http://extraott.com:80/live/7921751389/6097373662/5517.m3u8
-靖天国际,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
-YOYO TV,http://extraott.com:80/live/7921751389/6097373662/473533.m3u8
-SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
-天下卫视,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
-台视新闻,http://extraott.com:80/live/7921751389/6097373662/473537.m3u8
-东森美洲,http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
-ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8
-东森美洲戏剧,http://extraott.com:80/live/7921751389/6097373662/473540.m3u8
-
-
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-民视闽南台,rtmp://f13h.mine.nu/sat/tv051
-中视闽南台,rtmp://f13h.mine.nu/sat/tv091
-台视闽南台,rtmp://f13h.mine.nu/sat/tv071
-华视闽南台,rtmp://f13h.mine.nu/sat/tv111
-东森超视台,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-纬来日本台,rtmp://f13h.mine.nu/sat/tv771
-纬来日本备,https://bsex.serv00.net/Smart.php?id=videolandjapan
-纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
-纬来体育台,rtmp://f13h.mine.nu/sat/tv721
-纬来体育备,https://bsex.serv00.net/Smart.php?id=videolandsport
-ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 
 
 
 
-TVBS　NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
-
-
-
-中视新闻,rtmp://220.130.201.73/sat/tv091
-华视新闻,rtmp://220.130.201.73/sat/tv111
-台视新闻,rtmp://220.130.201.73/sat/tv071
-民视新闻,rtmp://220.130.201.73/sat/tv051
-伟来体育,rtmp://220.130.201.73/sat/tv721
-伟来育乐,rtmp://220.130.201.73/sat/tv701
-伟来日本,rtmp://220.130.201.73/sat/tv771
-东森超视,rtmp://220.130.201.73/sat/tv331
-
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-MOMO综合,rtmp://f13h.mine.nu/sat/tv761
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-伟来体育,rtmp://f13h.mine.nu/sat/tv721
-伟来日本,rtmp://f13h.mine.nu/sat/tv771
-伟来育乐,rtmp://f13h.mine.nu/sat/tv701
-伟来体育,rtmp://f13h.mine.nu/sat/tv721
-伟来来育乐,rtmp://f13h.mine.nu/sat/tv701
-伟来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 
 
