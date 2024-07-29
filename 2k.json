@@ -150,6 +150,20 @@
 
 
 
+{
+      "key": "星光路人甲MG",
+      "name": "🏆星光路人甲MG",
+      "type": 3,      
+      "api": "./js/qq4k.js",
+      "ext": {
+      
+        "host": "http://mg.jingyang.design:1106/api.php/app/",//星光路人甲MG
+        "*": [            
+          //"http://122.228.84.103:5829/txqe/?url="
+          "http://ysyjx.jingyang.design/api/?key=RDdLeEOeGnNxHppyyy&url=" //影酷自建高清 关注公众号路人防失   
+        ]
+      }
+    },
 
 
 
