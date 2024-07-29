@@ -151,7 +151,7 @@
         "host": "http://guan.jingyang.design:1101/api.php/app/",//星光官采HDR-HD 爱奇艺
         "*": [            
           //"http://122.228.84.103:5829/txqe/?url="
-          "http://ysyjx.jingyang.design/api/?key=RDdLeEOeGnNxHppyyy&url=" //影酷自建高清 关注公众号路人防失   
+          "https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url=" //星光  
         ]
       }
     },
