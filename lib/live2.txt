@@ -733,220 +733,10 @@ http://livetv.skycf.eu.org/live.m3u8?c=3
 
 
 
+
+
+
 [港•澳•台快速],#genre#
-HOY77,http://today.hslive.store/url/live.php?id=1
-翡翠台,http://today.hslive.store/url/live.php?id=2
-明珠台,http://today.hslive.store/url/live.php?id=3
-星河台,http://today.hslive.store/url/live.php?id=4
-J2,http://today.hslive.store/url/live.php?id=5
-SUPER1,http://today.hslive.store/url/live.php?id=6
-SUPER2,http://today.hslive.store/url/live.php?id=7
-SUPER3,http://today.hslive.store/url/live.php?id=8
-美亚电影,http://today.hslive.store/url/live.php?id=9
-娱乐新闻,http://today.hslive.store/url/live.php?id=10
-SUPER4,http://today.hslive.store/url/live.php?id=11
-亚洲武侠,http://today.hslive.store/url/live.php?id=12
-无线新闻,http://today.hslive.store/url/live.php?id=13
-ELTA体育4,http://today.hslive.store/url/live.php?id=14
-HOY78,http://today.hslive.store/url/live.php?id=15
-HOY76,http://today.hslive.store/url/live.php?id=16
-澳门莲花,http://today.hslive.store/url/live.php?id=17
-18,http://today.hslive.store/url/live.php?id=18
-viu,http://today.hslive.store/url/live.php?id=19
-viu6,http://today.hslive.store/url/live.php?id=20
-now新闻,http://today.hslive.store/url/live.php?id=21
-nowsports1,http://today.hslive.store/url/live.php?id=22
-now财经,http://today.hslive.store/url/live.php?id=23
-super娱乐,http://today.hslive.store/url/live.php?id=24
-super 儿童,http://today.hslive.store/url/live.php?id=25
-三立都会,http://today.hslive.store/url/live.php?id=26
-now直播,http://today.hslive.store/url/live.php?id=27
-黄金华剧,http://today.hslive.store/url/live.php?id=28
-RHK31,http://today.hslive.store/url/live.php?id=29
-RHK32,http://today.hslive.store/url/live.php?id=30
-欢乐台,http://today.hslive.store/url/live.php?id=31
-中天娱乐,http://today.hslive.store/url/live.php?id=32
-中天综合,http://today.hslive.store/url/live.php?id=33
-中天亚洲,http://today.hslive.store/url/live.php?id=34
-中视,http://today.hslive.store/url/live.php?id=35
-民视,http://today.hslive.store/url/live.php?id=36
-民视台湾,http://today.hslive.store/url/live.php?id=37
-华视,http://today.hslive.store/url/live.php?id=38
-公视,http://today.hslive.store/url/live.php?id=39
-八大第一台,http://today.hslive.store/url/live.php?id=40
-八大综合,http://today.hslive.store/url/live.php?id=41
-八大戏剧,http://today.hslive.store/url/live.php?id=42
-八大精彩,http://today.hslive.store/url/live.php?id=43
-三立台湾,http://today.hslive.store/url/live.php?id=44
-民视第一,http://today.hslive.store/url/live.php?id=45
-三立综合,http://today.hslive.store/url/live.php?id=46
-三立戏剧,http://today.hslive.store/url/live.php?id=47
-东森综合,http://today.hslive.store/url/live.php?id=48
-东森超视,http://today.hslive.store/url/live.php?id=49
-龙华戏剧,http://today.hslive.store/url/live.php?id=50
-龙华经典,http://today.hslive.store/url/live.php?id=51
-龙华偶像,http://today.hslive.store/url/live.php?id=52
-靖天国际,http://today.hslive.store/url/live.php?id=53
-纬来日本,http://today.hslive.store/url/live.php?id=54
-靖天卡通,http://today.hslive.store/url/live.php?id=55
-Korea,http://today.hslive.store/url/live.php?id=56
-ELTA影剧,http://today.hslive.store/url/live.php?id=57
-纬来体育,http://today.hslive.store/url/live.php?id=58
-DAZN1,http://today.hslive.store/url/live.php?id=59
-DAZN2,http://today.hslive.store/url/live.php?id=60
-博斯运动1,http://today.hslive.store/url/live.php?id=61
-博斯运动2,http://today.hslive.store/url/live.php?id=62
-博斯高球1,http://today.hslive.store/url/live.php?id=63
-博斯运动2,http://today.hslive.store/url/live.php?id=64
-博斯网球,http://today.hslive.store/url/live.php?id=65
-SPORTS1,http://today.hslive.store/url/live.php?id=66
-SPORTS2,http://today.hslive.store/url/live.php?id=67
-68,http://today.hslive.store/url/live.php?id=68
-SPORTSBOOK,http://today.hslive.store/url/live.php?id=69
-EUROSPORT1,http://today.hslive.store/url/live.php?id=70
-SN,http://today.hslive.store/url/live.php?id=71
-TSN1,http://today.hslive.store/url/live.php?id=72
-TSN2,http://today.hslive.store/url/live.php?id=73
-TSN3,http://today.hslive.store/url/live.php?id=74
-THE BIG IVENT,http://today.hslive.store/url/live.php?id=75
-76,http://today.hslive.store/url/live.php?id=76
-Z,http://today.hslive.store/url/live.php?id=77
-GOLF,http://today.hslive.store/url/live.php?id=78
-TNT SPORTS1,http://today.hslive.store/url/live.php?id=79
-TNT SPORTS2,http://today.hslive.store/url/live.php?id=80
-TNT SPORTS3,http://today.hslive.store/url/live.php?id=81
-82,http://today.hslive.store/url/live.php?id=82
-astro arena1,http://today.hslive.store/url/live.php?id=83
-astro arena2,http://today.hslive.store/url/live.php?id=84
-astro arena3,http://today.hslive.store/url/live.php?id=85
-fox,http://today.hslive.store/url/live.php?id=86
-champlons,http://today.hslive.store/url/live.php?id=87
-博斯无限1,http://today.hslive.store/url/live.php?id=88
-博斯无限2,http://today.hslive.store/url/live.php?id=89
-90,http://today.hslive.store/url/live.php?id=90
-ufc,http://today.hslive.store/url/live.php?id=91
-premiersports,http://today.hslive.store/url/live.php?id=92
-nba,http://today.hslive.store/url/live.php?id=93
-sky sports,http://today.hslive.store/url/live.php?id=94
-95,http://today.hslive.store/url/live.php?id=95
-hbo,http://today.hslive.store/url/live.php?id=96
-hbo ignature,http://today.hslive.store/url/live.php?id=97
-hbo hits,http://today.hslive.store/url/live.php?id=98
-hbo family,http://today.hslive.store/url/live.php?id=99
-好莱坞电影,http://today.hslive.store/url/live.php?id=100
-cinemax,http://today.hslive.store/url/live.php?id=101
-AXN,http://today.hslive.store/url/live.php?id=102
-纬来电影,http://today.hslive.store/url/live.php?id=103
-东森电影,http://today.hslive.store/url/live.php?id=104
-东森洋片,http://today.hslive.store/url/live.php?id=105
-东森戏剧,http://today.hslive.store/url/live.php?id=106
-龙华洋片,http://today.hslive.store/url/live.php?id=107
-龙祥时代,http://today.hslive.store/url/live.php?id=108
-私人影院,http://today.hslive.store/url/live.php?id=109
-天映频道,http://today.hslive.store/url/live.php?id=110
-天映经典,http://today.hslive.store/url/live.php?id=111
-龙华电影,http://today.hslive.store/url/live.php?id=112
-美亚电影,http://today.hslive.store/url/live.php?id=113
-采昌,http://today.hslive.store/url/live.php?id=114
-电影台,http://today.hslive.store/url/live.php?id=115
-MOVIES NOW,http://today.hslive.store/url/live.php?id=116
-ASTRO,http://today.hslive.store/url/live.php?id=117
-KIX,http://today.hslive.store/url/live.php?id=118
-WB,http://today.hslive.store/url/live.php?id=119
-壹电视,http://today.hslive.store/url/live.php?id=120
-thrill,http://today.hslive.store/url/live.php?id=121
-HITS MOVIES,http://today.hslive.store/url/live.php?id=122
-tv电影,http://today.hslive.store/url/live.php?id=123
-FAEE,http://today.hslive.store/url/live.php?id=124
-美食星球,http://today.hslive.store/url/live.php?id=125
-动物星球,http://today.hslive.store/url/live.php?id=126
-探索科学,http://today.hslive.store/url/live.php?id=127
-DMAX,http://today.hslive.store/url/live.php?id=128
-SCI,http://today.hslive.store/url/live.php?id=129
-discovery,http://today.hslive.store/url/live.php?id=130
-亚洲旅游,http://today.hslive.store/url/live.php?id=131
-crime investi,http://today.hslive.store/url/live.php?id=132
-tlc,http://today.hslive.store/url/live.php?id=133
-mtv,http://today.hslive.store/url/live.php?id=134
-bbc,http://today.hslive.store/url/live.php?id=135
-h history,http://today.hslive.store/url/live.php?id=136
-bbc first,http://today.hslive.store/url/live.php?id=137
-hgtv,http://today.hslive.store/url/live.php?id=138
-tvbs新闻,http://today.hslive.store/url/live.php?id=139
-TVBS HD,http://today.hslive.store/url/live.php?id=140
-中天新闻,http://today.hslive.store/url/live.php?id=141
-中天儿童,http://today.hslive.store/url/live.php?id=142
-中视新闻,http://today.hslive.store/url/live.php?id=143
-民视新闻,http://today.hslive.store/url/live.php?id=144
-东森LIVE,http://today.hslive.store/url/live.php?id=145
-东森财经,http://today.hslive.store/url/live.php?id=146
-环宇新闻,http://today.hslive.store/url/live.php?id=147
-环宇新闻,http://today.hslive.store/url/live.php?id=148
-台视新闻,http://today.hslive.store/url/live.php?id=149
-壹新闻,http://today.hslive.store/url/live.php?id=150
-sky,http://today.hslive.store/url/live.php?id=151
-三立新闻,http://today.hslive.store/url/live.php?id=152
-华视新闻,http://today.hslive.store/url/live.php?id=153
-非凡新闻,http://today.hslive.store/url/live.php?id=154
-年代新闻,http://today.hslive.store/url/live.php?id=155
-newslive,http://today.hslive.store/url/live.php?id=156
-cbs news,http://today.hslive.store/url/live.php?id=157
-环宇新闻台湾,http://today.hslive.store/url/live.php?id=158
-arts24,http://today.hslive.store/url/live.php?id=159
-dw,http://today.hslive.store/url/live.php?id=160
-cnn live,http://today.hslive.store/url/live.php?id=161
-162,http://today.hslive.store/url/live.php?id=162
-bbc news,http://today.hslive.store/url/live.php?id=163
-164,http://today.hslive.store/url/live.php?id=164
-cgtn,http://today.hslive.store/url/live.php?id=165
-jastream,http://today.hslive.store/url/live.php?id=166
-RT,http://today.hslive.store/url/live.php?id=167
-nhk world,http://today.hslive.store/url/live.php?id=168
-fox raw,http://today.hslive.store/url/live.php?id=169
-新唐人,http://today.hslive.store/url/live.php?id=170
-华藏,http://today.hslive.store/url/live.php?id=171
-Z GOLF,http://today.hslive.store/url/live.php?id=172
-rob strano,http://today.hslive.store/url/live.php?id=173
-onegolf,http://today.hslive.store/url/live.php?id=174
-ASTRO AEC,http://today.hslive.store/url/live.php?id=175
-176,http://today.hslive.store/url/live.php?id=176
-ASTRO QJ,http://today.hslive.store/url/live.php?id=177
-华丽翡翠,http://today.hslive.store/url/live.php?id=178
-astro aod,http://today.hslive.store/url/live.php?id=179
-SPOTV2,http://today.hslive.store/url/live.php?id=180
-
-凤凰中文,http://today.hslive.store/url/live.php?id=182
-凤凰资讯,http://today.hslive.store/url/live.php?id=183
-凤凰香港,http://today.hslive.store/url/live.php?id=184
-cn卡通,http://today.hslive.store/url/live.php?id=185
-now星影台,http://today.hslive.store/url/live.php?id=186
-now爆谷,http://today.hslive.store/url/live.php?id=187
-ELAT体育1,http://today.hslive.store/url/live.php?id=188
-ELAT体育2,http://today.hslive.store/url/live.php?id=189
-ELAT体3,http://today.hslive.store/url/live.php?id=190
-yoyo,http://today.hslive.store/url/live.php?id=191
-mutv,http://today.hslive.store/url/live.php?id=192
-viu,http://today.hslive.store/url/live.php?id=193
-now sports prime,http://today.hslive.store/url/live.php?id=194
-三立新闻,http://today.hslive.store/url/live.php?id=195
-sky sports,http://today.hslive.store/url/live.php?id=196
-locky688,http://today.hslive.store/url/live.php?id=197
-千禧经典,http://today.hslive.store/url/live.php?id=198
-公视3,http://today.hslive.store/url/live.php?id=199
-super 戏剧,http://today.hslive.store/url/live.php?id=200
-super 电影,http://today.hslive.store/url/live.php?id=201
-明珠 drama,http://today.hslive.store/url/live.php?id=202
-203,http://today.hslive.store/url/live.php?id=203
-
-
-
-
-
-
-
-
-
-[港•澳•台快速备用],#genre#
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -1015,7 +805,7 @@ CNN新闻,http://8.137.59.151:3000/laoshu.php?key=hello&id=57
 
 
 
-[港•澳•台快速备用2],#genre#
+[港•澳•台快速2],#genre#
 
 凤凰资讯,https://ali.hlspull.yximgs.com/live/df6760b43bc00d886d181780598b5309.flv
 
@@ -5974,6 +5764,216 @@ TVB-PLUS,http://tv.op6.top:1000/php/xgxl.php?id=62826&f49f54434808473=68af21a184
 TVB-PLUS,http://123.60.137.42:1000/php/httpplay.php?id=pl_gq&7b8b3bd4e61bff6=c294ac2fbb71c75&fbl=$GWXL高清
 TVB-PLUS,http://123.60.137.42:1000/php/httpplay.php?id=pl_cq&2d6768a0be07ba9=592c27e5ad43db4&fbl=$GWXL超清
 
+
+
+
+
+
+
+[测试5],#genre#
+HOY77,http://today.hslive.store/url/live.php?id=1
+翡翠台,http://today.hslive.store/url/live.php?id=2
+明珠台,http://today.hslive.store/url/live.php?id=3
+星河台,http://today.hslive.store/url/live.php?id=4
+J2,http://today.hslive.store/url/live.php?id=5
+SUPER1,http://today.hslive.store/url/live.php?id=6
+SUPER2,http://today.hslive.store/url/live.php?id=7
+SUPER3,http://today.hslive.store/url/live.php?id=8
+美亚电影,http://today.hslive.store/url/live.php?id=9
+娱乐新闻,http://today.hslive.store/url/live.php?id=10
+SUPER4,http://today.hslive.store/url/live.php?id=11
+亚洲武侠,http://today.hslive.store/url/live.php?id=12
+无线新闻,http://today.hslive.store/url/live.php?id=13
+ELTA体育4,http://today.hslive.store/url/live.php?id=14
+HOY78,http://today.hslive.store/url/live.php?id=15
+HOY76,http://today.hslive.store/url/live.php?id=16
+澳门莲花,http://today.hslive.store/url/live.php?id=17
+18,http://today.hslive.store/url/live.php?id=18
+viu,http://today.hslive.store/url/live.php?id=19
+viu6,http://today.hslive.store/url/live.php?id=20
+now新闻,http://today.hslive.store/url/live.php?id=21
+nowsports1,http://today.hslive.store/url/live.php?id=22
+now财经,http://today.hslive.store/url/live.php?id=23
+super娱乐,http://today.hslive.store/url/live.php?id=24
+super 儿童,http://today.hslive.store/url/live.php?id=25
+三立都会,http://today.hslive.store/url/live.php?id=26
+now直播,http://today.hslive.store/url/live.php?id=27
+黄金华剧,http://today.hslive.store/url/live.php?id=28
+RHK31,http://today.hslive.store/url/live.php?id=29
+RHK32,http://today.hslive.store/url/live.php?id=30
+欢乐台,http://today.hslive.store/url/live.php?id=31
+中天娱乐,http://today.hslive.store/url/live.php?id=32
+中天综合,http://today.hslive.store/url/live.php?id=33
+中天亚洲,http://today.hslive.store/url/live.php?id=34
+中视,http://today.hslive.store/url/live.php?id=35
+民视,http://today.hslive.store/url/live.php?id=36
+民视台湾,http://today.hslive.store/url/live.php?id=37
+华视,http://today.hslive.store/url/live.php?id=38
+公视,http://today.hslive.store/url/live.php?id=39
+八大第一台,http://today.hslive.store/url/live.php?id=40
+八大综合,http://today.hslive.store/url/live.php?id=41
+八大戏剧,http://today.hslive.store/url/live.php?id=42
+八大精彩,http://today.hslive.store/url/live.php?id=43
+三立台湾,http://today.hslive.store/url/live.php?id=44
+民视第一,http://today.hslive.store/url/live.php?id=45
+三立综合,http://today.hslive.store/url/live.php?id=46
+三立戏剧,http://today.hslive.store/url/live.php?id=47
+东森综合,http://today.hslive.store/url/live.php?id=48
+东森超视,http://today.hslive.store/url/live.php?id=49
+龙华戏剧,http://today.hslive.store/url/live.php?id=50
+龙华经典,http://today.hslive.store/url/live.php?id=51
+龙华偶像,http://today.hslive.store/url/live.php?id=52
+靖天国际,http://today.hslive.store/url/live.php?id=53
+纬来日本,http://today.hslive.store/url/live.php?id=54
+靖天卡通,http://today.hslive.store/url/live.php?id=55
+Korea,http://today.hslive.store/url/live.php?id=56
+ELTA影剧,http://today.hslive.store/url/live.php?id=57
+纬来体育,http://today.hslive.store/url/live.php?id=58
+DAZN1,http://today.hslive.store/url/live.php?id=59
+DAZN2,http://today.hslive.store/url/live.php?id=60
+博斯运动1,http://today.hslive.store/url/live.php?id=61
+博斯运动2,http://today.hslive.store/url/live.php?id=62
+博斯高球1,http://today.hslive.store/url/live.php?id=63
+博斯运动2,http://today.hslive.store/url/live.php?id=64
+博斯网球,http://today.hslive.store/url/live.php?id=65
+SPORTS1,http://today.hslive.store/url/live.php?id=66
+SPORTS2,http://today.hslive.store/url/live.php?id=67
+68,http://today.hslive.store/url/live.php?id=68
+SPORTSBOOK,http://today.hslive.store/url/live.php?id=69
+EUROSPORT1,http://today.hslive.store/url/live.php?id=70
+SN,http://today.hslive.store/url/live.php?id=71
+TSN1,http://today.hslive.store/url/live.php?id=72
+TSN2,http://today.hslive.store/url/live.php?id=73
+TSN3,http://today.hslive.store/url/live.php?id=74
+THE BIG IVENT,http://today.hslive.store/url/live.php?id=75
+76,http://today.hslive.store/url/live.php?id=76
+Z,http://today.hslive.store/url/live.php?id=77
+GOLF,http://today.hslive.store/url/live.php?id=78
+TNT SPORTS1,http://today.hslive.store/url/live.php?id=79
+TNT SPORTS2,http://today.hslive.store/url/live.php?id=80
+TNT SPORTS3,http://today.hslive.store/url/live.php?id=81
+82,http://today.hslive.store/url/live.php?id=82
+astro arena1,http://today.hslive.store/url/live.php?id=83
+astro arena2,http://today.hslive.store/url/live.php?id=84
+astro arena3,http://today.hslive.store/url/live.php?id=85
+fox,http://today.hslive.store/url/live.php?id=86
+champlons,http://today.hslive.store/url/live.php?id=87
+博斯无限1,http://today.hslive.store/url/live.php?id=88
+博斯无限2,http://today.hslive.store/url/live.php?id=89
+90,http://today.hslive.store/url/live.php?id=90
+ufc,http://today.hslive.store/url/live.php?id=91
+premiersports,http://today.hslive.store/url/live.php?id=92
+nba,http://today.hslive.store/url/live.php?id=93
+sky sports,http://today.hslive.store/url/live.php?id=94
+95,http://today.hslive.store/url/live.php?id=95
+hbo,http://today.hslive.store/url/live.php?id=96
+hbo ignature,http://today.hslive.store/url/live.php?id=97
+hbo hits,http://today.hslive.store/url/live.php?id=98
+hbo family,http://today.hslive.store/url/live.php?id=99
+好莱坞电影,http://today.hslive.store/url/live.php?id=100
+cinemax,http://today.hslive.store/url/live.php?id=101
+AXN,http://today.hslive.store/url/live.php?id=102
+纬来电影,http://today.hslive.store/url/live.php?id=103
+东森电影,http://today.hslive.store/url/live.php?id=104
+东森洋片,http://today.hslive.store/url/live.php?id=105
+东森戏剧,http://today.hslive.store/url/live.php?id=106
+龙华洋片,http://today.hslive.store/url/live.php?id=107
+龙祥时代,http://today.hslive.store/url/live.php?id=108
+私人影院,http://today.hslive.store/url/live.php?id=109
+天映频道,http://today.hslive.store/url/live.php?id=110
+天映经典,http://today.hslive.store/url/live.php?id=111
+龙华电影,http://today.hslive.store/url/live.php?id=112
+美亚电影,http://today.hslive.store/url/live.php?id=113
+采昌,http://today.hslive.store/url/live.php?id=114
+电影台,http://today.hslive.store/url/live.php?id=115
+MOVIES NOW,http://today.hslive.store/url/live.php?id=116
+ASTRO,http://today.hslive.store/url/live.php?id=117
+KIX,http://today.hslive.store/url/live.php?id=118
+WB,http://today.hslive.store/url/live.php?id=119
+壹电视,http://today.hslive.store/url/live.php?id=120
+thrill,http://today.hslive.store/url/live.php?id=121
+HITS MOVIES,http://today.hslive.store/url/live.php?id=122
+tv电影,http://today.hslive.store/url/live.php?id=123
+FAEE,http://today.hslive.store/url/live.php?id=124
+美食星球,http://today.hslive.store/url/live.php?id=125
+动物星球,http://today.hslive.store/url/live.php?id=126
+探索科学,http://today.hslive.store/url/live.php?id=127
+DMAX,http://today.hslive.store/url/live.php?id=128
+SCI,http://today.hslive.store/url/live.php?id=129
+discovery,http://today.hslive.store/url/live.php?id=130
+亚洲旅游,http://today.hslive.store/url/live.php?id=131
+crime investi,http://today.hslive.store/url/live.php?id=132
+tlc,http://today.hslive.store/url/live.php?id=133
+mtv,http://today.hslive.store/url/live.php?id=134
+bbc,http://today.hslive.store/url/live.php?id=135
+h history,http://today.hslive.store/url/live.php?id=136
+bbc first,http://today.hslive.store/url/live.php?id=137
+hgtv,http://today.hslive.store/url/live.php?id=138
+tvbs新闻,http://today.hslive.store/url/live.php?id=139
+TVBS HD,http://today.hslive.store/url/live.php?id=140
+中天新闻,http://today.hslive.store/url/live.php?id=141
+中天儿童,http://today.hslive.store/url/live.php?id=142
+中视新闻,http://today.hslive.store/url/live.php?id=143
+民视新闻,http://today.hslive.store/url/live.php?id=144
+东森LIVE,http://today.hslive.store/url/live.php?id=145
+东森财经,http://today.hslive.store/url/live.php?id=146
+环宇新闻,http://today.hslive.store/url/live.php?id=147
+环宇新闻,http://today.hslive.store/url/live.php?id=148
+台视新闻,http://today.hslive.store/url/live.php?id=149
+壹新闻,http://today.hslive.store/url/live.php?id=150
+sky,http://today.hslive.store/url/live.php?id=151
+三立新闻,http://today.hslive.store/url/live.php?id=152
+华视新闻,http://today.hslive.store/url/live.php?id=153
+非凡新闻,http://today.hslive.store/url/live.php?id=154
+年代新闻,http://today.hslive.store/url/live.php?id=155
+newslive,http://today.hslive.store/url/live.php?id=156
+cbs news,http://today.hslive.store/url/live.php?id=157
+环宇新闻台湾,http://today.hslive.store/url/live.php?id=158
+arts24,http://today.hslive.store/url/live.php?id=159
+dw,http://today.hslive.store/url/live.php?id=160
+cnn live,http://today.hslive.store/url/live.php?id=161
+162,http://today.hslive.store/url/live.php?id=162
+bbc news,http://today.hslive.store/url/live.php?id=163
+164,http://today.hslive.store/url/live.php?id=164
+cgtn,http://today.hslive.store/url/live.php?id=165
+jastream,http://today.hslive.store/url/live.php?id=166
+RT,http://today.hslive.store/url/live.php?id=167
+nhk world,http://today.hslive.store/url/live.php?id=168
+fox raw,http://today.hslive.store/url/live.php?id=169
+新唐人,http://today.hslive.store/url/live.php?id=170
+华藏,http://today.hslive.store/url/live.php?id=171
+Z GOLF,http://today.hslive.store/url/live.php?id=172
+rob strano,http://today.hslive.store/url/live.php?id=173
+onegolf,http://today.hslive.store/url/live.php?id=174
+ASTRO AEC,http://today.hslive.store/url/live.php?id=175
+176,http://today.hslive.store/url/live.php?id=176
+ASTRO QJ,http://today.hslive.store/url/live.php?id=177
+华丽翡翠,http://today.hslive.store/url/live.php?id=178
+astro aod,http://today.hslive.store/url/live.php?id=179
+SPOTV2,http://today.hslive.store/url/live.php?id=180
+
+凤凰中文,http://today.hslive.store/url/live.php?id=182
+凤凰资讯,http://today.hslive.store/url/live.php?id=183
+凤凰香港,http://today.hslive.store/url/live.php?id=184
+cn卡通,http://today.hslive.store/url/live.php?id=185
+now星影台,http://today.hslive.store/url/live.php?id=186
+now爆谷,http://today.hslive.store/url/live.php?id=187
+ELAT体育1,http://today.hslive.store/url/live.php?id=188
+ELAT体育2,http://today.hslive.store/url/live.php?id=189
+ELAT体3,http://today.hslive.store/url/live.php?id=190
+yoyo,http://today.hslive.store/url/live.php?id=191
+mutv,http://today.hslive.store/url/live.php?id=192
+viu,http://today.hslive.store/url/live.php?id=193
+now sports prime,http://today.hslive.store/url/live.php?id=194
+三立新闻,http://today.hslive.store/url/live.php?id=195
+sky sports,http://today.hslive.store/url/live.php?id=196
+locky688,http://today.hslive.store/url/live.php?id=197
+千禧经典,http://today.hslive.store/url/live.php?id=198
+公视3,http://today.hslive.store/url/live.php?id=199
+super 戏剧,http://today.hslive.store/url/live.php?id=200
+super 电影,http://today.hslive.store/url/live.php?id=201
+明珠 drama,http://today.hslive.store/url/live.php?id=202
+203,http://today.hslive.store/url/live.php?id=203
 
 
 
