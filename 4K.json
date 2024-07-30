@@ -140,6 +140,33 @@
 
 
 
+http://xmy.jingyang.design:1103/api.php/app/nav?token=
+
+
+
+
+
+{
+      "key": "星光蓝光HDR-A",//星光蓝光HDR-A
+      "name": "🏆4k-vip7",
+      "type": 3,      
+      "api": "./js/qq4k.js",
+      "ext": {
+      
+        "host": "http://xmy.jingyang.design:1103/api.php/app/",//星光蓝光HDR-A
+        "*": [            
+          //"http://122.228.84.103:5829/txqe/?url="
+          //"http://ysyjx.jingyang.design/api/?key=RDdLeEOeGnNxHppyyy&url=" //影酷自建高清 关注公众号路人防失  
+          "http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=" 
+        ]
+      }
+    },
+
+
+
+
+
+
 
 
 /*{
