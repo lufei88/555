@@ -31,6 +31,34 @@
 
 
 
+
+
+
+
+
+
+
+
+   {
+      "key": "影酷锐星4Ｋ",
+      "name": "🕵锐星4Ｋ",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.173.115.204:5566/api.php/app/"
+    },
+
+
+
+
+
+
+
+
+
 {
   "key": "腾讯",
   "name": "🥈腾讯",
