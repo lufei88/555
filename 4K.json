@@ -130,7 +130,8 @@
         "host": "http://mg.jingyang.design:1106/api.php/app/",//星光官采HDR-MG  芒果
         "*": [            
           //"http://122.228.84.103:5829/txqe/?url="
-          "http://ysyjx.jingyang.design/api/?key=RDdLeEOeGnNxHppyyy&url=" //影酷自建高清 关注公众号路人防失   
+          //"http://ysyjx.jingyang.design/api/?key=RDdLeEOeGnNxHppyyy&url=" //影酷自建高清 关注公众号路人防失  
+          "http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=" 
         ]
       }
     },
