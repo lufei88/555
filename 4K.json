@@ -42,14 +42,23 @@
 
 {
   "key": "腾讯",
-  "name": "🏆4k-vip¹",
+  "name": "🏆4k-vip1",
   "type": 3,
   "api": "./js2/drpy2.min.js",
   "ext": "./lib/腾讯22.js"
   },
 
 
-
+{
+      "key": "drpy_腾讯",
+      "name": "🏆4k-vip2",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/txqq.js"
+    },
 
 
 
@@ -57,7 +66,7 @@
 
   {
       "key": "腾讯4k",//蓝鹰
-      "name": "🏆4k-vip²",
+      "name": "🏆4k-vip3",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0629.jar",
@@ -71,7 +80,7 @@
 
 {
       "key": "路人甲自建高清",//星光的
-      "name": "🏆4k-vip³",
+      "name": "🏆4k-vip4",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0629.jar",
@@ -85,7 +94,7 @@
 
  {
       "key": "0508甲",//蓝鹰
-      "name": "🏆4k-vip⁴",      
+      "name": "🏆4k-vip5",      
       "type": 3,     
       "api": "./js/qq4k.js",
       "ext": {    
@@ -105,7 +114,7 @@
 
 {
       "key": "qq4k2",//蓝鹰
-      "name": "🏆4k-vip⁵",
+      "name": "🏆4k-vip6",
       "type": 3,      
       "api": "./js/qq4k.js",
       "ext": { 
