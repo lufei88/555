@@ -450,7 +450,7 @@
 
 {
   "key": "芒果",
-  "name": "🥈2k-VIP¹",
+  "name": "🥈2k-VIP1",
   "type": 3,
   "api": "./js2/drpy2.min.js",  
   "searchable": 1,
@@ -460,13 +460,22 @@
   },
 
 
-
+{
+      "key": "爱奇异",
+      "name": "🥈2k-VIP2",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/iqy.js"
+    },
 
 
 
 {
       "key": "cjzy_360资源",
-      "name": "🥈2k-VIP²",
+      "name": "🥈2k-VIP3",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "playUrl": "",
@@ -512,7 +521,7 @@
 
 {
       "key":"农民影视",
-      "name":"🥈2k-VIP³",
+      "name":"🥈2k-VIP4",
       "type":3,
       "api":"csp_WexNmys",
       "searchable":1,
@@ -525,7 +534,7 @@
 
     {
       "key": "看看影视",
-      "name": "🥈2k-VIP⁴",
+      "name": "🥈2k-VIP5",
       "type": 3,
       "api": "csp_WebIV",
       "searchable": 1,
@@ -561,7 +570,7 @@
 
  {
       "key": "360",
-      "name": "🥈2k-VIP⁵",
+      "name": "🥈2k-VIP6",
       "type": 1,
       //"api": " http://liu.li0580.com:5365/api.php/provide/vod/",
       "api": "http://liu.li0580.com:7785/api.php/provide/vod/",      
@@ -601,7 +610,7 @@
 
   {
       "key": "tz66",
-      "name": "🥈2k-VIP⁶",
+      "name": "🥈2k-VIP7",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -614,7 +623,7 @@
 
   {
       "key": "路人甲",
-      "name": "🥈2k-VIP⁷",
+      "name": "🥈2k-VIP8",
       "type": 1,
       "api": "http://xysjtv.yy365.vip/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -633,7 +642,7 @@
 
 {
       "key": "saohuo",
-      "name": "🥈2k-VIP⁸",//小米 骚火
+      "name": "🥈2k-VIP9",//小米 骚火
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -670,7 +679,7 @@
 
 {
   "key": "NanGua",  
-  "name": "🥈2k-VIP⁹",
+  "name": "🥈2k-VIP10",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -709,7 +718,7 @@
 
 {
   "key": "优酷",
-  "name": "🥈2k-VIP¹⁰",  
+  "name": "🥈2k-VIP11",  
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "searchable": 1,
@@ -741,23 +750,14 @@
 
 
 
-{
-      "key": "爱奇异",
-      "name": "🥈2k-VIP13",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/iqy.js"
-    },
+
 
  
 
 
   {
       "key": "tz01",
-      "name": "🥈2k-VIP¹¹",
+      "name": "🥈2k-VIP12",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz.jar",
@@ -770,7 +770,7 @@
 
    {
       "key": "csp_味精自营",
-      "name": "🥈2k-VIP¹²",
+      "name": "🥈2k-VIP13",
       "type": 1,
       "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
       "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
