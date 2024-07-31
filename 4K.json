@@ -63,7 +63,6 @@
 
 
 
-
   {
       "key": "腾讯4k",//蓝鹰
       "name": "🏆4k-vip3",
@@ -126,6 +125,38 @@
         ]
       }
     },
+
+
+
+{
+      "key": "影酷锐星4k",//影酷锐星4k
+      "name": "🏆4k-vip7",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/影酷星光4k.json"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
