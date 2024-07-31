@@ -42,9 +42,8 @@
 
 "线路二次截取":"vod_url_with_player\":\\[{&&}\\][替换:\"code\":\">>\"code\":\"题]",
 
-"线路数组":"\"code\":\"&&,[替换:qq>>天招4KVIP]",
-
-"线路标题":"题&&\"",
+"线路数组":"\"code\":\"&&,[替换:qq>>天招4k#ST4K>>天招4K2#mgtv>>天招蓝光#NBY>>天招速播#gzsp>>天招超清]",
+"线路标题":"题&&\"[排序:天招4k>天招4K2>天招超清>天招蓝光>天招速播]",
 
 "播放二次截取":"vod_url_with_player\":\\[{&&}\\]",
 
@@ -57,8 +56,8 @@
 "播放链接":"urlDecode(接&&接)",
 
 //"解析":"默认$http://qq4k.jingyang.design/api/?key=jMyWlgJaouTA98vZ91&url=",
-"解析":"默认$https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url=",//星光4K
-
+"解析":"默认$https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url=#天招超清$http://122.228.85.203:6789/api/?key=ef85144acb75a2bf9a651df1d4587107&url=#默认2$http://ysyjx.jingyang.design/api/?key=51pOIIsS9cPMQriY23&url=",//星光4K
+//默认是星光4k  天招超清是影酷4k  默认2影酷HDR超级解析
 
 
 
