@@ -120,8 +120,8 @@
         "host": "http://tx.jingyang.design:1102/api.php/app/",//蓝鹰腾讯4k        
         "*": [            
          // "https://ldhz.li0580.com//api/jsonindex.php/?key=7jaNh1pTt8L2YmleQw&url="  //星光影集解析
-         "http://122.228.85.203:6789/api/?key=ef85144acb75a2bf9a651df1d4587107&url="   //影酷解析
-          
+         //"http://122.228.85.203:6789/api/?key=ef85144acb75a2bf9a651df1d4587107&url="   //影酷解析
+          "http://qq4k.jingyang.design/api/?key=AydpYbSBnYJBG7Y4AJ&url="//蓝鹰4k
         ]
       }
     },
