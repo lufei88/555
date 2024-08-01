@@ -1206,6 +1206,54 @@ CN卡通,http://aa3.kkwk111.top/Smartv.php?id=momo1_twn
 
 
 
+体育频道,#genre#
+广东体育,http://8.134.82.80:777/666/666.php?id=271
+纬来体育,http://8.134.82.80:777/666/666.php?id=272
+爱尔达体育1,http://8.134.82.80:777/666/666.php?id=273
+爱尔达体育2,http://8.134.82.80:777/666/666.php?id=274
+爱尔达体育3,http://8.134.82.80:777/666/666.php?id=275
+爱尔达体育4,http://8.134.82.80:777/666/666.php?id=276
+博斯高球,http://8.134.82.80:777/666/666.php?id=277
+博斯高球2,http://8.134.82.80:777/666/666.php?id=278
+博斯运动,http://8.134.82.80:777/666/666.php?id=279
+博斯运动2,http://8.134.82.80:777/666/666.php?id=280
+博斯无限,http://8.134.82.80:777/666/666.php?id=281
+博斯无限2,http://8.134.82.80:777/666/666.php?id=282
+博斯网球,http://8.134.82.80:777/666/666.php?id=283
+博斯魅力,http://8.134.82.80:777/666/666.php?id=284
+skymoto,http://8.134.82.80:777/666/666.php?id=285
+skynba,http://8.134.82.80:777/666/666.php?id=286
+NBATV,http://8.134.82.80:777/666/666.php?id=287
+EUROSPORT,http://8.134.82.80:777/666/666.php?id=288
+FOXSPORT1,http://8.134.82.80:777/666/666.php?id=291
+FOXSPORT2,http://8.134.82.80:777/666/666.php?id=292
+FIGHT,http://8.134.82.80:777/666/666.php?id=293
+WWE,http://8.134.82.80:777/666/666.php?id=294
+ARENABLOA,http://8.134.82.80:777/666/666.php?id=295
+ARENABLOA2,http://8.134.82.80:777/666/666.php?id=296
+ASTROARENA,http://8.134.82.80:777/666/666.php?id=297
+ASTROARENA2,http://8.134.82.80:777/666/666.php?id=298
+LOVENATURE4K,http://8.134.82.80:777/666/666.php?id=299
+GLOBATREKKER,http://8.134.82.80:777/666/666.php?id=300
+NOWPRIME,http://8.134.82.80:777/666/666.php?id=257
+BEINSPORTS,http://8.134.82.80:777/666/666.php?id=258
+BEINSPORTS2,http://8.134.82.80:777/666/666.php?id=259
+BEINSPORTS3,http://8.134.82.80:777/666/666.php?id=260
+BEINSPORTS4,http://8.134.82.80:777/666/666.php?id=261
+ASTROSPORT1,http://8.134.82.80:777/666/666.php?id=262
+ASTROSPORT2,http://8.134.82.80:777/666/666.php?id=263
+ASTROSPORT3,http://8.134.82.80:777/666/666.php?id=264
+ASTROSPORT4,http://8.134.82.80:777/666/666.php?id=265
+ASTROCRICKER,http://8.134.82.80:777/666/666.php?id=266
+PREMIERSPORTS,http://8.134.82.80:777/666/666.php?id=267
+WSPORT,http://8.134.82.80:777/666/666.php?id=268
+NBCGOIF,http://8.134.82.80:777/666/666.php?id=269
+MUTV,http://8.134.82.80:777/666/666.php?id=270
+TNTSPORTS,http://8.134.82.80:777/666/666.php?id=354
+TNTSPORTS2,http://8.134.82.80:777/666/666.php?id=355
+TNTSPORTS3,http://8.134.82.80:777/666/666.php?id=356
+TNTSPORTS4,http://8.134.82.80:777/666/666.php?id=357
+
 国际台,#genre#
 
 CGTN,https://cntv.sbs/tv?auth=2310201855&id=cgtn
