@@ -78,7 +78,7 @@
 
 
 {
-      "key": "路人甲自建高清",//星光的
+      "key": "路人甲自建高清",//星光自建高清
       "name": "🏆4k-vip4",
       "type": 3,
       "api": "csp_XBPQ",
@@ -92,7 +92,7 @@
 
 
  {
-      "key": "0508甲",//蓝鹰
+      "key": "0508甲",//蓝鹰自营
       "name": "🏆4k-vip5",      
       "type": 3,     
       "api": "./js/qq4k.js",
@@ -1699,8 +1699,17 @@
                                       
 {"name":"📦天招vip4K","type": 1,"url":"https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//星光4K
 
-//{"name":"📦天招vip","type": 1,"url":"http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//无广告1线
+{"name": "📦天招4k会员2","type": 1,"url": "http://qq4k.jingyang.design/api/?key=AydpYbSBnYJBG7Y4AJ&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//飞鹰亿视4k解析
 
+
+{"name": "📦天招4k会员3","type": 1,"url": "http://122.228.85.203:6789/api/?key=ef85144acb75a2bf9a651df1d4587107&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷dhr4K解析
+
+
+
+{"name": "📦天招4k会员4","type": 1,"url": "http://ysyjx.jingyang.design/api/?key=51pOIIsS9cPMQriY23&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级解析
+
+
+{"name": "📦天招4k会员5","type": 1,"url": "http://ysyjx.jingyang.design/api/?key=pWdBTj5Oj0RlNOa1mV&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//飞鹰亿视云解析
 
                                      
 //{"name": "🌎天招会员","type": 1,"url": "http://json.84jia.xyz/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
