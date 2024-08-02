@@ -45,22 +45,24 @@
 
 
 
-   {
-      "key": "星光官采HDR-MG",//
-      "name": "🕵官采HDR-MG",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xmy.jingyang.design:1103/api.php/app/",
-      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
+
+
+
+
+{
+      "key": "星光",
+      "name": "🏆nbr",
+      "type": 3,      
+      "api": "./js/qq4k.js",
+      "ext": {
+        //"host": "http://122.228.84.103:5825/api.php/app/",
+        "host": "http://xmy.jingyang.design:1103/api.php/app/",
+        "*": [            
+          //"http://122.228.84.103:5829/txqe/?url="
+          "http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=" //影酷自建高清 关注公众号路人防失   
+        ]
+      }
     },
-
-
-
-
 
 
 
