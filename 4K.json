@@ -803,7 +803,9 @@
       "key": "csp_味精自营",
       "name": "🥈2k-VIP12",
       "type": 1,
-      "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+      //"api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+
+      "api":"http://xmy.jingyang.design:1103/api.php/app/",
       "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
       "filterable": 1
     },
