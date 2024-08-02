@@ -45,6 +45,27 @@
 
 
 
+   {
+      "key": "星光官采HDR-MG",//
+      "name": "🕵官采HDR-MG",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://mg.jingyang.design:1106/api.php/app/"
+    },
+
+
+
+
+
+
+
+
+
+
 
 
    {
