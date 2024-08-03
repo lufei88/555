@@ -1,24 +1,7 @@
 央视频道,#genre#
 
-CCTV-1,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-2,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv4hd265/57/20191230/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-4欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-4美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-5,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/57/20191230/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-6,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv6hd265/55/20200407/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-8,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-10,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv10hd265/55/20200407/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd265/55/20200407/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-13,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv13/57/20220913/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-14,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv14hd265/55/20200407/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-CCTV-17,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+
+
 
 
 CCTV-1,http://tvbox6.icu/tv/migu.php?id=cctv1
@@ -383,9 +366,8 @@ CETV-4高清,http://116.23.96.132:50000/udp/239.253.43.114:5146
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-无线新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
-HOY TV,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
-HOY 资讯台,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,http://php.jdshipin.com:8880/xsj.php?id=tvb-news
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 
@@ -1334,29 +1316,6 @@ FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080
 
 
 广东地方台,#genre#
-
-
-广东体育,http://222.83.135.190:8181/tsfile/live/1010_1.m3u8
-广东公共dx,http://222.83.135.190:8181/tsfile/live/1007_1.m3u8
-广东少儿dx,http://222.83.135.190:8181/tsfile/live/1009_1.m3u8
-广东影视dx,http://222.83.135.190:8181/tsfile/live/1008_1.m3u8
-广东新闻dx,http://222.83.135.190:8181/tsfile/live/1004_1.m3u8
-广东科教电信,http://222.83.135.190:8181/tsfile/live/1003_1.m3u8
-
-
-广东体育,http://180.137.22.122:8181/tsfile/live/1010_1.m3u8
-广东公共dx,http://180.137.22.122:8181/tsfile/live/1007_1.m3u8
-广东少儿dx,http://180.137.22.122:8181/tsfile/live/1009_1.m3u8
-广东影视dx,http://180.137.22.122:8181/tsfile/live/1008_1.m3u8
-广东新闻dx,http://180.137.22.122:8181/tsfile/live/1004_1.m3u8
-广东科教电信,http://180.137.22.122:8181/tsfile/live/1003_1.m3u8
-
-广东体育,http://171.110.10.10:8181/tsfile/live/1010_1.m3u8
-广东公共dx,http://171.110.10.10:8181/tsfile/live/1007_1.m3u8
-广东少儿dx,http://171.110.10.10:8181/tsfile/live/1009_1.m3u8
-广东影视dx,http://171.110.10.10:8181/tsfile/live/1008_1.m3u8
-广东新闻dx,http://171.110.10.10:8181/tsfile/live/1004_1.m3u8
-广东科教电信,http://171.110.10.10:8181/tsfile/live/1003_1.m3u8
 
 
 广东卫视,http://113.109.250.1:9999/udp/239.77.1.19:5146
