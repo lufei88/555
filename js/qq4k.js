@@ -107,6 +107,7 @@ async function home(filter) {
                         if (type.includes("筛选")) {
                             type = type.replace(/筛选/g, "");
                             if (type === "class") typeN = "类型";
+                            else if (type === "class") typeN = "类型";
                             else if (type === "area") typeN = "地区";
                             else if (type === "lang") typeN = "语言";
                             else if (type === "year") typeN = "年份";
@@ -795,11 +796,11 @@ function getFilterTypes(URL, typeExtend) {
 
 function getCateFilterUrlSuffix(URL) {
     if (URL.includes("api.php/app") || URL.includes("xgapp")) {
-        //return "&class=筛选class&area=筛选area&lang=筛选lang&year=筛选year&limit=18&pg=#PN#";
+        return "&class=筛选class&area=筛选area&lang=筛选lang&year=筛选year&limit=18&pg=#PN#";
     } else if (URL.includes(".vod")) {
-       // return "&class=筛选class&area=筛选area&lang=筛选lang&year=筛选year&by=排序&limit=18&page=#PN#";
+       return "&class=筛选class&area=筛选area&lang=筛选lang&year=筛选year&by=排序&limit=18&page=#PN#";
     } else {
-       //return "&page=#PN#&area=筛选area&type=筛选class&start=筛选year";
+       return "&page=#PN#&area=筛选area&type=筛选class&start=筛选year";
        
     }
 }
