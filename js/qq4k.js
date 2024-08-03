@@ -106,11 +106,10 @@ async function home(filter) {
                         let typeN = type;
                         if (type.includes("筛选")) {
                             type = type.replace(/筛选/g, "");
-                            if (type === "class") typeN = "类型";
-                            //else if (type === "class") typeN = "类型";
-                            //else if (type === "area") typeN = "地区";
-                            //else if (type === "lang") typeN = "语言";
-                            //else if (type === "year") typeN = "年份";
+                            if (type === "class") typeN = "类型";                            
+                            else if (type === "area") typeN = "地区";
+                            else if (type === "lang") typeN = "语言";
+                            else if (type === "year") typeN = "年份";
                         }
                         const jOne = {
                             key: type,
