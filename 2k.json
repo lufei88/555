@@ -56,10 +56,13 @@
       "api": "./js/qq4k.js",
       "ext": {
         //"host": "http://122.228.84.103:5825/api.php/app/",
-        "host": "http://xmy.jingyang.design:1103/api.php/app/",
+        //"host": "http://xmy.jingyang.design:1103/api.php/app/",
+        "host": "http://111.173.115.204:1111/api.php/app/",//酷影独家4k
         "*": [            
           //"http://122.228.84.103:5829/txqe/?url="
-          "http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=" //影酷自建高清 关注公众号路人防失   
+          //"http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=" //影酷自建高清 关注公众号路人防失   
+
+          "ttps://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url="
         ]
       }
     },
