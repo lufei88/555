@@ -800,7 +800,7 @@ function getCateFilterUrlSuffix(URL) {
         return "&class=筛选class&area=筛选area&lang=筛选lang&year=筛选year&by=排序&limit=18&page=#PN#";
     } else {
        // return "&page=#PN#&area=筛选area&type=筛选class&start=筛选year";
-       return "&page=#PN#&class=筛选class&area=筛选area&type=筛选class&start=筛选year";
+       return "&class=筛选class&area=筛选area&lang=筛选lang&year=筛选year&by=排序&limit=18&page=#PN#";
     }
 }
 
