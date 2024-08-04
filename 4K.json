@@ -506,12 +506,19 @@
   "key": "芒果",
   "name": "🥈2k-VIP1",
   "type": 3,
-  "api": "./js2/drpy2.min.js",  
+  //"api": "./js2/drpy2.min.js",  
+  "api": "./lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/mangguo.js"
   },
+
+
+
+
+
+
 
 
 /*{
