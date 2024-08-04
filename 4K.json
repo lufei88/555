@@ -159,7 +159,17 @@
 
 
 
-
+{
+      "key": "蓝鹰蓝光360",//蓝鹰蓝光360
+      "name": "🏆4k-vip9",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:5828/api.php/app/"      
+    },
 
 
 
