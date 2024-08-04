@@ -120,8 +120,8 @@
         "host": "http://tx.jingyang.design:1102/api.php/app/",//蓝鹰腾讯4k        
         "*": [            
          // "https://ldhz.li0580.com//api/jsonindex.php/?key=7jaNh1pTt8L2YmleQw&url="  //星光影集解析
-         "http://122.228.85.203:6789/api/?key=cefafe4e1c7661565ffde8994629b960&url="   //影酷解析
-          //"http://qq4k.jingyang.design/api/?key=AydpYbSBnYJBG7Y4AJ&url="//蓝鹰4k
+         //"http://122.228.85.203:6789/api/?key=d45b8b66af4226ef66daac53fff02759&url="   //影酷解析
+          "http://qq4k.jingyang.design/api/?key=AydpYbSBnYJBG7Y4AJ&url="//蓝鹰4k
         ]
       }
     },
@@ -151,7 +151,7 @@
       "ext": {        
         "host": "http://111.173.115.204:1111/api.php/app/",//酷影独家4k
         "*": [         
-         "http://122.228.85.203:6789/api/?key=cefafe4e1c7661565ffde8994629b960&url="//酷影4k解析
+         "http://122.228.85.203:6789/api/?key=d45b8b66af4226ef66daac53fff02759&url="//酷影4k解析
         ]
       }
     },
@@ -1717,7 +1717,7 @@
 {"name": "📦天招4k会员2","type": 1,"url": "http://qq4k.jingyang.design/api/?key=AydpYbSBnYJBG7Y4AJ&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//飞鹰亿视4k解析
 
 
-{"name": "📦天招4k会员3","type": 1,"url": "http://122.228.85.203:6789/api/?key=cefafe4e1c7661565ffde8994629b960&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷dhr4K解析
+{"name": "📦天招4k会员3","type": 1,"url": "http://122.228.85.203:6789/api/?key=d45b8b66af4226ef66daac53fff02759&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷dhr4K解析
 
 
 
