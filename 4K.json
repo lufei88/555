@@ -152,8 +152,8 @@
         "host": "http://111.173.115.204:1111/api.php/app/",//酷影独家4k
         "*": [         
          
-         //"http://122.228.85.203:6789/api/?key=5e9819371618be265c4123089fd1eac0&url="//酷影4k解析
-         "https://ldhz.li0580.com/api/jsonindex.php/?key=59jM5a6Dnc05RJsH5Q&url="
+         "http://122.228.85.203:6789/api/?key=5e9819371618be265c4123089fd1eac0&url="//酷影4k解析
+         //"https://ldhz.li0580.com/api/jsonindex.php/?key=59jM5a6Dnc05RJsH5Q&url="
         ]
       }
     },
