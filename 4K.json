@@ -151,7 +151,9 @@
       "ext": {        
         "host": "http://111.173.115.204:1111/api.php/app/",//酷影独家4k
         "*": [         
-         "http://122.228.85.203:6789/api/?key=d45b8b66af4226ef66daac53fff02759&url="//酷影4k解析
+         //"http://122.228.85.203:6789/api/?key=d45b8b66af4226ef66daac53fff02759&url="//酷影4k解析
+         //"http://122.228.85.203:6789/api/?key=5e9819371618be265c4123089fd1eac0&url="
+         "http://qq4k.jingyang.design/api/?key=AydpYbSBnYJBG7Y4AJ&url="
         ]
       }
     },
