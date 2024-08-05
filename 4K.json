@@ -152,8 +152,8 @@
         "host": "http://111.173.115.204:1111/api.php/app/",//酷影独家4k
         "*": [         
          
-         "http://122.228.85.203:6789/api/?key=5e9819371618be265c4123089fd1eac0&url="//酷影4k解析
-         
+         //"http://122.228.85.203:6789/api/?key=5e9819371618be265c4123089fd1eac0&url="//酷影4k解析
+         "https://ldhz.li0580.com/api/jsonindex.php/?key=59jM5a6Dnc05RJsH5Q&url="
         ]
       }
     },
@@ -1707,24 +1707,7 @@
  
 
 
-//{"name": "📛天招SVIP","type": 1,"url": "http://27.159.67.238:89/bylbyl.php?url=","ext": {"flag": ["4K"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
-
-//{"name": "📛天招会员","type": 1,"url": "http://27.159.67.238:6688/?url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-//{"name": "📦天招NBY","type": 1,"url": "http://121.62.61.51:6888/api/?key=0xsJcv8gDw9W9viFCW&url=","ext": {"flag": ["NBY"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-
-//{"name": "📦天招会员专属","type": 1,"url": "http://124.220.58.210:991/api/?key=dHM99rsoKp6zswsBzH&url=","ext": {"flag": ["FYNB"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-
-
-
-
-//{"name":"📦天招在线2","type": 1,"url":"http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-
-//{"name":"📦天招vip4K","type": 1,"url":"http://qq4k.jingyang.design/api/?key=jMyWlgJaouTA98vZ91&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 
 
