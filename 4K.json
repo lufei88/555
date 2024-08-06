@@ -18,7 +18,7 @@
 
 
 {"key":"豆瓣",
-"name":"【天招智盒】提示：4k影视服务器及港台快速线今晚维护，请选择2K线路及快速2观看，请每次打开后选择主页长按遥控器确定键更新最新数据！",
+"name":"【天招智盒】提示：4k影视服务器维护，请选择2K线路观看;请每次打开后选择主页长按遥控器确定键更新最新数据！",
 
  "type": 3,
       "api": "./lib/drpy2.min.js",
@@ -63,7 +63,7 @@
 
 
 
-  {
+ /* {
       "key": "腾讯4k",//蓝鹰
       "name": "🏆4k-vip3",
       "type": 3,
@@ -171,7 +171,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://122.228.84.103:5828/api.php/app/"      
-    },
+    },*/
 
 
 
@@ -1714,12 +1714,12 @@
                                       
 //{"name":"📦天招vip4K","type": 1,"url":"https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//旧的星光4K
 
-{"name":"📦天招vip4K","type": 1,"url":"https://ldhz.li0580.com/api/jsonindex.php/?key=59jM5a6Dnc05RJsH5Q&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//星光4K
+//{"name":"📦天招vip4K","type": 1,"url":"https://ldhz.li0580.com/api/jsonindex.php/?key=59jM5a6Dnc05RJsH5Q&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//星光4K
 
-{"name": "📦天招4k会员2","type": 1,"url": "http://qq4k.jingyang.design/api/?key=AydpYbSBnYJBG7Y4AJ&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//飞鹰亿视4k解析
+//{"name": "📦天招4k会员2","type": 1,"url": "http://qq4k.jingyang.design/api/?key=AydpYbSBnYJBG7Y4AJ&url=","ext": {"flag": ["qq"],"header": //{"User-Agent": "okhttp/4.1.0"}}},//飞鹰亿视4k解析
 
 
-{"name": "📦天招4k会员3","type": 1,"url": "http://122.228.85.203:6789/api/?key=d45b8b66af4226ef66daac53fff02759&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷dhr4K解析
+//{"name": "📦天招4k会员3","type": 1,"url": "http://122.228.85.203:6789/api/?key=d45b8b66af4226ef66daac53fff02759&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷dhr4K解析
 
 
 
