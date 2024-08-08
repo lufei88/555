@@ -77,6 +77,38 @@
 
 
 
+{
+      "key": "看看影视2",
+      "name": "🏆看看影视2",
+      "type": 3,      
+      "api": "./js/qq4k.js",
+      "ext": {
+        //"host": "http://122.228.84.103:5825/api.php/app/",
+        "host": "http://121.62.23.11:6699/api.php/localhost/vod/",
+        "*": [            
+          //"http://122.228.84.103:5829/txqe/?url="
+          "http://ysyjx.jingyang.design/api/?key=RDdLeEOeGnNxHppyyy&url=" //影酷自建高清 关注公众号路人防失   
+        ]
+      }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
