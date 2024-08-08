@@ -60,44 +60,26 @@
 
 
 
-   {
-      "key": "看看影视",//蓝鹰蓝光360
-      "name": "🚀看看影视",
-      "playerType": 1,
+
+
+
+
+
+
+
+
+{
+      "key": "看看影院",//影酷锐星4k
+      "name": "🏆看看影院",
       "type": 3,
-      "api": "csp_AppYsV2",
+
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      //"ext": "http://122.228.84.103:5828/api.php/app/"
-      "ext": "http://121.62.23.11:6699/api.php/localhost/vod/"
-      
-      //"playurl": "json:http://xld.li0580.com//uploads/tvbox/config/conceal.json",//星光
+      "ext": "./json/看看影院.json"
     },
-
-
-
-{
-      "key": "看看影视2",
-      "name": "🏆看看影视2",
-      "type": 3,      
-      "api": "./js/qq4k.js",
-      "ext": {
-        //"host": "http://122.228.84.103:5825/api.php/app/",
-        "host": "http://121.62.23.11:6699/api.php/localhost/vod/",
-        "*": [            
-          //"http://122.228.84.103:5829/txqe/?url="
-          "http://ysyjx.jingyang.design/api/?key=RDdLeEOeGnNxHppyyy&url=" //影酷自建高清 关注公众号路人防失   
-        ]
-      }
-    },
-
-
-
-
-
-
-
 
 
 
