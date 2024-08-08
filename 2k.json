@@ -89,7 +89,7 @@
       "key": "看看影院2",
       "name": "🥈看看影院2",
       "type": 1,
-      "api": "http://121.62.23.11:6699/api.php/localhost/vod/",              
+      "api": "http://121.62.23.11:6699/api.php/localhost/",              
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
