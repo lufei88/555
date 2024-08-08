@@ -60,7 +60,20 @@
 
 
 
-
+   {
+      "key": "看看影视",//蓝鹰蓝光360
+      "name": "🚀看看影视",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      //"ext": "http://122.228.84.103:5828/api.php/app/"
+      "ext": "http://121.62.23.11:6699/api.php/localhost/vod/"
+      
+      //"playurl": "json:http://xld.li0580.com//uploads/tvbox/config/conceal.json",//星光
+    },
 
 
 
