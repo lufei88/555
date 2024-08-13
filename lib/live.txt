@@ -1,6 +1,26 @@
 央视频道,#genre#
 
-
+CCTV-1,http://mdxgh.tpddns.cn:88/mdxgh/cctv1
+CCTV-2,http://mdxgh.tpddns.cn:88/mdxgh/cctv2
+CCTV-3,http://mdxgh.tpddns.cn:88/mdxgh/cctv3
+CCTV-4,http://mdxgh.tpddns.cn:88/mdxgh/cctv4
+CCTV-5,http://mdxgh.tpddns.cn:88/mdxgh/cctv5
+CCTV-5+,http://mdxgh.tpddns.cn:88/mdxgh/cctv5p
+CCTV-6,http://mdxgh.tpddns.cn:88/mdxgh/cctv6
+CCTV-7,http://mdxgh.tpddns.cn:88/mdxgh/cctv7
+CCTV-8,http://mdxgh.tpddns.cn:88/mdxgh/cctv8
+CCTV-9,http://mdxgh.tpddns.cn:88/mdxgh/cctv9
+CCTV-10,http://mdxgh.tpddns.cn:88/mdxgh/cctv10
+CCTV-11,http://mdxgh.tpddns.cn:88/mdxgh/cctv11
+CCTV-12,http://mdxgh.tpddns.cn:88/mdxgh/cctv12
+CCTV-13,http://mdxgh.tpddns.cn:88/mdxgh/cctv13
+CCTV-14,http://mdxgh.tpddns.cn:88/mdxgh/cctv14
+CCTV-15,http://mdxgh.tpddns.cn:88/mdxgh/cctv15
+CCTV-16,http://mdxgh.tpddns.cn:88/mdxgh/cctv16
+CCTV-17,http://mdxgh.tpddns.cn:88/mdxgh/cctv17
+CCTV-4K,http://mdxgh.tpddns.cn:88/mdxgh/cctv4k
+CCTV-8K,http://mdxgh.tpddns.cn:88/mdxgh/cctv8k
+CCTV-风云剧场,http://mdxgh.tpddns.cn:88/mdxgh/cctvfyjc
 
 
 CCTV-1,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
@@ -156,8 +176,43 @@ CETV-4高清,http://116.23.96.132:50000/udp/239.253.43.114:5146
 
 卫视频道,#genre#
 
-
-
+北京卫视,http://mdxgh.tpddns.cn:88/mdxgh/beijing
+东方卫视,http://mdxgh.tpddns.cn:88/mdxgh/dongfang
+四川卫视,http://mdxgh.tpddns.cn:88/mdxgh/sichuan
+天津卫视,http://mdxgh.tpddns.cn:88/mdxgh/tianjin
+山东卫视,http://mdxgh.tpddns.cn:88/mdxgh/shandong
+广东卫视,http://mdxgh.tpddns.cn:88/mdxgh/guangdong
+广西卫视,http://mdxgh.tpddns.cn:88/mdxgh/guangxi
+江苏卫视,http://mdxgh.tpddns.cn:88/mdxgh/jiangsu
+浙江卫视,http://mdxgh.tpddns.cn:88/mdxgh/zhejiang
+海南卫视,http://mdxgh.tpddns.cn:88/mdxgh/hainan
+深圳卫视,http://mdxgh.tpddns.cn:88/mdxgh/shenzhen
+湖北卫视,http://mdxgh.tpddns.cn:88/mdxgh/hubei
+湖南卫视,http://mdxgh.tpddns.cn:88/mdxgh/hunan
+西藏卫视,http://mdxgh.tpddns.cn:88/mdxgh/xizang
+贵州卫视,http://mdxgh.tpddns.cn:88/mdxgh/guizhou
+辽宁卫视,http://mdxgh.tpddns.cn:88/mdxgh/liaoning
+重庆卫视,http://mdxgh.tpddns.cn:88/mdxgh/chongqing
+青海卫视,http://mdxgh.tpddns.cn:88/mdxgh/qinghai
+黑龙江卫视,http://mdxgh.tpddns.cn:88/mdxgh/heilongjiang
+安徽卫视,http://mdxgh.tpddns.cn:88/mdxgh/anhui
+陕西卫视,http://mdxgh.tpddns.cn:88/mdxgh/shanxi1
+河南卫视,http://mdxgh.tpddns.cn:88/mdxgh/henan
+兵团卫视,http://mdxgh.tpddns.cn:88/mdxgh/bintuan
+内蒙古卫视,http://mdxgh.tpddns.cn:88/mdxgh/neimenggu
+宁夏卫视,http://mdxgh.tpddns.cn:88/mdxgh/ningxia
+江西卫视,http://mdxgh.tpddns.cn:88/mdxgh/jiangxi
+河北卫视,http://mdxgh.tpddns.cn:88/mdxgh/hebei
+山西卫视,http://mdxgh.tpddns.cn:88/mdxgh/shanxi2
+新疆卫视,http://mdxgh.tpddns.cn:88/mdxgh/xinjiang
+甘肃卫视,http://mdxgh.tpddns.cn:88/mdxgh/gansu
+上海卫视,http://mdxgh.tpddns.cn:88/mdxgh/shanghai
+农林卫视,http://mdxgh.tpddns.cn:88/mdxgh/nonglin
+厦门卫视,http://mdxgh.tpddns.cn:88/mdxgh/xiamen
+三沙卫视,http://mdxgh.tpddns.cn:88/mdxgh/sansha
+东南卫视,http://mdxgh.tpddns.cn:88/mdxgh/dongnan
+云南卫视,http://mdxgh.tpddns.cn:88/mdxgh/yunnan
+吉林卫视,http://mdxgh.tpddns.cn:88/mdxgh/jilin
 
 
 
