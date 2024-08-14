@@ -569,7 +569,7 @@ CGT俄语,http://123.184.28.3:80/hlslive-tx-cdn.ysp.cctv.cn/512/2022574803.m3u8?
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
 TVB财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 
