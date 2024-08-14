@@ -78,7 +78,17 @@
 
 
 
-
+{
+      "key": "影酷4k",//影酷4K 
+      "name": "🏆qq4k",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/影酷4k.json"//影酷4k解析 dr
+    },
 
 
 
