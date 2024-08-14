@@ -65,7 +65,7 @@
 
 {
       "key": "4k原盘",//影酷原盘4K qq4k
-      "name": "🏆qq4k",
+      "name": "🏆原盘4k",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0629.jar",
@@ -80,7 +80,7 @@
 
 {
       "key": "影酷4k",//影酷4K 
-      "name": "🏆qq4k",
+      "name": "🏆影酷4k",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0629.jar",
@@ -95,7 +95,17 @@
 
 
 
-
+{
+      "key":"影酷独家4k",//HDR-超级
+      "name": "🏆独家4k",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/独家4k.json"//影酷HDR-超级
+    },
 
 
 
