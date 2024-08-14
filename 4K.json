@@ -45,7 +45,7 @@
   "name": "🏆4k-vip1",
   "type": 3,
   "api": "./js2/drpy2.min.js",
-  "ext": "./lib/腾讯22.js"//星光4k解析
+  "ext": "./lib/腾讯22.js"//影酷4k解析
   },
 
 
@@ -57,8 +57,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/txqq.js"//星光4k解析
+      "ext": "./lib/txqq.js"//影酷4k解析
     },
+
+
+
+{
+      "key": "4k原盘",//影酷原盘4K qq4k
+      "name": "🏆4k-vip3",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/影酷原4k.json"//影酷4k解析
+    },
+
+
+
+
+
+
+
+
+
+
+
 
 
 
