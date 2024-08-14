@@ -1840,7 +1840,11 @@
 
 
 
-{"name":"📦天招4k会员1","type": 1,"url":"https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//星光解析
+//{"name":"📦天招4k会员1","type": 1,"url":"https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//星光解析
+
+
+{"name":"📦天招4k会员1","type": 1,"url":"http://122.228.85.203:7979/api/?key=4b1104642094bfe0fddbde18456cbf3b&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级
+
 
 
 
