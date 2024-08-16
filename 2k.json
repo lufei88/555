@@ -188,8 +188,8 @@
 
 
   {
-      "key": "影酷极速秒播",
-      "name": "🕵极速秒播",
+      "key": "影酷极速秒播2",
+      "name": "🕵极速秒播2",
       "playerType": 1,
       "type": 3,
       "api": "csp_AppYsV2",
@@ -201,7 +201,17 @@
 
 
 
-
+{
+      "key":"影酷极速秒播2",//HDR-超级
+      "name": "🏆极速4k",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/极速秒播.json"//影酷HDR-超级
+    },
 
 
 
