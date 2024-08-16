@@ -187,6 +187,23 @@
 
 
 
+  {
+      "key": "影酷极速秒播",
+      "name": "🕵极速秒播",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.173.115.204:7777/api.php/app/"
+    },
+
+
+
+
+
+
 
 
 
