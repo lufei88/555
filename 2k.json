@@ -274,6 +274,24 @@
 
 
 
+  {
+      "key": "影酷蓝光aaaa",
+      "name": "🕵蓝光aaaa",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.173.115.204:2211/api.php/app/"
+    },
+
+
+
+
+
+
+
 
 
 
