@@ -58,7 +58,16 @@
     },
 
 
-
+{
+      "key": "超清4k",
+      "name": "🥉超清4k",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com/xijupian/"
+    },
 
 
 
