@@ -75,10 +75,26 @@
     },
 
 
+{
+      "key":"影酷独家4k",//HDR-超级
+      "name": "🏆4k-vip4",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/tz0629.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/独家4k.json"//影酷HDR-超级
+    },
+
+
+
+
+
 
 {
       "key":"影酷极速秒播",//影酷极速秒播
-      "name": "🏆4k-vip4",
+      "name": "🏆4k-vip5",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0629.jar",
@@ -93,7 +109,7 @@
 
 {
       "key":"酷影蓝光4K",//酷影蓝光4K
-      "name": "🏆4k-vip5",
+      "name": "🏆4k-vip6",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"./jar/tz0629.jar",
