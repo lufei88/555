@@ -155,15 +155,15 @@
 
 
    {
-      "key": "影酷极速秒播4444",
-      "name": "🕵影酷极速秒播44",
+      "key": "影酷蓝光4K",
+      "name": "🕵蓝光4k",
       "playerType": 1,
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://111.173.115.204:7777/api.php/app/"
+      "ext": "http://122.228.85.203:1000/api.php/app/"
     },
 
 
