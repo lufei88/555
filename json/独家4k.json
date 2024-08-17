@@ -24,10 +24,10 @@
 
 "分类url":"http://111.173.115.204:1111/api.php/app/video?tid={cateId}&class={class}&area={area}&year={year}&limit=18&pg={catePg};;mr",
 
-"分类": "电影&电视剧&综艺&动漫&短剧&少儿&Netflix&日韩剧&港台剧&海外剧&纪录片",
+"分类": "电影&电视剧&综艺&动漫&动画片&短剧&纪录片",
 //&美剧&韩剧&港剧
 //&20&21&22
-"分类值": "1&2&3&4&23&5&20&21&22&24&25",
+"分类值": "1&2&3&4&5&20&21",
 
 //"二次截取":"list\":\\[&&\\]",
 
@@ -60,7 +60,7 @@
 
 //"解析":"默认$https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url=",//星光4K
 
-"解析":"默认$http://122.228.85.203:7979/api/?key=4b1104642094bfe0fddbde18456cbf3b&url=",//HDR-超级
+"解析":"默认$http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=",//HDR-超级
 
 
 
