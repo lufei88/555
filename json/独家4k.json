@@ -1,6 +1,6 @@
 {
   
-"站名": "影酷4k",
+"站名": "影酷独家4k",
     
 "请求头": "User-Agent$okhttp/4.12.0",
 
@@ -48,8 +48,8 @@
 "线路标题":"题&&\"",
 
 
-"线路数组":"\"code\":\"&&,[替换:qq>>天招4k专线#线路1>>天招超清]",
-"线路标题":"题&&\"[排序:天招4k专线>天招超清]",
+"线路数组":"\"code\":\"&&,[替换:qq>>天招4k专线#线路1>>天招4k专线2]",
+"线路标题":"题&&\"[排序:天招4k专线>天招4k专线2]",
 
 
 
@@ -68,7 +68,7 @@
 
 //"解析":"默认$https://ldhz.li0580.com//api/jsonindex.php/?key=aeiwBUFhXzruM4poio&url=",//星光4K
 
-"解析":"默认$http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=#天招超清$http://122.228.85.203:7979/api/?key=4b1104642094bfe0fddbde18456cbf3b&url=",//HDR-超级
+"解析":"默认$http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=#天招4k专线2$http://122.228.85.203:7979/api/?key=4b1104642094bfe0fddbde18456cbf3b&url=",//HDR-超级
 
 
 
